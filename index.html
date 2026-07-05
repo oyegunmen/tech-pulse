@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tech Pulse</title>
+    <link rel="icon" type="image/png" href="img/favicon.png">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Monitor the Indian Defense and Geopolitical News, Tweets & Youtube Videos from the past 48 hours aggregated in one place.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tech.indipulse.in">
+    <meta property="og:title" content="Tech Pulse">
+    <meta property="og:description" content="Monitor the Science, Technology and Engineering News, Tweets & Youtube Videos of past 48 hours, aggregated in one place.">
+
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Tech Pulse">
+    <meta property="twitter:description" content="Monitor the Science, Technology and Engineering News, Tweets & Youtube Videos of past 48 hours, aggregated in one place.">
+
+    <link rel="stylesheet" href="src/css/oat.min.css">
+    <link rel="stylesheet" href="src/css/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather">
+</head>
+<body data-theme="light">
+
+    <header>
+        <div class="header-container hstack justify-between">
+        <div class="hstack logo">         
+            <img src="img/activity.svg" width="16" height="16">
+            <span>Pulse</span>
+        </div>
+        <div title="Updates Hourly" class="badge outline pulse" data-tooltip-placement="bottom">LAST:<span id="last-run">--:--</span><img id="info-icon" src="img/info.svg" alt="Info" width="12" height="auto">
+        </div>
+        <button id="theme-toggle" class="button outline small hstack gap-2" onclick="toggleTheme()">
+            <img id="theme-icon" src="img/moon.svg" alt="Theme" width="10" height="10">
+            <span id="theme-text">Dark</span>
+        </button>
+        </div>
+    </header>
+<main class="container">
+    
+    <section class="align-center hero">
+        <h1 class="head-title mb-2">India Pulse</h1>
+        <p class="mb-4">Monitor the Science, Technology and Engineering News, Tweets & Youtube Videos of past 48 hours, aggregated in one place.</p>
+        <div class="hstack justify-center">
+            <a href="about.html" class="button">About →</a>
+            <a href="https://github.com/oyegunmen/india-pulse" class="button outline" target="_blank">
+                <span id="theme-text">Github</span>                
+                <img src="img/github.svg" width="14" height="14">
+            </a>
+        </div>
+    </section>
+
+    <section class="vstack">
+        <div class="hstack justify-between">
+            <ot-dropdown>
+                <button popovertarget="filter-menu" class="button outline hstack gap-2">
+                    <span id="theme-text">Filter</span>
+                    <img src="img/funnel.svg" alt="Theme" width="14" height="14">
+                </button>
+                <menu popover id="filter-menu" class="p-4">
+                    <strong id="filter-title">Filter Sources</strong>
+                    <hr>
+                    <div id="site-checklist" class="mt-2 mb-2 vstack"></div>
+                </menu>
+            </ot-dropdown>
+
+            <a href="about.html#sources">Sources List ↗&#xFE0E;</a>
+        </div>
+
+        <div class="justify-between">
+        <ot-tabs>
+            <div role="tabpanel"><div class="row" id="news-section"></div></div>
+            <div role="tabpanel"><div class="row" id="tweets-section"></div></div>
+            <div role="tabpanel"><div class="row" id="youtube-section"></div></div>
+
+            <div role="tablist" class="bottom-nav">
+                <button role="tab" id="btn-news" onclick="showTab('news')">News</button>
+                <button role="tab" id="btn-tweets" onclick="showTab('tweets')">Tweets</button>
+                <button role="tab" id="btn-youtube" onclick="showTab('youtube')">Youtube</button>
+            </div>
+        </ot-tabs>
+        </div>
+    </section>
+    
+    <footer class="align-center">
+        <hr>
+        <p>Made with ❤️ to Monitor the Situation</p>   
+        <div class="hstack justify-center" style="gap: 20px;">
+            <a href="about.html">About</a>
+        </div>
+    </footer>
+</main>
+<script src="src/js/app.js"></script>
+<script src="src/js/oat.min.js"></script>
+</body>
+</html>

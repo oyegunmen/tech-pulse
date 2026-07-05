@@ -1,0 +1,119 @@
+[
+    {
+        "type": "news",
+        "name": "Science Daily",
+        "url": "https://www.sciencedaily.com/rss/top/technology.xml",
+        "site_url":"https://www.sciencedaily.com/",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "news",
+        "name": "Phys",
+        "url": "https://phys.org/rss-feed/",
+        "site_url":"https://phys.org",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "news",
+        "name": "ScitechDaily",
+        "url": "https://scitechdaily.com/feed/",
+        "site_url":"https://scitechdaily.com",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "news",
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/customfeeds/feed/all-topics/rss",
+        "site_url":"https://spectrum.ieee.org",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "news",
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/feed/",
+        "site_url":"https://www.technologyreview.com",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "news",
+        "name": "TechXplore",
+        "url": "https://techxplore.com/rss-feed/",
+        "site_url":"https://techxplore.com",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "news",
+        "name": "Sciencenews",
+        "url": "https://www.sciencenews.org/feed",
+        "site_url":"https://www.sciencenews.org",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "news",
+        "name": "Nature Material",
+        "url": "https://www.nature.com/nmat.rss",
+        "site_url":"https://www.nature.com",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "tweets",
+        "name": "MIT",
+        "url": "https://nitter.net/MIT/rss",
+        "site_url":"https://nitter.net/MIT",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "tweets",
+        "name": "TechXplore",
+        "url": "https://nitter.net/TechXplore_com/rss",
+        "site_url":"https://nitter.net/TechXplore_com",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "youtube",
+        "name": "Vertasium",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "site_url":"https://www.youtube.com/@veritasium",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "youtube",
+        "name": "Real Engineering",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
+        "site_url":"https://www.youtube.com/@RealEngineering",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "youtube",
+        "name": "Fireship",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "site_url":"https://www.youtube.com/@Fireship",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    }
+]

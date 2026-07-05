@@ -503,15 +503,6 @@
       "time": "03 Jul, 11:30 PM",
       "type": "news",
       "description": "Engineers at Queen Mary University of London have built a new color-changing tactile sensor, which allows robots to \"see\" and touch in real-time. The ..."
-    },
-    {
-      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-03T23:04:37+05:30",
-      "time": "03 Jul, 11:04 PM",
-      "type": "news",
-      "description": "It\u2019s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they\u2019ve left the body...."
     }
   ],
   "tweets": [
@@ -578,6 +569,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "10:53 PM IST"
+    "last_updated": "11:20 PM IST"
   }
 }

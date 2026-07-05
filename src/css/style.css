@@ -1,7 +1,7 @@
 :root {
     color-scheme: light dark;
     --font-sans: "Merriweather";
-    --primary-raw: #2274ed;
+    --primary-raw: #15a5f3;
 
     --background: #fff;
     --foreground: #09090b;
@@ -35,7 +35,7 @@
     --card-foreground: light-dark(#09090b, #fafafa);
     --nav-background: light-dark(#ecebeb, #343434);
     --head-background: light-dark(#f8f8f8, #343434);
-    --primary: light-dark(var(--primary-raw);, var(--primary-raw););
+    --primary: light-dark(var(--primary-raw), var(--primary-raw));
     --primary-foreground: light-dark(#fafafa, #18181b);
     --secondary: light-dark(#f4f4f5, #27272a);
     --secondary-foreground: light-dark(#574747, #fafafa);
@@ -71,7 +71,7 @@ body[data-theme="dark"] {
             --card-foreground: #fafafa;
             --nav-background: #343434;
             --head-background: #343434;
-            --primary: var(--primary-raw);;
+            --primary: var(--primary-raw);
             --primary-foreground: #18181b;
             --secondary: #27272a;
             --secondary-foreground: #fafafa;
@@ -98,7 +98,7 @@ body[data-theme="dark"] {
         --card-foreground: #fafafa;
         --nav-background: #343434;
         --head-background: #343434;
-        --primary: var(--primary-raw);;
+        --primary: var(--primary-raw);
         --primary-foreground: #18181b;
         --secondary: #27272a;
         --secondary-foreground: #fafafa;
@@ -124,7 +124,7 @@ body[data-theme="dark"] {
         --card-foreground: #09090b;
         --nav-background: #ecebeb;
         --head-background: #f8f8f8;
-        --primary: var(--primary-raw);;
+        --primary: var(--primary-raw);
         --primary-foreground: #fafafa;
         --secondary: #f4f4f5;
         --secondary-foreground: #574747;

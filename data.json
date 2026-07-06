@@ -1,6 +1,87 @@
 {
   "news": [
     {
+      "title": "Scientists Discover a Spider That Catapults Ants Into Its Web",
+      "link": "https://scitechdaily.com/scientists-discover-a-spider-that-catapults-ants-into-its-web/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-06T08:34:28+05:30",
+      "time": "06 Jul, 08:34 AM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/scientists-discover-a-spider-that-catapults-ants-into-its-web/\" rel=\"nofollow\" title=\"Scientists Discover a Spider T..."
+    },
+    {
+      "title": "This Strange Sea Creature Can Survive Five Years Without Food \u2013 Scientists Finally Know Why",
+      "link": "https://scitechdaily.com/this-strange-sea-creature-can-survive-five-years-without-food-scientists-finally-know-why/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-06T07:49:15+05:30",
+      "time": "06 Jul, 07:49 AM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/this-strange-sea-creature-can-survive-five-years-without-food-scientists-finally-know-why/\" rel=\"nofollow\" title=\"Th..."
+    },
+    {
+      "title": "AI-powered social media can subtly manipulate opinion at scale",
+      "link": "https://techxplore.com/news/2026-07-ai-powered-social-media-subtly.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-06T04:40:04+05:30",
+      "time": "06 Jul, 04:40 AM",
+      "type": "news",
+      "description": "AI tools used to generate, edit or contextualize social media posts can introduce hidden biases that spread through online networks and shape public o..."
+    },
+    {
+      "title": "The world's oceans are the hottest on record for June\u2014and El Ni\u00f1o is set to turn up the heat even more",
+      "link": "https://phys.org/news/2026-07-world-oceans-hottest-june-el.html",
+      "source": "Phys",
+      "sort_key": "2026-07-06T04:30:01+05:30",
+      "time": "06 Jul, 04:30 AM",
+      "type": "news",
+      "description": "The world's oceans are the hottest on record for June, pushing past records set during the 2023\u201324 El Ni\u00f1o years."
+    },
+    {
+      "title": "An island of calm at the violent heart of the galaxy",
+      "link": "https://phys.org/news/2026-06-island-calm-violent-heart-galaxy.html",
+      "source": "Phys",
+      "sort_key": "2026-07-06T03:00:01+05:30",
+      "time": "06 Jul, 03:00 AM",
+      "type": "news",
+      "description": "Where would you go to watch a star being born? Probably not the heart of the Milky Way, which is about the most violent neighborhood our galaxy has to..."
+    },
+    {
+      "title": "Rats show empathy, according to model",
+      "link": "https://phys.org/news/2026-07-rats-empathy.html",
+      "source": "Phys",
+      "sort_key": "2026-07-06T01:30:03+05:30",
+      "time": "06 Jul, 01:30 AM",
+      "type": "news",
+      "description": "A rat first frees a cagemate rat and then shares food with it. Is this animal just as empathetic as humans? In an American study from 2011, researcher..."
+    },
+    {
+      "title": "Spring songbirds may help pollinate UK trees, with pollen on 89% of studied birds",
+      "link": "https://phys.org/news/2026-07-songbirds-pollinate-uk-trees-pollen.html",
+      "source": "Phys",
+      "sort_key": "2026-07-06T01:30:01+05:30",
+      "time": "06 Jul, 01:30 AM",
+      "type": "news",
+      "description": "The warblers\u2014those harbingers of spring in the U.K.\u2014have an unappreciated talent of a different sort. Common U.K. birds, including chiffchaffs and bla..."
+    },
+    {
+      "title": "Deuterium in comets tells interesting tales",
+      "link": "https://phys.org/news/2026-06-deuterium-comets-tales.html",
+      "source": "Phys",
+      "sort_key": "2026-07-06T00:10:01+05:30",
+      "time": "06 Jul, 12:10 AM",
+      "type": "news",
+      "description": "Comets have played an interesting role in the history of astronomy. Since antiquity, many cultures saw them as omens or spirits, portending good or ba..."
+    },
+    {
+      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-07-05T23:43:44+05:30",
+      "time": "05 Jul, 11:43 PM",
+      "type": "news",
+      "description": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity\u2019s most advanced technologies. Now research..."
+    },
+    {
       "title": "European cities short on shade as heat waves hit, urban mapping reveals",
       "link": "https://phys.org/news/2026-06-european-cities-short-urban-reveals.html",
       "source": "Phys",
@@ -352,33 +433,6 @@
       "description": "<a href=\"https://scitechdaily.com/james-webb-uncovers-the-atmosphere-of-a-hellish-lava-world-41-light-years-away/\" rel=\"nofollow\" title=\"James Webb Un..."
     },
     {
-      "title": "Rising seas make once-rare coastal floods 12 times more likely",
-      "link": "https://phys.org/news/2026-06-seas-rare-coastal.html",
-      "source": "Phys",
-      "sort_key": "2026-07-04T20:00:01+05:30",
-      "time": "04 Jul, 08:00 PM",
-      "type": "news",
-      "description": "Extreme floods that once swamped coastal communities only rarely are becoming far more common as climate change caused by humans pushes sea levels hig..."
-    },
-    {
-      "title": "Astronomers may have caught an early galaxy in the process of dying",
-      "link": "https://phys.org/news/2026-06-astronomers-caught-early-galaxy-dying.html",
-      "source": "Phys",
-      "sort_key": "2026-07-04T19:10:01+05:30",
-      "time": "04 Jul, 07:10 PM",
-      "type": "news",
-      "description": "Astronomers have spotted many \"red and dead\" galaxies in the early universe. These are massive systems that stopped forming stars surprisingly early i..."
-    },
-    {
-      "title": "Trained AI outperforms biologists at spotting salmon lice",
-      "link": "https://phys.org/news/2026-07-ai-outperforms-biologists-salmon-lice.html",
-      "source": "Phys",
-      "sort_key": "2026-07-04T18:30:01+05:30",
-      "time": "04 Jul, 06:30 PM",
-      "type": "news",
-      "description": "Researchers have taken over 120,000 images of salmon lice larvae in seawater and used them to train AI models. The models were much faster and more ac..."
-    },
-    {
       "title": "How does superconductivity begin? Unveiling the hidden flow of electrons",
       "link": "https://techxplore.com/news/2026-06-superconductivity-unveiling-hidden-electrons.html",
       "source": "TechXplore",
@@ -386,15 +440,6 @@
       "time": "04 Jul, 05:30 PM",
       "type": "news",
       "description": "Superconductivity, a phenomenon in which electricity flows without resistance, is considered the core of quantum computers and next-generation power t..."
-    },
-    {
-      "title": "A young gull's mottled brown plumage acts as a 'not a threat' signal to territorial adults",
-      "link": "https://phys.org/news/2026-07-young-gull-mottled-brown-plumage.html",
-      "source": "Phys",
-      "sort_key": "2026-07-04T17:30:04+05:30",
-      "time": "04 Jul, 05:30 PM",
-      "type": "news",
-      "description": "Birds are known for their distinctive plumage that helps them attract mates during the breeding season. For some birds, the path to adulthood is quite..."
     },
     {
       "title": "Scientists Warn: Colorectal Cancer Is Rising Fast in Younger Adults, Reversing Decades of Progress",
@@ -424,15 +469,6 @@
       "description": "<a href=\"https://scitechdaily.com/could-we-have-been-wrong-about-fish-oil-and-brain-health-new-study-raises-major-questions/\" rel=\"nofollow\" title=\"Co..."
     },
     {
-      "title": "El Nino set to be 'strong', UN warns",
-      "link": "https://phys.org/news/2026-07-el-nino-strong.html",
-      "source": "Phys",
-      "sort_key": "2026-07-04T15:30:01+05:30",
-      "time": "04 Jul, 03:30 PM",
-      "type": "news",
-      "description": "El Nino is here and will quickly develop into a strong event between July and September, fueling the likelihood of extreme weather, the United Nations..."
-    },
-    {
       "title": "NASA celebrates America's 250th birthday with incredible views of space",
       "link": "https://www.sciencedaily.com/releases/2026/07/260702230859.htm",
       "source": "Science Daily",
@@ -449,63 +485,19 @@
       "time": "04 Jul, 02:02 PM",
       "type": "news",
       "description": "Physicists have developed a new optical centrifuge that can precisely spin molecules inside a superfluid for the first time. The advance could help un..."
-    },
-    {
-      "title": "Scientists Say Intermittent Fasting Could Make Weight Loss Easier",
-      "link": "https://scitechdaily.com/scientists-say-intermittent-fasting-could-make-weight-loss-easier/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-04T08:40:18+05:30",
-      "time": "04 Jul, 08:40 AM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-say-intermittent-fasting-could-make-weight-loss-easier/\" rel=\"nofollow\" title=\"Scientists Say Intermitten..."
-    },
-    {
-      "title": "New research reveals the hidden pollution left behind by fireworks",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-04T08:18:09+05:30",
-      "time": "04 Jul, 08:18 AM",
-      "type": "news",
-      "description": "Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings sh..."
-    },
-    {
-      "title": "An Underground Mystery Had Engineers Stumped Until They Followed the Rain",
-      "link": "https://scitechdaily.com/an-underground-mystery-had-engineers-stumped-until-they-followed-the-rain/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-04T01:20:01+05:30",
-      "time": "04 Jul, 01:20 AM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/an-underground-mystery-had-engineers-stumped-until-they-followed-the-rain/\" rel=\"nofollow\" title=\"An Underground Mys..."
-    },
-    {
-      "title": "Scientists Discover the First-Ever Molecules Preserved Inside a 113-Million-Year-Old Pterosaur Fossil",
-      "link": "https://scitechdaily.com/scientists-discover-the-first-ever-molecules-preserved-inside-a-113-million-year-old-pterosaur-fossil/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-04T00:45:06+05:30",
-      "time": "04 Jul, 12:45 AM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-discover-the-first-ever-molecules-preserved-inside-a-113-million-year-old-pterosaur-fossil/\" rel=\"nofollo..."
-    },
-    {
-      "title": "Mystery Solved: Lost Dutch Gold Ship Identified After Nearly 400 Years",
-      "link": "https://scitechdaily.com/mystery-solved-lost-dutch-gold-ship-identified-after-nearly-400-years/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-04T00:10:22+05:30",
-      "time": "04 Jul, 12:10 AM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/mystery-solved-lost-dutch-gold-ship-identified-after-nearly-400-years/\" rel=\"nofollow\" title=\"Mystery Solved: Lost D..."
-    },
-    {
-      "title": "Robots can now 'see' touch thanks to a new color-changing tactile sensor",
-      "link": "https://techxplore.com/news/2026-07-robots-tactile-sensor.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-03T23:30:01+05:30",
-      "time": "03 Jul, 11:30 PM",
-      "type": "news",
-      "description": "Engineers at Queen Mary University of London have built a new color-changing tactile sensor, which allows robots to \"see\" and touch in real-time. The ..."
     }
   ],
   "tweets": [
+    {
+      "title": "AI writing tools changed the direction of posts even when told to preserve meaning, and simulations suggest those small shifts could accumulate across social networks and shape opinion. @UniofOxford @arxiv https://techxplore.com/news/2026-07-ai-powered-social-media-subtly.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2073958439319994508#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-06T08:03:18+05:30",
+      "time": "06 Jul, 08:03 AM",
+      "type": "tweets",
+      "content": "<p>AI writing tools changed the direction of posts even when told to preserve meaning, and simulations suggest those small shifts could accumulate across social networks and shape opinion. <a href=\"https://nitter.net/UniofOxford\" title=\"University of Oxford\">@UniofOxford</a> <a href=\"https://nitter.net/arxiv\" title=\"arXiv.org\">@arxiv</a> <a href=\"https://techxplore.com/news/2026-07-ai-powered-social-media-subtly.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-ai-powered-social-media-subtly.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2073908103498936320%2FzmGAMgKv%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>AI-powered social media can subtly manipulate opinion at scale</b>\n</a>\n<p>AI tools used to generate, edit or contextualize social media posts can introduce hidden biases that spread through online networks and shape public opinion, according to new research from the Oxford...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-ai-powered-social-media-subtly.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
     {
       "title": "Nearly 400 U.S. underground gas storage sites are now ranked in a new database built to guide expansion, optimize existing facilities, and potentially aid hydrogen and CO2 storage. @utaustin https://techxplore.com/news/2026-07-database-subsurface-energy-storage-boon.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
       "link": "https://nitter.net/TechXplore_com/status/2073581650701603323#m",
@@ -513,7 +505,7 @@
       "sort_key": "2026-07-05T07:06:05+05:30",
       "time": "05 Jul, 07:06 AM",
       "type": "tweets",
-      "content": "<p>Nearly 400 U.S. underground gas storage sites are now ranked in a new database built to guide expansion, optimize existing facilities, and potentially aid hydrogen and CO2 storage. <a href=\"https://nitter.net/UTAustin\" title=\"UT Austin\">@utaustin</a> <a href=\"https://techxplore.com/news/2026-07-database-subsurface-energy-storage-boon.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-database-subsurface-energy-storage-boon.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2072762826054307842%2FaYlgI-1r%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>New database for subsurface energy storage could be boon for natural gas industry</b>\n</a>\n<p>Researchers at the University of Texas at Austin have produced a new analysis of underground natural gas storage sites around the country. The analysis can help guide future expansion of natural gas...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-database-subsurface-energy-storage-boon.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "content": "<p>Nearly 400 U.S. underground gas storage sites are now ranked in a new database built to guide expansion, optimize existing facilities, and potentially aid hydrogen and CO2 storage. <a href=\"https://nitter.net/UTAustin\" title=\"UT Austin\">@utaustin</a> <a href=\"https://techxplore.com/news/2026-07-database-subsurface-energy-storage-boon.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-database-subsurface-energy-storage-boon.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<b>New database for subsurface energy storage could be boon for natural gas industry</b>\n</a>\n<p>Researchers at the University of Texas at Austin have produced a new analysis of underground natural gas storage sites around the country. The analysis can help guide future expansion of natural gas...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-database-subsurface-energy-storage-boon.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
     },
     {
@@ -545,30 +537,10 @@
       "type": "tweets",
       "content": "<p>Real-time touch maps now appear as color patterns on a soft sensor, letting a standard camera read contact, strain, and pressure without complex reconstruction. <a href=\"https://nitter.net/QMUL\" title=\"Queen Mary University of London\">@QMUL</a> <a href=\"https://nitter.net/ScienceAdvances\" title=\"Science Advances\">@ScienceAdvances</a> <a href=\"https://techxplore.com/news/2026-07-robots-tactile-sensor.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-robots-tactile-sensor.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2073104799089016832%2FHfLcWHaX%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Robots can now &apos;see&apos; touch thanks to a new color-changing tactile sensor</b>\n</a>\n<p>Engineers at Queen Mary University of London have built a new color-changing tactile sensor, which allows robots to &quot;see&quot; and touch in real-time. The novel idea was invented by Giacomo Sasso, a...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-robots-tactile-sensor.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
-    },
-    {
-      "title": "99% pure lithium from water\u2014even with sodium outnumbering it 1,000 to 1\u2014came from tuning how fast ions entered the material, while one key materials challenge still remains. @cellpressnews @NatureComms @NatureMaterials https://techxplore.com/news/2026-07-electrochemical-major-harvesting-vital-battery.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2073210780762112174#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-04T06:32:23+05:30",
-      "time": "04 Jul, 06:32 AM",
-      "type": "tweets",
-      "content": "<p>99% pure lithium from water\u2014even with sodium outnumbering it 1,000 to 1\u2014came from tuning how fast ions entered the material, while one key materials challenge still remains. <a href=\"https://nitter.net/CellPressNews\" title=\"Cell Press\">@cellpressnews</a> <a href=\"https://nitter.net/NatureComms\" title=\"Nature Communications\">@NatureComms</a> <a href=\"https://nitter.net/NatureMaterials\" title=\"Nature Materials\">@NatureMaterials</a> <a href=\"https://techxplore.com/news/2026-07-electrochemical-major-harvesting-vital-battery.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-electrochemical-major-harvesting-vital-battery.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2072629504179310592%2FkiJ4TV8v%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Electrochemical research takes major strides towards harvesting a vital battery material</b>\n</a>\n<p>The supply of lithium\u2014the battery material that keeps digital devices humming, EVs racing and renewable energy on the grid\u2014will not meet even half the expected demand by 2040.</p>\n<small><a href=\"https://techxplore.com/news/2026-07-electrochemical-major-harvesting-vital-battery.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "Four of seven agentic browsers opened paths around the web\u2019s same-origin policy, and one proof-of-concept attack stole data across embedded sites under the right conditions. https://techxplore.com/news/2026-06-agentic-ai-browsers-major-cybersecurity.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2073150538259050705#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-04T02:33:00+05:30",
-      "time": "04 Jul, 02:33 AM",
-      "type": "tweets",
-      "content": "<p>Four of seven agentic browsers opened paths around the web\u2019s same-origin policy, and one proof-of-concept attack stole data across embedded sites under the right conditions. <a href=\"https://techxplore.com/news/2026-06-agentic-ai-browsers-major-cybersecurity.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-06-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-06-agentic-ai-browsers-major-cybersecurity.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2073046270428540929%2F1Lml7GFc%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Some agentic AI browsers may come with major cybersecurity risks</b>\n</a>\n<p>In the last year or so, artificial intelligence companies have rolled out a spate of web browsers equipped with AI agents. A user might ask one of these agents to plan a vacation, and it will open...</p>\n<small><a href=\"https://techxplore.com/news/2026-06-agentic-ai-browsers-major-cybersecurity.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "11:20 PM IST"
+    "last_updated": "09:14 AM IST"
   }
 }

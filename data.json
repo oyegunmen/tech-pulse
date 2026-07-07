@@ -1,6 +1,330 @@
 {
   "news": [
     {
+      "title": "Reinventing pediatric dental training in Singapore",
+      "link": "https://phys.org/news/2026-07-reinventing-pediatric-dental-singapore.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T18:10:02+05:30",
+      "time": "07 Jul, 06:10 PM",
+      "type": "news",
+      "description": "Managing pediatric dental patients can be stressful for dental students and inexperienced practitioners, particularly when communicating with fearful ..."
+    },
+    {
+      "title": "Birds' efficient red blood cells convert metabolic 'waste' into fuel for rapid recovery",
+      "link": "https://phys.org/news/2026-07-birds-efficient-red-blood-cells.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T18:00:01+05:30",
+      "time": "07 Jul, 06:00 PM",
+      "type": "news",
+      "description": "New research finds that birds can use lactate, often thought of as a metabolic waste product, as a cellular fuel that aids in rapid recovery from a ha..."
+    },
+    {
+      "title": "Citizen science could grow beyond data collection under 10 proposed recommendations",
+      "link": "https://phys.org/news/2026-07-citizen-science.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T17:50:03+05:30",
+      "time": "07 Jul, 05:50 PM",
+      "type": "news",
+      "description": "Citizen science is booming and could play a much greater role in tackling climate change, reef health, biodiversity and public health challenges by in..."
+    },
+    {
+      "title": "JWST finds the most distant barred galaxy candidate in the early universe",
+      "link": "https://phys.org/news/2026-07-jwst-distant-barred-galaxy-candidate.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T17:50:01+05:30",
+      "time": "07 Jul, 05:50 PM",
+      "type": "news",
+      "description": "Astronomers using the James Webb Space Telescope have identified what may be the most distant barred spiral galaxy ever discovered, dating to a time l..."
+    },
+    {
+      "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
+      "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-07T17:40:00+05:30",
+      "time": "07 Jul, 05:40 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "Isotopic signatures link hot spring magmatic water to the subducting Pacific Plate",
+      "link": "https://phys.org/news/2026-07-isotopic-signatures-link-hot-magmatic.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T17:39:05+05:30",
+      "time": "07 Jul, 05:39 PM",
+      "type": "news",
+      "description": "Water flowing from hot springs near volcanoes often contains a mixture of meteoric water that has percolated underground and a deeper component known ..."
+    },
+    {
+      "title": "Cheetah chases inspire researchers to make a biologically accurate video game",
+      "link": "https://phys.org/news/2026-07-cheetah-biologically-accurate-video-game.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T17:30:11+05:30",
+      "time": "07 Jul, 05:30 PM",
+      "type": "news",
+      "description": "Movement data from wild predator\u2013prey encounters and controlled human catch-tag games have been combined to create realistic simulations of high-inten..."
+    },
+    {
+      "title": "Researchers break a fundamental rule to create a new concept: Heat that can be directed and 'programmed'",
+      "link": "https://phys.org/news/2026-07-fundamental-concept.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T17:30:03+05:30",
+      "time": "07 Jul, 05:30 PM",
+      "type": "news",
+      "description": "Normally, a material absorbs and emits heat in a linked way: A surface that absorbs heat well at a certain wavelength and direction will also emit hea..."
+    },
+    {
+      "title": "New research finds connection to place predicts hurricane response among US coastal residents",
+      "link": "https://phys.org/news/2026-07-hurricane-response-coastal-residents.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T17:30:01+05:30",
+      "time": "07 Jul, 05:30 PM",
+      "type": "news",
+      "description": "For U.S. coastal residents, storm surge is among the deadliest hurricane hazards, causing catastrophic property damage and loss of life, and scientist..."
+    },
+    {
+      "title": "One Tiny Change May Explain How Viruses Jump From Bats to Humans",
+      "link": "https://scitechdaily.com/one-tiny-change-may-explain-how-viruses-jump-from-bats-to-humans/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-07T17:24:01+05:30",
+      "time": "07 Jul, 05:24 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/one-tiny-change-may-explain-how-viruses-jump-from-bats-to-humans/\" rel=\"nofollow\" title=\"One Tiny Change May Explain..."
+    },
+    {
+      "title": "Bumblebees exposed to up to 7 times as much toxic metal as honeybees",
+      "link": "https://phys.org/news/2026-07-bumblebees-exposed-toxic-metal-honeybees.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T17:10:09+05:30",
+      "time": "07 Jul, 05:10 PM",
+      "type": "news",
+      "description": "Bumblebees collect up to seven times the amount of toxic heavy metals as honeybees even when foraging in the same environment, new research from the U..."
+    },
+    {
+      "title": "'Talkative batteries': Battery cells send temperature data through existing terminals, simplifying battery management",
+      "link": "https://techxplore.com/news/2026-07-talkative-batteries-battery-cells-temperature.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-07T17:10:06+05:30",
+      "time": "07 Jul, 05:10 PM",
+      "type": "news",
+      "description": "A battery that \"talks\" does not use words\u2014it communicates through data. Researchers at Kiel University have demonstrated how sensors inside a battery ..."
+    },
+    {
+      "title": "Massive calving episode in Greenland may foreshadow more rapid ice sheet loss",
+      "link": "https://phys.org/news/2026-07-massive-calving-episode-greenland-foreshadow.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T17:10:03+05:30",
+      "time": "07 Jul, 05:10 PM",
+      "type": "news",
+      "description": "In November 2025, a study led by Adrien Wehrl\u00e9, a researcher in the Department of Geography at the University of Z\u00fcrich, Switzerland, looked at the ma..."
+    },
+    {
+      "title": "New beetle genus named after One Piece's Monkey D. Luffy, encompassing two new species",
+      "link": "https://phys.org/news/2026-07-beetle-genus-piece-monkey-d.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T17:02:48+05:30",
+      "time": "07 Jul, 05:02 PM",
+      "type": "news",
+      "description": "A research team from the Natural History Museum of Denmark has published a compelling new study in insect taxonomy in the open-access journal ZooKeys,..."
+    },
+    {
+      "title": "EleTac: An elephant-inspired soft robotic gripper with a sophisticated sense of touch",
+      "link": "https://techxplore.com/news/2026-07-eletac-elephant-soft-robotic-gripper.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-07T17:01:51+05:30",
+      "time": "07 Jul, 05:01 PM",
+      "type": "news",
+      "description": "Soft grippers, which are built from flexible materials that can bend and deform, are attracting a lot of attention from robotics researchers worldwide..."
+    },
+    {
+      "title": "Why we need to consider city shapes to save energy, water, and the climate",
+      "link": "https://phys.org/news/2026-07-city-energy-climate.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T17:01:34+05:30",
+      "time": "07 Jul, 05:01 PM",
+      "type": "news",
+      "description": "The world's future is in cities. It is estimated that by 2050, 7 out of 10 people will live in urban areas (although a recent CSH study suggests that ..."
+    },
+    {
+      "title": "Chemical control dominates global fight against invasive alien plants",
+      "link": "https://phys.org/news/2026-07-chemical-dominates-global-invasive-alien.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T16:50:03+05:30",
+      "time": "07 Jul, 04:50 PM",
+      "type": "news",
+      "description": "Efforts to manage invasive alien plant species in forests could be held back by a continued reliance on chemical methods, according to a new study. Re..."
+    },
+    {
+      "title": "The Secret to Healthy Aging May Be More Protein and More Exercise",
+      "link": "https://scitechdaily.com/the-secret-to-healthy-aging-may-be-more-protein-and-more-exercise/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-07T16:49:50+05:30",
+      "time": "07 Jul, 04:49 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/the-secret-to-healthy-aging-may-be-more-protein-and-more-exercise/\" rel=\"nofollow\" title=\"The Secret to Healthy Agin..."
+    },
+    {
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-07T16:40:52+05:30",
+      "time": "07 Jul, 04:40 PM",
+      "type": "news",
+      "description": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to..."
+    },
+    {
+      "title": "'Cosmic wallflowers' may hold the key to the origin of globular clusters",
+      "link": "https://phys.org/news/2026-07-cosmic-wallflowers-key-globular-clusters.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T16:40:02+05:30",
+      "time": "07 Jul, 04:40 PM",
+      "type": "news",
+      "description": "Astronomers using computer simulations have investigated whether a class of star clusters nicknamed \"cosmic wallflowers\" could be the long-sought ance..."
+    },
+    {
+      "title": "It's disturbingly easy to trick AI into seeing aliens, say researchers",
+      "link": "https://phys.org/news/2026-07-disturbingly-easy-ai-aliens.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T16:30:03+05:30",
+      "time": "07 Jul, 04:30 PM",
+      "type": "news",
+      "description": "Are we alone in the universe? Consider mysterious \"extraterrestrial\" radio signals. Unexplained gases on other planets. Things mistaken for UFOs."
+    },
+    {
+      "title": "Breakthrough Diabetes Treatment Reprograms the Immune System Instead of Replacing Insulin",
+      "link": "https://scitechdaily.com/breakthrough-diabetes-treatment-reprograms-the-immune-system-instead-of-replacing-insulin/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-07T16:14:45+05:30",
+      "time": "07 Jul, 04:14 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/breakthrough-diabetes-treatment-reprograms-the-immune-system-instead-of-replacing-insulin/\" rel=\"nofollow\" title=\"Br..."
+    },
+    {
+      "title": "EV-SELEX speeds GPCR drug discovery by capturing receptor-bound DNA aptamers",
+      "link": "https://phys.org/news/2026-07-ev-selex-gpcr-drug-discovery.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T15:30:04+05:30",
+      "time": "07 Jul, 03:30 PM",
+      "type": "news",
+      "description": "G protein-coupled receptors (GPCRs) are the most abundantly expressed proteins in the human body, regulating diverse physiological processes ranging f..."
+    },
+    {
+      "title": "Bulk ferromagnetic quasicrystals emerge without rapid quenching, unlocking stable magnetic studies",
+      "link": "https://phys.org/news/2026-07-bulk-ferromagnetic-quasicrystals-emerge-rapid.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T15:30:01+05:30",
+      "time": "07 Jul, 03:30 PM",
+      "type": "news",
+      "description": "Ferromagnetism has long been studied in a wide range of periodic crystals and amorphous materials. In quasicrystals (QCs), which possess long-range qu..."
+    },
+    {
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-07T15:30:00+05:30",
+      "time": "07 Jul, 03:30 PM",
+      "type": "news",
+      "description": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family\u2019s land in Hickman, a tiny..."
+    },
+    {
+      "title": "Scientists just measured the smallest possible contacts for future computer chips",
+      "link": "https://phys.org/news/2026-07-scientists-smallest-contacts-future-chips.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T15:10:02+05:30",
+      "time": "07 Jul, 03:10 PM",
+      "type": "news",
+      "description": "The rise of AI has created an almost insatiable appetite for computing power. Training and running AI systems requires vast numbers of transistors, an..."
+    },
+    {
+      "title": "Bacteria discovered with the ability to jettison cells as a survival mechanism",
+      "link": "https://phys.org/news/2026-07-bacteria-ability-jettison-cells-survival.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T14:30:14+05:30",
+      "time": "07 Jul, 02:30 PM",
+      "type": "news",
+      "description": "Popular science fiction is no stranger to escape-pod scenarios, typically featuring characters who narrowly avoid their demise by jettisoning from a s..."
+    },
+    {
+      "title": "How proximity steals energy from nanoresonators",
+      "link": "https://phys.org/news/2026-07-proximity-energy-nanoresonators.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T14:30:09+05:30",
+      "time": "07 Jul, 02:30 PM",
+      "type": "news",
+      "description": "Nanomechanical resonators are miniature vibrating structures on chips that oscillate at frequencies ranging from a few kilohertz to gigahertz. They ar..."
+    },
+    {
+      "title": "Raptorial insect forelegs evolved repeatedly but never converged on one winning design",
+      "link": "https://phys.org/news/2026-07-raptorial-insect-forelegs-evolved-converged.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T14:30:04+05:30",
+      "time": "07 Jul, 02:30 PM",
+      "type": "news",
+      "description": "The evolutionary paths that created snatching forelimbs in insects multiple times moved in a similar direction but didn't end at a single solution. Ko..."
+    },
+    {
+      "title": "Ancient rocks reveal how water reshaped Earth's interior 3.1 billion years ago",
+      "link": "https://phys.org/news/2026-07-ancient-reveal-reshaped-earth-interior.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T14:30:01+05:30",
+      "time": "07 Jul, 02:30 PM",
+      "type": "news",
+      "description": "Geologists studying some of the planet's oldest volcanic rocks have uncovered new evidence that water was playing a major role in shaping Earth's inte..."
+    },
+    {
+      "title": "Samsung expects 1,800% operating profit leap on AI boom",
+      "link": "https://techxplore.com/news/2026-07-samsung-profit-ai-boom.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-07T14:00:01+05:30",
+      "time": "07 Jul, 02:00 PM",
+      "type": "news",
+      "description": "South Korean technology giant Samsung Electronics forecast Tuesday a massive 19-fold jump in second-quarter operating profit from a year earlier, buoy..."
+    },
+    {
+      "title": "Death toll from China storms rises to 15, hundreds injured",
+      "link": "https://phys.org/news/2026-07-death-toll-china-storms-hundreds.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T13:43:06+05:30",
+      "time": "07 Jul, 01:43 PM",
+      "type": "news",
+      "description": "The death toll from devastating storms in parts of China rose to 15 on Tuesday, with hundreds more injured and tens of thousands evacuated, state medi..."
+    },
+    {
+      "title": "Virtual taekwondo is on the rise as it makes its debut at Asian Games",
+      "link": "https://techxplore.com/news/2026-07-virtual-taekwondo-debut-asian-games.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-07T13:41:32+05:30",
+      "time": "07 Jul, 01:41 PM",
+      "type": "news",
+      "description": "When Vietnamese athlete Nguyen Thanh Hien Linh stepped into her first virtual taekwondo competition in Singapore in 2024, she had little idea what she..."
+    },
+    {
+      "title": "Making scents of cannabis: How cannabis cultivar and preparation methods influence aroma",
+      "link": "https://phys.org/news/2026-07-scents-cannabis-cultivar-methods-aroma.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T13:00:02+05:30",
+      "time": "07 Jul, 01:00 PM",
+      "type": "news",
+      "description": "Ongoing research reveals how the aroma of cannabis is influenced not only by the chosen cultivar, but also by different drying and storage methods. Th..."
+    },
+    {
+      "title": "AI just supercharged the race to find room temperature superconductors",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-07-07T11:09:51+05:30",
+      "time": "07 Jul, 11:09 AM",
+      "type": "news",
+      "description": "Scientists have combined machine learning with quantum physics to discover two new superconductors and create a much faster way to search for many mor..."
+    },
+    {
+      "title": "New biobased polymers exhibit excellent tensile properties beyond polyolefins",
+      "link": "https://phys.org/news/2026-07-biobased-polymers-excellent-tensile-properties.html",
+      "source": "Phys",
+      "sort_key": "2026-07-07T09:30:02+05:30",
+      "time": "07 Jul, 09:30 AM",
+      "type": "news",
+      "description": "The research group of Professor Kotohiro Nomura, Tokyo Metropolitan University, in cooperation with the research groups of Senior Researcher Hiroshi H..."
+    },
+    {
       "title": "Newly discovered mineral named for researcher Tyler Spano",
       "link": "https://phys.org/news/2026-07-newly-mineral-tyler-spano.html",
       "source": "Phys",
@@ -55,60 +379,6 @@
       "description": "Fears the Iran conflict would trigger a surge in power prices have been unfounded. Why? One factor is the very rapid rollout of home and grid-scale ba..."
     },
     {
-      "title": "AI system translates protein sequences into text, helping reveal functions of unknown proteins",
-      "link": "https://phys.org/news/2026-07-ai-protein-sequences-text-reveal.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T06:50:03+05:30",
-      "time": "07 Jul, 06:50 AM",
-      "type": "news",
-      "description": "In a paper published in Proceedings of the National Academy of Sciences, researchers from Technion and Tel Aviv University present BetaDescribe, an AI..."
-    },
-    {
-      "title": "Newly identified marine bacterial enzyme opens new route to building bioactive compound libraries",
-      "link": "https://phys.org/news/2026-07-newly-marine-bacterial-enzyme-route.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T06:50:02+05:30",
-      "time": "07 Jul, 06:50 AM",
-      "type": "news",
-      "description": "Many important medicines and agricultural compounds have origins in natural products made by microorganisms. One such compound is prodigiosin, a vivid..."
-    },
-    {
-      "title": "Soil thickness controls landslide occurrence, study finds",
-      "link": "https://phys.org/news/2026-07-soil-thickness-landslide-occurrence.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T06:30:03+05:30",
-      "time": "07 Jul, 06:30 AM",
-      "type": "news",
-      "description": "Researchers at University of Tsukuba analyzed high-resolution topographic data from airborne LiDAR to examine the relationships among landslide area, ..."
-    },
-    {
-      "title": "Why customers stick with troubled brands: Emotional attachment may override perceived risk",
-      "link": "https://phys.org/news/2026-07-customers-brands-emotional-override.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T06:30:01+05:30",
-      "time": "07 Jul, 06:30 AM",
-      "type": "news",
-      "description": "Strong emotional attachment to a brand may help explain why some consumers remain loyal even in the wake of negative publicity, according to research ..."
-    },
-    {
-      "title": "Wasted pumpkin peel can keep your food fresh",
-      "link": "https://phys.org/news/2026-07-pumpkin-food-fresh.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T06:10:01+05:30",
-      "time": "07 Jul, 06:10 AM",
-      "type": "news",
-      "description": "Researchers at Kyushu University have developed a new food preservation solution. Using pumpkin peel as a raw material, they synthesized a nanomateria..."
-    },
-    {
-      "title": "Quantum computing: Laser-optical system offers full control over 2,000 trapped Rydberg atoms",
-      "link": "https://phys.org/news/2026-07-quantum-laser-optical-full-rydberg.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T05:50:02+05:30",
-      "time": "07 Jul, 05:50 AM",
-      "type": "news",
-      "description": "Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute ..."
-    },
-    {
       "title": "Electric propulsion is not always the answer for small vessels, according to researcher",
       "link": "https://techxplore.com/news/2026-07-electric-propulsion-small-vessels.html",
       "source": "TechXplore",
@@ -116,60 +386,6 @@
       "time": "07 Jul, 05:30 AM",
       "type": "news",
       "description": "As shipping faces growing pressure to cut greenhouse gas emissions, new doctoral research from Tallinn University of Technology shows that the cleanes..."
-    },
-    {
-      "title": "Cultural power distance limits classroom voices across three communication pathways, review finds",
-      "link": "https://phys.org/news/2026-07-cultural-power-distance-limits-classroom.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T05:30:02+05:30",
-      "time": "07 Jul, 05:30 AM",
-      "type": "news",
-      "description": "A systematic review of research on intercultural communication in higher education finds that cultural \"power distance,\" which is the extent to which ..."
-    },
-    {
-      "title": "How to create the blackest black ever known: From nature to nanotechnology",
-      "link": "https://phys.org/news/2026-07-blackest-black-nature-nanotechnology.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T05:10:02+05:30",
-      "time": "07 Jul, 05:10 AM",
-      "type": "news",
-      "description": "Achieving the blackest of blacks has been one of humanity's enduring challenges. It is a frontier that unites modern nanotechnologists with nature's a..."
-    },
-    {
-      "title": "Stored water can develop slimy bacterial films: Nanotechnology may be a solution",
-      "link": "https://phys.org/news/2026-07-slimy-bacterial-nanotechnology-solution.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T04:50:01+05:30",
-      "time": "07 Jul, 04:50 AM",
-      "type": "news",
-      "description": "When drinking water is stored in containers, a thin layer of microorganisms can grow at the interface of the container and water. This thin layer is c..."
-    },
-    {
-      "title": "Raft of targeted conservation efforts may help boost leopard numbers in sub-Saharan Africa, study suggests",
-      "link": "https://phys.org/news/2026-07-raft-efforts-boost-leopard-saharan.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T04:30:07+05:30",
-      "time": "07 Jul, 04:30 AM",
-      "type": "news",
-      "description": "There could be fewer leopards living across sub-Saharan Africa than previously believed, according to a new study that has analyzed suitable habitat a..."
-    },
-    {
-      "title": "Hummingbirds speed up pineapple family's evolution",
-      "link": "https://phys.org/news/2026-07-hummingbirds-pineapple-family-evolution.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T04:30:03+05:30",
-      "time": "07 Jul, 04:30 AM",
-      "type": "news",
-      "description": "Hummingbirds make bromeliad plants split into new species twice as fast as other pollinators do, scientists at the University of Reading have found. T..."
-    },
-    {
-      "title": "Heat waves: Expert tips on redesigning UK homes to cope with hotter temperatures",
-      "link": "https://phys.org/news/2026-07-expert-redesigning-uk-homes-cope.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T04:10:03+05:30",
-      "time": "07 Jul, 04:10 AM",
-      "type": "news",
-      "description": "As the UK prepares for the third heat wave of 2026, most people will be hoping to keep cool at home. Building regulations to protect homes from overhe..."
     },
     {
       "title": "New VR game tracks player emotions in hopes of fostering empathy for marginalized communities",
@@ -181,42 +397,6 @@
       "description": "You're in a dance club bathed in a neon-purple glow, surrounded by ghostly silhouettes that sway to the music. A stranger at the bar greets you with a..."
     },
     {
-      "title": "Climate change means an earlier spring, which can be disorienting and threatening for migrating birds",
-      "link": "https://phys.org/news/2026-07-climate-earlier-disorienting-threatening-migrating.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T03:50:01+05:30",
-      "time": "07 Jul, 03:50 AM",
-      "type": "news",
-      "description": "Spring migration has taken flight, but with rising temperatures and shifting seasons, birds are adjusting when and how they migrate to keep up with a ..."
-    },
-    {
-      "title": "'Outed' by the algorithm\u2014how social media is revealing queer identity ahead of self-disclosure",
-      "link": "https://phys.org/news/2026-07-outed-algorithm-social-media-revealing.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T03:30:03+05:30",
-      "time": "07 Jul, 03:30 AM",
-      "type": "news",
-      "description": "Social media algorithms are increasingly revealing users' sexual orientation or gender identity before they have consciously come out to themselves or..."
-    },
-    {
-      "title": "Africa's wildlife laws follow a colonial model that separates people and animals: Why it's not working",
-      "link": "https://phys.org/news/2026-07-africa-wildlife-laws-colonial-people.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T03:10:06+05:30",
-      "time": "07 Jul, 03:10 AM",
-      "type": "news",
-      "description": "Africa is home to many iconic national parks and marine reserves, such as Virunga in the Democratic Republic of the Congo, Niokolo-Koba in Senegal, Kr..."
-    },
-    {
-      "title": "Storms impact the architecture of webs and the survival of spiders",
-      "link": "https://phys.org/news/2026-07-storms-impact-architecture-webs-survival.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T03:10:01+05:30",
-      "time": "07 Jul, 03:10 AM",
-      "type": "news",
-      "description": "In the dense forests of the Ecuadorian Andes, the survival of a spider relies not only on its ability to prey on insects but also on its capacity to r..."
-    },
-    {
       "title": "Scientists Unravel a Century-Old Mystery About Hybrid Male Sterility",
       "link": "https://scitechdaily.com/scientists-unravel-a-century-old-mystery-about-hybrid-male-sterility/",
       "source": "ScitechDaily",
@@ -226,69 +406,6 @@
       "description": "<a href=\"https://scitechdaily.com/scientists-unravel-a-century-old-mystery-about-hybrid-male-sterility/\" rel=\"nofollow\" title=\"Scientists Unravel a Ce..."
     },
     {
-      "title": "Sea stars offer rare view of how embryonic tubes become complex organs",
-      "link": "https://phys.org/news/2026-07-sea-stars-rare-view-embryonic.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T02:50:08+05:30",
-      "time": "07 Jul, 02:50 AM",
-      "type": "news",
-      "description": "Biologists have long puzzled over how organs develop into their final shapes, and the nearly transparent bodies of young sea stars may offer a unique ..."
-    },
-    {
-      "title": "Bringing rice back to Hawai\u02bbi: Japanese cultivars yield high-quality grains in just three months",
-      "link": "https://phys.org/news/2026-07-rice-hawaii-japanese-cultivars-yield.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T02:50:04+05:30",
-      "time": "07 Jul, 02:50 AM",
-      "type": "news",
-      "description": "In a major step toward enhancing food security and exploring the potential to bring rice farming back to Hawai\u02bbi, an international research team has s..."
-    },
-    {
-      "title": "Modeling reveals Sydney's 1789 smallpox outbreak killed as many as 220,000 indigenous Australians",
-      "link": "https://phys.org/news/2026-07-reveals-sydney-smallpox-outbreak-indigenous.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T02:30:13+05:30",
-      "time": "07 Jul, 02:30 AM",
-      "type": "news",
-      "description": "Groundbreaking modeling has revealed that as many as 220,000 Indigenous Australians died in a devastating 1789 smallpox outbreak that originated in Sy..."
-    },
-    {
-      "title": "A new net-membrane could clean up some tricky space debris",
-      "link": "https://phys.org/news/2026-07-net-membrane-tricky-space-debris.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T02:30:11+05:30",
-      "time": "07 Jul, 02:30 AM",
-      "type": "news",
-      "description": "We've reported on all kinds of wacky ideas for capturing and deorbiting space debris safely. From electric tethers to lasers, engineers and scientists..."
-    },
-    {
-      "title": "Atomic 'domino effect' found to drive phase changes in a two-dimensional crystal",
-      "link": "https://phys.org/news/2026-07-atomic-domino-effect-phase-dimensional.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T02:30:08+05:30",
-      "time": "07 Jul, 02:30 AM",
-      "type": "news",
-      "description": "Phase transformations\u2014in which a material changes from one crystal structure to another, thereby acquiring dramatically different properties\u2014are ubiqu..."
-    },
-    {
-      "title": "Engineers discover 'unexpected motion' in drug-delivery robots",
-      "link": "https://phys.org/news/2026-07-unexpected-motion-drug-delivery-robots.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T02:10:05+05:30",
-      "time": "07 Jul, 02:10 AM",
-      "type": "news",
-      "description": "One day, tiny swimming robots may travel through the human body to deliver drugs. The medication would target only areas of need\u2014chemotherapy drugs fo..."
-    },
-    {
-      "title": "What's the best way to support perfectionistic students? Teachers don't always agree",
-      "link": "https://phys.org/news/2026-07-perfectionistic-students-teachers-dont.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T02:10:01+05:30",
-      "time": "07 Jul, 02:10 AM",
-      "type": "news",
-      "description": "Imagine a student spending hours meticulously erasing and rewriting a paragraph that is already excellent."
-    },
-    {
       "title": "These 567-Million-Year-Old Fossils Are Rewriting the Story of Life on Earth",
       "link": "https://scitechdaily.com/these-567-million-year-old-fossils-are-rewriting-the-story-of-life-on-earth/",
       "source": "ScitechDaily",
@@ -296,24 +413,6 @@
       "time": "07 Jul, 02:07 AM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/these-567-million-year-old-fossils-are-rewriting-the-story-of-life-on-earth/\" rel=\"nofollow\" title=\"These 567-Millio..."
-    },
-    {
-      "title": "South Australian algal bloom species the world's most toxic harmful microalga yet recorded",
-      "link": "https://phys.org/news/2026-07-south-australian-algal-bloom-species.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T01:50:05+05:30",
-      "time": "07 Jul, 01:50 AM",
-      "type": "news",
-      "description": "The marine microalgae responsible for the most devastating effects of the South Australian harmful algal bloom (HAB) has now been shown to be the most..."
-    },
-    {
-      "title": "Fighting the world's deadliest infection with PAC-MAN and AI",
-      "link": "https://phys.org/news/2026-07-world-deadliest-infection-pac-ai.html",
-      "source": "Phys",
-      "sort_key": "2026-07-07T01:50:04+05:30",
-      "time": "07 Jul, 01:50 AM",
-      "type": "news",
-      "description": "Tuberculosis, caused by the bacterium Mycobacterium tuberculosis (Mtb), is the world's deadliest single-agent infection, responsible for 1.23 million ..."
     },
     {
       "title": "Oxide-based chip element merges processing and memory, advancing neuromorphic computing",
@@ -665,69 +764,6 @@
       "time": "05 Jul, 06:30 PM",
       "type": "news",
       "description": "A research team led by Jihee Yoon of the Advanced Materials Research Division (Korea Institute of Materials Science; KIMS), in collaboration with a te..."
-    },
-    {
-      "title": "Scientists Reveal the Best Exercises for Aging Joints",
-      "link": "https://scitechdaily.com/scientists-reveal-the-best-exercises-for-aging-joints/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-05T17:11:36+05:30",
-      "time": "05 Jul, 05:11 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-reveal-the-best-exercises-for-aging-joints/\" rel=\"nofollow\" title=\"Scientists Reveal the Best Exercises f..."
-    },
-    {
-      "title": "Stanford Scientists Reverse Age-Related Memory Loss by Targeting the Gut",
-      "link": "https://scitechdaily.com/stanford-scientists-reverse-age-related-memory-loss-by-targeting-the-gut/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-05T16:26:16+05:30",
-      "time": "05 Jul, 04:26 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/stanford-scientists-reverse-age-related-memory-loss-by-targeting-the-gut/\" rel=\"nofollow\" title=\"Stanford Scientists..."
-    },
-    {
-      "title": "NASA\u2019s Hubble Reveals a Star-Spangled Stellar Masterpiece of 500,000 Ancient Stars",
-      "link": "https://scitechdaily.com/nasas-hubble-reveals-a-star-spangled-stellar-masterpiece-of-500000-ancient-stars/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-05T11:48:08+05:30",
-      "time": "05 Jul, 11:48 AM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/nasas-hubble-reveals-a-star-spangled-stellar-masterpiece-of-500000-ancient-stars/\" rel=\"nofollow\" title=\"NASA\u2019s Hubb..."
-    },
-    {
-      "title": "NASA\u2019s Hubble Captures a Stunning Red, White, and Blue Stellar Nursery",
-      "link": "https://scitechdaily.com/nasas-hubble-captures-a-stunning-red-white-and-blue-stellar-nursery/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-05T11:37:31+05:30",
-      "time": "05 Jul, 11:37 AM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/nasas-hubble-captures-a-stunning-red-white-and-blue-stellar-nursery/\" rel=\"nofollow\" title=\"NASA\u2019s Hubble Captures a..."
-    },
-    {
-      "title": "NASA Celebrates July 4th With a Stunning Hubble Cosmic Sparkler From the Dawn of Time",
-      "link": "https://scitechdaily.com/nasa-celebrates-july-4th-with-a-stunning-hubble-cosmic-sparkler-from-the-dawn-of-time/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-05T09:48:45+05:30",
-      "time": "05 Jul, 09:48 AM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/nasa-celebrates-july-4th-with-a-stunning-hubble-cosmic-sparkler-from-the-dawn-of-time/\" rel=\"nofollow\" title=\"NASA C..."
-    },
-    {
-      "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-05T09:40:58+05:30",
-      "time": "05 Jul, 09:40 AM",
-      "type": "news",
-      "description": "NASA's Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way's oldest star clusters to celebrate the nat..."
-    },
-    {
-      "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-05T09:33:07+05:30",
-      "time": "05 Jul, 09:33 AM",
-      "type": "news",
-      "description": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists d..."
     }
   ],
   "tweets": [
@@ -738,7 +774,7 @@
       "sort_key": "2026-07-07T06:32:35+05:30",
       "time": "07 Jul, 06:32 AM",
       "type": "tweets",
-      "content": "<p>A fully integrated 300-GHz-band 2D transceiver array has been built on a single CMOS chip, with on-chip half-wavelength antennas and 26 mW power use per element. <a href=\"https://nitter.net/sciencetokyo_en\" title=\"Science Tokyo (Institute of Science Tokyo)\">@sciencetokyo_en</a> <a href=\"https://techxplore.com/news/2026-07-compact-chip-based-transceiver-ultra.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-compact-chip-based-transceiver-ultra.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2074297999748952065%2FAMdb0825%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Compact chip-based transceiver developed with ultra-low power consumption</b>\n</a>\n<p>Modern wireless communication systems prefer higher frequencies to meet the growing demand for faster data transfer. The 300-GHz band, which lies near the lower end of the terahertz range, is a...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-compact-chip-based-transceiver-ultra.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "content": "<p>A fully integrated 300-GHz-band 2D transceiver array has been built on a single CMOS chip, with on-chip half-wavelength antennas and 26 mW power use per element. <a href=\"https://nitter.net/sciencetokyo_en\" title=\"Science Tokyo (Institute of Science Tokyo)\">@sciencetokyo_en</a> <a href=\"https://techxplore.com/news/2026-07-compact-chip-based-transceiver-ultra.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-compact-chip-based-transceiver-ultra.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2074435904400482304%2Fl-xdfBcv%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Compact chip-based transceiver developed with ultra-low power consumption</b>\n</a>\n<p>Modern wireless communication systems prefer higher frequencies to meet the growing demand for faster data transfer. The 300-GHz band, which lies near the lower end of the terahertz range, is a...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-compact-chip-based-transceiver-ultra.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
     },
     {
@@ -784,6 +820,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

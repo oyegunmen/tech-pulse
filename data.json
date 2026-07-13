@@ -1,6 +1,312 @@
 {
   "news": [
     {
+      "title": "Netflix's 'Heartstopper' sparked global book-buying boom, study finds",
+      "link": "https://phys.org/news/2026-07-netflix-heartstopper-global-buying-boom.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T18:10:09+05:30",
+      "time": "13 Jul, 06:10 PM",
+      "type": "news",
+      "description": "A Netflix adaptation helped transform \"Heartstopper\" from a popular graphic novel into a global mainstream publishing success, according to new resear..."
+    },
+    {
+      "title": "Thread-like electronics point to less obtrusive wearable health monitors",
+      "link": "https://techxplore.com/news/2026-07-thread-based-electronics-conform-body.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-13T18:10:07+05:30",
+      "time": "13 Jul, 06:10 PM",
+      "type": "news",
+      "description": "Imagine using a wearable device so thin and discreet that you'd hardly be aware you were wearing it. Now Tufts engineers have created flexible electro..."
+    },
+    {
+      "title": "Study links sea level to Earth's carbon thermostat",
+      "link": "https://phys.org/news/2026-07-links-sea-earth-carbon-thermostat.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T18:10:06+05:30",
+      "time": "13 Jul, 06:10 PM",
+      "type": "news",
+      "description": "Earth has a natural thermostat that has kept the planet habitable for more than 100 million years. Scientists have struggled to fully explain how it w..."
+    },
+    {
+      "title": "Hidden fifth dimension could tune dark matter resonance, new theory proposes",
+      "link": "https://phys.org/news/2026-07-hidden-dimension-tune-dark-resonance.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T18:00:02+05:30",
+      "time": "13 Jul, 06:00 PM",
+      "type": "news",
+      "description": "The mysterious substance that binds galaxies together could naturally be \"in tune\" with a hidden fifth dimension, according to a new University of She..."
+    },
+    {
+      "title": "Meet the Milky Way\u2019s puffiest planets",
+      "link": "https://www.sciencenews.org/article/puffiest-planets-milky-way-galaxy",
+      "source": "Sciencenews",
+      "sort_key": "2026-07-13T18:00:00+05:30",
+      "time": "13 Jul, 06:00 PM",
+      "type": "news",
+      "description": "Two \u201csuperpuff\u201d planets orbiting a sunlike star over 1,000 light-years from Earth are as big as Jupiter and as dense as cotton candy."
+    },
+    {
+      "title": "Firefly brightness holds a cautionary tale about accepting older measurements",
+      "link": "https://phys.org/news/2026-07-firefly-brightness-cautionary-tale-older.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T17:50:09+05:30",
+      "time": "13 Jul, 05:50 PM",
+      "type": "news",
+      "description": "For over a century, the accepted value for a firefly's brightness has mostly stood, tracing its origins to experiments carried out in 1912. Through ri..."
+    },
+    {
+      "title": "How the 'creeping normality' of large language models is quietly reshaping the life sciences",
+      "link": "https://phys.org/news/2026-07-large-language-quietly-reshaping-life.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T17:50:07+05:30",
+      "time": "13 Jul, 05:50 PM",
+      "type": "news",
+      "description": "Large language models (LLMs) are gradually transforming research in the life sciences in ways that extend far beyond improving productivity, and they ..."
+    },
+    {
+      "title": "Researchers find clue to solving the 'electrical bottleneck' in semiconductors",
+      "link": "https://techxplore.com/news/2026-07-clue-electrical-bottleneck-semiconductors.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-13T17:50:05+05:30",
+      "time": "13 Jul, 05:50 PM",
+      "type": "news",
+      "description": "When the pathways through which electricity flows inside a semiconductor become blocked, device performance declines and power loss increases. A Korea..."
+    },
+    {
+      "title": "Turning fly ash waste into greener tire rubber",
+      "link": "https://techxplore.com/news/2026-07-fly-ash-greener-rubber.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-13T17:50:03+05:30",
+      "time": "13 Jul, 05:50 PM",
+      "type": "news",
+      "description": "Tires are essential to modern transport, but their production and use raise environmental concerns. One important issue is zinc oxide, a common activa..."
+    },
+    {
+      "title": "The Download: a donor conception cap and world models for AI",
+      "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-13T17:40:00+05:30",
+      "time": "13 Jul, 05:40 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "Research reveals how grassroots football could help tackle climate change",
+      "link": "https://phys.org/news/2026-07-reveals-grassroots-football-tackle-climate.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T17:30:04+05:30",
+      "time": "13 Jul, 05:30 PM",
+      "type": "news",
+      "description": "With international football facing increasing criticism over its carbon footprint, University of Bath students are working with Bath City FC to show h..."
+    },
+    {
+      "title": "Researchers propose light-driven random number generator for image security",
+      "link": "https://techxplore.com/news/2026-07-driven-random-generator-image.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-13T17:30:01+05:30",
+      "time": "13 Jul, 05:30 PM",
+      "type": "news",
+      "description": "While security systems based on pseudo-random number generators (PRNGs) have been developed to secure information use, they produce sequences that are..."
+    },
+    {
+      "title": "Quantum-gravitational mechanism could explain the universe's homogeneity",
+      "link": "https://phys.org/news/2026-07-quantum-gravitational-mechanism-universe-homogeneity.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T17:20:45+05:30",
+      "time": "13 Jul, 05:20 PM",
+      "type": "news",
+      "description": "Our universe is known to be remarkably homogeneous and isotropic. This essentially means that matter is distributed evenly throughout the universe and..."
+    },
+    {
+      "title": "Scientists strike invisible gold in the deep sea\u2014locked inside fool's gold",
+      "link": "https://phys.org/news/2026-07-scientists-invisible-gold-deep-sea.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T17:16:43+05:30",
+      "time": "13 Jul, 05:16 PM",
+      "type": "news",
+      "description": "Pyrite, an iron sulfide ore, is often known as fool's gold because its shiny metallic luster and pale brass-yellow color can easily fool the untrained..."
+    },
+    {
+      "title": "Building out the quantum computing toolkit",
+      "link": "https://techxplore.com/news/2026-07-quantum-toolkit.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-13T17:10:02+05:30",
+      "time": "13 Jul, 05:10 PM",
+      "type": "news",
+      "description": "Quantum computers lack useful functionality without the right algorithms to facilitate their operation. Currently, there are few simple, standardized ..."
+    },
+    {
+      "title": "A 60-Year-Old Mystery About Collagen May Finally Be Solved",
+      "link": "https://scitechdaily.com/a-60-year-old-mystery-about-collagen-may-finally-be-solved/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-13T17:02:45+05:30",
+      "time": "13 Jul, 05:02 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/a-60-year-old-mystery-about-collagen-may-finally-be-solved/\" rel=\"nofollow\" title=\"A 60-Year-Old Mystery About Colla..."
+    },
+    {
+      "title": "New 200Gbps photodetector doubles optical reception capacity for data centers",
+      "link": "https://phys.org/news/2026-07-200gbps-photodetector-optical-reception-capacity.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T16:50:01+05:30",
+      "time": "13 Jul, 04:50 PM",
+      "type": "news",
+      "description": "Korean researchers have developed, for the first time in Korea, a 200Gbps-class photodetector device for use in hyperscale AI data centers and 5G/6G m..."
+    },
+    {
+      "title": "Natural latex foam study offers practical guidance for better cushioning materials",
+      "link": "https://techxplore.com/news/2026-07-natural-latex-foam-guidance-cushioning.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-13T16:40:03+05:30",
+      "time": "13 Jul, 04:40 PM",
+      "type": "news",
+      "description": "Natural latex foam is already used in many familiar products, from mattresses and pillows to furniture, footwear and cushioned seats. But as manufactu..."
+    },
+    {
+      "title": "Computer-guided electricity rapidly transforms flat nanofilms into 3D shapes on demand",
+      "link": "https://phys.org/news/2026-07-electricity-rapidly-flat-nanofilms-3d.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T16:30:01+05:30",
+      "time": "13 Jul, 04:30 PM",
+      "type": "news",
+      "description": "Researchers at Nagoya University in Japan have developed a method to form dome-shaped bumps on nanofilms in water using a computer-guided electron bea..."
+    },
+    {
+      "title": "Researchers Uncover a Promising New Way To Stop Prostate Cancer From Spreading",
+      "link": "https://scitechdaily.com/researchers-uncover-a-promising-new-way-to-stop-prostate-cancer-from-spreading/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-13T16:27:57+05:30",
+      "time": "13 Jul, 04:27 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/researchers-uncover-a-promising-new-way-to-stop-prostate-cancer-from-spreading/\" rel=\"nofollow\" title=\"Researchers U..."
+    },
+    {
+      "title": "A method to create fault-tolerant analog in-memory computing systems",
+      "link": "https://techxplore.com/news/2026-07-method-fault-tolerant-analog-memory.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-13T16:15:56+05:30",
+      "time": "13 Jul, 04:15 PM",
+      "type": "news",
+      "description": "Conventional computers process and store information using separate components, known as a processor and memory unit. Because transferring data from o..."
+    },
+    {
+      "title": "Why Do Statins Hurt Muscles? Scientists May Finally Have an Answer",
+      "link": "https://scitechdaily.com/why-do-statins-hurt-muscles-scientists-may-finally-have-an-answer/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-13T15:52:54+05:30",
+      "time": "13 Jul, 03:52 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/why-do-statins-hurt-muscles-scientists-may-finally-have-an-answer/\" rel=\"nofollow\" title=\"Why Do Statins Hurt Muscle..."
+    },
+    {
+      "title": "Study suggests increased biotoxicity due to anaerobic decolorization of diazo dye by wetland-derived Clostridium",
+      "link": "https://phys.org/news/2026-07-biotoxicity-due-anaerobic-decolorization-diazo.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T15:50:01+05:30",
+      "time": "13 Jul, 03:50 PM",
+      "type": "news",
+      "description": "Untreated synthetic dye effluents severely threaten aquatic ecosystems by blocking sunlight, depleting dissolved oxygen and releasing compounds with p..."
+    },
+    {
+      "title": "Banned chemicals continue to endanger environmental health in the Middle East and North Africa",
+      "link": "https://phys.org/news/2026-07-chemicals-endanger-environmental-health-middle.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T15:26:52+05:30",
+      "time": "13 Jul, 03:26 PM",
+      "type": "news",
+      "description": "In a study recently published in the journal Environmental Research, scientists from the University of Sharjah have drawn renewed attention to contami..."
+    },
+    {
+      "title": "Only 13% of biodiversity promises from 180 influential companies pass accountability test",
+      "link": "https://phys.org/news/2026-07-biodiversity-influential-companies-accountability.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T15:20:30+05:30",
+      "time": "13 Jul, 03:20 PM",
+      "type": "news",
+      "description": "New research by the University of Oxford and the Stockholm Resilience Centre at Stockholm University has revealed that most biodiversity commitments m..."
+    },
+    {
+      "title": "RNA-only repair enzyme reveals how primordial life could have protected genomes",
+      "link": "https://phys.org/news/2026-07-rna-enzyme-reveals-primordial-life.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T14:30:05+05:30",
+      "time": "13 Jul, 02:30 PM",
+      "type": "news",
+      "description": "In most modern cells, DNA stores the genetic blueprint, and proteins replicate, repair and build from those blueprints. At the same time, proteins req..."
+    },
+    {
+      "title": "World's first superconducting quantum heat engine offers path to larger quantum computers",
+      "link": "https://phys.org/news/2026-07-world-superconducting-quantum-path-larger.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T14:30:01+05:30",
+      "time": "13 Jul, 02:30 PM",
+      "type": "news",
+      "description": "Recent improvements in our understanding of how the principles of thermodynamics apply in the quantum realm could give a boost to quantum technology, ..."
+    },
+    {
+      "title": "Mulling ban, EU gets expert verdict on social media for children",
+      "link": "https://techxplore.com/news/2026-07-mulling-eu-expert-verdict-social.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-13T13:50:05+05:30",
+      "time": "13 Jul, 01:50 PM",
+      "type": "news",
+      "description": "To ban or not to ban children from all social media? That is the big question facing the European Union in its bid to protect minors from harmful cont..."
+    },
+    {
+      "title": "Heat wave smashes records across central US",
+      "link": "https://phys.org/news/2026-07-central.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T13:50:03+05:30",
+      "time": "13 Jul, 01:50 PM",
+      "type": "news",
+      "description": "A record-breaking heat wave baked the central United States on Sunday, smashing temperature records from the northern Plains to the Rocky Mountain reg..."
+    },
+    {
+      "title": "More than 2,700 died as result of heat waves in England, researchers say",
+      "link": "https://phys.org/news/2026-07-died-result-england.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T13:50:02+05:30",
+      "time": "13 Jul, 01:50 PM",
+      "type": "news",
+      "description": "At least 2,700 people died in England and Wales as a result of heat waves that struck in May and June, according to a study released Monday."
+    },
+    {
+      "title": "Mulling AI investment, Anthropic lobbied Australia on copyright law",
+      "link": "https://techxplore.com/news/2026-07-mulling-ai-investment-anthropic-lobbied.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-13T13:38:20+05:30",
+      "time": "13 Jul, 01:38 PM",
+      "type": "news",
+      "description": "Anthropic's chief executive, Dario Amodei, has lobbied Australian officials for \"copyright reform\" as the artificial intelligence giant seeks to make ..."
+    },
+    {
+      "title": "China's 'Green Great Wall' tames desert growth, but scientists warn the fight is not over",
+      "link": "https://phys.org/news/2026-07-china-green-great-wall-growth.html",
+      "source": "Phys",
+      "sort_key": "2026-07-13T13:31:53+05:30",
+      "time": "13 Jul, 01:31 PM",
+      "type": "news",
+      "description": "For half a century, millions of workers have repeated a task across the deserts in northern China: inserting forearm-length sticks into shifting sand,..."
+    },
+    {
+      "title": "True human-level AI may be forever out of reach, prominent computer scientist argues",
+      "link": "https://techxplore.com/news/2026-07-true-human-ai-prominent-scientist.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-13T12:40:01+05:30",
+      "time": "13 Jul, 12:40 PM",
+      "type": "news",
+      "description": "Alan Turing, the father of theoretical computer science, made a proposal that has put AI development on a flawed path for three-quarters of a century,..."
+    },
+    {
+      "title": "Future moon landings could wipe out clues to how life began on Earth",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260710003537.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-07-13T06:18:16+05:30",
+      "time": "13 Jul, 06:18 AM",
+      "type": "news",
+      "description": "A new study suggests spacecraft exhaust could quickly contaminate the moon's most scientifically valuable regions, potentially masking ancient clues a..."
+    },
+    {
       "title": "Astronomers Detect the Hidden Process That May Trigger Star Birth",
       "link": "https://scitechdaily.com/astronomers-detect-the-hidden-process-that-may-trigger-star-birth/",
       "source": "ScitechDaily",
@@ -118,7 +424,7 @@
       "description": "In drug discovery, building complex molecules quickly is the name of the game."
     },
     {
-      "title": "Climate change leaves northern tree swallows more vulnerable those in the southern US",
+      "title": "Climate change leaves northern tree swallows more vulnerable than those in the southern US",
       "link": "https://phys.org/news/2026-07-climate-northern-tree-swallows-vulnerable.html",
       "source": "Phys",
       "sort_key": "2026-07-13T00:30:01+05:30",
@@ -172,24 +478,6 @@
       "description": "I am one of Hobart's many residents who traveled to a nearby beach to witness Neil the seal\u2014an animal that has been receiving global attention for his..."
     },
     {
-      "title": "Scientists decipher how a psychedelic substance is created, then engineer a plant to produce several at once",
-      "link": "https://phys.org/news/2026-07-scientists-decipher-psychedelic-substance.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T22:30:02+05:30",
-      "time": "12 Jul, 10:30 PM",
-      "type": "news",
-      "description": "Long before scientists began studying them in the lab, mind-altering substances were already being gathered from plants, fungi and even animals for us..."
-    },
-    {
-      "title": "Self\u2011building molecular rings bring next\u2011generation drug delivery and smart materials closer",
-      "link": "https://phys.org/news/2026-07-selfbuilding-molecular-nextgeneration-drug-delivery.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T22:00:01+05:30",
-      "time": "12 Jul, 10:00 PM",
-      "type": "news",
-      "description": "Rotaxanes are dumbbell-shaped mechanically interlocked molecules in which one or more ring-shaped molecules are threaded through a linear segment, kno..."
-    },
-    {
       "title": "Strange \u201cChimeric\u201d RNA Linked to Women\u2019s Health and Wellness",
       "link": "https://scitechdaily.com/strange-chimeric-rna-linked-to-womens-health-and-wellness/",
       "source": "ScitechDaily",
@@ -197,15 +485,6 @@
       "time": "12 Jul, 09:36 PM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/strange-chimeric-rna-linked-to-womens-health-and-wellness/\" rel=\"nofollow\" title=\"Strange \u201cChimeric\u201d RNA Linked to W..."
-    },
-    {
-      "title": "Patterned frozen soils get their shape from gravity and funky physics",
-      "link": "https://phys.org/news/2026-07-patterned-frozen-soils-gravity-funky.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T21:30:01+05:30",
-      "time": "12 Jul, 09:30 PM",
-      "type": "news",
-      "description": "Hillslopes in Arctic regions with frozen soils can host a suite of geometric patterns, from circles and stripes to polygonal patterned ground. They ca..."
     },
     {
       "title": "Scientists Uncover New Plant Species Hidden in Plain Sight for More Than 100 Years",
@@ -217,15 +496,6 @@
       "description": "<a href=\"https://scitechdaily.com/scientists-uncover-new-plant-species-hidden-in-plain-sight-for-more-than-100-years/\" rel=\"nofollow\" title=\"Scientist..."
     },
     {
-      "title": "In deep oceans, evolution is supercharged. This diversity could help unlock humanity's greatest challenges",
-      "link": "https://phys.org/news/2026-07-deep-oceans-evolution-supercharged-diversity.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T21:00:01+05:30",
-      "time": "12 Jul, 09:00 PM",
-      "type": "news",
-      "description": "Far beneath the surface of the ocean lies the largest and least explored habitat on Earth. The deep sea is cold, dark, highly pressurized\u2014and home to ..."
-    },
-    {
       "title": "New soft sensor can turn touch into robotic action without electronics",
       "link": "https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html",
       "source": "TechXplore",
@@ -233,15 +503,6 @@
       "time": "12 Jul, 08:50 PM",
       "type": "news",
       "description": "Built from flexible, compliant materials, soft robots are gaining relevance for tasks ranging from minimally invasive surgery to deep-sea exploration ..."
-    },
-    {
-      "title": "Low-cost genome sequencing approach is powering genetics research on mental illness and many other studies",
-      "link": "https://phys.org/news/2026-07-genome-sequencing-approach-powering-genetics.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T20:30:02+05:30",
-      "time": "12 Jul, 08:30 PM",
-      "type": "news",
-      "description": "For researchers on the hunt for the genetic roots of disease, the cost of deep whole-genome sequencing makes it challenging to conduct large genetic s..."
     },
     {
       "title": "Chimpanzees Keep Throwing Stones at the Same Trees \u2013 Scientists Want To Know Why",
@@ -253,33 +514,6 @@
       "description": "<a href=\"https://scitechdaily.com/chimpanzees-keep-throwing-stones-at-the-same-trees-scientists-want-to-know-why/\" rel=\"nofollow\" title=\"Chimpanzees K..."
     },
     {
-      "title": "Gravitational waves reveal hidden populations within black hole mergers",
-      "link": "https://phys.org/news/2026-07-gravitational-reveal-hidden-populations-black.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T19:50:01+05:30",
-      "time": "12 Jul, 07:50 PM",
-      "type": "news",
-      "description": "Since gravitational waves were first detected in 2015, instruments including LIGO, Virgo and KAGRA have picked up a steady stream of signals from coll..."
-    },
-    {
-      "title": "Creating synthetic life in a lab? SpudCell falls short of the goal, but raises even more useful questions",
-      "link": "https://phys.org/news/2026-07-synthetic-life-lab-spudcell-falls.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T19:30:04+05:30",
-      "time": "12 Jul, 07:30 PM",
-      "type": "news",
-      "description": "Nature is beautiful, powerful and essential. But nature is not always gentle. The same biological world that gives rise to forests, coral reefs and hu..."
-    },
-    {
-      "title": "Climate oscillations shape nature's coral refuges in a warming ocean",
-      "link": "https://phys.org/news/2026-07-climate-oscillations-nature-coral-refuges.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T18:30:04+05:30",
-      "time": "12 Jul, 06:30 PM",
-      "type": "news",
-      "description": "Why do some coral reefs weather marine heat waves better than others? A new study published in Scientific Reports shows that the answer may lie not on..."
-    },
-    {
       "title": "Quantum Sensor Sniffs Out Radio Signals in 3D",
       "link": "https://spectrum.ieee.org/quantum-sensor-radio-signal-direction",
       "source": "IEEE Spectrum",
@@ -289,15 +523,6 @@
       "description": "<p>The Rydberg atom-based device could be a fraction the size of existing antennae</p>"
     },
     {
-      "title": "Oldest quasars ever discovered add to 'perplexing' space mystery",
-      "link": "https://phys.org/news/2026-07-oldest-quasars-perplexing-space-mystery.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T18:10:01+05:30",
-      "time": "12 Jul, 06:10 PM",
-      "type": "news",
-      "description": "The Euclid space telescope has spotted the oldest quasars\u2014the brightest objects in the universe\u2014ever discovered, deepening a cosmic mystery that has b..."
-    },
-    {
       "title": "Physicists recreate black hole energy extraction in the lab",
       "link": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
       "source": "Science Daily",
@@ -305,15 +530,6 @@
       "time": "12 Jul, 05:58 PM",
       "type": "news",
       "description": "Researchers have recreated the physics of extracting energy from a spinning black hole using a stationary device that produces synthetic ultrafast rot..."
-    },
-    {
-      "title": "New method brings single-particle quality control to nanocrystal manufacturing",
-      "link": "https://phys.org/news/2026-07-method-particle-quality-nanocrystal.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T17:30:02+05:30",
-      "time": "12 Jul, 05:30 PM",
-      "type": "news",
-      "description": "Nanocrystals are already used in millions of devices, including televisions, laptops and displays, and are considered key materials for the next gener..."
     },
     {
       "title": "The Surprising Cellular Benefit of the Pigment Behind Red Hair",
@@ -343,15 +559,6 @@
       "description": "<a href=\"https://scitechdaily.com/coffee-may-protect-the-liver-in-more-ways-than-scientists-realized/\" rel=\"nofollow\" title=\"Coffee May Protect the Li..."
     },
     {
-      "title": "Firefighters gain upper hand on deadly Spain wildfire",
-      "link": "https://phys.org/news/2026-07-firefighters-gain-upper-deadly-spain.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T14:00:01+05:30",
-      "time": "12 Jul, 02:00 PM",
-      "type": "news",
-      "description": "Firefighters battling a wildfire in southern Spain that killed 12 people began to contain the blaze Saturday as the hardest-hit village remained deser..."
-    },
-    {
       "title": "Growing list of countries move to ban social media for children",
       "link": "https://techxplore.com/news/2026-07-countries-social-media-children.html",
       "source": "TechXplore",
@@ -361,42 +568,6 @@
       "description": "The European Union's plan to regulate children's access to social media follows the implementation or proposal of similar measures around the world."
     },
     {
-      "title": "Typhoon makes landfall in China, downgraded to severe tropical storm",
-      "link": "https://phys.org/news/2026-07-typhoon-landfall-china-downgraded-severe.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T13:40:02+05:30",
-      "time": "12 Jul, 01:40 PM",
-      "type": "news",
-      "description": "Typhoon Bavi was downgraded to a severe tropical storm Sunday after making landfall in eastern China, where authorities had evacuated nearly 2 million..."
-    },
-    {
-      "title": "In Sicily, drones at work to predict volcanic eruptions",
-      "link": "https://phys.org/news/2026-07-sicily-drones-volcanic-eruptions.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T13:30:03+05:30",
-      "time": "12 Jul, 01:30 PM",
-      "type": "news",
-      "description": "Hovering over the volcano, a buzzing drone pauses in front of a laser beam on the crater's edge as researchers test whether the devices can measure ga..."
-    },
-    {
-      "title": "Why sharing-economy drivers are disengaging\u2014and how platform design can win them back",
-      "link": "https://phys.org/news/2026-07-economy-drivers-disengaging-platform.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T13:28:02+05:30",
-      "time": "12 Jul, 01:28 PM",
-      "type": "news",
-      "description": "Rideshare and delivery platforms operate in an unusually fluid labor market. Drivers can log off, switch apps or stop working at any moment, making en..."
-    },
-    {
-      "title": "New heat wave blasts US, could break records",
-      "link": "https://phys.org/news/2026-07-blasts.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T13:19:17+05:30",
-      "time": "12 Jul, 01:19 PM",
-      "type": "news",
-      "description": "Some 44 million Americans were under a heat wave warning Saturday as temperatures in the Rocky Mountains and northern Plains of the United States were..."
-    },
-    {
       "title": "Amid criticism, Meta reins in new AI tool that automatically accessed public Instagram images",
       "link": "https://techxplore.com/news/2026-07-criticism-meta-reins-ai-tool.html",
       "source": "TechXplore",
@@ -404,15 +575,6 @@
       "time": "12 Jul, 01:13 PM",
       "type": "news",
       "description": "Meta has pulled the plug on a feature of a recently launched AI tool following criticism that it made Instagram accounts fodder for use in creating AI..."
-    },
-    {
-      "title": "Almost a quarter of Dutch bee colonies did not survive last winter",
-      "link": "https://phys.org/news/2026-07-quarter-dutch-bee-colonies-survive.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T08:10:01+05:30",
-      "time": "12 Jul, 08:10 AM",
-      "type": "news",
-      "description": "During the winter of 2025\u20132026, 24% of Dutch honeybee colonies were lost. The upward trend observed in recent years therefore continues. This is the f..."
     },
     {
       "title": "Why gold never tarnishes has finally been explained",
@@ -449,24 +611,6 @@
       "time": "12 Jul, 06:22 AM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/the-universe-was-barely-born-when-these-giant-black-holes-appeared/\" rel=\"nofollow\" title=\"The Universe Was Barely B..."
-    },
-    {
-      "title": "Q&A: Unforeseen consequences of the 'great aging' of America",
-      "link": "https://phys.org/news/2026-07-qa-unforeseen-consequences-great-aging.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T05:30:01+05:30",
-      "time": "12 Jul, 05:30 AM",
-      "type": "news",
-      "description": "The average life span for Americans hovered around 40 years for the first 100 years of the nation's existence. But after 1880, breakthroughs in modern..."
-    },
-    {
-      "title": "Drawing the line: Virtual fences trigger the same cattle behavior as physical ones",
-      "link": "https://phys.org/news/2026-07-line-virtual-trigger-cattle-behavior.html",
-      "source": "Phys",
-      "sort_key": "2026-07-12T04:30:01+05:30",
-      "time": "12 Jul, 04:30 AM",
-      "type": "news",
-      "description": "Virtual fences could make managing grazing livestock on farms more flexible and more efficient while improving animal welfare. A new study by the Univ..."
     },
     {
       "title": "Scientists Find the Hidden \u201cFuel\u201d That May Intensify Tropical Clouds",
@@ -539,96 +683,6 @@
       "time": "11 Jul, 06:30 PM",
       "type": "news",
       "description": "<p>App-controlled chairs are not the same as self-driving ones</p>"
-    },
-    {
-      "title": "Scientists Discover a Hidden Chemical Pathway That Makes City Air Hazy",
-      "link": "https://scitechdaily.com/scientists-discover-a-hidden-chemical-pathway-that-makes-city-air-hazy/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-11T17:51:00+05:30",
-      "time": "11 Jul, 05:51 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-discover-a-hidden-chemical-pathway-that-makes-city-air-hazy/\" rel=\"nofollow\" title=\"Scientists Discover a..."
-    },
-    {
-      "title": "This electric field trick boosted heat flow by nearly 300%",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-11T17:48:02+05:30",
-      "time": "11 Jul, 05:48 PM",
-      "type": "news",
-      "description": "Researchers discovered that electricity can dramatically reshape how heat flows through certain ceramic materials, increasing heat conduction by almos..."
-    },
-    {
-      "title": "Neutrons track lithium in working solid-state battery, revealing uneven charging",
-      "link": "https://techxplore.com/news/2026-07-neutrons-track-lithium-solid-state.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-11T17:30:08+05:30",
-      "time": "11 Jul, 05:30 PM",
-      "type": "news",
-      "description": "Batteries are part of everyday life, powering everything from phones and laptops to electric cars. Most rechargeable batteries use a liquid to help li..."
-    },
-    {
-      "title": "Neanderthals Nearly Vanished 75,000 Years Ago \u2013 Then One Group Repopulated Europe",
-      "link": "https://scitechdaily.com/neanderthals-nearly-vanished-75000-years-ago-then-one-group-repopulated-europe/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-11T17:16:59+05:30",
-      "time": "11 Jul, 05:16 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/neanderthals-nearly-vanished-75000-years-ago-then-one-group-repopulated-europe/\" rel=\"nofollow\" title=\"Neanderthals ..."
-    },
-    {
-      "title": "AI Detects Hidden Warning Signs Before Major Earthquakes",
-      "link": "https://scitechdaily.com/ai-detects-hidden-warning-signs-before-major-earthquakes/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-11T16:41:02+05:30",
-      "time": "11 Jul, 04:41 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/ai-detects-hidden-warning-signs-before-major-earthquakes/\" rel=\"nofollow\" title=\"AI Detects Hidden Warning Signs Bef..."
-    },
-    {
-      "title": "Man nearly sucked out of 'detached' window on Ryanair flight",
-      "link": "https://techxplore.com/news/2026-07-detached-window-ryanair-flight.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-11T13:30:01+05:30",
-      "time": "11 Jul, 01:30 PM",
-      "type": "news",
-      "description": "A man was nearly sucked out of the window of a Ryanair flight when it \"detached\" midair en route to Germany, with other passengers pulling him back in..."
-    },
-    {
-      "title": "Music industry launches AI-generated content labels",
-      "link": "https://techxplore.com/news/2026-07-music-industry-ai-generated-content.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-11T13:20:01+05:30",
-      "time": "11 Jul, 01:20 PM",
-      "type": "news",
-      "description": "Several major music industry organizations on Friday unveiled a labeling system for content created with generative artificial intelligence that they ..."
-    },
-    {
-      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-      "link": "https://techxplore.com/news/2026-07-apple-lawsuit-accusing-chatgpt-maker.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-11T12:47:58+05:30",
-      "time": "11 Jul, 12:47 PM",
-      "type": "news",
-      "description": "Apple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between t..."
-    },
-    {
-      "title": "Physicists finally build a quantum material predicted more than a decade ago",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-11T12:33:53+05:30",
-      "time": "11 Jul, 12:33 PM",
-      "type": "news",
-      "description": "Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and confirming its unusual conducting edge stat..."
-    },
-    {
-      "title": "Tiny bubbles could revolutionize inkjet printing",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260711010112.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-11T12:02:37+05:30",
-      "time": "11 Jul, 12:02 PM",
-      "type": "news",
-      "description": "Ultra-fine bubbles may offer a cleaner way to perfect inkjet printing for next-generation electronics. By simply changing the number of bubbles in eac..."
     }
   ],
   "tweets": [
@@ -725,6 +779,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "title": "Faster quantum computers can learn from their own mistakes",
+      "link": "https://phys.org/news/2026-07-faster-quantum.html",
+      "source": "Phys",
+      "sort_key": "2026-07-15T19:10:12+05:30",
+      "time": "15 Jul, 07:10 PM",
+      "type": "news",
+      "description": "Quantum computers promise to solve problems that would take even the fastest conventional supercomputers a vast amount of time, but the quantum inform..."
+    },
+    {
+      "title": "Uncovering the hidden impacts of a hurricane on food supply",
+      "link": "https://phys.org/news/2026-07-uncovering-hidden-impacts-hurricane-food.html",
+      "source": "Phys",
+      "sort_key": "2026-07-15T19:10:09+05:30",
+      "time": "15 Jul, 07:10 PM",
+      "type": "news",
+      "description": "When Hurricanes Helene and Milton struck in 2024, the storms not only left behind a trail of destruction but also exposed an often-overlooked challeng..."
+    },
+    {
+      "title": "Dataset filtering provides only limited protection against CSAM generation in text-to-image models, study finds",
+      "link": "https://techxplore.com/news/2026-07-dataset-filtering-limited-csam-generation.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-15T19:10:01+05:30",
+      "time": "15 Jul, 07:10 PM",
+      "type": "news",
+      "description": "Text-to-image models have made it significantly easier to generate synthetic images, including harmful and illegal content such as child sexual abuse ..."
+    },
+    {
+      "title": "Finding the sweet spot for safer, longer-lasting lithium metal batteries",
+      "link": "https://techxplore.com/news/2026-07-sweet-safer-longer-lithium-metal.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-15T18:50:03+05:30",
+      "time": "15 Jul, 06:50 PM",
+      "type": "news",
+      "description": "Lithium metal has long been considered the ideal material for next-generation rechargeable batteries because it can store far more energy than the gra..."
+    },
+    {
+      "title": "Diacylglycerols for cleaner oil processing, functional foods and medical nutrition",
+      "link": "https://phys.org/news/2026-07-diacylglycerols-cleaner-oil-functional-foods.html",
+      "source": "Phys",
+      "sort_key": "2026-07-15T18:50:01+05:30",
+      "time": "15 Jul, 06:50 PM",
+      "type": "news",
+      "description": "Fats and oils are essential to life. They provide energy, support the absorption of fat-soluble vitamins, contribute to the structure of cell membrane..."
+    },
+    {
+      "title": "Ultraviolet light uncovers the first known juveniles of a mysterious Jurassic fish family",
+      "link": "https://phys.org/news/2026-07-ultraviolet-uncovers-juveniles-mysterious-jurassic.html",
+      "source": "Phys",
+      "sort_key": "2026-07-15T18:30:01+05:30",
+      "time": "15 Jul, 06:30 PM",
+      "type": "news",
+      "description": "For more than 150 years, fossils of Jurassic fish scattered across Europe's museums were studied and drawn by generations of scientists. However, when..."
+    },
+    {
+      "title": "This AI Folds DNA into Mini Masterpieces",
+      "link": "https://spectrum.ieee.org/ai-dna-origami",
+      "source": "IEEE Spectrum",
+      "sort_key": "2026-07-15T18:30:01+05:30",
+      "time": "15 Jul, 06:30 PM",
+      "type": "news",
+      "description": "<p>Generative AI model designs DNA origami for any shape</p>"
+    },
+    {
       "title": "Model highlights patterns in how humans move across different locations",
       "link": "https://phys.org/news/2026-07-highlights-patterns-humans.html",
       "source": "Phys",
@@ -388,42 +451,6 @@
       "description": "Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA's Hu..."
     },
     {
-      "title": "Television and movie content linked with racial bias in children",
-      "link": "https://phys.org/news/2026-07-television-movie-content-linked-racial.html",
-      "source": "Phys",
-      "sort_key": "2026-07-15T02:50:05+05:30",
-      "time": "15 Jul, 02:50 AM",
-      "type": "news",
-      "description": "It has been well-established that the developmental roots of racial prejudices emerge in early childhood, but scientists have a less clear understandi..."
-    },
-    {
-      "title": "How tides and river water combine to amplify floods",
-      "link": "https://phys.org/news/2026-07-tides-river-combine-amplify.html",
-      "source": "Phys",
-      "sort_key": "2026-07-15T02:50:03+05:30",
-      "time": "15 Jul, 02:50 AM",
-      "type": "news",
-      "description": "Ocean tides push upstream along coastal rivers, in some cases reaching hundreds of kilometers (hundreds of miles) inland. These inland stretches are k..."
-    },
-    {
-      "title": "With an eye toward exploration, researchers map moon's regolith thickness",
-      "link": "https://phys.org/news/2026-07-eye-exploration-moon-regolith-thickness.html",
-      "source": "Phys",
-      "sort_key": "2026-07-15T02:30:09+05:30",
-      "time": "15 Jul, 02:30 AM",
-      "type": "news",
-      "description": "New research by lunar scientists from Brown University provides critical new insights into the thickness of the moon's regolith, the layer of loose du..."
-    },
-    {
-      "title": "Watchdog science journalism: Crucial yet precarious work, according to study",
-      "link": "https://phys.org/news/2026-07-watchdog-science-journalism-crucial-precarious.html",
-      "source": "Phys",
-      "sort_key": "2026-07-15T02:30:06+05:30",
-      "time": "15 Jul, 02:30 AM",
-      "type": "news",
-      "description": "How do journalists act as watchdogs of science? New qualitative research led by University of Amsterdam media scholar Alice Fleerackers sheds light on..."
-    },
-    {
       "title": "Large language models often prioritize Western moral values, overlooking other cultures",
       "link": "https://techxplore.com/news/2026-07-large-language-prioritize-western-moral.html",
       "source": "TechXplore",
@@ -721,15 +748,6 @@
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
     },
     {
-      "title": "Researchers achieve remote, autonomous power control of a research reactor in real time",
-      "link": "https://techxplore.com/news/2026-07-remote-autonomous-power-reactor-real.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-14T17:30:01+05:30",
-      "time": "14 Jul, 05:30 PM",
-      "type": "news",
-      "description": "For the first time, researchers from Idaho National Laboratory, the Grainger College of Engineering at the University of Illinois Urbana-Champaign and..."
-    },
-    {
       "title": "Rare Iridescent Optical Effect Discovered in a Famous Australian Frog",
       "link": "https://scitechdaily.com/rare-iridescent-optical-effect-discovered-in-a-famous-australian-frog/",
       "source": "ScitechDaily",
@@ -737,15 +755,6 @@
       "time": "14 Jul, 05:10 PM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/rare-iridescent-optical-effect-discovered-in-a-famous-australian-frog/\" rel=\"nofollow\" title=\"Rare Iridescent Optica..."
-    },
-    {
-      "title": "Engineers develop AI system to speed satellite tracking of wildfires",
-      "link": "https://techxplore.com/news/2026-07-ai-satellite-tracking-wildfires.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-14T17:00:03+05:30",
-      "time": "14 Jul, 05:00 PM",
-      "type": "news",
-      "description": "A new artificial intelligence system developed by West Virginia University engineers could help firefighters respond to wildfires sooner by enabling s..."
     },
     {
       "title": "Urban Rodents Are Evolving To Survive Common Poisons",
@@ -917,27 +926,19 @@
       "time": "13 Jul, 08:27 PM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/nasa-satellites-spot-a-powerful-el-nino-building-beneath-the-pacific/\" rel=\"nofollow\" title=\"NASA Satellites Spot a ..."
-    },
-    {
-      "title": "Nokia\u2019s 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
-      "link": "https://spectrum.ieee.org/nokia-phones-history",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-07-13T18:30:01+05:30",
-      "time": "13 Jul, 06:30 PM",
-      "type": "news",
-      "description": "<p><span>How t</span>he iPhone and then Android killed the feature phone </p>"
-    },
-    {
-      "title": "A 200-year-old physics experiment could help build future computers",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-13T18:19:50+05:30",
-      "time": "13 Jul, 06:19 PM",
-      "type": "news",
-      "description": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical..."
     }
   ],
   "tweets": [
+    {
+      "title": "Centered Daydreaming kept memory retrieval almost unchanged on strongly biased data by comparing pixels to the average instead of their absolute values, extending Hopfield networks closer to real-world conditions. @sissamedialab https://techxplore.com/news/2026-07-daydreaming-algorithm-ai.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2077378570070978753#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-15T18:33:41+05:30",
+      "time": "15 Jul, 06:33 PM",
+      "type": "tweets",
+      "content": "<p>Centered Daydreaming kept memory retrieval almost unchanged on strongly biased data by comparing pixels to the average instead of their absolute values, extending Hopfield networks closer to real-world conditions. <a href=\"https://nitter.net/SissaMedialab\" title=\"SISSA Medialab\">@sissamedialab</a> <a href=\"https://techxplore.com/news/2026-07-daydreaming-algorithm-ai.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-daydreaming-algorithm-ai.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2077379554914553863%2F9tVWz7sM%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Daydreaming algorithm helps AI remember what matters</b>\n</a>\n<p>During the day, our brain acquires new memories; at night, during sleep, it consolidates the important ones and eliminates the useless ones. A similar principle has been applied to Hopfield networks,...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-daydreaming-algorithm-ai.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
     {
       "title": "Lower printing temperatures cut defects in aluminum 3D-printed parts, as faster cooling produced finer grain structures while thermal conditions kept shifting through each new layer. @AdmissionsUoM https://techxplore.com/news/2026-07-temperatures-defects-aluminum-3d.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
       "link": "https://nitter.net/TechXplore_com/status/2077197141613613443#m",
@@ -1027,16 +1028,6 @@
       "type": "tweets",
       "content": "<p>Up to 1.8 liters of drinking water per day from 1 kilogram of porous material: a carbon-enhanced MOF pulls moisture from air as dry as 18% humidity in short cycles. <a href=\"https://techxplore.com/news/2026-07-porous-material-liters-daily-dry.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-porous-material-liters-daily-dry.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2076654047885713409%2FBLcNNu3W%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Porous material could pull 1.8 liters of drinking water daily from dry air</b>\n</a>\n<p>Researchers in chemistry and materials science at Kiel University are working with partners to develop new water sources for the Mediterranean region. &quot;Regions like these are facing rising temperat...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-porous-material-liters-daily-dry.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
-    },
-    {
-      "title": "Passed all 15 NIST randomness tests and stayed stable across 2 million cycles, this light-driven device generates ternary true random numbers in real time from unpredictable trapped charges. @advmater https://techxplore.com/news/2026-07-driven-random-generator-image.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2076653199042228466#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-13T18:31:19+05:30",
-      "time": "13 Jul, 06:31 PM",
-      "type": "tweets",
-      "content": "<p>Passed all 15 NIST randomness tests and stayed stable across 2 million cycles, this light-driven device generates ternary true random numbers in real time from unpredictable trapped charges. @advmater <a href=\"https://techxplore.com/news/2026-07-driven-random-generator-image.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-driven-random-generator-image.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2076638371418685440%2FWwrYAtsI%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Researchers propose light-driven random number generator for image security</b>\n</a>\n<p>While security systems based on pseudo-random number generators (PRNGs) have been developed to secure information use, they produce sequences that are not truly random and suffer from inherent...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-driven-random-generator-image.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
     }
   ],
   "youtube": [
@@ -1060,6 +1051,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:14 PM IST"
+    "last_updated": "07:17 PM IST"
   }
 }

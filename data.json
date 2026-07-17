@@ -1,6 +1,267 @@
 {
   "news": [
     {
+      "title": "What 'Neil the Seal' can teach us about seal behavior: Marine biologist explains",
+      "link": "https://phys.org/news/2026-07-neil-behavior-marine-biologist.html",
+      "source": "Phys",
+      "sort_key": "2026-07-17T18:10:03+05:30",
+      "time": "17 Jul, 06:10 PM",
+      "type": "news",
+      "description": "Neil the Seal became a social media sensation almost overnight. Neil is a 5-year-old male southern elephant seal who weighs roughly 1 metric ton (1.1 ..."
+    },
+    {
+      "title": "#MeToo and the marketplace: Can social reform impact consumer spending?",
+      "link": "https://phys.org/news/2026-07-metoo-marketplace-social-reform-impact.html",
+      "source": "Phys",
+      "sort_key": "2026-07-17T17:50:03+05:30",
+      "time": "17 Jul, 05:50 PM",
+      "type": "news",
+      "description": "Consumers have been quick to reject problematic sexual content since the #MeToo movement began in 2018, and new research from the University of Arizon..."
+    },
+    {
+      "title": "The Download: perimenopause misinformation and China\u2019s latest AI leap",
+      "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-17T17:40:00+05:30",
+      "time": "17 Jul, 05:40 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "Startups bet on AI\u2014and a leaner future",
+      "link": "https://techxplore.com/news/2026-07-startups-ai-leaner-future.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-17T17:30:03+05:30",
+      "time": "17 Jul, 05:30 PM",
+      "type": "news",
+      "description": "When Eric Lauer needs to hire at Giftory, the online gift-giving platform he runs, he's no longer looking for eager young coders fresh out of college."
+    },
+    {
+      "title": "Tennessee canola acres increased in 2026",
+      "link": "https://phys.org/news/2026-07-tennessee-canola-acres.html",
+      "source": "Phys",
+      "sort_key": "2026-07-17T17:30:01+05:30",
+      "time": "17 Jul, 05:30 PM",
+      "type": "news",
+      "description": "With high input costs and volatile crop markets affecting profitability, many Tennessee row crop producers are looking to diversify their farming oper..."
+    },
+    {
+      "title": "Math puzzle: A sequence of odd events",
+      "link": "https://www.sciencenews.org/article/math-puzzle-2026-august-odd-family",
+      "source": "Sciencenews",
+      "sort_key": "2026-07-17T17:30:00+05:30",
+      "time": "17 Jul, 05:30 PM",
+      "type": "news",
+      "description": "Solve the math puzzle from our August 2026 issue, in which a family investigates an odd happening."
+    },
+    {
+      "title": "New Fossil Study Challenges the Classic Story of Human Evolution",
+      "link": "https://scitechdaily.com/new-fossil-study-challenges-the-classic-story-of-human-evolution/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-17T17:21:25+05:30",
+      "time": "17 Jul, 05:21 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/new-fossil-study-challenges-the-classic-story-of-human-evolution/\" rel=\"nofollow\" title=\"New Fossil Study Challenges..."
+    },
+    {
+      "title": "Federal ginseng rules poorly predict plant health",
+      "link": "https://phys.org/news/2026-07-federal-ginseng-poorly-health.html",
+      "source": "Phys",
+      "sort_key": "2026-07-17T17:10:05+05:30",
+      "time": "17 Jul, 05:10 PM",
+      "type": "news",
+      "description": "A YSE-led study published in Environmental Research Letters found that current federal rules regulating American ginseng harvest\u2014based on plant age an..."
+    },
+    {
+      "title": "From coal pits to wind turbines, Polish miners rise to the occasion",
+      "link": "https://techxplore.com/news/2026-07-coal-pits-turbines-miners-occasion.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-17T17:10:04+05:30",
+      "time": "17 Jul, 05:10 PM",
+      "type": "news",
+      "description": "From the top of a wind turbine nearly 100 meters (330 feet) above the ground, Grzegorz Witek, a coal miner, gazes at the horizon."
+    },
+    {
+      "title": "New zinc slurry battery could store clean energy for longer",
+      "link": "https://techxplore.com/news/2026-07-zinc-slurry-battery-energy-longer.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-17T16:50:05+05:30",
+      "time": "17 Jul, 04:50 PM",
+      "type": "news",
+      "description": "Solar panels, wind turbines and other renewable energy technologies are becoming increasingly widespread worldwide. Most of these technologies generat..."
+    },
+    {
+      "title": "In the battle of the sexes, the pay gap persists",
+      "link": "https://phys.org/news/2026-07-sexes-pay-gap-persists.html",
+      "source": "Phys",
+      "sort_key": "2026-07-17T16:50:03+05:30",
+      "time": "17 Jul, 04:50 PM",
+      "type": "news",
+      "description": "Conceived by famed sociologist Paula England in the mid-1990s, occupational devaluation theory helps explain why workers in occupations with more wome..."
+    },
+    {
+      "title": "The Surprising Chocolate Trick That Could Boost Your Gym Performance",
+      "link": "https://scitechdaily.com/the-surprising-chocolate-trick-that-could-boost-your-gym-performance/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-17T16:46:12+05:30",
+      "time": "17 Jul, 04:46 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/the-surprising-chocolate-trick-that-could-boost-your-gym-performance/\" rel=\"nofollow\" title=\"The Surprising Chocolat..."
+    },
+    {
+      "title": "Research finds that dropping SAT and ACT requirements may improve access, but may also hinder college admissions",
+      "link": "https://phys.org/news/2026-07-sat-requirements-access-hinder-college.html",
+      "source": "Phys",
+      "sort_key": "2026-07-17T16:30:03+05:30",
+      "time": "17 Jul, 04:30 PM",
+      "type": "news",
+      "description": "Dropping standardized testing requirements may make college admission more accessible for some, but it can also make it harder for universities to ide..."
+    },
+    {
+      "title": "6 Simple Scent Games That Can Make Your Dog Happier",
+      "link": "https://scitechdaily.com/6-simple-scent-games-that-can-make-your-dog-happier/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-17T16:11:30+05:30",
+      "time": "17 Jul, 04:11 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/6-simple-scent-games-that-can-make-your-dog-happier/\" rel=\"nofollow\" title=\"6 Simple Scent Games That Can Make Your ..."
+    },
+    {
+      "title": "At least 12,000 excess deaths in Europe's June heat wave",
+      "link": "https://phys.org/news/2026-07-excess-deaths-europe-june.html",
+      "source": "Phys",
+      "sort_key": "2026-07-17T15:59:40+05:30",
+      "time": "17 Jul, 03:59 PM",
+      "type": "news",
+      "description": "At least 12,000 excess deaths were recorded across nine European countries during June's heat wave, national statistics indicated, a toll that could y..."
+    },
+    {
+      "title": "With climate ambitions in question, EU reforms carbon market",
+      "link": "https://phys.org/news/2026-07-climate-ambitions-eu-reforms-carbon.html",
+      "source": "Phys",
+      "sort_key": "2026-07-17T15:30:03+05:30",
+      "time": "17 Jul, 03:30 PM",
+      "type": "news",
+      "description": "The European Union on Friday unveils reforms to its carbon market after fierce wrangling among countries, industry and activists over the pace of the ..."
+    },
+    {
+      "title": "China's Moonshot AI chases 'DeepSeek moment' with much-hyped model",
+      "link": "https://techxplore.com/news/2026-07-china-moonshot-ai-deepseek-moment.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-17T15:30:01+05:30",
+      "time": "17 Jul, 03:30 PM",
+      "type": "news",
+      "description": "A model released Friday by Chinese startup Moonshot AI has fueled buzz around the country's tech prowess, as experts said it could rival some of the m..."
+    },
+    {
+      "title": "India launches first hydrogen-powered train in clean energy push",
+      "link": "https://techxplore.com/news/2026-07-india-hydrogen-powered-energy.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-17T15:20:01+05:30",
+      "time": "17 Jul, 03:20 PM",
+      "type": "news",
+      "description": "India launched its first hydrogen-powered train Friday, joining a small group of nations testing the technology as part of efforts to decarbonize rail..."
+    },
+    {
+      "title": "China's Xi says AI should not be dominated by one country",
+      "link": "https://techxplore.com/news/2026-07-china-xi-ai-dominated-country.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-17T15:10:02+05:30",
+      "time": "17 Jul, 03:10 PM",
+      "type": "news",
+      "description": "Artificial intelligence should not be dominated by a single country, China's President Xi Jinping said Friday at a major technology conference in Shan..."
+    },
+    {
+      "title": "Wildfire smoke makes air unhealthy from the US Midwest to East Coast. Officials say stay inside",
+      "link": "https://phys.org/news/2026-07-wildfire-air-unhealthy-midwest-east.html",
+      "source": "Phys",
+      "sort_key": "2026-07-17T14:50:03+05:30",
+      "time": "17 Jul, 02:50 PM",
+      "type": "news",
+      "description": "Heavy, pungent wildfire smoke darkened skies in the U.S. on Thursday from the Great Lakes to parts of the East Coast, reducing visibility and promptin..."
+    },
+    {
+      "title": "India launches first hydrogen-powered train built in the country to expand clean energy on railways",
+      "link": "https://techxplore.com/news/2026-07-india-hydrogen-powered-built-country.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-17T14:50:01+05:30",
+      "time": "17 Jul, 02:50 PM",
+      "type": "news",
+      "description": "India rolled out its first Indigenously built, hydrogen-powered train on Friday, a move aimed at expanding the use of clean energy in its vast rail ne..."
+    },
+    {
+      "title": "SpaceX Starship launch aborted on the pad at the last moment",
+      "link": "https://phys.org/news/2026-07-spacex-starship-aborted-pad-moment.html",
+      "source": "Phys",
+      "sort_key": "2026-07-17T14:37:55+05:30",
+      "time": "17 Jul, 02:37 PM",
+      "type": "news",
+      "description": "SpaceX's mega Starship rocket came within a second or so from blasting off on a test flight Thursday, but some of the engines failed to ignite, trigge..."
+    },
+    {
+      "title": "Fed probe suggests Tesla's self-driving feature wasn't to blame in crash that killed a grandmother",
+      "link": "https://techxplore.com/news/2026-07-fed-probe-tesla-feature-wasnt.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-17T14:37:26+05:30",
+      "time": "17 Jul, 02:37 PM",
+      "type": "news",
+      "description": "Federal safety investigators looking into a runaway Tesla that killed a grandmother in her home say the driver had pressed the accelerator to full spe..."
+    },
+    {
+      "title": "Researchers develop prototype thin-film electronics that can dock and undock themselves",
+      "link": "https://techxplore.com/news/2026-07-prototype-thin-electronics-dock-undock.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-17T14:30:02+05:30",
+      "time": "17 Jul, 02:30 PM",
+      "type": "news",
+      "description": "Publishing in the journal npj Flexible Electronics, researchers from Kyushu University have developed prototype thin-film electronic modules that can ..."
+    },
+    {
+      "title": "There\u2019s a lot of hype around perimenopause. Don\u2019t buy it.",
+      "link": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-17T14:30:00+05:30",
+      "time": "17 Jul, 02:30 PM",
+      "type": "news",
+      "description": "Perimenopause has entered the chat. Perimenopause\u2014and its better-known relative, menopause\u2014used to be considered taboo. Not anymore, thanks at least i..."
+    },
+    {
+      "title": "The risk of weather data sabotage is rising",
+      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-17T14:27:32+05:30",
+      "time": "17 Jul, 02:27 PM",
+      "type": "news",
+      "description": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While the..."
+    },
+    {
+      "title": "Scientists built a camera that can track invisible particles in 3D",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-07-17T11:34:57+05:30",
+      "time": "17 Jul, 11:34 AM",
+      "type": "news",
+      "description": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a ligh..."
+    },
+    {
+      "title": "Bones reveal ancient Egyptian princesses born 4,000 years ago used weapons",
+      "link": "https://phys.org/news/2026-07-bones-reveal-ancient-egyptian-princesses.html",
+      "source": "Phys",
+      "sort_key": "2026-07-17T09:30:02+05:30",
+      "time": "17 Jul, 09:30 AM",
+      "type": "news",
+      "description": "For decades, scientists have disputed the meaning of the weapons found in the burial chambers of some ancient Egyptian princesses. Were they symbolic ..."
+    },
+    {
+      "title": "Ancient Egyptian princesses knew their way around weapons of war",
+      "link": "https://www.sciencenews.org/article/ancient-egyptian-princesses-weapons-war",
+      "source": "Sciencenews",
+      "sort_key": "2026-07-17T09:30:00+05:30",
+      "time": "17 Jul, 09:30 AM",
+      "type": "news",
+      "description": "Analysis of six mummies from ancient Egypt challenges the idea that the bows and daggers buried with some royal women were merely ceremonial."
+    },
+    {
       "title": "EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns",
       "link": "https://phys.org/news/2026-07-eu-ai-guardrails-absorb-rapid.html",
       "source": "Phys",
@@ -8,6 +269,15 @@
       "time": "17 Jul, 08:50 AM",
       "type": "news",
       "description": "\"Guardrails\" built by the EU to govern AI fall short in both ambition and execution and have become too heavy to absorb rapid changes in technology, a..."
+    },
+    {
+      "title": "New \u201cliving plastic\u201d self-destructs in just 6 days without leaving microplastics",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083552.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-07-17T08:39:42+05:30",
+      "time": "17 Jul, 08:39 AM",
+      "type": "news",
+      "description": "Researchers have created self-destructing living plastic that uses engineered bacteria to completely break itself down when activated. The material de..."
     },
     {
       "title": "Golf generates nearly \u20ac630 million in societal benefits in Finland",
@@ -262,51 +532,6 @@
       "description": "Researchers from Heinrich Heine University D\u00fcsseldorf (HHU) and Kiel University (CAU) have examined immune system function in an early-branching anima..."
     },
     {
-      "title": "Nearby rocky planet may be replenishing helium from atmosphere, study finds",
-      "link": "https://phys.org/news/2026-07-nearby-rocky-planet-replenishing-helium.html",
-      "source": "Phys",
-      "sort_key": "2026-07-16T23:30:18+05:30",
-      "time": "16 Jul, 11:30 PM",
-      "type": "news",
-      "description": "Nearly a decade after the discovery of LHS 1140b, a rocky exoplanet in the habitable zone of a nearby low-mass star, a new study reveals that the obje..."
-    },
-    {
-      "title": "Cold radioactive molecules prepped and readied for physics discoveries",
-      "link": "https://phys.org/news/2026-07-cold-radioactive-molecules-prepped-readied.html",
-      "source": "Phys",
-      "sort_key": "2026-07-16T23:30:14+05:30",
-      "time": "16 Jul, 11:30 PM",
-      "type": "news",
-      "description": "For the first time, researchers have developed a way to create chilled molecules containing the radioactive element radium. The resulting laboratory c..."
-    },
-    {
-      "title": "In search of life beyond our solar system: Atmosphere detected on a habitable-zone rocky world",
-      "link": "https://phys.org/news/2026-07-life-solar-atmosphere-habitable-zone.html",
-      "source": "Phys",
-      "sort_key": "2026-07-16T23:30:11+05:30",
-      "time": "16 Jul, 11:30 PM",
-      "type": "news",
-      "description": "In a major milestone in the search for life on other planets, astronomers have detected, for the first time, an atmosphere surrounding an Earth-like, ..."
-    },
-    {
-      "title": "Disrupting single enzyme gene in herb red perilla produces green plants with enriched health-promoting molecules",
-      "link": "https://phys.org/news/2026-07-disrupting-enzyme-gene-herb-red.html",
-      "source": "Phys",
-      "sort_key": "2026-07-16T23:30:07+05:30",
-      "time": "16 Jul, 11:30 PM",
-      "type": "news",
-      "description": "Hiroshima University researchers have used genome editing to transform red perilla into a green look-alike and simultaneously restructured the plant's..."
-    },
-    {
-      "title": "Air from Greenland snow shows industrialization's impact on atmospheric methane",
-      "link": "https://phys.org/news/2026-07-air-greenland-industrialization-impact-atmospheric.html",
-      "source": "Phys",
-      "sort_key": "2026-07-16T23:30:01+05:30",
-      "time": "16 Jul, 11:30 PM",
-      "type": "news",
-      "description": "An international team of researchers, including scientists from Utrecht University and the University of Maryland, has reconstructed the concentration..."
-    },
-    {
       "title": "This \u201cexotic weirdo\u201d exoplanet has a rocky surface and an atmosphere",
       "link": "https://www.sciencenews.org/article/rocky-exoplanet-helium-atmosphere",
       "source": "Sciencenews",
@@ -316,24 +541,6 @@
       "description": "Astronomers found a helium atmosphere around a rocky exoplanet \u2014 a good sign for the search for life outside the solar system."
     },
     {
-      "title": "Brain-inspired nanopore device uses current-induced heating for memory operations",
-      "link": "https://phys.org/news/2026-07-brain-nanopore-device-current-memory.html",
-      "source": "Phys",
-      "sort_key": "2026-07-16T23:10:03+05:30",
-      "time": "16 Jul, 11:10 PM",
-      "type": "news",
-      "description": "Some researchers are leaning into biology for inspiration in computing. In particular, neuromorphic computing offers a brain-inspired approach to hard..."
-    },
-    {
-      "title": "A volcano in the Philippines erupted 2 weeks ago: Why scientists are still watching it closely",
-      "link": "https://phys.org/news/2026-07-volcano-philippines-erupted-weeks-scientists.html",
-      "source": "Phys",
-      "sort_key": "2026-07-16T23:10:01+05:30",
-      "time": "16 Jul, 11:10 PM",
-      "type": "news",
-      "description": "Two weeks ago, the Philippine Institute of Volcanology and Seismology recorded three distinct, short-lived explosions in less than five minutes at Taa..."
-    },
-    {
       "title": "Engineers shrink powerful terahertz systems onto a single semiconductor chip",
       "link": "https://techxplore.com/news/2026-07-powerful-terahertz-semiconductor-chip.html",
       "source": "TechXplore",
@@ -341,42 +548,6 @@
       "time": "16 Jul, 11:05 PM",
       "type": "news",
       "description": "High-frequency waves classified as terahertz occupy a relatively underused region of the electromagnetic spectrum between infrared light and microwave..."
-    },
-    {
-      "title": "Hybrid material confirms antiferroelectricity can coexist with switchable polarization",
-      "link": "https://phys.org/news/2026-07-hybrid-material-antiferroelectricity-coexist-switchable.html",
-      "source": "Phys",
-      "sort_key": "2026-07-16T22:50:01+05:30",
-      "time": "16 Jul, 10:50 PM",
-      "type": "news",
-      "description": "Many of the advanced electronic components surrounding us in everyday life rely on polar materials to function. Polar materials have an uneven distrib..."
-    },
-    {
-      "title": "New science report could boost climate damage suits against oil giants",
-      "link": "https://phys.org/news/2026-07-science-boost-climate-oil-giants.html",
-      "source": "Phys",
-      "sort_key": "2026-07-16T22:40:01+05:30",
-      "time": "16 Jul, 10:40 PM",
-      "type": "news",
-      "description": "Climate lawsuits seeking massive damages from fossil fuel companies increasingly hinge on the question: How reliably can scientists pin specific extre..."
-    },
-    {
-      "title": "Pump that recreates human heartbeat blood flow on lab chips inspired by an accordionist",
-      "link": "https://phys.org/news/2026-07-recreates-human-heartbeat-blood-lab.html",
-      "source": "Phys",
-      "sort_key": "2026-07-16T22:30:03+05:30",
-      "time": "16 Jul, 10:30 PM",
-      "type": "news",
-      "description": "For more than 25 years, lab-on-a-chip technology has allowed researchers to model human organs and blood vessels using real human cells in artificial ..."
-    },
-    {
-      "title": "Climate change, urban growth fuel Lagos flooding",
-      "link": "https://phys.org/news/2026-07-climate-urban-growth-fuel-lagos.html",
-      "source": "Phys",
-      "sort_key": "2026-07-16T22:30:01+05:30",
-      "time": "16 Jul, 10:30 PM",
-      "type": "news",
-      "description": "After hours of torrential overnight rain lashed Lagos recently, church pastor Samuel Akpan spent most of the next day bailing water from his flooded p..."
     },
     {
       "title": "AI analysis links pavement conditions to crash risk",
@@ -595,6 +766,15 @@
       "description": "<a href=\"https://scitechdaily.com/scientists-solve-the-mystery-of-why-antarctica-froze-before-the-arctic/\" rel=\"nofollow\" title=\"Scientists Solve the ..."
     },
     {
+      "title": "Sun-like star caught after eating one of its own planets",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-07-16T16:22:02+05:30",
+      "time": "16 Jul, 04:22 PM",
+      "type": "news",
+      "description": "A distant Sun-like star appears to have devoured one of its planets, leaving behind a surprising chemical fingerprint. Researchers found an unusually ..."
+    },
+    {
       "title": "Atlantic Ocean Slowdown Could Supercharge California Storms",
       "link": "https://scitechdaily.com/atlantic-ocean-slowdown-could-supercharge-california-storms/",
       "source": "ScitechDaily",
@@ -638,51 +818,6 @@
       "time": "16 Jul, 02:40 PM",
       "type": "news",
       "description": "The European Union announced Wednesday that it had accepted a plan by Elon Musk's X social media platform to correct digital-content violations that l..."
-    },
-    {
-      "title": "For energy systems that power a reliable grid and avoid blackouts, the future is all about location",
-      "link": "https://techxplore.com/news/2026-07-energy-power-reliable-grid-blackouts.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T14:30:04+05:30",
-      "time": "16 Jul, 02:30 PM",
-      "type": "news",
-      "description": "Will a warming climate and changing weather patterns lead to more grid blackouts and other energy disruptions? Answering that question requires studyi..."
-    },
-    {
-      "title": "Germany's Delivery Hero agrees 12.7-bn-euro takeover by Uber",
-      "link": "https://techxplore.com/news/2026-07-germany-delivery-hero-bn-euro.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T14:20:03+05:30",
-      "time": "16 Jul, 02:20 PM",
-      "type": "news",
-      "description": "German food delivery group Delivery Hero said Thursday it has agreed to be acquired by U.S. ride-hailing giant Uber in a 12.7 billion euro ($14.6 bill..."
-    },
-    {
-      "title": "Taiwan computer chipmaker TSMC pledges another $100 billion to expand US chipmaking capacity",
-      "link": "https://techxplore.com/news/2026-07-taiwan-chipmaker-tsmc-pledges-billion.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T14:00:02+05:30",
-      "time": "16 Jul, 02:00 PM",
-      "type": "news",
-      "description": "Major Taiwan computer chipmaker TSMC said Thursday it plans to spend another $100 billion on expanding its manufacturing capacity in the United States..."
-    },
-    {
-      "title": "OpenAI fails to trademark name in EU",
-      "link": "https://techxplore.com/news/2026-07-openai-trademark-eu.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T13:53:12+05:30",
-      "time": "16 Jul, 01:53 PM",
-      "type": "news",
-      "description": "OpenAI, the owner of the ChatGPT chatbot, lost its appeal Wednesday against the EU's refusal to register its name as a trademark."
-    },
-    {
-      "title": "Fujitsu and leading Japanese robotics companies to use Nvidia technology in 'physical AI'",
-      "link": "https://techxplore.com/news/2026-07-fujitsu-japanese-robotics-companies-nvidia.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T13:47:51+05:30",
-      "time": "16 Jul, 01:47 PM",
-      "type": "news",
-      "description": "Japanese communications company Fujitsu is leading a major push in artificial intelligence using Nvidia's technology, bringing together what it said w..."
     },
     {
       "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
@@ -730,15 +865,6 @@
       "description": "<a href=\"https://scitechdaily.com/two-drinks-a-day-may-be-riskier-than-many-americans-think/\" rel=\"nofollow\" title=\"Two Drinks a Day May Be Riskier Th..."
     },
     {
-      "title": "20 years ago, China bet big on electric vehicles. Now Western carmakers are feeling the pain",
-      "link": "https://techxplore.com/news/2026-07-years-china-big-electric-vehicles.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T05:10:06+05:30",
-      "time": "16 Jul, 05:10 AM",
-      "type": "news",
-      "description": "In Germany, Japan and the United States, famous carmakers are in trouble. One reason is intense competition from Chinese electric vehicle manufacturer..."
-    },
-    {
       "title": "A Troubling Breast Cancer Trend Is Emerging in Asian American Communities",
       "link": "https://scitechdaily.com/a-troubling-breast-cancer-trend-is-emerging-in-asian-american-communities/",
       "source": "ScitechDaily",
@@ -773,33 +899,6 @@
       "time": "16 Jul, 01:22 AM",
       "type": "news",
       "description": "<p>Strive for better opportunities and cutting-edge skills</p>"
-    },
-    {
-      "title": "With machine learning, researchers embrace the atomic-scale complexity of batteries",
-      "link": "https://techxplore.com/news/2026-07-machine-embrace-atomic-scale-complexity.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T01:00:01+05:30",
-      "time": "16 Jul, 01:00 AM",
-      "type": "news",
-      "description": "For grid-scale energy storage and national energy resilience, the U.S. needs better batteries. Lawrence Livermore National Laboratory (LLNL) scientist..."
-    },
-    {
-      "title": "Human-machine learning boosts noninvasive brain-computer control in untrained users",
-      "link": "https://techxplore.com/news/2026-07-human-machine-boosts-noninvasive-brain.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T00:50:05+05:30",
-      "time": "16 Jul, 12:50 AM",
-      "type": "news",
-      "description": "Implantable devices in the brain have been used for about 30 years to assist people with disabilities in completing motor tasks. However, the devices ..."
-    },
-    {
-      "title": "AI remains unreliable as one-size-fits-all code security tool, comparison finds",
-      "link": "https://techxplore.com/news/2026-07-ai-unreliable-size-code-tool.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T00:30:04+05:30",
-      "time": "16 Jul, 12:30 AM",
-      "type": "news",
-      "description": "For a paper published in the International Journal of Applied Cryptography, a team compared 11 leading large language models (LLMs) for software secur..."
     },
     {
       "title": "The 2024 New Jersey meteorite contains amino acids",
@@ -890,60 +989,6 @@
       "time": "15 Jul, 06:30 PM",
       "type": "news",
       "description": "<p>Generative AI model designs DNA origami for any shape</p>"
-    },
-    {
-      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-      "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-15T17:40:00+05:30",
-      "time": "15 Jul, 05:40 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "NASA Unveils Technologies That Could Build the Future of the Moon and Mars",
-      "link": "https://scitechdaily.com/nasa-unveils-technologies-that-could-build-the-future-of-the-moon-and-mars/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-15T17:29:42+05:30",
-      "time": "15 Jul, 05:29 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/nasa-unveils-technologies-that-could-build-the-future-of-the-moon-and-mars/\" rel=\"nofollow\" title=\"NASA Unveils Tech..."
-    },
-    {
-      "title": "NASA Just Took a Major Step Toward Building a Moon Base",
-      "link": "https://scitechdaily.com/nasa-just-took-a-major-step-toward-building-a-moon-base/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-15T16:54:41+05:30",
-      "time": "15 Jul, 04:54 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/nasa-just-took-a-major-step-toward-building-a-moon-base/\" rel=\"nofollow\" title=\"NASA Just Took a Major Step Toward B..."
-    },
-    {
-      "title": "NASA\u2019s HiRISE Captures Perseverance Rover Completing a Marathon on Mars",
-      "link": "https://scitechdaily.com/nasas-hirise-captures-perseverance-rover-completing-a-marathon-on-mars/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-15T16:19:43+05:30",
-      "time": "15 Jul, 04:19 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/nasas-hirise-captures-perseverance-rover-completing-a-marathon-on-mars/\" rel=\"nofollow\" title=\"NASA&#8217;s HiRISE C..."
-    },
-    {
-      "title": "NASA selects 41 space technologies for future Moon and Mars exploration",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260713084855.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-15T13:13:02+05:30",
-      "time": "15 Jul, 01:13 PM",
-      "type": "news",
-      "description": "NASA has chosen 41 commercial technology projects that could solve critical challenges for future missions to the Moon and Mars. From powering lunar o..."
-    },
-    {
-      "title": "Astronomers just found four hidden white dwarf stars near Earth",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260714225528.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-15T12:00:25+05:30",
-      "time": "15 Jul, 12:00 PM",
-      "type": "news",
-      "description": "Four nearby white dwarf stars have been discovered hiding in plain sight beside brighter red dwarf companions. Hubble's ultraviolet observations final..."
     }
   ],
   "tweets": [
@@ -954,7 +999,7 @@
       "sort_key": "2026-07-17T06:31:35+05:30",
       "time": "17 Jul, 06:31 AM",
       "type": "tweets",
-      "content": "<p>Single-chip terahertz systems are now possible, with one quantum-well semiconductor platform generating, detecting, modulating and amplifying signals once handled by bulky separate parts. <a href=\"https://nitter.net/NatureComms\" title=\"Nature Communications\">@NatureComms</a> <a href=\"https://techxplore.com/news/2026-07-powerful-terahertz-semiconductor-chip.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-powerful-terahertz-semiconductor-chip.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2077921625517826048%2FOjZpMUnW%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Engineers shrink powerful terahertz systems onto a single semiconductor chip</b>\n</a>\n<p>High-frequency waves classified as terahertz occupy a relatively underused region of the electromagnetic spectrum between infrared light and microwaves. Researchers have long recognized their unique...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-powerful-terahertz-semiconductor-chip.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "content": "<p>Single-chip terahertz systems are now possible, with one quantum-well semiconductor platform generating, detecting, modulating and amplifying signals once handled by bulky separate parts. <a href=\"https://nitter.net/NatureComms\" title=\"Nature Communications\">@NatureComms</a> <a href=\"https://techxplore.com/news/2026-07-powerful-terahertz-semiconductor-chip.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-powerful-terahertz-semiconductor-chip.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2078088282731421696%2FinjlzzFZ%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Engineers shrink powerful terahertz systems onto a single semiconductor chip</b>\n</a>\n<p>High-frequency waves classified as terahertz occupy a relatively underused region of the electromagnetic spectrum between infrared light and microwaves. Researchers have long recognized their unique...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-powerful-terahertz-semiconductor-chip.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
     },
     {
@@ -1040,6 +1085,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

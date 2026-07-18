@@ -1,6 +1,141 @@
 {
   "news": [
     {
+      "title": "India successfully launches first private orbital rocket",
+      "link": "https://phys.org/news/2026-07-india-successfully-private-orbital-rocket.html",
+      "source": "Phys",
+      "sort_key": "2026-07-18T18:06:46+05:30",
+      "time": "18 Jul, 06:06 PM",
+      "type": "news",
+      "description": "India's first privately built orbital rocket took its maiden flight Saturday, its company said, marking a significant step for the South Asian giant a..."
+    },
+    {
+      "title": "How physics and mathematical modeling help us make better clothes",
+      "link": "https://phys.org/news/2026-07-physics-mathematical.html",
+      "source": "Phys",
+      "sort_key": "2026-07-18T18:00:01+05:30",
+      "time": "18 Jul, 06:00 PM",
+      "type": "news",
+      "description": "A new paper in the journal Nature Physics offers insights into the physics of liquid droplets\u2014and while many people may not appreciate the mathematica..."
+    },
+    {
+      "title": "The Propellantless Spacecraft Technologies That Could Help Us Reach the Stars",
+      "link": "https://scitechdaily.com/the-propellantless-spacecraft-technologies-that-could-help-us-reach-the-stars/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-18T17:44:42+05:30",
+      "time": "18 Jul, 05:44 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/the-propellantless-spacecraft-technologies-that-could-help-us-reach-the-stars/\" rel=\"nofollow\" title=\"The Propellant..."
+    },
+    {
+      "title": "AI unlocks QLED recipe that doubles efficiency and boosts lifetime 40-fold",
+      "link": "https://phys.org/news/2026-07-ai-qled-recipe-efficiency-boosts.html",
+      "source": "Phys",
+      "sort_key": "2026-07-18T17:30:09+05:30",
+      "time": "18 Jul, 05:30 PM",
+      "type": "news",
+      "description": "A technology has been developed that allows artificial intelligence to inversely determine the process conditions for quantum-dot light-emitting diode..."
+    },
+    {
+      "title": "Professor pushes computers to solve 'unsolvable' problems",
+      "link": "https://techxplore.com/news/2026-07-professor-unsolvable-problems.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-18T17:30:07+05:30",
+      "time": "18 Jul, 05:30 PM",
+      "type": "news",
+      "description": "Don't underestimate the power of a yes-or-no question. Some of the toughest computing problems boil down to thousands of tiny yes-or-no decisions. Fin..."
+    },
+    {
+      "title": "3D-printed bridge points the way to greener construction",
+      "link": "https://techxplore.com/news/2026-07-3d-bridge-greener.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-18T17:30:01+05:30",
+      "time": "18 Jul, 05:30 PM",
+      "type": "news",
+      "description": "Concrete is the most widely used building material on Earth, and producing it is one of the largest single sources of carbon emissions. One promising ..."
+    },
+    {
+      "title": "New Black Hole Theory Solves a 50-Year-Old Problem",
+      "link": "https://scitechdaily.com/new-black-hole-theory-solves-a-50-year-old-problem/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-18T17:09:36+05:30",
+      "time": "18 Jul, 05:09 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/new-black-hole-theory-solves-a-50-year-old-problem/\" rel=\"nofollow\" title=\"New Black Hole Theory Solves a 50-Year-Ol..."
+    },
+    {
+      "title": "China\u2019s Tianwen-1 Captures Rare Close-Up Images of Interstellar Comet 3I/ATLAS",
+      "link": "https://scitechdaily.com/chinas-tianwen-1-captures-rare-close-up-images-of-interstellar-comet-3i-atlas/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-18T16:34:39+05:30",
+      "time": "18 Jul, 04:34 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/chinas-tianwen-1-captures-rare-close-up-images-of-interstellar-comet-3i-atlas/\" rel=\"nofollow\" title=\"China\u2019s Tianwe..."
+    },
+    {
+      "title": "Who owns your bones?",
+      "link": "https://www.sciencenews.org/article/who-owns-your-bones-ed-note-august-2026",
+      "source": "Sciencenews",
+      "sort_key": "2026-07-18T16:30:00+05:30",
+      "time": "18 Jul, 04:30 PM",
+      "type": "news",
+      "description": "Editor in Chief Nancy Shute discusses the history of unethical practices in research on human remains and the progress toward more ethical standards."
+    },
+    {
+      "title": "UN to list more sites as 'in danger' from conflict or climate change",
+      "link": "https://phys.org/news/2026-07-sites-danger-conflict-climate.html",
+      "source": "Phys",
+      "sort_key": "2026-07-18T14:30:01+05:30",
+      "time": "18 Jul, 02:30 PM",
+      "type": "news",
+      "description": "The United Nations looks set to list a Biblical site, Lebanese castles, an antelope migration path and the world's deepest lake as world treasures und..."
+    },
+    {
+      "title": "Wildfire smoke from Canada and Minnesota pushes farther into the US and engulfs DC in haze",
+      "link": "https://phys.org/news/2026-07-wildfire-canada-minnesota-engulfs-dc.html",
+      "source": "Phys",
+      "sort_key": "2026-07-18T14:00:04+05:30",
+      "time": "18 Jul, 02:00 PM",
+      "type": "news",
+      "description": "Millions of people in the Great Lakes, Northeast and Mid-Atlantic states muddled through another day of unhealthy air from uncontrolled wildfires on F..."
+    },
+    {
+      "title": "'Chainsaw massacre': Europe mulls culls for fish-guzzling cormorant",
+      "link": "https://phys.org/news/2026-07-chainsaw-massacre-europe-mulls-culls.html",
+      "source": "Phys",
+      "sort_key": "2026-07-18T13:50:03+05:30",
+      "time": "18 Jul, 01:50 PM",
+      "type": "news",
+      "description": "Europe's great cormorant has recovered from near extinction to overabundance in half a century, stoking a long-running debate over population control ..."
+    },
+    {
+      "title": "New hybrid positioning system promises reliable tracking where GPS fails",
+      "link": "https://techxplore.com/news/2026-07-hybrid-positioning-reliable-tracking-gps.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-18T13:44:19+05:30",
+      "time": "18 Jul, 01:44 PM",
+      "type": "news",
+      "description": "In a new study presented at the IEEE International Conference on Communications in Glasgow, researchers from Queen Mary University of London and partn..."
+    },
+    {
+      "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
+      "link": "https://techxplore.com/news/2026-07-chinese-ai-tech-industry-abilities.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-18T13:36:24+05:30",
+      "time": "18 Jul, 01:36 PM",
+      "type": "news",
+      "description": "Another powerful new artificial intelligence model from China took the U.S. tech industry by surprise Friday, the latest sign that Chinese startups th..."
+    },
+    {
+      "title": "Far above the Earth, NASA's Apollo lunar lander put astronauts on the moon",
+      "link": "https://phys.org/news/2026-07-earth-nasa-apollo-lunar-lander.html",
+      "source": "Phys",
+      "sort_key": "2026-07-18T13:30:34+05:30",
+      "time": "18 Jul, 01:30 PM",
+      "type": "news",
+      "description": "America's most daring, extraordinary feat\u2014landing astronauts on the moon\u2014remains the pinnacle of achievement by anyone anywhere. Ever."
+    },
+    {
       "title": "FCC approves first launch for space reflector constellation",
       "link": "https://phys.org/news/2026-07-fcc-space-reflector-constellation.html",
       "source": "Phys",
@@ -34,7 +169,7 @@
       "sort_key": "2026-07-18T05:51:11+05:30",
       "time": "18 Jul, 05:51 AM",
       "type": "news",
-      "description": "A negative scan does not always mean recurrent prostate cancer is nowhere to be found. Sometimes, the disease may simply be too small or too faint to ..."
+      "description": "<a href=\"https://scitechdaily.com/second-psma-pet-scan-finds-hidden-prostate-cancer-in-56-of-patients/\" rel=\"nofollow\" title=\"Second PSMA PET Scan Fin..."
     },
     {
       "title": "Scale can measure university students' confidence in using AI",
@@ -316,42 +451,6 @@
       "description": "Despite burning hundreds of miles away, Canadian wildfires have become a familiar source of disruption in New York state."
     },
     {
-      "title": "AI\u2011designed gene\u2011editing enzymes expand the CRISPR toolbox",
-      "link": "https://phys.org/news/2026-07-aidesigned-geneediting-enzymes-crispr-toolbox.html",
-      "source": "Phys",
-      "sort_key": "2026-07-17T22:29:19+05:30",
-      "time": "17 Jul, 10:29 PM",
-      "type": "news",
-      "description": "Scientists have made many advances using traditional CRISPR technology, especially in medicine, but they are now seeking ways to create genuinely new ..."
-    },
-    {
-      "title": "Tooth enamel reveals the origins of African slaves buried on St Helena",
-      "link": "https://phys.org/news/2026-07-tooth-enamel-reveals-african-slaves.html",
-      "source": "Phys",
-      "sort_key": "2026-07-17T22:10:04+05:30",
-      "time": "17 Jul, 10:10 PM",
-      "type": "news",
-      "description": "In the mid-19th century, the remote island of St. Helena, located about 1,200 miles (1,900 kilometers) off the southwestern coast of Africa, became a ..."
-    },
-    {
-      "title": "Researchers identify 'dimmer switch' for plants' immune system",
-      "link": "https://phys.org/news/2026-07-dimmer-immune.html",
-      "source": "Phys",
-      "sort_key": "2026-07-17T21:50:01+05:30",
-      "time": "17 Jul, 09:50 PM",
-      "type": "news",
-      "description": "As sulfur becomes increasingly scarce in soils worldwide, scientists are studying how plants decide whether to invest limited resources in growth or d..."
-    },
-    {
-      "title": "New study defines conditions for successful long-term biodiversity net gain",
-      "link": "https://phys.org/news/2026-07-conditions-successful-term-biodiversity-net.html",
-      "source": "Phys",
-      "sort_key": "2026-07-17T21:40:02+05:30",
-      "time": "17 Jul, 09:40 PM",
-      "type": "news",
-      "description": "A new study identifying the ecological conditions needed for biodiversity offsetting to achieve conservation goals could provide important guidance fo..."
-    },
-    {
       "title": "Brain Breakthrough Could Help Older Adults Live Longer and Stay Steady",
       "link": "https://scitechdaily.com/brain-breakthrough-could-help-older-adults-live-longer-and-stay-steady/",
       "source": "ScitechDaily",
@@ -359,15 +458,6 @@
       "time": "17 Jul, 09:35 PM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/brain-breakthrough-could-help-older-adults-live-longer-and-stay-steady/\" rel=\"nofollow\" title=\"Brain Breakthrough Co..."
-    },
-    {
-      "title": "Reptile fossil found in Brazil helps shed light on the common origins of dinosaurs and crocodiles",
-      "link": "https://phys.org/news/2026-07-reptile-fossil-brazil-common-dinosaurs.html",
-      "source": "Phys",
-      "sort_key": "2026-07-17T21:30:01+05:30",
-      "time": "17 Jul, 09:30 PM",
-      "type": "news",
-      "description": "Long before dinosaurs ruled the continents and modern crocodiles first appeared, their ancestors were already going through a decisive phase in their ..."
     },
     {
       "title": "Video Friday: Your Robot Surgeon Will See You Now",
@@ -386,24 +476,6 @@
       "time": "17 Jul, 09:30 PM",
       "type": "news",
       "description": "The lab-made cells open a window into what\u2019s possible for synthetic life, researchers say."
-    },
-    {
-      "title": "Wildfire smoke kills tens of thousands of people a year. Here's how it attacks the body",
-      "link": "https://phys.org/news/2026-07-wildfire-tens-thousands-people-year.html",
-      "source": "Phys",
-      "sort_key": "2026-07-17T21:10:04+05:30",
-      "time": "17 Jul, 09:10 PM",
-      "type": "news",
-      "description": "Smoke from wildfires\u2014which are burning more of the Northern Hemisphere as Earth warms\u2014attacks nearly every system in the human body, killing tens of t..."
-    },
-    {
-      "title": "Thinner wires, faster electrons: Quantum material challenges copper at chip scale",
-      "link": "https://phys.org/news/2026-07-thinner-wires-faster-electrons-quantum.html",
-      "source": "Phys",
-      "sort_key": "2026-07-17T21:10:01+05:30",
-      "time": "17 Jul, 09:10 PM",
-      "type": "news",
-      "description": "Electrical interconnects may very well be the unsung heroes of modern microchips. These tiny wires\u2014typically made of copper due to its high conductivi..."
     },
     {
       "title": "Global Cancer Cases Could Surge 67% by 2050, New Report Warns",
@@ -784,33 +856,6 @@
       "description": "Millions of people are now designing their own personalized artificial intelligence companions, yet most have little idea how those creations will act..."
     },
     {
-      "title": "EU forces Google to share search data and open Android to rival AI companies",
-      "link": "https://techxplore.com/news/2026-07-eu-google-android-rival-ai.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T21:10:04+05:30",
-      "time": "16 Jul, 09:10 PM",
-      "type": "news",
-      "description": "The European Union issued two new rules for Google on Thursday to force it to share search data and open up its Android operating system to rival AI c..."
-    },
-    {
-      "title": "Why the actual fuel consumption of plug-in hybrids is often higher",
-      "link": "https://techxplore.com/news/2026-07-actual-fuel-consumption-hybrids-higher.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T20:50:13+05:30",
-      "time": "16 Jul, 08:50 PM",
-      "type": "news",
-      "description": "Vehicles with plug-in hybrid drives are intended to facilitate the transition to electric mobility. They can cover shorter distances purely on electri..."
-    },
-    {
-      "title": "Facial movement analysis detects deepfake videos with more than 95% accuracy",
-      "link": "https://techxplore.com/news/2026-07-facial-movement-analysis-deepfake-videos.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T20:50:09+05:30",
-      "time": "16 Jul, 08:50 PM",
-      "type": "news",
-      "description": "So-called deepfakes, that is, images and videos generated with the help of artificial intelligence, are becoming increasingly difficult to detect. An ..."
-    },
-    {
       "title": "A 24-Hour Fast Activates a Microbial Pathway That Helps Heal the Gut",
       "link": "https://scitechdaily.com/a-24-hour-fast-activates-a-microbial-pathway-that-helps-heal-the-gut/",
       "source": "ScitechDaily",
@@ -818,15 +863,6 @@
       "time": "16 Jul, 08:37 PM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/a-24-hour-fast-activates-a-microbial-pathway-that-helps-heal-the-gut/\" rel=\"nofollow\" title=\"A 24-Hour Fast Activate..."
-    },
-    {
-      "title": "Bacterial cellulose offers sustainable path for high-performance energy storage, highlights study",
-      "link": "https://techxplore.com/news/2026-07-bacterial-cellulose-sustainable-path-high.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-16T20:30:08+05:30",
-      "time": "16 Jul, 08:30 PM",
-      "type": "news",
-      "description": "As energy storage technologies continue to evolve, applications\u2014from portable electronics to wearable devices and electric vehicles\u2014require systems th..."
     },
     {
       "title": "Brighter Days May Lead to Deeper, Better Sleep",
@@ -854,96 +890,6 @@
       "time": "16 Jul, 07:27 PM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/the-hidden-tradeoff-behind-todays-most-powerful-weight-loss-drugs/\" rel=\"nofollow\" title=\"The Hidden Tradeoff Behind..."
-    },
-    {
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-16T17:40:00+05:30",
-      "time": "16 Jul, 05:40 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
-      "link": "https://spectrum.ieee.org/fishery-satellite-surveillance",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-07-16T17:30:01+05:30",
-      "time": "16 Jul, 05:30 PM",
-      "type": "news",
-      "description": "<p>From vessel tracking to algorithmic enforcement, a surveillance revolution is transforming marine governance</p>"
-    },
-    {
-      "title": "An ancient Maya astronomer finally has a name",
-      "link": "https://www.sciencenews.org/article/ancient-maya-astronomer-name-sak-tahn-waax",
-      "source": "Sciencenews",
-      "sort_key": "2026-07-16T17:30:00+05:30",
-      "time": "16 Jul, 05:30 PM",
-      "type": "news",
-      "description": "A Maya calendar formula bears the name Sak Tahn Waax, the first known Classic Maya mathematician-astronomer directly credited for such work."
-    },
-    {
-      "title": "Morning Glories May Be Losing the Race Against Climate Change",
-      "link": "https://scitechdaily.com/morning-glories-may-be-losing-the-race-against-climate-change/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-16T17:09:44+05:30",
-      "time": "16 Jul, 05:09 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/morning-glories-may-be-losing-the-race-against-climate-change/\" rel=\"nofollow\" title=\"Morning Glories May Be Losing ..."
-    },
-    {
-      "title": "Scientists Solve the Mystery of Why Antarctica Froze Before the Arctic",
-      "link": "https://scitechdaily.com/scientists-solve-the-mystery-of-why-antarctica-froze-before-the-arctic/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-16T16:34:54+05:30",
-      "time": "16 Jul, 04:34 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-solve-the-mystery-of-why-antarctica-froze-before-the-arctic/\" rel=\"nofollow\" title=\"Scientists Solve the ..."
-    },
-    {
-      "title": "Sun-like star caught after eating one of its own planets",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-16T16:22:02+05:30",
-      "time": "16 Jul, 04:22 PM",
-      "type": "news",
-      "description": "A distant Sun-like star appears to have devoured one of its planets, leaving behind a surprising chemical fingerprint. Researchers found an unusually ..."
-    },
-    {
-      "title": "Atlantic Ocean Slowdown Could Supercharge California Storms",
-      "link": "https://scitechdaily.com/atlantic-ocean-slowdown-could-supercharge-california-storms/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-16T15:59:50+05:30",
-      "time": "16 Jul, 03:59 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/atlantic-ocean-slowdown-could-supercharge-california-storms/\" rel=\"nofollow\" title=\"Atlantic Ocean Slowdown Could Su..."
-    },
-    {
-      "title": "Grid Operators Weigh High-Voltage DC Power for Data Centers",
-      "link": "https://spectrum.ieee.org/800-vdc-for-data-centers",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-07-16T15:30:02+05:30",
-      "time": "16 Jul, 03:30 PM",
-      "type": "news",
-      "description": "<p>Nvidia and data center industry clamor for 800 VDC</p>"
-    },
-    {
-      "title": "Why heat pumps are still so hot in the US",
-      "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-16T15:30:00+05:30",
-      "time": "16 Jul, 03:30 PM",
-      "type": "news",
-      "description": "It feels as if it should be illegal to even think about heating appliances during the height of summer\u2014seriously, these heat waves in New York have be..."
-    },
-    {
-      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-16T09:46:48+05:30",
-      "time": "16 Jul, 09:46 AM",
-      "type": "news",
-      "description": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. ..."
     }
   ],
   "tweets": [
@@ -1049,6 +995,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

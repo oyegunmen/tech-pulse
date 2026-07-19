@@ -1,6 +1,132 @@
 {
   "news": [
     {
+      "title": "Hybrid work blurs the line between work and home\u2014here's how couples can set boundaries",
+      "link": "https://phys.org/news/2026-07-hybrid-blurs-line-home-couples.html",
+      "source": "Phys",
+      "sort_key": "2026-07-19T18:00:01+05:30",
+      "time": "19 Jul, 06:00 PM",
+      "type": "news",
+      "description": "Hybrid work has brought many real benefits. Greater flexibility can make it easier to manage work alongside family responsibilities, personal commitme..."
+    },
+    {
+      "title": "Physicists Just Turned a Black Hole Energy Theory Into Reality",
+      "link": "https://scitechdaily.com/physicists-just-turned-a-black-hole-energy-theory-into-reality/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-19T17:48:51+05:30",
+      "time": "19 Jul, 05:48 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/physicists-just-turned-a-black-hole-energy-theory-into-reality/\" rel=\"nofollow\" title=\"Physicists Just Turned a Blac..."
+    },
+    {
+      "title": "New AR display tech boosts real\u2011world visibility while keeping virtual objects lifelike",
+      "link": "https://techxplore.com/news/2026-07-ar-display-tech-boosts-realworld.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-19T17:30:04+05:30",
+      "time": "19 Jul, 05:30 PM",
+      "type": "news",
+      "description": "Optical see-through augmented reality (AR) glasses are designed to overlay digital information onto the real world, but improving the realism of virtu..."
+    },
+    {
+      "title": "Plants that make real dairy protein? Scientists discover an unexpected shortcut",
+      "link": "https://phys.org/news/2026-07-real-dairy-protein-scientists-unexpected.html",
+      "source": "Phys",
+      "sort_key": "2026-07-19T17:30:01+05:30",
+      "time": "19 Jul, 05:30 PM",
+      "type": "news",
+      "description": "What if the plants growing in a field could one day produce the same proteins that give milk its nutrition, texture and cheese-making properties? A ne..."
+    },
+    {
+      "title": "Cortisol Could Be the Next Frontier for Wearables",
+      "link": "https://spectrum.ieee.org/cortisol-continuous-monitor-wearable",
+      "source": "IEEE Spectrum",
+      "sort_key": "2026-07-19T17:30:01+05:30",
+      "time": "19 Jul, 05:30 PM",
+      "type": "news",
+      "description": "<p>A DNA-sensor patch reads the stress hormone minute-by-minute</p>"
+    },
+    {
+      "title": "Observations investigate the nature of a peculiar supernova",
+      "link": "https://phys.org/news/2026-07-nature-peculiar-supernova.html",
+      "source": "Phys",
+      "sort_key": "2026-07-19T16:30:01+05:30",
+      "time": "19 Jul, 04:30 PM",
+      "type": "news",
+      "description": "An international team of astronomers has performed follow-up observations of a peculiar Type Ia supernova designated SN 2023vjh. Results of the observ..."
+    },
+    {
+      "title": "State anti-DEI laws alter the graduate student experience, study finds",
+      "link": "https://phys.org/news/2026-07-state-anti-dei-laws-student.html",
+      "source": "Phys",
+      "sort_key": "2026-07-19T16:00:01+05:30",
+      "time": "19 Jul, 04:00 PM",
+      "type": "news",
+      "description": "A new study by University of Delaware professor Jarett Haley and others explored how racially minoritized graduate students understood the impacts of ..."
+    },
+    {
+      "title": "Energy price shocks slow state economies; spur energy efficiency investments",
+      "link": "https://phys.org/news/2026-07-energy-price-state-economies-spur.html",
+      "source": "Phys",
+      "sort_key": "2026-07-19T15:10:04+05:30",
+      "time": "19 Jul, 03:10 PM",
+      "type": "news",
+      "description": "Rising energy prices in the U.S. reduce states' economic output, but they also prompt investments in more efficient equipment and technologies that pa..."
+    },
+    {
+      "title": "Image: The growing crescent of Mars as NASA's psyche mission approaches",
+      "link": "https://phys.org/news/2026-07-image-crescent-mars-nasa-psyche.html",
+      "source": "Phys",
+      "sort_key": "2026-07-19T15:10:01+05:30",
+      "time": "19 Jul, 03:10 PM",
+      "type": "news",
+      "description": "This composite of images taken by NASA's Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist f..."
+    },
+    {
+      "title": "NASA pushes new wing design to find structural limits",
+      "link": "https://techxplore.com/news/2026-07-nasa-wing-limits.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-19T14:40:01+05:30",
+      "time": "19 Jul, 02:40 PM",
+      "type": "news",
+      "description": "NASA researchers recently put a new wing design, long and thin with a lightweight structure, through a series of grueling tests to find its structural..."
+    },
+    {
+      "title": "Pocket-size AI: Powerful phones star at China show",
+      "link": "https://techxplore.com/news/2026-07-pocket-size-ai-powerful-star.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-19T14:20:02+05:30",
+      "time": "19 Jul, 02:20 PM",
+      "type": "news",
+      "description": "Tech firms are racing to roll out advanced smartphones that use artificial intelligence to do everything from ordering food to composing messages with..."
+    },
+    {
+      "title": "Wildfire haze hangs over eastern US\u2014and World Cup final",
+      "link": "https://phys.org/news/2026-07-wildfire-haze-eastern-world-cup.html",
+      "source": "Phys",
+      "sort_key": "2026-07-19T14:09:36+05:30",
+      "time": "19 Jul, 02:09 PM",
+      "type": "news",
+      "description": "Heavy, acrid wildfire smoke blanketed much of the eastern United States on Saturday, marring preparations for the weekend's highly anticipated World C..."
+    },
+    {
+      "title": "China's Kimi K3 rattles US AI industry",
+      "link": "https://techxplore.com/news/2026-07-china-kimi-k3-rattles-ai.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-19T13:10:02+05:30",
+      "time": "19 Jul, 01:10 PM",
+      "type": "news",
+      "description": "Kimi K3, a new artificial intelligence program from a Chinese startup called Moonshot AI, stunned the U.S. tech industry on Friday, setting off fresh ..."
+    },
+    {
+      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-07-19T09:52:00+05:30",
+      "time": "19 Jul, 09:52 AM",
+      "type": "news",
+      "description": "The asteroid that wiped out the dinosaurs was likely an exceptionally rare CO chondrite from a distant region of the solar system. Its unusual chemist..."
+    },
+    {
       "title": "NASA Reveals the Black Sea\u2019s Stunning Annual Turquoise Transformation",
       "link": "https://scitechdaily.com/nasa-reveals-the-black-seas-stunning-annual-turquoise-transformation/",
       "source": "ScitechDaily",
@@ -406,24 +532,6 @@
       "description": "Reflect Orbital moves ahead with the company's first E\u00e4rendil launch amid concerns from the astronomical community."
     },
     {
-      "title": "South African genomics projects direct 10% of budgets to community-chosen benefits",
-      "link": "https://phys.org/news/2026-07-south-african-genomics-community-chosen.html",
-      "source": "Phys",
-      "sort_key": "2026-07-18T07:50:01+05:30",
-      "time": "18 Jul, 07:50 AM",
-      "type": "news",
-      "description": "South Africa is pioneering new ways to embed ethical benefit sharing in genomics research through community-led decision-making. Speaking at the World..."
-    },
-    {
-      "title": "Researchers create strong 'super silk' that maintains shape after wetting",
-      "link": "https://phys.org/news/2026-07-strong-super-silk.html",
-      "source": "Phys",
-      "sort_key": "2026-07-18T06:50:01+05:30",
-      "time": "18 Jul, 06:50 AM",
-      "type": "news",
-      "description": "Painstakingly woven from the cocoons of silkworms, silk has been valued for more than 4,000 years as a luxury material. More than just beautiful, silk..."
-    },
-    {
       "title": "Second PSMA PET Scan Finds Hidden Prostate Cancer in 56% of Patients",
       "link": "https://scitechdaily.com/second-psma-pet-scan-finds-hidden-prostate-cancer-in-56-of-patients/",
       "source": "ScitechDaily",
@@ -431,15 +539,6 @@
       "time": "18 Jul, 05:51 AM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/second-psma-pet-scan-finds-hidden-prostate-cancer-in-56-of-patients/\" rel=\"nofollow\" title=\"Second PSMA PET Scan Fin..."
-    },
-    {
-      "title": "Scale can measure university students' confidence in using AI",
-      "link": "https://phys.org/news/2026-07-scale-university-students-confidence-ai.html",
-      "source": "Phys",
-      "sort_key": "2026-07-18T05:50:01+05:30",
-      "time": "18 Jul, 05:50 AM",
-      "type": "news",
-      "description": "A study conducted at Ko\u00e7 University School of Nursing examined university students' perceived self-efficacy in using artificial intelligence technolog..."
     },
     {
       "title": "Researchers Warn Rising CO\u2082 May Already Be Changing Human Blood Chemistry",
@@ -460,15 +559,6 @@
       "description": "Every summer, cities around the world host car-free days and temporarily pedestrianize streets. Following their success elsewhere, temporary pedestria..."
     },
     {
-      "title": "Researcher finds several UK mosquito species are potential carriers of avian malaria",
-      "link": "https://phys.org/news/2026-07-uk-mosquito-species-potential-carriers.html",
-      "source": "Phys",
-      "sort_key": "2026-07-18T04:50:01+05:30",
-      "time": "18 Jul, 04:50 AM",
-      "type": "news",
-      "description": "Mosquitoes are widely known for transmitting diseases such as malaria and dengue fever to humans, but less is known about the diseases they can transm..."
-    },
-    {
       "title": "Scientists Discover a Surprising Way To Protect the Brain: Less Oxygen",
       "link": "https://scitechdaily.com/scientists-discover-a-surprising-way-to-protect-the-brain-less-oxygen/",
       "source": "ScitechDaily",
@@ -476,24 +566,6 @@
       "time": "18 Jul, 04:41 AM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/scientists-discover-a-surprising-way-to-protect-the-brain-less-oxygen/\" rel=\"nofollow\" title=\"Scientists Discover a ..."
-    },
-    {
-      "title": "Study finds high school track experience gives baseball players an edge MLB teams overlook",
-      "link": "https://phys.org/news/2026-07-high-school-track-baseball-players.html",
-      "source": "Phys",
-      "sort_key": "2026-07-18T04:10:02+05:30",
-      "time": "18 Jul, 04:10 AM",
-      "type": "news",
-      "description": "A new study by a University of Florida sport management professor and colleagues challenges long-held assumptions about how young athletes should trai..."
-    },
-    {
-      "title": "Tuberculosis drug discovery gets smarter with AI",
-      "link": "https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html",
-      "source": "Phys",
-      "sort_key": "2026-07-18T03:10:03+05:30",
-      "time": "18 Jul, 03:10 AM",
-      "type": "news",
-      "description": "When researchers screen potential tuberculosis drugs, they often end up with too many options. Some look promising but later prove to be costly dead e..."
     },
     {
       "title": "Opposition to data centers grows in cramped urban Japan",
@@ -512,15 +584,6 @@
       "time": "18 Jul, 02:56 AM",
       "type": "news",
       "description": "Parasite-induced cases of explosive diarrhea are sweeping the United States. Containing the outbreak won\u2019t be easy."
-    },
-    {
-      "title": "Herbularyo card game blends Filipino folklore and organic chemistry",
-      "link": "https://phys.org/news/2026-07-herbularyo-card-game-blends-filipino.html",
-      "source": "Phys",
-      "sort_key": "2026-07-18T02:10:03+05:30",
-      "time": "18 Jul, 02:10 AM",
-      "type": "news",
-      "description": "Medicinal plants have long been a cornerstone of Philippine traditional medicine, dating back generations. Tawa-tawa, a low-growing herb that thrives ..."
     },
     {
       "title": "Blue Light Breakthrough Could Speed Up Drug Discovery",
@@ -683,168 +746,6 @@
       "time": "17 Jul, 06:30 PM",
       "type": "news",
       "description": "Georgia's $41 billion forest products industry needs a transformation, and a Georgia Tech research team is reimagining how pulp mills use energy and w..."
-    },
-    {
-      "title": "The Download: perimenopause misinformation and China\u2019s latest AI leap",
-      "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-17T17:40:00+05:30",
-      "time": "17 Jul, 05:40 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "Startups bet on AI\u2014and a leaner future",
-      "link": "https://techxplore.com/news/2026-07-startups-ai-leaner-future.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-17T17:30:03+05:30",
-      "time": "17 Jul, 05:30 PM",
-      "type": "news",
-      "description": "When Eric Lauer needs to hire at Giftory, the online gift-giving platform he runs, he's no longer looking for eager young coders fresh out of college."
-    },
-    {
-      "title": "Math puzzle: A sequence of odd events",
-      "link": "https://www.sciencenews.org/article/math-puzzle-2026-august-odd-family",
-      "source": "Sciencenews",
-      "sort_key": "2026-07-17T17:30:00+05:30",
-      "time": "17 Jul, 05:30 PM",
-      "type": "news",
-      "description": "Solve the math puzzle from our August 2026 issue, in which a family investigates an odd happening."
-    },
-    {
-      "title": "New Fossil Study Challenges the Classic Story of Human Evolution",
-      "link": "https://scitechdaily.com/new-fossil-study-challenges-the-classic-story-of-human-evolution/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-17T17:21:25+05:30",
-      "time": "17 Jul, 05:21 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/new-fossil-study-challenges-the-classic-story-of-human-evolution/\" rel=\"nofollow\" title=\"New Fossil Study Challenges..."
-    },
-    {
-      "title": "From coal pits to wind turbines, Polish miners rise to the occasion",
-      "link": "https://techxplore.com/news/2026-07-coal-pits-turbines-miners-occasion.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-17T17:10:04+05:30",
-      "time": "17 Jul, 05:10 PM",
-      "type": "news",
-      "description": "From the top of a wind turbine nearly 100 meters (330 feet) above the ground, Grzegorz Witek, a coal miner, gazes at the horizon."
-    },
-    {
-      "title": "New zinc slurry battery could store clean energy for longer",
-      "link": "https://techxplore.com/news/2026-07-zinc-slurry-battery-energy-longer.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-17T16:50:05+05:30",
-      "time": "17 Jul, 04:50 PM",
-      "type": "news",
-      "description": "Solar panels, wind turbines and other renewable energy technologies are becoming increasingly widespread worldwide. Most of these technologies generat..."
-    },
-    {
-      "title": "The Surprising Chocolate Trick That Could Boost Your Gym Performance",
-      "link": "https://scitechdaily.com/the-surprising-chocolate-trick-that-could-boost-your-gym-performance/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-17T16:46:12+05:30",
-      "time": "17 Jul, 04:46 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/the-surprising-chocolate-trick-that-could-boost-your-gym-performance/\" rel=\"nofollow\" title=\"The Surprising Chocolat..."
-    },
-    {
-      "title": "6 Simple Scent Games That Can Make Your Dog Happier",
-      "link": "https://scitechdaily.com/6-simple-scent-games-that-can-make-your-dog-happier/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-17T16:11:30+05:30",
-      "time": "17 Jul, 04:11 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/6-simple-scent-games-that-can-make-your-dog-happier/\" rel=\"nofollow\" title=\"6 Simple Scent Games That Can Make Your ..."
-    },
-    {
-      "title": "China's Moonshot AI chases 'DeepSeek moment' with much-hyped model",
-      "link": "https://techxplore.com/news/2026-07-china-moonshot-ai-deepseek-moment.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-17T15:30:01+05:30",
-      "time": "17 Jul, 03:30 PM",
-      "type": "news",
-      "description": "A model released Friday by Chinese startup Moonshot AI has fueled buzz around the country's tech prowess, as experts said it could rival some of the m..."
-    },
-    {
-      "title": "India launches first hydrogen-powered train in clean energy push",
-      "link": "https://techxplore.com/news/2026-07-india-hydrogen-powered-energy.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-17T15:20:01+05:30",
-      "time": "17 Jul, 03:20 PM",
-      "type": "news",
-      "description": "India launched its first hydrogen-powered train Friday, joining a small group of nations testing the technology as part of efforts to decarbonize rail..."
-    },
-    {
-      "title": "China's Xi says AI should not be dominated by one country",
-      "link": "https://techxplore.com/news/2026-07-china-xi-ai-dominated-country.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-17T15:10:02+05:30",
-      "time": "17 Jul, 03:10 PM",
-      "type": "news",
-      "description": "Artificial intelligence should not be dominated by a single country, China's President Xi Jinping said Friday at a major technology conference in Shan..."
-    },
-    {
-      "title": "India launches first hydrogen-powered train built in the country to expand clean energy on railways",
-      "link": "https://techxplore.com/news/2026-07-india-hydrogen-powered-built-country.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-17T14:50:01+05:30",
-      "time": "17 Jul, 02:50 PM",
-      "type": "news",
-      "description": "India rolled out its first domestically built, hydrogen-powered train on Friday, a move aimed at expanding the use of clean energy in its vast rail ne..."
-    },
-    {
-      "title": "Fed probe suggests Tesla's self-driving feature wasn't to blame in crash that killed a grandmother",
-      "link": "https://techxplore.com/news/2026-07-fed-probe-tesla-feature-wasnt.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-17T14:37:26+05:30",
-      "time": "17 Jul, 02:37 PM",
-      "type": "news",
-      "description": "Federal safety investigators looking into a runaway Tesla that killed a grandmother in her home say the driver had pressed the accelerator to full spe..."
-    },
-    {
-      "title": "Researchers develop prototype thin-film electronics that can dock and undock themselves",
-      "link": "https://techxplore.com/news/2026-07-prototype-thin-electronics-dock-undock.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-17T14:30:02+05:30",
-      "time": "17 Jul, 02:30 PM",
-      "type": "news",
-      "description": "Publishing in the journal npj Flexible Electronics, researchers from Kyushu University have developed prototype thin-film electronic modules that can ..."
-    },
-    {
-      "title": "There\u2019s a lot of hype around perimenopause. Don\u2019t buy it.",
-      "link": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-17T14:30:00+05:30",
-      "time": "17 Jul, 02:30 PM",
-      "type": "news",
-      "description": "Perimenopause has entered the chat. Perimenopause\u2014and its better-known relative, menopause\u2014used to be considered taboo. Not anymore, thanks at least i..."
-    },
-    {
-      "title": "The risk of weather data sabotage is rising",
-      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-17T14:27:32+05:30",
-      "time": "17 Jul, 02:27 PM",
-      "type": "news",
-      "description": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While the..."
-    },
-    {
-      "title": "Scientists built a camera that can track invisible particles in 3D",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-17T11:34:57+05:30",
-      "time": "17 Jul, 11:34 AM",
-      "type": "news",
-      "description": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a ligh..."
-    },
-    {
-      "title": "Ancient Egyptian princesses knew their way around weapons of war",
-      "link": "https://www.sciencenews.org/article/ancient-egyptian-princesses-weapons-war",
-      "source": "Sciencenews",
-      "sort_key": "2026-07-17T09:30:00+05:30",
-      "time": "17 Jul, 09:30 AM",
-      "type": "news",
-      "description": "Analysis of six mummies from ancient Egypt challenges the idea that the bows and daggers buried with some royal women were merely ceremonial."
     }
   ],
   "tweets": [
@@ -895,7 +796,7 @@
       "sort_key": "2026-07-18T18:35:01+05:30",
       "time": "18 Jul, 06:35 PM",
       "type": "tweets",
-      "content": "<p>Kimi K3 now leads Arena\u2019s front-end coding ranking, a Chinese open-source AI model that appears to be catching up to top versions of Claude and ChatGPT while its hardware remains undisclosed. <a href=\"https://techxplore.com/news/2026-07-chinese-ai-tech-industry-abilities.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-chinese-ai-tech-industry-abilities.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2078392084973957121%2FnHIsDUWJ%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT</b>\n</a>\n<p>Another powerful new artificial intelligence model from China took the U.S. tech industry by surprise Friday, the latest sign that Chinese startups that publicly release their &quot;open-source&quot; AI...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-chinese-ai-tech-industry-abilities.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "content": "<p>Kimi K3 now leads Arena\u2019s front-end coding ranking, a Chinese open-source AI model that appears to be catching up to top versions of Claude and ChatGPT while its hardware remains undisclosed. <a href=\"https://techxplore.com/news/2026-07-chinese-ai-tech-industry-abilities.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-chinese-ai-tech-industry-abilities.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2078684371142266881%2FxUYbNaKk%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT</b>\n</a>\n<p>Another powerful new artificial intelligence model from China took the U.S. tech industry by surprise Friday, the latest sign that Chinese startups that publicly release their &quot;open-source&quot; AI...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-chinese-ai-tech-industry-abilities.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
     },
     {
@@ -960,6 +861,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

@@ -1,6 +1,222 @@
 {
   "news": [
     {
+      "title": "Analysis reveals exponential increase in e-bike injuries in California",
+      "link": "https://techxplore.com/news/2026-07-analysis-reveals-exponential-bike-injuries.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-20T18:10:04+05:30",
+      "time": "20 Jul, 06:10 PM",
+      "type": "news",
+      "description": "Researchers at the University of California San Diego have found that injuries involving electric bicycles, or e-bikes, have increased dramatically ac..."
+    },
+    {
+      "title": "Why AI's environmental footprint won't disappear into orbit",
+      "link": "https://phys.org/news/2026-07-ai-environmental-footprint-wont-orbit.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T18:10:02+05:30",
+      "time": "20 Jul, 06:10 PM",
+      "type": "news",
+      "description": "AI companies increasingly want to move their operations into space. Elon Musk's SpaceX has applied to launch over a million AI data center satellites ..."
+    },
+    {
+      "title": "Worried about booking a holiday abroad? How travel operators can provide reassurance",
+      "link": "https://phys.org/news/2026-07-holiday-reassurance.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T17:50:01+05:30",
+      "time": "20 Jul, 05:50 PM",
+      "type": "news",
+      "description": "Flying abroad for a summer vacation is not as simple as it used to be. Geopolitical uncertainty has already disrupted flight schedules and fuel prices..."
+    },
+    {
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-20T17:40:00+05:30",
+      "time": "20 Jul, 05:40 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "Fourth-year vet students reveal clues to horse MEED and dog bone cancer",
+      "link": "https://phys.org/news/2026-07-fourth-year-vet-students-reveal.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T17:30:04+05:30",
+      "time": "20 Jul, 05:30 PM",
+      "type": "news",
+      "description": "Texas Tech University's School of Veterinary Medicine fourth-year students Kayden Tanner and Marshall Mays have both been published in international j..."
+    },
+    {
+      "title": "Utilities Aren\u2019t Ready for the Balcony Solar Revolution",
+      "link": "https://spectrum.ieee.org/plug-in-solar-power",
+      "source": "IEEE Spectrum",
+      "sort_key": "2026-07-20T17:30:01+05:30",
+      "time": "20 Jul, 05:30 PM",
+      "type": "news",
+      "description": "<p>Legislation is ahead of industry standards</p>"
+    },
+    {
+      "title": "Researchers advance tech that could help scientists detect habitable worlds beyond our solar system",
+      "link": "https://phys.org/news/2026-07-advance-tech-scientists-habitable-worlds.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T17:10:01+05:30",
+      "time": "20 Jul, 05:10 PM",
+      "type": "news",
+      "description": "Are we alone in the universe? For scientists working on NASA's proposed Habitable Worlds Observatory, that question is no longer purely philosophical...."
+    },
+    {
+      "title": "Healthier Eating Could Trigger a $630 Billion Farming Shake-Up",
+      "link": "https://scitechdaily.com/healthier-eating-could-trigger-a-630-billion-farming-shake-up/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-20T17:05:24+05:30",
+      "time": "20 Jul, 05:05 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/healthier-eating-could-trigger-a-630-billion-farming-shake-up/\" rel=\"nofollow\" title=\"Healthier Eating Could Trigger..."
+    },
+    {
+      "title": "Burnout isn't new: 18th\u2011century farm records show workers describing the same exhaustion",
+      "link": "https://phys.org/news/2026-07-burnout-isnt-18thcentury-farm-workers.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T16:50:04+05:30",
+      "time": "20 Jul, 04:50 PM",
+      "type": "news",
+      "description": "Nearly 40% of Canadian workers say they feel burned out often or always, according to a 2025 survey by Mental Health Research Canada and Canada Life. ..."
+    },
+    {
+      "title": "Study highlights how micro-transfer printing can lead to advanced silicon photonics",
+      "link": "https://techxplore.com/news/2026-07-highlights-micro-advanced-silicon-photonics.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-20T16:50:01+05:30",
+      "time": "20 Jul, 04:50 PM",
+      "type": "news",
+      "description": "The rapid growth of artificial intelligence and related computing infrastructure has exposed the limited bandwidth of conventional electrical intercon..."
+    },
+    {
+      "title": "A Hidden Protein-Folding Failure May Help Drive Diabetes",
+      "link": "https://scitechdaily.com/a-hidden-protein-folding-failure-may-help-drive-diabetes/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-20T16:31:20+05:30",
+      "time": "20 Jul, 04:31 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/a-hidden-protein-folding-failure-may-help-drive-diabetes/\" rel=\"nofollow\" title=\"A Hidden Protein-Folding Failure Ma..."
+    },
+    {
+      "title": "On the hunt for Earth's first complex life",
+      "link": "https://phys.org/news/2026-07-earth-complex-life.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T16:30:05+05:30",
+      "time": "20 Jul, 04:30 PM",
+      "type": "news",
+      "description": "How life started on our own planet may not seem as interesting as finding evidence of life on Mars or the icy moons Europa or Enceladus. But the searc..."
+    },
+    {
+      "title": "Researcher warns against one-size-fits-all age verification online",
+      "link": "https://techxplore.com/news/2026-07-size-age-verification-online.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-20T16:30:02+05:30",
+      "time": "20 Jul, 04:30 PM",
+      "type": "news",
+      "description": "A comprehensive analysis of age assurance technologies co-authored by CISPA faculty member Dr. Wouter Lueks concludes that many currently proposed sys..."
+    },
+    {
+      "title": "With help from the cosmetics field, animators figure out the math of highly coiled hair",
+      "link": "https://techxplore.com/news/2026-07-cosmetics-field-animators-figure-math.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-20T16:12:04+05:30",
+      "time": "20 Jul, 04:12 PM",
+      "type": "news",
+      "description": "There are many types of hair\u2014long, short, straight, curly\u2014and today's computer animators have a good handle on many of them. But one type, highly coil..."
+    },
+    {
+      "title": "Africa's wildfire season is actually getting shorter, scientists think they know why",
+      "link": "https://phys.org/news/2026-07-africa-wildfire-season-shorter-scientists.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T16:10:01+05:30",
+      "time": "20 Jul, 04:10 PM",
+      "type": "news",
+      "description": "Africa is home to around 70% of the world's burned area\u2014the total area of land scorched by wildfires each year\u2014making it the planet's biggest wildfire..."
+    },
+    {
+      "title": "The Exercise Paradox: Why Workouts Don\u2019t Guarantee Weight Loss",
+      "link": "https://scitechdaily.com/the-exercise-paradox-why-workouts-dont-guarantee-weight-loss/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-20T15:55:21+05:30",
+      "time": "20 Jul, 03:55 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/the-exercise-paradox-why-workouts-dont-guarantee-weight-loss/\" rel=\"nofollow\" title=\"The Exercise Paradox: Why Worko..."
+    },
+    {
+      "title": "How to keep the air inside your home clean during wildfires",
+      "link": "https://phys.org/news/2026-07-air-home-wildfires.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T15:30:03+05:30",
+      "time": "20 Jul, 03:30 PM",
+      "type": "news",
+      "description": "The eerie glow of an orange sun through thick wildfire smoke might be unnerving, but the biggest risk from the haze is something much harder to see."
+    },
+    {
+      "title": "Greece braces for year's first heat wave",
+      "link": "https://phys.org/news/2026-07-greece-braces-year.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T15:00:01+05:30",
+      "time": "20 Jul, 03:00 PM",
+      "type": "news",
+      "description": "Greece, which was spared the record heat that ravaged most of Europe in June, is finally bracing for its first heat wave of the year."
+    },
+    {
+      "title": "Floating igloo leaves France for polar exploration mission",
+      "link": "https://phys.org/news/2026-07-igloo-france-polar-exploration-mission.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T14:50:01+05:30",
+      "time": "20 Jul, 02:50 PM",
+      "type": "news",
+      "description": "A floating research station resembling a giant aluminum igloo on Sunday set out from France to begin a long-term mission in the Arctic that will see i..."
+    },
+    {
+      "title": "5.5 magnitude earthquake hits Peru's Andes region and kills at least 6 people",
+      "link": "https://phys.org/news/2026-07-magnitude-earthquake-peru-andes-region.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T14:49:13+05:30",
+      "time": "20 Jul, 02:49 PM",
+      "type": "news",
+      "description": "A 5.5 magnitude earthquake shook the Andes region of Peru, killing at least six people, injuring more than 30 and displacing 300, authorities said Sun..."
+    },
+    {
+      "title": "AI tool reveals climate shifts may have fueled bursts of bird evolution",
+      "link": "https://phys.org/news/2026-07-ai-tool-reveals-climate-shifts.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T14:30:06+05:30",
+      "time": "20 Jul, 02:30 PM",
+      "type": "news",
+      "description": "University of Michigan researchers have used an AI tool to demonstrate that birds in the group Passeriformes evolved in rapid evolutionary bursts and ..."
+    },
+    {
+      "title": "Scientists map how the flu virus rewires the human cell from the inside",
+      "link": "https://phys.org/news/2026-07-scientists-flu-virus-rewires-human.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T14:30:04+05:30",
+      "time": "20 Jul, 02:30 PM",
+      "type": "news",
+      "description": "Researchers at EMBL Hamburg and collaborators at the Leibniz Research Institute for Molecular Pharmacology (FMP) have mapped how the influenza A virus..."
+    },
+    {
+      "title": "AI is more likely than humans to form biases when hiring",
+      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-20T14:09:01+05:30",
+      "time": "20 Jul, 02:09 PM",
+      "type": "news",
+      "description": "The next time you apply for a job, AI may screen your r\u00e9sum\u00e9 before any human sees it. But there\u2019s good reason to question whether AI will judge you f..."
+    },
+    {
+      "title": "Underwater drones discover coral reefs off Benin, long presumed dead, teeming with life",
+      "link": "https://phys.org/news/2026-07-underwater-drones-coral-reefs-benin.html",
+      "source": "Phys",
+      "sort_key": "2026-07-20T09:30:05+05:30",
+      "time": "20 Jul, 09:30 AM",
+      "type": "news",
+      "description": "A coral reef, missing and presumed dead, has been found alive and well off the coast of Benin. Surveys in the 1960s, focused on identifying promising ..."
+    },
+    {
       "title": "Pittsburgh's new romance bookstores sell more than happily\u2011ever\u2011afters",
       "link": "https://phys.org/news/2026-07-pittsburgh-romance-bookstores-happilyeverafters.html",
       "source": "Phys",
@@ -244,15 +460,6 @@
       "description": "Researchers at the Helmholtz-Zentrum Dresden-Rossendorf (HZDR) have developed two processes\u2014hydrodynamic cavitation and cold atmospheric plasma combin..."
     },
     {
-      "title": "Are workplaces safer? Harassment and violence persist, survey finds",
-      "link": "https://phys.org/news/2026-07-workplaces-safer-violence-persist-survey.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T19:30:01+05:30",
-      "time": "19 Jul, 07:30 PM",
-      "type": "news",
-      "description": "A follow-up national survey developed by Western researchers shows workplace harassment and violence continue to be widespread in Canada, with some si..."
-    },
-    {
       "title": "A tiny universe in a bottle reveals clues to the origins of life",
       "link": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
       "source": "Science Daily",
@@ -280,15 +487,6 @@
       "description": "<a href=\"https://scitechdaily.com/scientists-turned-a-200-year-old-light-trick-into-a-modern-breakthrough/\" rel=\"nofollow\" title=\"Scientists Turned a ..."
     },
     {
-      "title": "Hybrid work blurs the line between work and home\u2014here's how couples can set boundaries",
-      "link": "https://phys.org/news/2026-07-hybrid-blurs-line-home-couples.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T18:00:01+05:30",
-      "time": "19 Jul, 06:00 PM",
-      "type": "news",
-      "description": "Hybrid work has brought many real benefits. Greater flexibility can make it easier to manage work alongside family responsibilities, personal commitme..."
-    },
-    {
       "title": "Physicists Just Turned a Black Hole Energy Theory Into Reality",
       "link": "https://scitechdaily.com/physicists-just-turned-a-black-hole-energy-theory-into-reality/",
       "source": "ScitechDaily",
@@ -307,15 +505,6 @@
       "description": "Optical see-through augmented reality (AR) glasses are designed to overlay digital information onto the real world, but improving the realism of virtu..."
     },
     {
-      "title": "Plants that make real dairy protein? Scientists discover an unexpected shortcut",
-      "link": "https://phys.org/news/2026-07-real-dairy-protein-scientists-unexpected.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T17:30:01+05:30",
-      "time": "19 Jul, 05:30 PM",
-      "type": "news",
-      "description": "What if the plants growing in a field could one day produce the same proteins that give milk its nutrition, texture and cheese-making properties? A ne..."
-    },
-    {
       "title": "Cortisol Could Be the Next Frontier for Wearables",
       "link": "https://spectrum.ieee.org/cortisol-continuous-monitor-wearable",
       "source": "IEEE Spectrum",
@@ -323,42 +512,6 @@
       "time": "19 Jul, 05:30 PM",
       "type": "news",
       "description": "<p>A DNA-sensor patch reads the stress hormone minute-by-minute</p>"
-    },
-    {
-      "title": "Observations investigate the nature of a peculiar supernova",
-      "link": "https://phys.org/news/2026-07-nature-peculiar-supernova.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T16:30:01+05:30",
-      "time": "19 Jul, 04:30 PM",
-      "type": "news",
-      "description": "An international team of astronomers has performed follow-up observations of a peculiar Type Ia supernova designated SN 2023vjh. Results of the observ..."
-    },
-    {
-      "title": "State anti-DEI laws alter the graduate student experience, study finds",
-      "link": "https://phys.org/news/2026-07-state-anti-dei-laws-student.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T16:00:01+05:30",
-      "time": "19 Jul, 04:00 PM",
-      "type": "news",
-      "description": "A new study by University of Delaware professor Jarett Haley and others explored how racially minoritized graduate students understood the impacts of ..."
-    },
-    {
-      "title": "Energy price shocks slow state economies; spur energy efficiency investments",
-      "link": "https://phys.org/news/2026-07-energy-price-state-economies-spur.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T15:10:04+05:30",
-      "time": "19 Jul, 03:10 PM",
-      "type": "news",
-      "description": "Rising energy prices in the U.S. reduce states' economic output, but they also prompt investments in more efficient equipment and technologies that pa..."
-    },
-    {
-      "title": "Image: The growing crescent of Mars as NASA's psyche mission approaches",
-      "link": "https://phys.org/news/2026-07-image-crescent-mars-nasa-psyche.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T15:10:01+05:30",
-      "time": "19 Jul, 03:10 PM",
-      "type": "news",
-      "description": "This composite of images taken by NASA's Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist f..."
     },
     {
       "title": "NASA pushes new wing design to find structural limits",
@@ -377,15 +530,6 @@
       "time": "19 Jul, 02:20 PM",
       "type": "news",
       "description": "Tech firms are racing to roll out advanced smartphones that use artificial intelligence to do everything from ordering food to composing messages with..."
-    },
-    {
-      "title": "Wildfire haze hangs over eastern US\u2014and World Cup final",
-      "link": "https://phys.org/news/2026-07-wildfire-haze-eastern-world-cup.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T14:09:36+05:30",
-      "time": "19 Jul, 02:09 PM",
-      "type": "news",
-      "description": "Heavy, acrid wildfire smoke blanketed much of the eastern United States on Saturday, marring preparations for the weekend's highly anticipated World C..."
     },
     {
       "title": "China's Kimi K3 rattles US AI industry",
@@ -424,15 +568,6 @@
       "description": "<a href=\"https://scitechdaily.com/first-close-up-images-reveal-shackletons-lost-ship-on-the-ocean-floor/\" rel=\"nofollow\" title=\"First Close-Up Images ..."
     },
     {
-      "title": "Students create chemical safety model for everyday exposures",
-      "link": "https://phys.org/news/2026-07-students-chemical-safety-everyday-exposures.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T05:30:01+05:30",
-      "time": "19 Jul, 05:30 AM",
-      "type": "news",
-      "description": "In just one course, Georgia Tech student Diya Godavarti helped develop a tool that could improve workers' responses to chemical spills or open contain..."
-    },
-    {
       "title": "Stanford Scientists Solve a 252-Million-Year-Old Mass Extinction Mystery",
       "link": "https://scitechdaily.com/stanford-scientists-solve-a-252-million-year-old-mass-extinction-mystery/",
       "source": "ScitechDaily",
@@ -442,15 +577,6 @@
       "description": "<a href=\"https://scitechdaily.com/stanford-scientists-solve-a-252-million-year-old-mass-extinction-mystery/\" rel=\"nofollow\" title=\"Stanford Scientists..."
     },
     {
-      "title": "New environmental performance index highlights sustainability gains, and the challenges ahead",
-      "link": "https://phys.org/news/2026-07-environmental-index-highlights-sustainability-gains.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T03:00:01+05:30",
-      "time": "19 Jul, 03:00 AM",
-      "type": "news",
-      "description": "European countries continue to lead the world in environmental performance, according to the 2026 Environmental Performance Index (EPI), a biennial as..."
-    },
-    {
       "title": "Scientists Discover the Brain Protein That Helps Alzheimer\u2019s Spread Through the Brain",
       "link": "https://scitechdaily.com/scientists-discover-the-brain-protein-that-helps-alzheimers-spread-through-the-brain/",
       "source": "ScitechDaily",
@@ -458,15 +584,6 @@
       "time": "19 Jul, 02:02 AM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/scientists-discover-the-brain-protein-that-helps-alzheimers-spread-through-the-brain/\" rel=\"nofollow\" title=\"Scienti..."
-    },
-    {
-      "title": "Florida bloom toxins turn up in air, suggesting inhalation risk beyond shorelines",
-      "link": "https://phys.org/news/2026-07-florida-bloom-toxins-air-inhalation.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T01:30:01+05:30",
-      "time": "19 Jul, 01:30 AM",
-      "type": "news",
-      "description": "Research on Southwest Florida cyanobacterial blooms shows that the toxins they produce are aerosolized and potentially inhaled by people far from cont..."
     },
     {
       "title": "The Ancient Survival Mechanism Making Weight Loss So Difficult",
@@ -487,24 +604,6 @@
       "description": "<a href=\"https://scitechdaily.com/just-3000-steps-a-day-may-help-protect-the-brain-from-alzheimers/\" rel=\"nofollow\" title=\"Just 3,000 Steps a Day May ..."
     },
     {
-      "title": "Scientists use relay synthesis to create key building blocks of reserve antibiotic to combat resistance",
-      "link": "https://phys.org/news/2026-07-scientists-relay-synthesis-key-blocks.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T00:30:03+05:30",
-      "time": "19 Jul, 12:30 AM",
-      "type": "news",
-      "description": "Chemists from Otto von Guericke University Magdeburg have achieved an important research success in the fight against resistant bacteria. The team led..."
-    },
-    {
-      "title": "How virtual reality can transform behavioral science and enhance reproducibility",
-      "link": "https://phys.org/news/2026-07-virtual-reality-behavioral-science.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T00:30:01+05:30",
-      "time": "19 Jul, 12:30 AM",
-      "type": "news",
-      "description": "In a new paper published in the Proceedings of the National Academy of Sciences, a team of 41 authors from around the globe argue that virtual reality..."
-    },
-    {
       "title": "CivilBot turns structural designs into computer models up to 30 times faster",
       "link": "https://techxplore.com/news/2026-07-civilbot-faster.html",
       "source": "TechXplore",
@@ -512,15 +611,6 @@
       "time": "19 Jul, 12:22 AM",
       "type": "news",
       "description": "When architects create plans for a new building, they typically work with an engineer to design the structure so that the building is safely supported..."
-    },
-    {
-      "title": "NASA's Psyche mission delivers Mars flyby data, time-lapse video",
-      "link": "https://phys.org/news/2026-07-nasa-psyche-mission-mars-flyby.html",
-      "source": "Phys",
-      "sort_key": "2026-07-19T00:21:26+05:30",
-      "time": "19 Jul, 12:21 AM",
-      "type": "news",
-      "description": "The spacecraft aced its encounter with Mars. Now, mission scientists are studying a trove of data from the flyby in preparation for its arrival at ast..."
     },
     {
       "title": "Tin oxide replaces scarce indium in solar mini-module, bringing cheaper clean energy closer to market",
@@ -575,78 +665,6 @@
       "time": "18 Jul, 06:30 PM",
       "type": "news",
       "description": "<p>New machine may solve optimization problems that are too hard for regular computers</p>"
-    },
-    {
-      "title": "The Propellantless Spacecraft Technologies That Could Help Us Reach the Stars",
-      "link": "https://scitechdaily.com/the-propellantless-spacecraft-technologies-that-could-help-us-reach-the-stars/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-18T17:44:42+05:30",
-      "time": "18 Jul, 05:44 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/the-propellantless-spacecraft-technologies-that-could-help-us-reach-the-stars/\" rel=\"nofollow\" title=\"The Propellant..."
-    },
-    {
-      "title": "Professor pushes computers to solve 'unsolvable' problems",
-      "link": "https://techxplore.com/news/2026-07-professor-unsolvable-problems.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-18T17:30:07+05:30",
-      "time": "18 Jul, 05:30 PM",
-      "type": "news",
-      "description": "Don't underestimate the power of a yes-or-no question. Some of the toughest computing problems boil down to thousands of tiny yes-or-no decisions. Fin..."
-    },
-    {
-      "title": "3D-printed bridge points the way to greener construction",
-      "link": "https://techxplore.com/news/2026-07-3d-bridge-greener.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-18T17:30:01+05:30",
-      "time": "18 Jul, 05:30 PM",
-      "type": "news",
-      "description": "Concrete is the most widely used building material on Earth, and producing it is one of the largest single sources of carbon emissions. One promising ..."
-    },
-    {
-      "title": "New Black Hole Theory Solves a 50-Year-Old Problem",
-      "link": "https://scitechdaily.com/new-black-hole-theory-solves-a-50-year-old-problem/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-18T17:09:36+05:30",
-      "time": "18 Jul, 05:09 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/new-black-hole-theory-solves-a-50-year-old-problem/\" rel=\"nofollow\" title=\"New Black Hole Theory Solves a 50-Year-Ol..."
-    },
-    {
-      "title": "China\u2019s Tianwen-1 Captures Rare Close-Up Images of Interstellar Comet 3I/ATLAS",
-      "link": "https://scitechdaily.com/chinas-tianwen-1-captures-rare-close-up-images-of-interstellar-comet-3i-atlas/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-18T16:34:39+05:30",
-      "time": "18 Jul, 04:34 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/chinas-tianwen-1-captures-rare-close-up-images-of-interstellar-comet-3i-atlas/\" rel=\"nofollow\" title=\"China\u2019s Tianwe..."
-    },
-    {
-      "title": "Who owns your bones?",
-      "link": "https://www.sciencenews.org/article/who-owns-your-bones-ed-note-august-2026",
-      "source": "Sciencenews",
-      "sort_key": "2026-07-18T16:30:00+05:30",
-      "time": "18 Jul, 04:30 PM",
-      "type": "news",
-      "description": "Editor in Chief Nancy Shute discusses the history of unethical practices in research on human remains and the progress toward more ethical standards."
-    },
-    {
-      "title": "New hybrid positioning system promises reliable tracking where GPS fails",
-      "link": "https://techxplore.com/news/2026-07-hybrid-positioning-reliable-tracking-gps.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-18T13:44:19+05:30",
-      "time": "18 Jul, 01:44 PM",
-      "type": "news",
-      "description": "In a new study presented at the IEEE International Conference on Communications in Glasgow, researchers from Queen Mary University of London and partn..."
-    },
-    {
-      "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
-      "link": "https://techxplore.com/news/2026-07-chinese-ai-tech-industry-abilities.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-18T13:36:24+05:30",
-      "time": "18 Jul, 01:36 PM",
-      "type": "news",
-      "description": "Another powerful new artificial intelligence model from China took the U.S. tech industry by surprise Friday, the latest sign that Chinese startups th..."
     }
   ],
   "tweets": [
@@ -753,6 +771,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

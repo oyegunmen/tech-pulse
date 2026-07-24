@@ -1,6 +1,177 @@
 {
   "news": [
     {
+      "title": "A simple idea to bring clean drinking water to U.S. homes at a lower cost",
+      "link": "https://phys.org/news/2026-07-simple-idea-homes.html",
+      "source": "Phys",
+      "sort_key": "2026-07-24T18:10:04+05:30",
+      "time": "24 Jul, 06:10 PM",
+      "type": "news",
+      "description": "Stanford engineer Khalid Osman and collaborators are building modeling tools to help water system managers find the most cost-effective option for imp..."
+    },
+    {
+      "title": "Astronomers catch massive galaxy assembling piece by piece 1.2 billion years after Big Bang",
+      "link": "https://phys.org/news/2026-07-astronomers-massive-galaxy-piece-billion.html",
+      "source": "Phys",
+      "sort_key": "2026-07-24T18:10:02+05:30",
+      "time": "24 Jul, 06:10 PM",
+      "type": "news",
+      "description": "Astronomers have discovered a remarkably tiny group of six young galaxies just 1.2 billion years after the Big Bang. This may be a rare glimpse of how..."
+    },
+    {
+      "title": "A spider-inspired robotic boat could track and rescue people in water",
+      "link": "https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-24T18:10:01+05:30",
+      "time": "24 Jul, 06:10 PM",
+      "type": "news",
+      "description": "Rescue teams in coastal cities and towns often need to rescue people who are at risk of drowning. These operations often require emergency teams to lo..."
+    },
+    {
+      "title": "Vegan dog and cat food generally well digested",
+      "link": "https://phys.org/news/2026-07-vegan-dog-cat-food-generally.html",
+      "source": "Phys",
+      "sort_key": "2026-07-24T17:50:01+05:30",
+      "time": "24 Jul, 05:50 PM",
+      "type": "news",
+      "description": "A new scientific review has found that nutritionally sound vegan dog food, vegan cat food and vegetarian pet diets are generally well digested and bro..."
+    },
+    {
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-24T17:40:00+05:30",
+      "time": "24 Jul, 05:40 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "Rare \u201cSuper-Jupiter\u201d Discovered on an Extraordinary 180-Day Orbit",
+      "link": "https://scitechdaily.com/rare-super-jupiter-discovered-on-an-extraordinary-180-day-orbit/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-24T17:24:48+05:30",
+      "time": "24 Jul, 05:24 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/rare-super-jupiter-discovered-on-an-extraordinary-180-day-orbit/\" rel=\"nofollow\" title=\"Rare \u201cSuper-Jupiter\u201d Discove..."
+    },
+    {
+      "title": "Should scientists have research 'reserves' on the moon?",
+      "link": "https://phys.org/news/2026-07-scientists-reserves-moon.html",
+      "source": "Phys",
+      "sort_key": "2026-07-24T17:10:03+05:30",
+      "time": "24 Jul, 05:10 PM",
+      "type": "news",
+      "description": "The worlds of the solar system are exciting and, so far, mostly pristine places for planetary scientists to study. As space missions continue to trave..."
+    },
+    {
+      "title": "Desktop browsing trends: Gmail first, everything else later",
+      "link": "https://techxplore.com/news/2026-07-desktop-browsing-trends-gmail.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-24T17:10:01+05:30",
+      "time": "24 Jul, 05:10 PM",
+      "type": "news",
+      "description": "Time to check if you've got mail. Again."
+    },
+    {
+      "title": "What the OpenAI-hugging face breach reveals about AI governance failures",
+      "link": "https://techxplore.com/news/2026-07-openai-breach-reveals-ai-failures.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-24T16:50:05+05:30",
+      "time": "24 Jul, 04:50 PM",
+      "type": "news",
+      "description": "A series of recent AI security lapses\u2014including the OpenAI\u2013Hugging Face breach\u2014is raising a fundamental question: Can tech companies safely govern the..."
+    },
+    {
+      "title": "Protecting your pets from heat stress: Expert advice",
+      "link": "https://phys.org/news/2026-07-pets-stress-expert-advice.html",
+      "source": "Phys",
+      "sort_key": "2026-07-24T16:50:03+05:30",
+      "time": "24 Jul, 04:50 PM",
+      "type": "news",
+      "description": "Warm weather often means more time outside with your pets, but higher temperatures also increase the risk of heat stress, which occurs when an animal'..."
+    },
+    {
+      "title": "Small tropical islands face dangerous humid heat by end of the century",
+      "link": "https://phys.org/news/2026-07-small-tropical-islands-dangerous-humid.html",
+      "source": "Phys",
+      "sort_key": "2026-07-24T16:50:01+05:30",
+      "time": "24 Jul, 04:50 PM",
+      "type": "news",
+      "description": "Millions of people living on tropical islands could face a future of increasingly dangerous heat as climate change drives longer and more intense peri..."
+    },
+    {
+      "title": "First Sugar Ever Found in Interstellar Space Could Help Explain Life\u2019s Origins",
+      "link": "https://scitechdaily.com/first-sugar-ever-found-in-interstellar-space-could-help-explain-lifes-origins/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-24T16:49:51+05:30",
+      "time": "24 Jul, 04:49 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/first-sugar-ever-found-in-interstellar-space-could-help-explain-lifes-origins/\" rel=\"nofollow\" title=\"First Sugar Ev..."
+    },
+    {
+      "title": "Scientists demonstrate dual-use laser system for power beaming and counter-UAS operations",
+      "link": "https://techxplore.com/news/2026-07-scientists-dual-laser-power-counter.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-24T16:30:06+05:30",
+      "time": "24 Jul, 04:30 PM",
+      "type": "news",
+      "description": "U.S. Naval Research Laboratory (NRL) scientists successfully demonstrated a dual-use laser system capable of wirelessly transmitting power over long d..."
+    },
+    {
+      "title": "National study finds reports of past-year sexual harassment more than doubled since 2018",
+      "link": "https://phys.org/news/2026-07-national-year-sexual.html",
+      "source": "Phys",
+      "sort_key": "2026-07-24T16:30:01+05:30",
+      "time": "24 Jul, 04:30 PM",
+      "type": "news",
+      "description": "Nearly a decade after the #MeToo movement reshaped public conversations about sexual harassment, a new study from the Newcomb Institute at Tulane Univ..."
+    },
+    {
+      "title": "James Webb Telescope Discovers Hidden Giant Planet in Famous Star System",
+      "link": "https://scitechdaily.com/james-webb-telescope-discovers-hidden-giant-planet-in-famous-star-system/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-24T16:14:05+05:30",
+      "time": "24 Jul, 04:14 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/james-webb-telescope-discovers-hidden-giant-planet-in-famous-star-system/\" rel=\"nofollow\" title=\"James Webb Telescop..."
+    },
+    {
+      "title": "Young rift flanks suggest Venus remains tectonically active",
+      "link": "https://phys.org/news/2026-07-young-rift-flanks-venus-tectonically.html",
+      "source": "Phys",
+      "sort_key": "2026-07-24T14:30:05+05:30",
+      "time": "24 Jul, 02:30 PM",
+      "type": "news",
+      "description": "Venus is an inhospitable place, with temperatures soaring to several hundred degrees Celsius (hundreds of degrees Fahrenheit) and no oceans like those..."
+    },
+    {
+      "title": "Mapping project helps protect coastal world heritage sites from climate threats",
+      "link": "https://phys.org/news/2026-07-coastal-world-heritage-sites-climate.html",
+      "source": "Phys",
+      "sort_key": "2026-07-24T14:30:01+05:30",
+      "time": "24 Jul, 02:30 PM",
+      "type": "news",
+      "description": "A major new digital mapping project could help safeguard some of the world's most important and well-known heritage sites from rising seas, flooding a..."
+    },
+    {
+      "title": "Thousands flee wildfires in southern Europe",
+      "link": "https://phys.org/news/2026-07-thousands-wildfires-southern-europe.html",
+      "source": "Phys",
+      "sort_key": "2026-07-24T14:07:07+05:30",
+      "time": "24 Jul, 02:07 PM",
+      "type": "news",
+      "description": "Luggage-clad residents and tourists fled a French peninsula by boat, and the smell of smoke drifted into parts of Madrid on Friday as wildfires swept ..."
+    },
+    {
+      "title": "Kimi K3 intensifies pressure on Trump to confront Chinese AI competition",
+      "link": "https://techxplore.com/news/2026-07-kimi-k3-pressure-trump-chinese.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-24T14:06:48+05:30",
+      "time": "24 Jul, 02:06 PM",
+      "type": "news",
+      "description": "U.S. President Donald Trump is under pressure to respond to the growing success of Chinese AI models that many companies prefer to the more powerful, ..."
+    },
+    {
       "title": "3D-printed bioplastic pods offer new hope for seagrass restoration in Thailand",
       "link": "https://phys.org/news/2026-07-3d-bioplastic-pods-seagrass-thailand.html",
       "source": "Phys",
@@ -217,96 +388,6 @@
       "description": "It's been four years since the Supreme Court's decision in Dobbs v. Jackson Women's Health Organization overturned Roe v. Wade, ending the federal con..."
     },
     {
-      "title": "Plant diversity boosts natural pest control in farms, while forests and grasslands follow different rules",
-      "link": "https://phys.org/news/2026-07-diversity-boosts-natural-pest-farms.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T03:40:02+05:30",
-      "time": "24 Jul, 03:40 AM",
-      "type": "news",
-      "description": "Plant diversity has long been regarded as key to stable and resilient ecosystems. However, until now, little has been understood about why it has diff..."
-    },
-    {
-      "title": "Sperm whales blow bubbles to achieve restful, vertical sleep",
-      "link": "https://phys.org/news/2026-07-sperm-whales-restful-vertical.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T03:30:04+05:30",
-      "time": "24 Jul, 03:30 AM",
-      "type": "news",
-      "description": "New research from the University of St Andrews and Universit\u00e9 de Neuch\u00e2tel has uncovered the mechanism that allows sperm whales to sleep in a unique v..."
-    },
-    {
-      "title": "College professors face an emerging challenge: We know students are no longer reading entire books",
-      "link": "https://phys.org/news/2026-07-college-professors-emerging-students-longer.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T03:30:01+05:30",
-      "time": "24 Jul, 03:30 AM",
-      "type": "news",
-      "description": "Anyone who has spent time on a college campus lately has probably heard laments from faculty about their students' reading habits, or rather, nonreadi..."
-    },
-    {
-      "title": "Chocolate syrup-like fluid stores multiple interacting memories",
-      "link": "https://phys.org/news/2026-07-chocolate-syrup-fluid-multiple-interacting.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T03:20:02+05:30",
-      "time": "24 Jul, 03:20 AM",
-      "type": "news",
-      "description": "Animals and electronic devices aren't the only things with memory. Materials can retain memories of past deformations in their microscopic structure. ..."
-    },
-    {
-      "title": "There's a business case for companies to embrace sustainability, if it's pitched the right way",
-      "link": "https://phys.org/news/2026-07-business-case-companies-embrace-sustainability.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T03:10:06+05:30",
-      "time": "24 Jul, 03:10 AM",
-      "type": "news",
-      "description": "Sustainable business practices are often seen as a luxury that only rich countries can afford. And these days, some of the biggest economies, includin..."
-    },
-    {
-      "title": "Global map reveals mining's uneven toll on forests and biodiversity",
-      "link": "https://phys.org/news/2026-07-global-reveals-uneven-toll-forests.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T03:10:04+05:30",
-      "time": "24 Jul, 03:10 AM",
-      "type": "news",
-      "description": "A new study led by Japanese researchers from Tohoku University and the National Institute for Environmental Studies (NIES) reveals that some of the mi..."
-    },
-    {
-      "title": "Engineers observe quantum heat waves at room temperature",
-      "link": "https://phys.org/news/2026-07-quantum-room-temperature.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T03:00:01+05:30",
-      "time": "24 Jul, 03:00 AM",
-      "type": "news",
-      "description": "Efficient heat management in solids is key to advancing the next generation of electronics. However, wave-like heat movement\u2014known as phonon focusing\u2014..."
-    },
-    {
-      "title": "How babywearing helps establish parent\u2011child bonds",
-      "link": "https://phys.org/news/2026-07-babywearing-parentchild-bonds.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T02:50:05+05:30",
-      "time": "24 Jul, 02:50 AM",
-      "type": "news",
-      "description": "From the moment they enter the world, human babies depend on others in a way that is unmatched across most species."
-    },
-    {
-      "title": "Exploring the lost golden age of language diversity before expanding empires drove a global decline",
-      "link": "https://phys.org/news/2026-07-exploring-lost-golden-age-language.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T02:50:03+05:30",
-      "time": "24 Jul, 02:50 AM",
-      "type": "news",
-      "description": "Today, people speak or sign around 7,500 languages. Yet this figure provides only a snapshot of a constantly changing history. How many languages exis..."
-    },
-    {
-      "title": "Simple circuit brings topological insulators closer to practical electrical measurement standards",
-      "link": "https://phys.org/news/2026-07-simple-circuit-topological-insulators-closer.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T02:40:01+05:30",
-      "time": "24 Jul, 02:40 AM",
-      "type": "news",
-      "description": "Researchers at the University of W\u00fcrzburg have succeeded in detecting exceptionally robust electrical transport in a topological insulator. This could..."
-    },
-    {
       "title": "Airbus, Boeing fly in different directions at Farnborough",
       "link": "https://techxplore.com/news/2026-07-airbus-boeing-fly-farnborough.html",
       "source": "TechXplore",
@@ -424,7 +505,7 @@
       "description": "Do AI models understand the language that they produce? To help answer this question and elucidate the mechanisms of language acquisition more general..."
     },
     {
-      "title": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
+      "title": "AI models' breakout from human control brings a told-you-so moment for technology researchers",
       "link": "https://techxplore.com/news/2026-07-openai-rogue-ai-broke-free.html",
       "source": "TechXplore",
       "sort_key": "2026-07-23T23:30:01+05:30",
@@ -757,42 +838,6 @@
       "description": "<a href=\"https://scitechdaily.com/the-brain-can-reason-without-language-mit-study-finds/\" rel=\"nofollow\" title=\"The Brain Can Reason Without Language,..."
     },
     {
-      "title": "Review: Lexus ES vs Mercedes CLA, an electric luxury sedan comparison",
-      "link": "https://techxplore.com/news/2026-07-lexus-es-mercedes-cla-electric.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-22T23:10:07+05:30",
-      "time": "22 Jul, 11:10 PM",
-      "type": "news",
-      "description": "The Lexus ES and Mercedes-Benz CLA are two luxury sedans you might be familiar with. The ES is Lexus' comfort-oriented midsize sedan, while the CLA is..."
-    },
-    {
-      "title": "Exploring a smarter way to build climate-resilient roads",
-      "link": "https://techxplore.com/news/2026-07-exploring-smarter-climate-resilient-roads.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-22T22:50:07+05:30",
-      "time": "22 Jul, 10:50 PM",
-      "type": "news",
-      "description": "Every year from June to September, India experiences the monsoon season. While the visible heavy rainfall often takes the blame for many roads requiri..."
-    },
-    {
-      "title": "Samsung launches new, more expensive foldable smartphones",
-      "link": "https://techxplore.com/news/2026-07-samsung-expensive-foldable-smartphones.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-22T22:33:11+05:30",
-      "time": "22 Jul, 10:33 PM",
-      "type": "news",
-      "description": "South Korean technology giant Samsung unveiled new, sleeker smartphone models Wednesday priced higher than previous models as artificial intelligence ..."
-    },
-    {
-      "title": "Machine learning accelerates search for longer-lasting materials for solar cells",
-      "link": "https://techxplore.com/news/2026-07-machine-longer-materials-solar-cells.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-22T22:30:08+05:30",
-      "time": "22 Jul, 10:30 PM",
-      "type": "news",
-      "description": "Perovskite solar cells have gained considerable momentum in the search for cheaper, more efficient solar energy. However, the materials degrade over t..."
-    },
-    {
       "title": "New Catalyst Turns Stubborn Plant Waste Into Valuable Chemicals",
       "link": "https://scitechdaily.com/new-catalyst-turns-stubborn-plant-waste-into-valuable-chemicals/",
       "source": "ScitechDaily",
@@ -800,15 +845,6 @@
       "time": "22 Jul, 09:33 PM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/new-catalyst-turns-stubborn-plant-waste-into-valuable-chemicals/\" rel=\"nofollow\" title=\"New Catalyst Turns Stubborn ..."
-    },
-    {
-      "title": "Elephant-inspired cement tiles cool buildings without electricity",
-      "link": "https://techxplore.com/news/2026-07-elephant-cement-tiles-cool-electricity.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-22T21:30:06+05:30",
-      "time": "22 Jul, 09:30 PM",
-      "type": "news",
-      "description": "Inspired by the cracked, water-trapping skin of elephants, Penn researchers have developed a low-cost cement tile that cools buildings by capturing an..."
     },
     {
       "title": "Plasma Tunnels Reveal How Dying Satellites Really Fall to Earth",
@@ -881,90 +917,49 @@
       "time": "22 Jul, 07:00 PM",
       "type": "news",
       "description": "Scientists documented humpback whales hunting together at the seafloor, coordinating their arrival to scoop up sand lances."
-    },
-    {
-      "title": "A strange quantum effect dramatically boosts energy transfer",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-22T17:47:00+05:30",
-      "time": "22 Jul, 05:47 PM",
-      "type": "news",
-      "description": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proto..."
-    },
-    {
-      "title": "The Download: NASA\u2019s new space telescope and OpenAI\u2019s autonomous hacker",
-      "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-22T17:40:00+05:30",
-      "time": "22 Jul, 05:40 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "Safety Officials Probe Army GPS Jamming in Fatal Air Crash",
-      "link": "https://spectrum.ieee.org/gps-crash-probe",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-07-22T17:30:01+05:30",
-      "time": "22 Jul, 05:30 PM",
-      "type": "news",
-      "description": "<p>Two pilots and two nurses died in a medevac crash during electronic warfare tests</p>"
-    },
-    {
-      "title": "Scientists Discover Why Teenage Memories Can Become Temporarily Inaccessible",
-      "link": "https://scitechdaily.com/scientists-discover-why-teenage-memories-can-become-temporarily-inaccessible/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-22T17:21:52+05:30",
-      "time": "22 Jul, 05:21 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-discover-why-teenage-memories-can-become-temporarily-inaccessible/\" rel=\"nofollow\" title=\"Scientists Disc..."
-    },
-    {
-      "title": "Scientists Let Nature Take Over a Former Crop Field. The Results Were Remarkable",
-      "link": "https://scitechdaily.com/scientists-let-nature-take-over-a-former-crop-field-the-results-were-remarkable/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-22T16:46:58+05:30",
-      "time": "22 Jul, 04:46 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-let-nature-take-over-a-former-crop-field-the-results-were-remarkable/\" rel=\"nofollow\" title=\"Scientists L..."
-    },
-    {
-      "title": "Scientists Name Bizarre New Beetle Genus After Popular Anime Character Luffy",
-      "link": "https://scitechdaily.com/scientists-name-bizarre-new-beetle-genus-after-popular-anime-character-luffy/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-22T16:11:55+05:30",
-      "time": "22 Jul, 04:11 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-name-bizarre-new-beetle-genus-after-popular-anime-character-luffy/\" rel=\"nofollow\" title=\"Scientists Name..."
-    },
-    {
-      "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-22T15:30:54+05:30",
-      "time": "22 Jul, 03:30 PM",
-      "type": "news",
-      "description": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped an..."
-    },
-    {
-      "title": "Shape-shifting mirrors on NASA\u2019s new space telescope could unveil Jupiters like our own",
-      "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-22T14:30:00+05:30",
-      "time": "22 Jul, 02:30 PM",
-      "type": "news",
-      "description": "When NASA\u2019s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy\u2019s most precise disappearin..."
-    },
-    {
-      "title": "New cancer strategy could stop tumors before resistance takes hold",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260716023607.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-22T11:11:04+05:30",
-      "time": "22 Jul, 11:11 AM",
-      "type": "news",
-      "description": "Researchers are applying evolutionary theory to cancer by changing treatments before tumors have time to develop resistance. Mathematical models sugge..."
     }
   ],
   "tweets": [
+    {
+      "title": "At least 1% of resumes on one hiring platform carried hidden AI-targeting instructions, and the rate rose sevenfold between July 2024 and November 2025. @arxiv https://techxplore.com/news/2026-07-thwarting-hidden-resume-hacks-ai.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2080488949458317587#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-24T08:33:13+05:30",
+      "time": "24 Jul, 08:33 AM",
+      "type": "tweets",
+      "content": "<p>At least 1% of resumes on one hiring platform carried hidden AI-targeting instructions, and the rate rose sevenfold between July 2024 and November 2025. <a href=\"https://nitter.net/arxiv\" title=\"arXiv.org\">@arxiv</a> <a href=\"https://techxplore.com/news/2026-07-thwarting-hidden-resume-hacks-ai.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-thwarting-hidden-resume-hacks-ai.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080266110520496128%2Fz4vSqCA5%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Thwarting the hidden resume hacks that target AI hiring tools</b>\n</a>\n<p>In an increasingly competitive job market, some applicants are quietly trying to outsmart AI hiring tools. Now, new research focused on rooting out the practice of &quot;prompt injection&quot; shows how...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-thwarting-hidden-resume-hacks-ai.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
+      "title": "OpenAI says its AI models used stolen credentials to breach another company\u2019s servers after escaping an isolated test setup, sharpening questions about how such systems can be contained. https://techxplore.com/news/2026-07-openai-rogue-ai-broke-free.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2080443932027060335#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-24T05:34:20+05:30",
+      "time": "24 Jul, 05:34 AM",
+      "type": "tweets",
+      "content": "<p>OpenAI says its AI models used stolen credentials to breach another company\u2019s servers after escaping an isolated test setup, sharpening questions about how such systems can be contained. <a href=\"https://techxplore.com/news/2026-07-openai-rogue-ai-broke-free.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-openai-rogue-ai-broke-free.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<b>OpenAI says rogue AI models broke free from human control. Some see it as a &apos;warning shot&apos;</b>\n</a>\n<p>It is the kind of development once seen only in science fiction: An artificial intelligence system, trained to probe for digital vulnerabilities, breaks free of human control and acts on its own to...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-openai-rogue-ai-broke-free.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
+      "title": "Samsung\u2019s new foldables start higher, with the Z Fold8 priced at $1,900 as rising AI-driven memory chip costs push up component prices. https://techxplore.com/news/2026-07-samsung-expensive-foldable-smartphones.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2080397885502337375#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-24T02:31:22+05:30",
+      "time": "24 Jul, 02:31 AM",
+      "type": "tweets",
+      "content": "<p>Samsung\u2019s new foldables start higher, with the Z Fold8 priced at $1,900 as rising AI-driven memory chip costs push up component prices. <a href=\"https://techxplore.com/news/2026-07-samsung-expensive-foldable-smartphones.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-samsung-expensive-foldable-smartphones.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080266819303284736%2FcGlBzNXA%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Samsung launches new, more expensive foldable smartphones</b>\n</a>\n<p>South Korean technology giant Samsung unveiled new, sleeker smartphone models Wednesday priced higher than previous models as artificial intelligence raises component costs.</p>\n<small><a href=\"https://techxplore.com/news/2026-07-samsung-expensive-foldable-smartphones.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
+      "title": "A flat NiTi sheet rises into a 3D button with light alone, using a single UV-laser process that also boosts near-infrared absorption without any coating. @advscinews https://techxplore.com/news/2026-07-mechanical-buttons.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2080337888051404869#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-23T22:32:57+05:30",
+      "time": "23 Jul, 10:32 PM",
+      "type": "tweets",
+      "content": "<p>A flat NiTi sheet rises into a 3D button with light alone, using a single UV-laser process that also boosts near-infrared absorption without any coating. @advscinews <a href=\"https://techxplore.com/news/2026-07-mechanical-buttons.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-mechanical-buttons.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2079286404081922048%2F4ug22n-o%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Mechanical engineers develop buttons that rise with light</b>\n</a>\n<p>No wires. No actuators. Shine light on the metal surface, and it rises like a button. KAIST researchers have developed a metal structure that changes shape using light, without any light-absorbing...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-mechanical-buttons.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
     {
       "title": "Does the ocean know how to cure cancer? Inspired by how mollusks grow their shells, Angela Belcher is developing a new way to help detect and treat cancer earlier. #CuriosityOnAMission Read her story: https://curiositymission.org/stories/cision/",
       "link": "https://nitter.net/MIT/status/2080298153442509199#m",
@@ -976,14 +971,64 @@
       "author": "@MIT"
     },
     {
+      "title": "100% on this year\u2019s IMO: AI models from Huawei and Xiaohongshu matched the contest\u2019s perfect score, a result only seven of 666 human contestants achieved. https://techxplore.com/news/2026-07-ai-humans-score-math-contest.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2080277012753609204#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-23T18:31:04+05:30",
+      "time": "23 Jul, 06:31 PM",
+      "type": "tweets",
+      "content": "<p>100% on this year\u2019s IMO: AI models from Huawei and Xiaohongshu matched the contest\u2019s perfect score, a result only seven of 666 human contestants achieved. <a href=\"https://techxplore.com/news/2026-07-ai-humans-score-math-contest.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-ai-humans-score-math-contest.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080206899698601984%2FdsD9IYYm%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>AI catches up with humans to score 100% at top math contest</b>\n</a>\n<p>A perfect score at the world&apos;s most prestigious math contest used to be the preserve of a handful of bright young minds each year, but for the first time, artificial intelligence has also earned a...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-ai-humans-score-math-contest.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
+      "title": "12.7 times more power with 70% less heating: a redesigned acoustic chip boundary kept gigahertz transducers cooler and more stable, while the wave still stayed confined near the surface. @hkust @NatureComms https://techxplore.com/news/2026-07-ultra-robust-acoustic-chip-power.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2080096610617282740#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-23T06:34:12+05:30",
+      "time": "23 Jul, 06:34 AM",
+      "type": "tweets",
+      "content": "<p>12.7 times more power with 70% less heating: a redesigned acoustic chip boundary kept gigahertz transducers cooler and more stable, while the wave still stayed confined near the surface. <a href=\"https://nitter.net/hkust\" title=\"HKUST\">@hkust</a> <a href=\"https://nitter.net/NatureComms\" title=\"Nature Communications\">@NatureComms</a> <a href=\"https://techxplore.com/news/2026-07-ultra-robust-acoustic-chip-power.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-ultra-robust-acoustic-chip-power.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2079598342003404800%2FyycEyfIc%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Ultra-robust acoustic chip can handle 12 times more power for 6G and satellite links</b>\n</a>\n<p>Researchers at The Hong Kong University of Science and Technology (HKUST) have developed a novel chip architecture that enables the miniature acoustic devices inside smartphones to withstand more...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-ultra-robust-acoustic-chip-power.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
+      "title": "At 89.6\u00b0F under infrared heat, elephant-inspired cement tiles stayed far cooler than stucco by trapping and slowly evaporating water through engineered cracks. @Penn @advmater https://techxplore.com/news/2026-07-elephant-cement-tiles-cool-electricity.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2080036527954923937#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-23T02:35:28+05:30",
+      "time": "23 Jul, 02:35 AM",
+      "type": "tweets",
+      "content": "<p>At 89.6\u00b0F under infrared heat, elephant-inspired cement tiles stayed far cooler than stucco by trapping and slowly evaporating water through engineered cracks. <a href=\"https://nitter.net/Penn\" title=\"Penn\">@Penn</a> @advmater <a href=\"https://techxplore.com/news/2026-07-elephant-cement-tiles-cool-electricity.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-elephant-cement-tiles-cool-electricity.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2079960583894695937%2FN8KGN7i9%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Elephant-inspired cement tiles cool buildings without electricity</b>\n</a>\n<p>Inspired by the cracked, water-trapping skin of elephants, Penn researchers have developed a low-cost cement tile that cools buildings by capturing and slowly evaporating water\u2014turning a structural...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-elephant-cement-tiles-cool-electricity.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
+      "title": "At least 2.2 million cars may be remotely unlockable over Bluetooth from 5 yards away because dealer-installed anti-theft devices share the same secure key. @ucsandiego https://techxplore.com/news/2026-07-million-cars-anti-theft-dealers.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2079975087579529494#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-22T22:31:19+05:30",
+      "time": "22 Jul, 10:31 PM",
+      "type": "tweets",
+      "content": "<p>At least 2.2 million cars may be remotely unlockable over Bluetooth from 5 yards away because dealer-installed anti-theft devices share the same secure key. <a href=\"https://nitter.net/UCSanDiego\" title=\"UC San Diego\">@ucsandiego</a> <a href=\"https://techxplore.com/news/2026-07-million-cars-anti-theft-dealers.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-million-cars-anti-theft-dealers.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2079919452896776192%2FqfK7FPqB%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Two million cars with anti-theft systems installed by dealers are at higher risk of theft</b>\n</a>\n<p>At least 2.2 million cars on the road today are vulnerable to an attack that allows thieves to lock and unlock doors and immobilize vehicle engines remotely via a Bluetooth connection, computer...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-million-cars-anti-theft-dealers.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
       "title": "Researchers from MIT and elsewhere have now developed a system that can teach a vision-language model to automatically convert 2D designs into computer-aided design programs that are much more accurate and functional compared to other approaches, while using only a fraction of the computation. https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
       "link": "https://nitter.net/MIT/status/2079950586821107986#m",
       "source": "MIT",
       "sort_key": "2026-07-22T20:53:58+05:30",
       "time": "22 Jul, 08:53 PM",
       "type": "tweets",
-      "content": "<p>Researchers from MIT and elsewhere have now developed a system that can teach a vision-language model to automatically convert 2D designs into computer-aided design programs that are much more accurate and functional compared to other approaches, while using only a fraction of the computation. <a href=\"https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716\">news.mit.edu/2026/turning-2d\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716\">\n<img src=\"https://nitter.net/pic/card_img%2F2077617266879811584%2FPCidsfJu%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>A better way to turn 2D designs into 3D models for rapid prototyping</b>\n</a>\n<p>\u201cGIFT\u201d is a new system that teaches vision-language generative AI models to produce accurate, computer-aided design (CAD) programs that can be used to simulate and test 3D objects. The method is more...</p>\n<small><a href=\"https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716\">news.mit.edu</a></small>",
+      "content": "<p>Researchers from MIT and elsewhere have now developed a system that can teach a vision-language model to automatically convert 2D designs into computer-aided design programs that are much more accurate and functional compared to other approaches, while using only a fraction of the computation. <a href=\"https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716\">news.mit.edu/2026/turning-2d\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716\">\n<img src=\"https://nitter.net/pic/card_img%2F2080176575794860032%2F9h0Nijjx%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>A better way to turn 2D designs into 3D models for rapid prototyping</b>\n</a>\n<p>\u201cGIFT\u201d is a new system that teaches vision-language generative AI models to produce accurate, computer-aided design (CAD) programs that can be used to simulate and test 3D objects. The method is more...</p>\n<small><a href=\"https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716\">news.mit.edu</a></small>",
       "author": "@MIT"
+    },
+    {
+      "title": "OpenAI says one of its AI systems used stolen credentials and a previously unknown flaw to access Hugging Face servers during testing, in what the company called an \u201cunprecedented cyber incident.\u201d https://techxplore.com/news/2026-07-openai-ai-technology-unprecedented-hack.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2079915567289373082#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-22T18:34:48+05:30",
+      "time": "22 Jul, 06:34 PM",
+      "type": "tweets",
+      "content": "<p>OpenAI says one of its AI systems used stolen credentials and a previously unknown flaw to access Hugging Face servers during testing, in what the company called an \u201cunprecedented cyber incident.\u201d <a href=\"https://techxplore.com/news/2026-07-openai-ai-technology-unprecedented-hack.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-openai-ai-technology-unprecedented-hack.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2079838487755571201%2FhVbaB8hW%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>OpenAI says its AI technology acted on its own in an &apos;unprecedented&apos; hack of another company</b>\n</a>\n<p>ChatGPT maker OpenAI said Tuesday that its artificial intelligence system hacked into another AI company on its own in what the company called an &quot;unprecedented cyber incident.&quot;</p>\n<small><a href=\"https://techxplore.com/news/2026-07-openai-ai-technology-unprecedented-hack.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
     }
   ],
   "youtube": [
@@ -1007,6 +1052,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

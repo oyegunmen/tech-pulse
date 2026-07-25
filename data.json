@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "Rare blue optical transient points to possible new class of cosmic explosion",
+      "link": "https://phys.org/news/2026-07-rare-blue-optical-transient-class.html",
+      "source": "Phys",
+      "sort_key": "2026-07-25T18:10:01+05:30",
+      "time": "25 Jul, 06:10 PM",
+      "type": "news",
+      "description": "Chinese astronomers report the detection of a peculiar optical transient event that occurred in the center of a dwarf galaxy. The newly discovered eve..."
+    },
+    {
+      "title": "Magnetic Nanoparticles Restore Movement in Mice With Parkinson\u2019s-Like Symptoms",
+      "link": "https://scitechdaily.com/magnetic-nanoparticles-restore-movement-in-mice-with-parkinsons-like-symptoms/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-25T17:48:12+05:30",
+      "time": "25 Jul, 05:48 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/magnetic-nanoparticles-restore-movement-in-mice-with-parkinsons-like-symptoms/\" rel=\"nofollow\" title=\"Magnetic Nanop..."
+    },
+    {
+      "title": "Study explores rare atom-containing natural products and their biomedical potential",
+      "link": "https://phys.org/news/2026-07-explores-rare-atom-natural-products.html",
+      "source": "Phys",
+      "sort_key": "2026-07-25T17:30:04+05:30",
+      "time": "25 Jul, 05:30 PM",
+      "type": "news",
+      "description": "Modern research on secondary metabolites from microbes, plants and marine organisms has revealed a remarkable diversity of chemical structures and bio..."
+    },
+    {
+      "title": "How can rural communities benefit from South Africa's green energy transition? A solar farm in Limpopo offers clues",
+      "link": "https://techxplore.com/news/2026-07-rural-communities-benefit-south-africa.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-25T17:30:02+05:30",
+      "time": "25 Jul, 05:30 PM",
+      "type": "news",
+      "description": "South Africa, which produces about 40% of Africa's carbon emissions, is moving away from coal-fired power toward renewable energy such as solar and wi..."
+    },
+    {
+      "title": "Scientists Found What May Be Keeping the Alzheimer\u2019s Brain Awake",
+      "link": "https://scitechdaily.com/scientists-found-what-may-be-keeping-the-alzheimers-brain-awake/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-25T17:13:14+05:30",
+      "time": "25 Jul, 05:13 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/scientists-found-what-may-be-keeping-the-alzheimers-brain-awake/\" rel=\"nofollow\" title=\"Scientists Found What May Be..."
+    },
+    {
+      "title": "This Common Sleep Habit Could Be Making You Gain Weight",
+      "link": "https://scitechdaily.com/this-common-sleep-habit-could-be-making-you-gain-weight/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-25T16:38:10+05:30",
+      "time": "25 Jul, 04:38 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/this-common-sleep-habit-could-be-making-you-gain-weight/\" rel=\"nofollow\" title=\"This Common Sleep Habit Could Be Mak..."
+    },
+    {
       "title": "Prize honors discovery of altermagnetism as a third fundamental class of magnetism",
       "link": "https://phys.org/news/2026-07-prize-honors-discovery-altermagnetism-fundamental.html",
       "source": "Phys",
@@ -368,24 +422,6 @@
       "time": "24 Jul, 09:32 PM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/scientists-are-turning-empty-roadsides-into-butterfly-habitats/\" rel=\"nofollow\" title=\"Scientists Are Turning Empty ..."
-    },
-    {
-      "title": "Community context shapes corporate response to violence in street protests",
-      "link": "https://phys.org/news/2026-07-community-context-corporate-response-violence.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T21:30:06+05:30",
-      "time": "24 Jul, 09:30 PM",
-      "type": "news",
-      "description": "When violence takes place during street protests, how do corporate leaders respond? According to new research by Forrest Briscoe, professor of organiz..."
-    },
-    {
-      "title": "Why Europa's hidden ocean may be more difficult to reach than scientists thought",
-      "link": "https://phys.org/news/2026-07-europa-hidden-ocean-difficult-scientists.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T21:30:03+05:30",
-      "time": "24 Jul, 09:30 PM",
-      "type": "news",
-      "description": "Europa, one of Jupiter's icy moons, has long fascinated scientists because of what may lie beneath its frozen shell: a global ocean of liquid water. T..."
     },
     {
       "title": "Get ready for mobile 'stores on wheels.' Research shows they can outperform traditional retail stores",
@@ -809,216 +845,9 @@
       "time": "23 Jul, 06:30 PM",
       "type": "news",
       "description": "<p>Gemma 3 runs on Nvidia hardware to analyze satellite images</p>"
-    },
-    {
-      "title": "Larger than life: VR warps how people perceive their body size, study finds",
-      "link": "https://techxplore.com/news/2026-07-larger-life-vr-warps-people.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-23T18:10:02+05:30",
-      "time": "23 Jul, 06:10 PM",
-      "type": "news",
-      "description": "A new study from the University of Toronto finds that people perceive their bodies as larger in virtual reality than in the physical world\u2014and that ef..."
-    },
-    {
-      "title": "The Download: energy transmission and US threats against Chinese AI",
-      "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-23T17:40:00+05:30",
-      "time": "23 Jul, 05:40 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "Sleep Patch Could Track Brain\u2019s Nightly Cleansing Ritual",
-      "link": "https://spectrum.ieee.org/sleep-monitoring-device",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-07-23T17:30:01+05:30",
-      "time": "23 Jul, 05:30 PM",
-      "type": "news",
-      "description": "<p>Monitoring the elusive activity of the glymphatic system could aid Alzheimer\u2019s research</p>"
-    },
-    {
-      "title": "How AI helps scientists design the next generation of medicines",
-      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-23T17:30:00+05:30",
-      "time": "23 Jul, 05:30 PM",
-      "type": "news",
-      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of..."
-    },
-    {
-      "title": "Could Young Stem Cells Be the Key to Healthier Aging?",
-      "link": "https://scitechdaily.com/could-young-stem-cells-be-the-key-to-healthier-aging/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-23T17:19:36+05:30",
-      "time": "23 Jul, 05:19 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/could-young-stem-cells-be-the-key-to-healthier-aging/\" rel=\"nofollow\" title=\"Could Young Stem Cells Be the Key to He..."
-    },
-    {
-      "title": "Feeling Lonely May Take a Bigger Toll on Health Than Expected",
-      "link": "https://scitechdaily.com/feeling-lonely-may-take-a-bigger-toll-on-health-than-expected/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-23T16:44:49+05:30",
-      "time": "23 Jul, 04:44 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/feeling-lonely-may-take-a-bigger-toll-on-health-than-expected/\" rel=\"nofollow\" title=\"Feeling Lonely May Take a Bigg..."
-    },
-    {
-      "title": "The Eye Has a Hidden Cleanup System and Scientists Just Discovered It",
-      "link": "https://scitechdaily.com/the-eye-has-a-hidden-cleanup-system-and-scientists-just-discovered-it/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-23T16:09:37+05:30",
-      "time": "23 Jul, 04:09 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/the-eye-has-a-hidden-cleanup-system-and-scientists-just-discovered-it/\" rel=\"nofollow\" title=\"The Eye Has a Hidden C..."
-    },
-    {
-      "title": "The power line that could reshape New York\u2019s grid is hitting snags",
-      "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-23T14:30:00+05:30",
-      "time": "23 Jul, 02:30 PM",
-      "type": "news",
-      "description": "On July 3, as a heat wave swept the region, New York State\u2019s grid imported 52 gigawatt-hours of electricity from Canada\u2014enough to meet about 9% of its..."
-    },
-    {
-      "title": "US eyes offshore nuclear reactors",
-      "link": "https://techxplore.com/news/2026-07-eyes-offshore-nuclear-reactors.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-23T14:20:01+05:30",
-      "time": "23 Jul, 02:20 PM",
-      "type": "news",
-      "description": "The United States on Wednesday announced it had created a \"clear framework\" for the eventual deployment of offshore nuclear reactors as part of the Tr..."
-    },
-    {
-      "title": "AI catches up with humans to score 100% at top math contest",
-      "link": "https://techxplore.com/news/2026-07-ai-humans-score-math-contest.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-23T13:50:21+05:30",
-      "time": "23 Jul, 01:50 PM",
-      "type": "news",
-      "description": "A perfect score at the world's most prestigious math contest used to be the preserve of a handful of bright young minds each year, but for the first t..."
-    },
-    {
-      "title": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032113.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-23T11:44:00+05:30",
-      "time": "23 Jul, 11:44 AM",
-      "type": "news",
-      "description": "NASA is preparing for future astronaut landings on the Moon with an unusually ambitious orbital rehearsal. During Artemis III in 2027, Orion astronaut..."
-    },
-    {
-      "title": "NASA\u2019s Webb telescope discovers giant planet hiding in one of astronomy\u2019s most famous systems",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032111.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-23T11:28:04+05:30",
-      "time": "23 Jul, 11:28 AM",
-      "type": "news",
-      "description": "A giant planet had been hiding inside one of astronomy\u2019s most closely studied planetary systems, concealed by a bright disk of cosmic dust. Webb revea..."
-    },
-    {
-      "title": "Watch an orca ram into a sunfish so hard it explodes",
-      "link": "https://www.sciencenews.org/article/orca-ram-into-sunfish-explodes",
-      "source": "Sciencenews",
-      "sort_key": "2026-07-23T09:30:00+05:30",
-      "time": "23 Jul, 09:30 AM",
-      "type": "news",
-      "description": "This strategy expands orcas\u2019 already broad repertoire for dispatching different types of prey."
     }
   ],
   "tweets": [
-    {
-      "title": "Industrial-level hydrogen peroxide production reached 331 mA cm\u207b\u00b2 with no external power supply, after controlling gas bubbles that had been choking flow at the electrode surface. https://techxplore.com/news/2026-07-tech-electricity-free-hydrogen-peroxide.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2080851833367519545#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-25T08:35:12+05:30",
-      "time": "25 Jul, 08:35 AM",
-      "type": "tweets",
-      "content": "<p>Industrial-level hydrogen peroxide production reached 331 mA cm\u207b\u00b2 with no external power supply, after controlling gas bubbles that had been choking flow at the electrode surface. <a href=\"https://techxplore.com/news/2026-07-tech-electricity-free-hydrogen-peroxide.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-tech-electricity-free-hydrogen-peroxide.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080800815498031104%2FLzrhwl4T%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Bubble control tech unlocks electricity-free hydrogen peroxide production at industrial-level rates</b>\n</a>\n<p>A research team led by Professor Sunghak Park of the Department of Future Energy Engineering at Sungkyunkwan University, with research teams from Korea University and Northwestern University, has...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-tech-electricity-free-hydrogen-peroxide.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "A few hundred microscopic particles in liquid predicted chaotic time series and detected extremely subtle anomalies by computing through their collective motion. @unikonstanz https://techxplore.com/news/2026-07-liquid-hundreds-oscillating-particles-complex.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2080806007840575983#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-25T05:33:06+05:30",
-      "time": "25 Jul, 05:33 AM",
-      "type": "tweets",
-      "content": "<p>A few hundred microscopic particles in liquid predicted chaotic time series and detected extremely subtle anomalies by computing through their collective motion. <a href=\"https://nitter.net/UniKonstanz\" title=\"Universit\u00e4t Konstanz\">@unikonstanz</a> <a href=\"https://techxplore.com/news/2026-07-liquid-hundreds-oscillating-particles-complex.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-liquid-hundreds-oscillating-particles-complex.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080348384679096321%2FcPjQErhM%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>A computer in a liquid: Hundreds of oscillating particles compute complex patterns</b>\n</a>\n<p>Researchers at the Universities of Konstanz and Stuttgart have demonstrated a new approach to computation: a computer made from a few hundred microscopic particles oscillating in a liquid. Instead of...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-liquid-hundreds-oscillating-particles-complex.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "Adaptive mobile stores increased profits by 2.56% in Toronto-based retail data, outperforming conventional location strategies by relocating as demand shifts while still learning where demand may move next. https://techxplore.com/news/2026-07-ready-mobile-wheels-outperform-traditional.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2080761043949650302#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-25T02:34:26+05:30",
-      "time": "25 Jul, 02:34 AM",
-      "type": "tweets",
-      "content": "<p>Adaptive mobile stores increased profits by 2.56% in Toronto-based retail data, outperforming conventional location strategies by relocating as demand shifts while still learning where demand may move next. <a href=\"https://techxplore.com/news/2026-07-ready-mobile-wheels-outperform-traditional.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-ready-mobile-wheels-outperform-traditional.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080680564026458112%2FMpzGwo4G%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Get ready for mobile &apos;stores on wheels.&apos; Research shows they can outperform traditional retail...</b>\n</a>\n<p>As retailers increasingly embrace artificial intelligence (AI), robotics and autonomous vehicles, a new retail model is beginning to emerge: mobile stores that drive directly to customers instead of...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-ready-mobile-wheels-outperform-traditional.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "Built to retrieve people from the water, not just approach them, QuadBoat uses four spider-like legs to track and pick up floating targets in indoor and outdoor pool tests. @arxiv https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2080699971095994516#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-24T22:31:45+05:30",
-      "time": "24 Jul, 10:31 PM",
-      "type": "tweets",
-      "content": "<p>Built to retrieve people from the water, not just approach them, QuadBoat uses four spider-like legs to track and pick up floating targets in indoor and outdoor pool tests. <a href=\"https://nitter.net/arxiv\" title=\"arXiv.org\">@arxiv</a> <a href=\"https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080634488510685185%2F_AcEfWPg%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>A spider-inspired robotic boat could track and rescue people in water</b>\n</a>\n<p>Rescue teams in coastal cities and towns often need to rescue people who are at risk of drowning. These operations often require emergency teams to locate and reach people in distress as quickly as...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "AI learned large-scale material behavior from microscopic data, using small-system simulations to predict systems as large as simulated alloys with more than 500,000 atoms. @NUSingapore @arxiv https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2080639795974254809#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-24T18:32:38+05:30",
-      "time": "24 Jul, 06:32 PM",
-      "type": "tweets",
-      "content": "<p>AI learned large-scale material behavior from microscopic data, using small-system simulations to predict systems as large as simulated alloys with more than 500,000 atoms. <a href=\"https://nitter.net/NUSingapore\" title=\"NUS\">@NUSingapore</a> <a href=\"https://nitter.net/arxiv\" title=\"arXiv.org\">@arxiv</a> <a href=\"https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080373822340182016%2FuKtV_lXf%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>AI extracts hidden material rules from microscopic data to predict large-scale behavior</b>\n</a>\n<p>Researchers from the National University of Singapore (NUS) have developed artificial intelligence (AI) methods that learn the large-scale behavior of complex materials from microscopic data. By...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "At least 1% of resumes on one hiring platform carried hidden AI-targeting instructions, and the rate rose sevenfold between July 2024 and November 2025. @arxiv https://techxplore.com/news/2026-07-thwarting-hidden-resume-hacks-ai.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2080488949458317587#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-24T08:33:13+05:30",
-      "time": "24 Jul, 08:33 AM",
-      "type": "tweets",
-      "content": "<p>At least 1% of resumes on one hiring platform carried hidden AI-targeting instructions, and the rate rose sevenfold between July 2024 and November 2025. <a href=\"https://nitter.net/arxiv\" title=\"arXiv.org\">@arxiv</a> <a href=\"https://techxplore.com/news/2026-07-thwarting-hidden-resume-hacks-ai.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-thwarting-hidden-resume-hacks-ai.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080266110520496128%2Fz4vSqCA5%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Thwarting the hidden resume hacks that target AI hiring tools</b>\n</a>\n<p>In an increasingly competitive job market, some applicants are quietly trying to outsmart AI hiring tools. Now, new research focused on rooting out the practice of &quot;prompt injection&quot; shows how...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-thwarting-hidden-resume-hacks-ai.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "OpenAI says its AI models used stolen credentials to breach another company\u2019s servers after escaping an isolated test setup, sharpening questions about how such systems can be contained. https://techxplore.com/news/2026-07-openai-rogue-ai-broke-free.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2080443932027060335#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-24T05:34:20+05:30",
-      "time": "24 Jul, 05:34 AM",
-      "type": "tweets",
-      "content": "<p>OpenAI says its AI models used stolen credentials to breach another company\u2019s servers after escaping an isolated test setup, sharpening questions about how such systems can be contained. <a href=\"https://techxplore.com/news/2026-07-openai-rogue-ai-broke-free.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-openai-rogue-ai-broke-free.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080352414499299329%2FVIOt3KH1%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>OpenAI says rogue AI models broke free from human control. Some see it as a &apos;warning shot&apos;</b>\n</a>\n<p>It is the kind of development once seen only in science fiction: An artificial intelligence system, trained to probe for digital vulnerabilities, breaks free of human control and acts on its own to...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-openai-rogue-ai-broke-free.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "Samsung\u2019s new foldables start higher, with the Z Fold8 priced at $1,900 as rising AI-driven memory chip costs push up component prices. https://techxplore.com/news/2026-07-samsung-expensive-foldable-smartphones.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2080397885502337375#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-24T02:31:22+05:30",
-      "time": "24 Jul, 02:31 AM",
-      "type": "tweets",
-      "content": "<p>Samsung\u2019s new foldables start higher, with the Z Fold8 priced at $1,900 as rising AI-driven memory chip costs push up component prices. <a href=\"https://techxplore.com/news/2026-07-samsung-expensive-foldable-smartphones.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-samsung-expensive-foldable-smartphones.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080266819303284736%2FcGlBzNXA%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Samsung launches new, more expensive foldable smartphones</b>\n</a>\n<p>South Korean technology giant Samsung unveiled new, sleeker smartphone models Wednesday priced higher than previous models as artificial intelligence raises component costs.</p>\n<small><a href=\"https://techxplore.com/news/2026-07-samsung-expensive-foldable-smartphones.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "A flat NiTi sheet rises into a 3D button with light alone, using a single UV-laser process that also boosts near-infrared absorption without any coating. @advscinews https://techxplore.com/news/2026-07-mechanical-buttons.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2080337888051404869#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-23T22:32:57+05:30",
-      "time": "23 Jul, 10:32 PM",
-      "type": "tweets",
-      "content": "<p>A flat NiTi sheet rises into a 3D button with light alone, using a single UV-laser process that also boosts near-infrared absorption without any coating. @advscinews <a href=\"https://techxplore.com/news/2026-07-mechanical-buttons.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-mechanical-buttons.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2079286404081922048%2F4ug22n-o%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Mechanical engineers develop buttons that rise with light</b>\n</a>\n<p>No wires. No actuators. Shine light on the metal surface, and it rises like a button. KAIST researchers have developed a metal structure that changes shape using light, without any light-absorbing...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-mechanical-buttons.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
     {
       "title": "Does the ocean know how to cure cancer? Inspired by how mollusks grow their shells, Angela Belcher is developing a new way to help detect and treat cancer earlier. #CuriosityOnAMission Read her story: https://curiositymission.org/stories/cision/",
       "link": "https://nitter.net/MIT/status/2080298153442509199#m",
@@ -1028,16 +857,6 @@
       "type": "tweets",
       "content": "<p>Does the ocean know how to cure cancer? <br />\n<br />\nInspired by how mollusks grow their shells, Angela Belcher is developing a new way to help detect and treat cancer earlier. <a href=\"https://nitter.net/search?f=tweets&amp;q=%23CuriosityOnAMission\">#CuriosityOnAMission</a><br />\n<br />\nRead her story: <a href=\"https://curiositymission.org/stories/cision/\">curiositymission.org/stories\u2026</a></p>\n<a href=\"https://nitter.net/MIT/status/2080298153442509199#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/media%2FHN6zElnWAAA0pYt.jpg\" />\n</a>",
       "author": "@MIT"
-    },
-    {
-      "title": "100% on this year\u2019s IMO: AI models from Huawei and Xiaohongshu matched the contest\u2019s perfect score, a result only seven of 666 human contestants achieved. https://techxplore.com/news/2026-07-ai-humans-score-math-contest.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2080277012753609204#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-23T18:31:04+05:30",
-      "time": "23 Jul, 06:31 PM",
-      "type": "tweets",
-      "content": "<p>100% on this year\u2019s IMO: AI models from Huawei and Xiaohongshu matched the contest\u2019s perfect score, a result only seven of 666 human contestants achieved. <a href=\"https://techxplore.com/news/2026-07-ai-humans-score-math-contest.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-ai-humans-score-math-contest.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080206899698601984%2FdsD9IYYm%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>AI catches up with humans to score 100% at top math contest</b>\n</a>\n<p>A perfect score at the world&apos;s most prestigious math contest used to be the preserve of a handful of bright young minds each year, but for the first time, artificial intelligence has also earned a...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-ai-humans-score-math-contest.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
     }
   ],
   "youtube": [
@@ -1052,6 +871,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

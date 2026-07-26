@@ -1,6 +1,78 @@
 {
   "news": [
     {
+      "title": "A Fiber Frozen at -196\u00b0C Unlocks a New Way To Store Light",
+      "link": "https://scitechdaily.com/a-fiber-frozen-at-196c-unlocks-a-new-way-to-store-light/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-26T17:37:35+05:30",
+      "time": "26 Jul, 05:37 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/a-fiber-frozen-at-196c-unlocks-a-new-way-to-store-light/\" rel=\"nofollow\" title=\"A Fiber Frozen at -196\u00b0C Unlocks a N..."
+    },
+    {
+      "title": "Scientists Solve a Decades-Old Mystery Inside Atomic Nuclei",
+      "link": "https://scitechdaily.com/scientists-solve-a-decades-old-mystery-inside-atomic-nuclei/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-26T17:02:29+05:30",
+      "time": "26 Jul, 05:02 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/scientists-solve-a-decades-old-mystery-inside-atomic-nuclei/\" rel=\"nofollow\" title=\"Scientists Solve a Decades-Old M..."
+    },
+    {
+      "title": "Alien Signals May Be Hiding in a Radio Band SETI Has Barely Explored",
+      "link": "https://scitechdaily.com/alien-signals-may-be-hiding-in-a-radio-band-seti-has-barely-explored/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-26T16:27:26+05:30",
+      "time": "26 Jul, 04:27 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/alien-signals-may-be-hiding-in-a-radio-band-seti-has-barely-explored/\" rel=\"nofollow\" title=\"Alien Signals May Be Hi..."
+    },
+    {
+      "title": "As wildfires grip France and Spain, what are the risks from the smoke?",
+      "link": "https://phys.org/news/2026-07-wildfires-france-spain.html",
+      "source": "Phys",
+      "sort_key": "2026-07-26T16:10:01+05:30",
+      "time": "26 Jul, 04:10 PM",
+      "type": "news",
+      "description": "What dangers does smoke from wildfires pose? Who is most at risk? Here are some answers to health questions often asked, especially now with fires in ..."
+    },
+    {
+      "title": "Scotland declares 'major' wildfire in Cairngorms national park",
+      "link": "https://phys.org/news/2026-07-scotland-declares-major-wildfire-cairngorms.html",
+      "source": "Phys",
+      "sort_key": "2026-07-26T15:22:09+05:30",
+      "time": "26 Jul, 03:22 PM",
+      "type": "news",
+      "description": "Scottish firefighters fought a wildfire Saturday that was burning through Cairngorms National Park in the north, with authorities advising residents t..."
+    },
+    {
+      "title": "Thousands crowd shelters as wildfires force exodus in France, Spain",
+      "link": "https://phys.org/news/2026-07-thousands-crowd-wildfires-exodus-france.html",
+      "source": "Phys",
+      "sort_key": "2026-07-26T15:21:54+05:30",
+      "time": "26 Jul, 03:21 PM",
+      "type": "news",
+      "description": "Thousands crowded into emergency shelters in France and Spain on Sunday after wildfires drove more than 300,000 people to flee their homes and vacatio..."
+    },
+    {
+      "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
+      "link": "https://techxplore.com/news/2026-07-cheaper-intelligent-chinese-ai-gain.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-26T15:17:17+05:30",
+      "time": "26 Jul, 03:17 PM",
+      "type": "news",
+      "description": "China has a hot new product in the United States: artificial intelligence."
+    },
+    {
+      "title": "Inside the Backrooms: The internet\u2019s creepiest place is becoming a tourist attraction",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-07-26T13:46:35+05:30",
+      "time": "26 Jul, 01:46 PM",
+      "type": "news",
+      "description": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbing..."
+    },
+    {
       "title": "Scientists Crack the Code for Making \u201cImpossible\u201d Nanocrystals",
       "link": "https://scitechdaily.com/scientists-crack-the-code-for-making-impossible-nanocrystals/",
       "source": "ScitechDaily",
@@ -487,33 +559,6 @@
       "description": "Imagine searching for a gemstone in a dark cave: You use a flashlight, looking for a rainbow-colored glint in the darkness. Now, imagine 10 other peop..."
     },
     {
-      "title": "Native fine-flavor cacao can match commercial varieties in yield, study finds",
-      "link": "https://phys.org/news/2026-07-native-fine-flavor-cacao-commercial.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T23:50:01+05:30",
-      "time": "24 Jul, 11:50 PM",
-      "type": "news",
-      "description": "A study carried out on smallholder farms in northern Peru shows that Blanco de Piura, a native fine-flavor cacao variety, can achieve productivity lev..."
-    },
-    {
-      "title": "How did inbred brown tree snakes take over the island of Guam?",
-      "link": "https://phys.org/news/2026-07-inbred-brown-tree-snakes-island.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T23:30:07+05:30",
-      "time": "24 Jul, 11:30 PM",
-      "type": "news",
-      "description": "If you look up invasive species in a textbook, there's a good chance you'll find a picture of a brown tree snake. Native to Australia and the South Pa..."
-    },
-    {
-      "title": "Unraveling the climate behind the collapse of Bronze Age civilizations",
-      "link": "https://phys.org/news/2026-07-unraveling-climate-collapse-bronze-age.html",
-      "source": "Phys",
-      "sort_key": "2026-07-24T23:30:06+05:30",
-      "time": "24 Jul, 11:30 PM",
-      "type": "news",
-      "description": "The most severe droughts in the ancient Eastern Mediterranean arose when multiple natural climate cycles coincided, according to a new study from Stoc..."
-    },
-    {
       "title": "The quest to keep organs alive outside the body",
       "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
       "source": "MIT Technology Review",
@@ -611,105 +656,6 @@
       "time": "24 Jul, 06:30 PM",
       "type": "news",
       "description": "Scientists have identified four types of black holes, classified mostly by their masses. But these mysterious objects continue to challenge our unders..."
-    },
-    {
-      "title": "A spider-inspired robotic boat could track and rescue people in water",
-      "link": "https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-24T18:10:01+05:30",
-      "time": "24 Jul, 06:10 PM",
-      "type": "news",
-      "description": "Rescue teams in coastal cities and towns often need to rescue people who are at risk of drowning. These operations often require emergency teams to lo..."
-    },
-    {
-      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-      "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-24T17:40:00+05:30",
-      "time": "24 Jul, 05:40 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "Rare \u201cSuper-Jupiter\u201d Discovered on an Extraordinary 180-Day Orbit",
-      "link": "https://scitechdaily.com/rare-super-jupiter-discovered-on-an-extraordinary-180-day-orbit/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-24T17:24:48+05:30",
-      "time": "24 Jul, 05:24 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/rare-super-jupiter-discovered-on-an-extraordinary-180-day-orbit/\" rel=\"nofollow\" title=\"Rare \u201cSuper-Jupiter\u201d Discove..."
-    },
-    {
-      "title": "Desktop browsing trends: Gmail first, everything else later",
-      "link": "https://techxplore.com/news/2026-07-desktop-browsing-trends-gmail.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-24T17:10:01+05:30",
-      "time": "24 Jul, 05:10 PM",
-      "type": "news",
-      "description": "Time to check if you've got mail. Again."
-    },
-    {
-      "title": "What the OpenAI-hugging face breach reveals about AI governance failures",
-      "link": "https://techxplore.com/news/2026-07-openai-breach-reveals-ai-failures.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-24T16:50:05+05:30",
-      "time": "24 Jul, 04:50 PM",
-      "type": "news",
-      "description": "A series of recent AI security lapses\u2014including the OpenAI\u2013Hugging Face breach\u2014is raising a fundamental question: Can tech companies safely govern the..."
-    },
-    {
-      "title": "First Sugar Ever Found in Interstellar Space Could Help Explain Life\u2019s Origins",
-      "link": "https://scitechdaily.com/first-sugar-ever-found-in-interstellar-space-could-help-explain-lifes-origins/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-24T16:49:51+05:30",
-      "time": "24 Jul, 04:49 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/first-sugar-ever-found-in-interstellar-space-could-help-explain-lifes-origins/\" rel=\"nofollow\" title=\"First Sugar Ev..."
-    },
-    {
-      "title": "Scientists demonstrate dual-use laser system for power beaming and counter-UAS operations",
-      "link": "https://techxplore.com/news/2026-07-scientists-dual-laser-power-counter.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-24T16:30:06+05:30",
-      "time": "24 Jul, 04:30 PM",
-      "type": "news",
-      "description": "U.S. Naval Research Laboratory (NRL) scientists successfully demonstrated a dual-use laser system capable of wirelessly transmitting power over long d..."
-    },
-    {
-      "title": "James Webb Telescope Discovers Hidden Giant Planet in Famous Star System",
-      "link": "https://scitechdaily.com/james-webb-telescope-discovers-hidden-giant-planet-in-famous-star-system/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-24T16:14:05+05:30",
-      "time": "24 Jul, 04:14 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/james-webb-telescope-discovers-hidden-giant-planet-in-famous-star-system/\" rel=\"nofollow\" title=\"James Webb Telescop..."
-    },
-    {
-      "title": "Kimi K3 intensifies pressure on Trump to confront Chinese AI competition",
-      "link": "https://techxplore.com/news/2026-07-kimi-k3-pressure-trump-chinese.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-24T14:06:48+05:30",
-      "time": "24 Jul, 02:06 PM",
-      "type": "news",
-      "description": "U.S. President Donald Trump is under pressure to respond to the growing success of Chinese AI models that many companies prefer to the more powerful, ..."
-    },
-    {
-      "title": "Sweden\u2019s hidden rare earth deposits could help break China\u2019s grip",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-24T14:00:52+05:30",
-      "time": "24 Jul, 02:00 PM",
-      "type": "news",
-      "description": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Instead of extracting one target metal, rese..."
-    },
-    {
-      "title": "China\u2019s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084052.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-24T13:17:42+05:30",
-      "time": "24 Jul, 01:17 PM",
-      "type": "news",
-      "description": "China\u2019s Tianwen-1 orbiter captured a faint but remarkable view of 3I/ATLAS as the interstellar comet raced past Mars. The images reveal its tail and g..."
     }
   ],
   "tweets": [
@@ -816,6 +762,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

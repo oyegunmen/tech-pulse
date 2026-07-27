@@ -1,6 +1,276 @@
 {
   "news": [
     {
+      "title": "How flying together helps Andean condors save energy",
+      "link": "https://phys.org/news/2026-07-flying-andean-condors-energy.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T18:10:01+05:30",
+      "time": "27 Jul, 06:10 PM",
+      "type": "news",
+      "description": "Animals are constantly moving to find food, water, suitable habitats, mates and safe places to rest. Because moving requires substantial energy, anima..."
+    },
+    {
+      "title": "Could we send a spacecraft to a black hole?",
+      "link": "https://phys.org/news/2026-07-spacecraft-black-hole.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T17:50:04+05:30",
+      "time": "27 Jul, 05:50 PM",
+      "type": "news",
+      "description": "Black holes represent some of the most extreme environments in the universe. They are the sources of the strongest gravitational fields, allowing us t..."
+    },
+    {
+      "title": "New tool identifies the sources of fake videos",
+      "link": "https://techxplore.com/news/2026-07-tool-sources-fake-videos.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-27T17:50:03+05:30",
+      "time": "27 Jul, 05:50 PM",
+      "type": "news",
+      "description": "Artificial intelligence can generate videos so realistic that distinguishing them from authentic footage is becoming increasingly difficult. But a com..."
+    },
+    {
+      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-27T17:40:00+05:30",
+      "time": "27 Jul, 05:40 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "Exploring why societies around the world no longer bury their dead at home",
+      "link": "https://phys.org/news/2026-07-exploring-societies-world-longer-dead.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T17:30:37+05:30",
+      "time": "27 Jul, 05:30 PM",
+      "type": "news",
+      "description": "There are countless cultures and societies around the world, spanning thousands of years. One thing they all have in common is that death is a part of..."
+    },
+    {
+      "title": "Are we missing alien lighthouses?",
+      "link": "https://phys.org/news/2026-07-alien-lighthouses.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T17:30:10+05:30",
+      "time": "27 Jul, 05:30 PM",
+      "type": "news",
+      "description": "Searching for extraterrestrial intelligence has so far primarily meant focusing on one particular type of signal\u2014and that signal has normally been bas..."
+    },
+    {
+      "title": "Physicists capture first direct evidence of a Floquet topological state",
+      "link": "https://phys.org/news/2026-07-physicists-capture-evidence-floquet-topological.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T17:30:01+05:30",
+      "time": "27 Jul, 05:30 PM",
+      "type": "news",
+      "description": "A new study published in Nature Physics reports the first direct experimental evidence of a Floquet topological state, a novel light-induced phase of ..."
+    },
+    {
+      "title": "The path to artificial superintelligence",
+      "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-27T17:30:00+05:30",
+      "time": "27 Jul, 05:30 PM",
+      "type": "news",
+      "description": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth ph..."
+    },
+    {
+      "title": "Scientists Test Natural Compounds Against Sarcoma: Which One Shows the Most Promise?",
+      "link": "https://scitechdaily.com/scientists-test-natural-compounds-against-sarcoma-which-one-shows-the-most-promise/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-27T17:22:00+05:30",
+      "time": "27 Jul, 05:22 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/scientists-test-natural-compounds-against-sarcoma-which-one-shows-the-most-promise/\" rel=\"nofollow\" title=\"Scientist..."
+    },
+    {
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-27T17:10:16+05:30",
+      "time": "27 Jul, 05:10 PM",
+      "type": "news",
+      "description": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since th..."
+    },
+    {
+      "title": "Are aliens harvesting the spin of stars?",
+      "link": "https://phys.org/news/2026-07-aliens-harvesting-stars.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T17:10:05+05:30",
+      "time": "27 Jul, 05:10 PM",
+      "type": "news",
+      "description": "One of the challenges of searching for technosignatures (i.e., signs that intelligent life somewhere in the universe has created technology) is unders..."
+    },
+    {
+      "title": "AI chatbots need cultural awareness to earn trust",
+      "link": "https://techxplore.com/news/2026-07-ai-chatbots-cultural-awareness.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-27T17:10:03+05:30",
+      "time": "27 Jul, 05:10 PM",
+      "type": "news",
+      "description": "As AI becomes part of daily life, a UC researcher says one of its most unacknowledged blind spots is also one of the most human: culture."
+    },
+    {
+      "title": "Building the enterprise environment for agentic AI",
+      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-07-27T17:02:58+05:30",
+      "time": "27 Jul, 05:02 PM",
+      "type": "news",
+      "description": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end ac..."
+    },
+    {
+      "title": "Oh deer: The threat munching its way through NZ's native forests",
+      "link": "https://phys.org/news/2026-07-deer-threat-munching-nz-native.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T16:50:01+05:30",
+      "time": "27 Jul, 04:50 PM",
+      "type": "news",
+      "description": "The need for a national deer management strategy to manage the decline of native forests is highlighted in a new research paper published today in the..."
+    },
+    {
+      "title": "Singapore Has the World\u2019s Longest, Healthiest Lives \u2013 but It Comes With a Hidden Cost",
+      "link": "https://scitechdaily.com/singapore-has-the-worlds-longest-healthiest-lives-but-it-comes-with-a-hidden-cost/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-27T16:47:36+05:30",
+      "time": "27 Jul, 04:47 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/singapore-has-the-worlds-longest-healthiest-lives-but-it-comes-with-a-hidden-cost/\" rel=\"nofollow\" title=\"Singapore ..."
+    },
+    {
+      "title": "New research reveals mass shootings and suicide deaths share summer peaks",
+      "link": "https://phys.org/news/2026-07-reveals-mass-suicide-deaths-summer.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T16:30:10+05:30",
+      "time": "27 Jul, 04:30 PM",
+      "type": "news",
+      "description": "A new study has found that mass shootings and deaths by suicide in the United States share seasonal patterns, reaching their highest levels during sum..."
+    },
+    {
+      "title": "Exotic Quasiparticles Promise Next-Gen Interconnects",
+      "link": "https://spectrum.ieee.org/topological-material-nanowire-interconnect",
+      "source": "IEEE Spectrum",
+      "sort_key": "2026-07-27T16:30:01+05:30",
+      "time": "27 Jul, 04:30 PM",
+      "type": "news",
+      "description": "<p>New materials grow more conductive as they get smaller, not less</p>"
+    },
+    {
+      "title": "Scientists Discover the First Contagious Cancer in a Freshwater Animal",
+      "link": "https://scitechdaily.com/scientists-discover-the-first-contagious-cancer-in-a-freshwater-animal/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-27T16:12:21+05:30",
+      "time": "27 Jul, 04:12 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/scientists-discover-the-first-contagious-cancer-in-a-freshwater-animal/\" rel=\"nofollow\" title=\"Scientists Discover t..."
+    },
+    {
+      "title": "India\u2019s Space Industry Push Pays Off With Successful Launch",
+      "link": "https://spectrum.ieee.org/skyroot-aerospace-vikram-1-launch",
+      "source": "IEEE Spectrum",
+      "sort_key": "2026-07-27T15:30:06+05:30",
+      "time": "27 Jul, 03:30 PM",
+      "type": "news",
+      "description": "<p>Startup Skyroot nails an orbital launch on the first try</p>"
+    },
+    {
+      "title": "Virtual reality fish platform offers insights into the impact of artificial light on aquatic life",
+      "link": "https://phys.org/news/2026-07-virtual-reality-fish-platform-insights.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T15:30:01+05:30",
+      "time": "27 Jul, 03:30 PM",
+      "type": "news",
+      "description": "A virtual reality (VR) platform has given researchers new insights into how artificial light at night alters the way coral reef fish respond to predat..."
+    },
+    {
+      "title": "A US-Russian space crew lands safely in Kazakhstan after an 8-month stint on the ISS",
+      "link": "https://phys.org/news/2026-07-russian-space-crew-safely-kazakhstan.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T13:18:14+05:30",
+      "time": "27 Jul, 01:18 PM",
+      "type": "news",
+      "description": "A U.S.-Russian space crew landed safely in the steppes of Kazakhstan on Sunday after an eight-month stint on the International Space Station."
+    },
+    {
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "link": "https://phys.org/news/2026-07-french-firefighters-pyrocumulonimbus.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T13:10:01+05:30",
+      "time": "27 Jul, 01:10 PM",
+      "type": "news",
+      "description": "The gigantic wildfire ravaging southwestern France has created an extremely dangerous \"pyrocumulonimbus\"\u2014a phenomenon never before seen in the country..."
+    },
+    {
+      "title": "New AI tools let readers talk to books",
+      "link": "https://techxplore.com/news/2026-07-ai-tools-readers.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-27T13:00:01+05:30",
+      "time": "27 Jul, 01:00 PM",
+      "type": "news",
+      "description": "Imagine a world where you could ask a book a question as you read it."
+    },
+    {
+      "title": "Whales at risk, hungry pelicans: Marine heat wave hits California",
+      "link": "https://phys.org/news/2026-07-whales-hungry-pelicans-marine-california.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T12:30:04+05:30",
+      "time": "27 Jul, 12:30 PM",
+      "type": "news",
+      "description": "On a boat off the coast of California, Sara Lesser gazes wistfully at dozens of dolphins playing in the vessel's wake. This summer, extreme heat is ma..."
+    },
+    {
+      "title": "Chinese chipmaker CXMT soars 500% on debut as AI fuels shortages",
+      "link": "https://techxplore.com/news/2026-07-china-memory-chipmaker-cxmt-soar.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-27T12:30:01+05:30",
+      "time": "27 Jul, 12:30 PM",
+      "type": "news",
+      "description": "China's leading memory chipmaker CXMT became the most valuable company in mainland China after soaring more than 500% on its market debut Monday, unde..."
+    },
+    {
+      "title": "France, Spain battle 'monster' wildfires with more heat on the way",
+      "link": "https://phys.org/news/2026-07-france-spain-monster-wildfires.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T12:19:07+05:30",
+      "time": "27 Jul, 12:19 PM",
+      "type": "news",
+      "description": "Firefighters battled massive blazes tearing through forests across France and Spain on Monday, as authorities warned of a fresh heat wave set to engul..."
+    },
+    {
+      "title": "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup",
+      "link": "https://techxplore.com/news/2026-07-skynet-day-sci-fi-rogue.html",
+      "source": "TechXplore",
+      "sort_key": "2026-07-27T12:17:04+05:30",
+      "time": "27 Jul, 12:17 PM",
+      "type": "news",
+      "description": "To be fair, James Cameron did warn us. Long before OpenAI broke out of its test corral and hacked into Hugging Face, before the internet and Sam Altma..."
+    },
+    {
+      "title": "NASA Astronaut Comes Home After 3,856 Orbits of Earth",
+      "link": "https://scitechdaily.com/nasa-astronaut-comes-home-after-3856-orbits-of-earth/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-07-27T11:31:52+05:30",
+      "time": "27 Jul, 11:31 AM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/nasa-astronaut-comes-home-after-3856-orbits-of-earth/\" rel=\"nofollow\" title=\"NASA Astronaut Comes Home After 3,856 O..."
+    },
+    {
+      "title": "Saber-toothed cats' spinal tumors suggest inbred species struggled to survive",
+      "link": "https://phys.org/news/2026-07-saber-toothed-cats-spinal-tumors.html",
+      "source": "Phys",
+      "sort_key": "2026-07-27T09:30:01+05:30",
+      "time": "27 Jul, 09:30 AM",
+      "type": "news",
+      "description": "The fossilized spines of saber-toothed cats in the La Brea Tar Pits reveal evidence of an unexpectedly high prevalence of rare spinal nerve tumors, su..."
+    },
+    {
+      "title": "Spines of saber-toothed cats tell a tale of the doomed species",
+      "link": "https://www.sciencenews.org/article/spine-saber-toothed-cat-tumor-extinct",
+      "source": "Sciencenews",
+      "sort_key": "2026-07-27T09:30:00+05:30",
+      "time": "27 Jul, 09:30 AM",
+      "type": "news",
+      "description": "Remains pulled from the La Brea Tar Pits revealed deformed vertebrae and rare tumors, possible signs of inbreeding among now-extinct saber-toothed cat..."
+    },
+    {
       "title": "Tigray's old grapevines have survived against the odds: New research uncovers their genetic and historic value",
       "link": "https://phys.org/news/2026-07-tigray-grapevines-survived-odds-uncovers.html",
       "source": "Phys",
@@ -352,60 +622,6 @@
       "description": "When Amy posts a photograph of herself on Instagram, she knows what will attract attention. A picture of her in a bikini may receive thousands of view..."
     },
     {
-      "title": "Unwritten social rules, not government oversight, help keep forest land sustainable",
-      "link": "https://phys.org/news/2026-07-unwritten-social-oversight-forest-sustainable.html",
-      "source": "Phys",
-      "sort_key": "2026-07-26T02:30:03+05:30",
-      "time": "26 Jul, 02:30 AM",
-      "type": "news",
-      "description": "Swidden agriculture\u2014often called \"slash-and-burn\"\u2014has been practiced on every inhabited continent throughout human history, and for decades it has bee..."
-    },
-    {
-      "title": "Syria's ancient sites face widespread looting and systematic bulldozing, satellite images reveal",
-      "link": "https://phys.org/news/2026-07-syria-ancient-sites-widespread-looting.html",
-      "source": "Phys",
-      "sort_key": "2026-07-26T01:30:01+05:30",
-      "time": "26 Jul, 01:30 AM",
-      "type": "news",
-      "description": "Dozens of archaeological sites were destroyed by looting during Syria's civil war, which began in 2011 and lasted until 2024. Because the last compreh..."
-    },
-    {
-      "title": "New model maps how social media users repeatedly spread misinformation",
-      "link": "https://phys.org/news/2026-07-social-media-users-misinformation.html",
-      "source": "Phys",
-      "sort_key": "2026-07-25T23:30:04+05:30",
-      "time": "25 Jul, 11:30 PM",
-      "type": "news",
-      "description": "People who receive information on social media play a greater role in the spread of misinformation than research has acknowledged, according to resear..."
-    },
-    {
-      "title": "Cameras attached to whale sharks capture krill chases never witnessed before",
-      "link": "https://phys.org/news/2026-07-cameras-whale-sharks-capture-krill.html",
-      "source": "Phys",
-      "sort_key": "2026-07-25T23:30:01+05:30",
-      "time": "25 Jul, 11:30 PM",
-      "type": "news",
-      "description": "Whale sharks (Rhincodon typus)\u2014the world's biggest fish\u2014are one of the most charismatic marine species. They connect with the hearts of anyone lucky e..."
-    },
-    {
-      "title": "China evacuates 340,000 people as Typhoon Noul approaches",
-      "link": "https://phys.org/news/2026-07-china-evacuates-people-typhoon-noul.html",
-      "source": "Phys",
-      "sort_key": "2026-07-25T23:20:01+05:30",
-      "time": "25 Jul, 11:20 PM",
-      "type": "news",
-      "description": "Authorities have evacuated more than 340,000 people and suspended work and rail services as Typhoon Noul approaches southern China, with flight cancel..."
-    },
-    {
-      "title": "Spain fights to 'save lives' as wildfire evacuees shelter in Madrid",
-      "link": "https://phys.org/news/2026-07-spain-wildfire-evacuees-madrid.html",
-      "source": "Phys",
-      "sort_key": "2026-07-25T23:10:04+05:30",
-      "time": "25 Jul, 11:10 PM",
-      "type": "news",
-      "description": "Spain's Prime Minister Pedro S\u00e1nchez said Saturday firefighters were working to \"save lives\" in the blazes raging west of Madrid, as authorities said ..."
-    },
-    {
       "title": "New York's noisy food carts go electric in clean air trial",
       "link": "https://techxplore.com/news/2026-07-york-noisy-food-carts-electric.html",
       "source": "TechXplore",
@@ -413,15 +629,6 @@
       "time": "25 Jul, 10:57 PM",
       "type": "news",
       "description": "Walk around New York and you'll likely hear the chugging of gasoline generators powering the city's tens of thousands of food carts. But not William A..."
-    },
-    {
-      "title": "SpaceX launches Starship on another test flight, this time with the most advanced Starlinks",
-      "link": "https://phys.org/news/2026-07-spacex-starship-flight-advanced-starlinks.html",
-      "source": "Phys",
-      "sort_key": "2026-07-25T22:45:07+05:30",
-      "time": "25 Jul, 10:45 PM",
-      "type": "news",
-      "description": "SpaceX's mammoth Starship rocket blasted off Friday on another test flight stretching halfway around the world, this time releasing 20 of the most adv..."
     },
     {
       "title": "Scientists Built a Programmable Chip That Can Slow Light on Command",
@@ -433,15 +640,6 @@
       "description": "<a href=\"https://scitechdaily.com/scientists-built-a-programmable-chip-that-can-slow-light-on-command/\" rel=\"nofollow\" title=\"Scientists Built a Progr..."
     },
     {
-      "title": "The hunt for a natural molecule that can release cellular energy",
-      "link": "https://phys.org/news/2026-07-natural-molecule-cellular-energy.html",
-      "source": "Phys",
-      "sort_key": "2026-07-25T21:30:02+05:30",
-      "time": "25 Jul, 09:30 PM",
-      "type": "news",
-      "description": "All cells in the human body\u2014and the motions they enable, from our beating hearts to our wiggling toes\u2014use energy generated by a molecule called ATP. I..."
-    },
-    {
       "title": "Astronomers Detect an Atmosphere on a Potentially Earth-Like World",
       "link": "https://scitechdaily.com/astronomers-detect-an-atmosphere-on-a-potentially-earth-like-world/",
       "source": "ScitechDaily",
@@ -449,33 +647,6 @@
       "time": "25 Jul, 09:26 PM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/astronomers-detect-an-atmosphere-on-a-potentially-earth-like-world/\" rel=\"nofollow\" title=\"Astronomers Detect an Atm..."
-    },
-    {
-      "title": "The Backyard \u201cSilly Sprinkler\u201d That Cracked One of Physics\u2019 Biggest Puzzles",
-      "link": "https://scitechdaily.com/the-backyard-silly-sprinkler-that-cracked-one-of-physics-biggest-puzzles/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-25T20:51:01+05:30",
-      "time": "25 Jul, 08:51 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/the-backyard-silly-sprinkler-that-cracked-one-of-physics-biggest-puzzles/\" rel=\"nofollow\" title=\"The Backyard &#8220..."
-    },
-    {
-      "title": "Ancient bones from smaller Maya communities reveal heavy reliance on maize and local subsistence patterns",
-      "link": "https://phys.org/news/2026-07-ancient-bones-smaller-maya-communities.html",
-      "source": "Phys",
-      "sort_key": "2026-07-25T20:50:01+05:30",
-      "time": "25 Jul, 08:50 PM",
-      "type": "news",
-      "description": "Historians and archaeologists know that maize was a central food source and cultural symbol across the ancient Maya world, but much of what is known h..."
-    },
-    {
-      "title": "Herbivore species dynamics is key to grassland food web stability",
-      "link": "https://phys.org/news/2026-07-herbivore-species-dynamics-key-grassland.html",
-      "source": "Phys",
-      "sort_key": "2026-07-25T20:30:01+05:30",
-      "time": "25 Jul, 08:30 PM",
-      "type": "news",
-      "description": "Ecologists have long understood that biodiversity is paramount to ecosystem stability. Until now, however, most ecological research has focused on a s..."
     },
     {
       "title": "Seed crystals push solvent\u2011free perovskite cells to 25.53% efficiency",
@@ -503,63 +674,80 @@
       "time": "25 Jul, 06:30 PM",
       "type": "news",
       "description": "<p>Read Paul Jones\u2019s poem from our August 2026 issue</p>"
-    },
-    {
-      "title": "Rare blue optical transient points to possible new class of cosmic explosion",
-      "link": "https://phys.org/news/2026-07-rare-blue-optical-transient-class.html",
-      "source": "Phys",
-      "sort_key": "2026-07-25T18:10:01+05:30",
-      "time": "25 Jul, 06:10 PM",
-      "type": "news",
-      "description": "Chinese astronomers report the detection of a peculiar optical transient event that occurred in the center of a dwarf galaxy. The newly discovered eve..."
-    },
-    {
-      "title": "Magnetic Nanoparticles Restore Movement in Mice With Parkinson\u2019s-Like Symptoms",
-      "link": "https://scitechdaily.com/magnetic-nanoparticles-restore-movement-in-mice-with-parkinsons-like-symptoms/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-25T17:48:12+05:30",
-      "time": "25 Jul, 05:48 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/magnetic-nanoparticles-restore-movement-in-mice-with-parkinsons-like-symptoms/\" rel=\"nofollow\" title=\"Magnetic Nanop..."
-    },
-    {
-      "title": "Study explores rare atom-containing natural products and their biomedical potential",
-      "link": "https://phys.org/news/2026-07-explores-rare-atom-natural-products.html",
-      "source": "Phys",
-      "sort_key": "2026-07-25T17:30:04+05:30",
-      "time": "25 Jul, 05:30 PM",
-      "type": "news",
-      "description": "Modern research on secondary metabolites from microbes, plants and marine organisms has revealed a remarkable diversity of chemical structures and bio..."
-    },
-    {
-      "title": "How can rural communities benefit from South Africa's green energy transition? A solar farm in Limpopo offers clues",
-      "link": "https://techxplore.com/news/2026-07-rural-communities-benefit-south-africa.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-25T17:30:02+05:30",
-      "time": "25 Jul, 05:30 PM",
-      "type": "news",
-      "description": "South Africa, which produces about 40% of Africa's carbon emissions, is moving away from coal-fired power toward renewable energy such as solar and wi..."
-    },
-    {
-      "title": "Scientists Found What May Be Keeping the Alzheimer\u2019s Brain Awake",
-      "link": "https://scitechdaily.com/scientists-found-what-may-be-keeping-the-alzheimers-brain-awake/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-25T17:13:14+05:30",
-      "time": "25 Jul, 05:13 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-found-what-may-be-keeping-the-alzheimers-brain-awake/\" rel=\"nofollow\" title=\"Scientists Found What May Be..."
-    },
-    {
-      "title": "This Common Sleep Habit Could Be Making You Gain Weight",
-      "link": "https://scitechdaily.com/this-common-sleep-habit-could-be-making-you-gain-weight/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-25T16:38:10+05:30",
-      "time": "25 Jul, 04:38 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/this-common-sleep-habit-could-be-making-you-gain-weight/\" rel=\"nofollow\" title=\"This Common Sleep Habit Could Be Mak..."
     }
   ],
-  "tweets": [],
+  "tweets": [
+    {
+      "title": "Billions of jammed water droplets form a 3D-printable, tissue-like material in minutes, letting some molecules pass while blocking others for uses from scaffolds to wastewater filtering. @utaustin @NatureMaterials https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2081485426380906610#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-27T02:32:52+05:30",
+      "time": "27 Jul, 02:32 AM",
+      "type": "tweets",
+      "content": "<p>Billions of jammed water droplets form a 3D-printable, tissue-like material in minutes, letting some molecules pass while blocking others for uses from scaffolds to wastewater filtering. <a href=\"https://nitter.net/UTAustin\" title=\"UT Austin\">@utaustin</a> <a href=\"https://nitter.net/NatureMaterials\" title=\"Nature Materials\">@NatureMaterials</a> <a href=\"https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2081698157675659264%2FcxN_HCr3%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>3D-printable material can heal the body, build better robots and recover critical minerals</b>\n</a>\n<p>A new type of 3D-printable material developed by researchers at The University of Texas at Austin mimics human tissue&apos;s ability to sort and filter, allowing certain molecules to pass through while...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
+      "title": "Battery electrodes can now be scanned non-destructively for thickness differences as small as 7.8 nanometers, a level that may expose fire-linked defects invisible on production lines. @NatureComms https://techxplore.com/news/2026-07-ultraprecise-battery-scan-nanoscale-electrode.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2081425584094076975#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-26T22:35:04+05:30",
+      "time": "26 Jul, 10:35 PM",
+      "type": "tweets",
+      "content": "<p>Battery electrodes can now be scanned non-destructively for thickness differences as small as 7.8 nanometers, a level that may expose fire-linked defects invisible on production lines. <a href=\"https://nitter.net/NatureComms\" title=\"Nature Communications\">@NatureComms</a> <a href=\"https://techxplore.com/news/2026-07-ultraprecise-battery-scan-nanoscale-electrode.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-ultraprecise-battery-scan-nanoscale-electrode.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<b>Ultraprecise battery scan maps nanoscale electrode thickness variations to improve EV fire safety</b>\n</a>\n<p>A KAIST research team has developed a method capable of detecting minute variations in battery electrode thickness that can contribute to thermal runaway with a precision equivalent to approximately...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-ultraprecise-battery-scan-nanoscale-electrode.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
+      "title": "Curiosity cut language-learning time in half for virtual robots, which also made toddler-like mistakes before recovering as training expanded. @oistedu @ScienceAdvances https://techxplore.com/news/2026-07-playful-ai-robots-mirror-toddlers.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2081364547399471474#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-26T18:32:32+05:30",
+      "time": "26 Jul, 06:32 PM",
+      "type": "tweets",
+      "content": "<p>Curiosity cut language-learning time in half for virtual robots, which also made toddler-like mistakes before recovering as training expanded. <a href=\"https://nitter.net/OISTedu\" title=\"Okinawa Institute of Science and Technology (OIST)\">@oistedu</a> <a href=\"https://nitter.net/ScienceAdvances\" title=\"Science Advances\">@ScienceAdvances</a> <a href=\"https://techxplore.com/news/2026-07-playful-ai-robots-mirror-toddlers.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-playful-ai-robots-mirror-toddlers.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2081536170467483648%2FOr8WLSbF%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Playful AI robots mirror toddlers&apos; language-learning mistakes and recover</b>\n</a>\n<p>Do AI models understand the language that they produce? To help answer this question and elucidate the mechanisms of language acquisition more generally, researchers at the Okinawa Institute of...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-playful-ai-robots-mirror-toddlers.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
+      "title": "About 70% accuracy on multimodal compositional questions, up from 36%\u201352%: a new AI editing method stores image and text knowledge separately so new updates do not erase earlier information. @arxiv https://techxplore.com/news/2026-07-method-multimodal-ai-knowledge-earlier.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2081184219359826218#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-26T06:35:59+05:30",
+      "time": "26 Jul, 06:35 AM",
+      "type": "tweets",
+      "content": "<p>About 70% accuracy on multimodal compositional questions, up from 36%\u201352%: a new AI editing method stores image and text knowledge separately so new updates do not erase earlier information. <a href=\"https://nitter.net/arxiv\" title=\"arXiv.org\">@arxiv</a> <a href=\"https://techxplore.com/news/2026-07-method-multimodal-ai-knowledge-earlier.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-method-multimodal-ai-knowledge-earlier.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2081184220358094849%2FqhPvZb8J%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Novel method lets multimodal AI update knowledge without losing earlier information</b>\n</a>\n<p>Korean researchers have developed a core technology that allows multimodal artificial intelligence (AI) to reliably retain existing knowledge while repeatedly learning new information.</p>\n<small><a href=\"https://techxplore.com/news/2026-07-method-multimodal-ai-knowledge-earlier.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
+      "title": "A switch 25,000 times smaller than conventional RF versions reconfigured working GaN chips up to 100 GHz while retaining its setting without continuous power. @NUSingapore @nature https://techxplore.com/news/2026-07-tiny-memory-5g-6g-radio.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2081123743414284787#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-26T02:35:40+05:30",
+      "time": "26 Jul, 02:35 AM",
+      "type": "tweets",
+      "content": "<p>A switch 25,000 times smaller than conventional RF versions reconfigured working GaN chips up to 100 GHz while retaining its setting without continuous power. <a href=\"https://nitter.net/NUSingapore\" title=\"NUS\">@NUSingapore</a> <a href=\"https://nitter.net/Nature\" title=\"nature\">@nature</a> <a href=\"https://techxplore.com/news/2026-07-tiny-memory-5g-6g-radio.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-tiny-memory-5g-6g-radio.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080919775476387840%2FT7Xipv0L%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Tiny memory switches could shrink 5G and 6G radio-frequency chips</b>\n</a>\n<p>Mobile phones today handle far more wireless signals and services than earlier generations. The same is true of the sophisticated equipment behind mobile networks, such as base stations, and emerging...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-tiny-memory-5g-6g-radio.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
+      "title": "25.53% efficiency puts solvent-free perovskite solar cells closer to top-tier performance, after seed crystals formed during vacuum deposition cut defects and improved crystal growth. @NatureEnergyJnl https://techxplore.com/news/2026-07-seed-crystals-solventfree-perovskite-cells.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2081063395223114190#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-25T22:35:52+05:30",
+      "time": "25 Jul, 10:35 PM",
+      "type": "tweets",
+      "content": "<p>25.53% efficiency puts solvent-free perovskite solar cells closer to top-tier performance, after seed crystals formed during vacuum deposition cut defects and improved crystal growth. <a href=\"https://nitter.net/NatureEnergyJnl\" title=\"Nature Energy\">@NatureEnergyJnl</a> <a href=\"https://techxplore.com/news/2026-07-seed-crystals-solventfree-perovskite-cells.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-seed-crystals-solventfree-perovskite-cells.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2081027877710315520%2FKIQv780r%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Seed crystals push solvent\u2011free perovskite cells to 25.53% efficiency</b>\n</a>\n<p>Solar cells, devices that can convert sunlight into electricity, are now widely used in many countries, where they are helping to reduce reliance on electricity generated from fossil fuels. While...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-seed-crystals-solventfree-perovskite-cells.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
+    {
+      "title": "A skin-worn patch smaller than a driver\u2019s license detects six hazards and vibrates instantly, using a different vibration pattern for each threat while running for around 24 hours. @ncstate @cellpressnews https://techxplore.com/news/2026-07-wearable-patch-vibrates-environmental-hazards.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2081002715279200628#m",
+      "source": "TechXplore",
+      "sort_key": "2026-07-25T18:34:45+05:30",
+      "time": "25 Jul, 06:34 PM",
+      "type": "tweets",
+      "content": "<p>A skin-worn patch smaller than a driver\u2019s license detects six hazards and vibrates instantly, using a different vibration pattern for each threat while running for around 24 hours. <a href=\"https://nitter.net/NCState\" title=\"NC State University\">@ncstate</a> <a href=\"https://nitter.net/CellPressNews\" title=\"Cell Press\">@cellpressnews</a> <a href=\"https://techxplore.com/news/2026-07-wearable-patch-vibrates-environmental-hazards.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-wearable-patch-vibrates-environmental-hazards.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2080725357251219456%2F2DoBe9Fv%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Wearable patch vibrates when it detects environmental hazards</b>\n</a>\n<p>Researchers have created a wearable patch that can detect hazards in the environment\u2014such as dangerous gases or heavy metals in water\u2014and then notify wearers by vibrating against their skin. The...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-wearable-patch-vibrates-environmental-hazards.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    }
+  ],
   "youtube": [
     {
       "title": "Why does every mammal get 1 billion heartbeats in their life?",
@@ -572,6 +760,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

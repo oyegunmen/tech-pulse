@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "DESI side project reveals the spectra of disintegrated exoplanets",
+      "link": "https://phys.org/news/2026-07-desi-side-reveals-spectra-disintegrated.html",
+      "source": "Phys",
+      "sort_key": "2026-08-02T17:50:01+05:30",
+      "time": "02 Aug, 05:50 PM",
+      "type": "news",
+      "description": "Using spectral data from the Dark Energy Spectroscopic Instrument (DESI), astronomers have gained some of the clearest evidence yet that white dwarf s..."
+    },
+    {
+      "title": "Rocks From the Moon\u2019s Far Side Are Rewriting Lunar History",
+      "link": "https://scitechdaily.com/rocks-from-the-moons-far-side-are-rewriting-lunar-history/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-02T17:28:42+05:30",
+      "time": "02 Aug, 05:28 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/rocks-from-the-moons-far-side-are-rewriting-lunar-history/\" rel=\"nofollow\" title=\"Rocks From the Moon\u2019s Far Side Are..."
+    },
+    {
+      "title": "Indigenous territory maintains ecological stability amid agricultural expansion in the Brazilian savanna",
+      "link": "https://phys.org/news/2026-08-indigenous-territory-ecological-stability-agricultural.html",
+      "source": "Phys",
+      "sort_key": "2026-08-02T17:10:01+05:30",
+      "time": "02 Aug, 05:10 PM",
+      "type": "news",
+      "description": "\"An island of biodiversity in a sea of monoculture\": This is how a recent study characterized the Pimentel Barbosa Indigenous Territory (TIPB), locate..."
+    },
+    {
+      "title": "NASA\u2019s Curiosity Finds a Vast Sea of Mysterious Polygons on Mars",
+      "link": "https://scitechdaily.com/nasas-curiosity-finds-a-vast-sea-of-mysterious-polygons-on-mars/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-02T16:53:49+05:30",
+      "time": "02 Aug, 04:53 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/nasas-curiosity-finds-a-vast-sea-of-mysterious-polygons-on-mars/\" rel=\"nofollow\" title=\"NASA\u2019s Curiosity Finds a Vas..."
+    },
+    {
+      "title": "Pine bark and sponge compounds could counter drug-resistant malaria and babesiosis",
+      "link": "https://phys.org/news/2026-07-bark-sponge-compounds-counter-drug.html",
+      "source": "Phys",
+      "sort_key": "2026-08-02T16:30:01+05:30",
+      "time": "02 Aug, 04:30 PM",
+      "type": "news",
+      "description": "As parasites become increasingly resistant to existing drugs, researchers at the University of California, Riverside, are working to develop a new gen..."
+    },
+    {
+      "title": "Astronomers May Have Found the First Moon Beyond Our Solar System",
+      "link": "https://scitechdaily.com/astronomers-may-have-found-the-first-moon-beyond-our-solar-system/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-02T16:18:48+05:30",
+      "time": "02 Aug, 04:18 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/astronomers-may-have-found-the-first-moon-beyond-our-solar-system/\" rel=\"nofollow\" title=\"Astronomers May Have Found..."
+    },
+    {
       "title": "Underwater Cameras Expose the Secret Lives of Whale Sharks",
       "link": "https://scitechdaily.com/underwater-cameras-expose-the-secret-lives-of-whale-sharks/",
       "source": "ScitechDaily",
@@ -451,33 +505,6 @@
       "description": "We know Mars has water ice in its polar regions, but astronauts (and their solar-powered equipment!) would much rather experience life closer to Mars'..."
     },
     {
-      "title": "Art festivals may revive island communities when tourism stays within local limits",
-      "link": "https://phys.org/news/2026-07-art-festivals-revive-island-communities.html",
-      "source": "Phys",
-      "sort_key": "2026-08-01T02:50:01+05:30",
-      "time": "01 Aug, 02:50 AM",
-      "type": "news",
-      "description": "Grounding intermittent art festivals such as the Setouchi Triennale within the resource capacities and social thresholds of the island communities tha..."
-    },
-    {
-      "title": "Smarter fish farms could cut electricity use and CO\u2082 while keeping fish safe",
-      "link": "https://phys.org/news/2026-07-smarter-fish-farms-electricity-safe.html",
-      "source": "Phys",
-      "sort_key": "2026-08-01T02:30:04+05:30",
-      "time": "01 Aug, 02:30 AM",
-      "type": "news",
-      "description": "Recirculating aquaculture systems (RAS) are attracting growing attention as a sustainable aquaculture technology that can reduce water use, control re..."
-    },
-    {
-      "title": "A new genetic tool helps researchers uncover the logic of gene regulation",
-      "link": "https://phys.org/news/2026-07-genetic-tool-uncover-logic-gene.html",
-      "source": "Phys",
-      "sort_key": "2026-08-01T02:30:02+05:30",
-      "time": "01 Aug, 02:30 AM",
-      "type": "news",
-      "description": "The human genome contains more than 20,000 genes. However, at any given time and in a given cell, only a fraction are active. Researchers from EMBL He..."
-    },
-    {
       "title": "What It Takes To Make a White Blood Cell Could Unlock New Cancer Treatments",
       "link": "https://scitechdaily.com/what-it-takes-to-make-a-white-blood-cell-could-unlock-new-cancer-treatments/",
       "source": "ScitechDaily",
@@ -629,150 +656,6 @@
       "time": "31 Jul, 06:16 PM",
       "type": "news",
       "description": "A new chemical process can transform three of the most common plastics into high-purity hydrogen without sorting them first. The technique operates at..."
-    },
-    {
-      "title": "The Download: Montana\u2019s new experimental drug rules",
-      "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-31T17:46:00+05:30",
-      "time": "31 Jul, 05:46 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "CEO of OpenAI says we're 'in the singularity' with AI: Is he right?",
-      "link": "https://techxplore.com/news/2026-07-ceo-openai-singularity-ai.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-31T17:10:02+05:30",
-      "time": "31 Jul, 05:10 PM",
-      "type": "news",
-      "description": "\"We are now, like, in the singularity.\" These are the words of Sam Altman, CEO of OpenAI, speaking on the Relentless podcast on July 25."
-    },
-    {
-      "title": "Harvard Researchers Turn Ordinary Knitting Into Programmable Technology",
-      "link": "https://scitechdaily.com/harvard-researchers-turn-ordinary-knitting-into-programmable-technology/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-31T17:09:12+05:30",
-      "time": "31 Jul, 05:09 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/harvard-researchers-turn-ordinary-knitting-into-programmable-technology/\" rel=\"nofollow\" title=\"Harvard Researchers ..."
-    },
-    {
-      "title": "Sports venues are offering facial recognition to let people in: What are the risks?",
-      "link": "https://techxplore.com/news/2026-07-sports-venues-facial-recognition-people.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-31T16:50:02+05:30",
-      "time": "31 Jul, 04:50 PM",
-      "type": "news",
-      "description": "Queues at sports events can be very long, even at large venues with many entrance gates. To speed things up, Geelong Football Club recently introduced..."
-    },
-    {
-      "title": "Chemists Defy Decades-Old Rules With \u201cFree Electron\u201d Breakthrough",
-      "link": "https://scitechdaily.com/chemists-defy-decades-old-rules-with-free-electron-breakthrough/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-31T16:34:10+05:30",
-      "time": "31 Jul, 04:34 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/chemists-defy-decades-old-rules-with-free-electron-breakthrough/\" rel=\"nofollow\" title=\"Chemists Defy Decades-Old Ru..."
-    },
-    {
-      "title": "More than 80% of kids still using social media despite ban, new eSafety report finds",
-      "link": "https://techxplore.com/news/2026-07-kids-social-media-esafety.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-31T16:30:02+05:30",
-      "time": "31 Jul, 04:30 PM",
-      "type": "news",
-      "description": "As countries around the world look to follow Australia's lead in restricting young people's access to social media, a new report by the eSafety Commis..."
-    },
-    {
-      "title": "Quantum Computers Could Freeze Like Ordinary PCs",
-      "link": "https://scitechdaily.com/quantum-computers-could-freeze-like-ordinary-pcs/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-07-31T15:59:08+05:30",
-      "time": "31 Jul, 03:59 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/quantum-computers-could-freeze-like-ordinary-pcs/\" rel=\"nofollow\" title=\"Quantum Computers Could Freeze Like Ordinar..."
-    },
-    {
-      "title": "World-first photonic time crystal opens a new era of light control",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-31T14:43:30+05:30",
-      "time": "31 Jul, 02:43 PM",
-      "type": "news",
-      "description": "Scientists have built the first all-optical photonic time crystal, allowing them to reshape the behavior of terahertz light at extraordinary speeds. T..."
-    },
-    {
-      "title": "Montana\u2019s new \u201cright to try\u201d law can\u2019t come soon enough for some",
-      "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-07-31T14:30:00+05:30",
-      "time": "31 Jul, 02:30 PM",
-      "type": "news",
-      "description": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn\u2019t long before he started to show signs of developmental delay, says DeVault..."
-    },
-    {
-      "title": "Black holes may spit out nearly as much matter as they swallow",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-31T13:48:29+05:30",
-      "time": "31 Jul, 01:48 PM",
-      "type": "news",
-      "description": "A black hole observed during a dramatic 2023 eruption did not simply devour gas from its nearby companion star. It also expelled large amounts of mate..."
-    },
-    {
-      "title": "Anthropic's models gained unauthorized 'real-world' access during testing",
-      "link": "https://techxplore.com/news/2026-07-anthropic-gained-unauthorized-real-world.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-31T12:42:21+05:30",
-      "time": "31 Jul, 12:42 PM",
-      "type": "news",
-      "description": "Anthropic's artificial intelligence (AI) models \"gained unauthorized access\" to three outside organizations during testing that was supposed to keep t..."
-    },
-    {
-      "title": "AI can tell if your brain is aging faster than you are",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-31T12:35:12+05:30",
-      "time": "31 Jul, 12:35 PM",
-      "type": "news",
-      "description": "A person\u2019s sleeping brain may reveal warning signs of dementia long before memory problems begin. Researchers used machine learning to analyze EEG rec..."
-    },
-    {
-      "title": "Federal government to turn a Kentucky uranium plant into an AI data center and gas power complex",
-      "link": "https://techxplore.com/news/2026-07-federal-kentucky-uranium-ai-center.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-31T12:20:55+05:30",
-      "time": "31 Jul, 12:20 PM",
-      "type": "news",
-      "description": "The U.S. Department of Energy is harnessing the artificial intelligence boom in its bid to convert another Cold War-era uranium enrichment site, tappi..."
-    },
-    {
-      "title": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next",
-      "link": "https://techxplore.com/news/2026-07-robotaxis-wheels.html",
-      "source": "TechXplore",
-      "sort_key": "2026-07-31T12:16:53+05:30",
-      "time": "31 Jul, 12:16 PM",
-      "type": "news",
-      "description": "Federal regulators are clearing the way for robotaxis to operate without manual controls like steering wheels or eventually even brake pedals as the r..."
-    },
-    {
-      "title": "Strange gamma rays could reveal how stars forge heavy elements",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-31T10:45:53+05:30",
-      "time": "31 Jul, 10:45 AM",
-      "type": "news",
-      "description": "Scientists traced a mysterious surge of low-energy gamma rays from zinc-70 to magnetic changes occurring inside its nucleus. The breakthrough could im..."
-    },
-    {
-      "title": "This new alloy is up to 10 times stronger than steel and surprisingly flexible",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-07-31T09:25:22+05:30",
-      "time": "31 Jul, 09:25 AM",
-      "type": "news",
-      "description": "Engineers have transformed a notoriously brittle cobalt-aluminum compound into a material that is both extremely strong and capable of bending without..."
     }
   ],
   "tweets": [
@@ -863,7 +746,7 @@
       "sort_key": "2026-08-01T00:04:17+05:30",
       "time": "01 Aug, 12:04 AM",
       "type": "tweets",
-      "content": "<p>Porous 3D-printed feet cut quadruped robot battery use by up to 6.2% at walking speeds of 0.4 to 1.0 m/s, with the biggest gains coming from how the gait tapped their stored impact energy. <a href=\"https://nitter.net/SeoulNatlUni\" title=\"Seoul National University\">@seoulnatluni</a> <a href=\"https://techxplore.com/news/2026-07-porous-3d-feet-quadruped-robot.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-porous-3d-feet-quadruped-robot.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<b>Porous 3D-printed feet cut quadruped robot power use</b>\n</a>\n<p>Quadruped robots, which walk on four legs, are increasingly used for tasks such as inspection, transportation and search-and-rescue operations. However, their repeated leg movements consume far more...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-porous-3d-feet-quadruped-robot.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "content": "<p>Porous 3D-printed feet cut quadruped robot battery use by up to 6.2% at walking speeds of 0.4 to 1.0 m/s, with the biggest gains coming from how the gait tapped their stored impact energy. <a href=\"https://nitter.net/SeoulNatlUni\" title=\"Seoul National University\">@seoulnatluni</a> <a href=\"https://techxplore.com/news/2026-07-porous-3d-feet-quadruped-robot.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-porous-3d-feet-quadruped-robot.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2083665572621901825%2Fwo_Svyvr%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Porous 3D-printed feet cut quadruped robot power use</b>\n</a>\n<p>Quadruped robots, which walk on four legs, are increasingly used for tasks such as inspection, transportation and search-and-rescue operations. However, their repeated leg movements consume far more...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-porous-3d-feet-quadruped-robot.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
     },
     {
@@ -885,16 +768,6 @@
       "type": "tweets",
       "content": "<p>Melt it, spin it, use it again. This new recyclable yarn is as strong and stretchy as spandex-based yarns. <a href=\"https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727\">news.mit.edu/2026/mit-engine\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727\">\n<img src=\"https://nitter.net/pic/card_img%2F2081746379307646976%2Fb1ayf62F%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>MIT engineers design recyclable elastic yarn</b>\n</a>\n<p>MIT engineers hope to cut down on the world\u2019s growing mountain of textile waste with their new recyclable elastic yarn. Made from polyethylene, the yarn has the strength and flexibility of spandex...</p>\n<small><a href=\"https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727\">news.mit.edu</a></small>",
       "author": "@MIT"
-    },
-    {
-      "title": "An eightfold data cut still preserved key storm-image features as a microwave neural network encoded gigabit-per-second streams into probabilistic signal tokens that only a similarly configured chip could interpret. @cornell @NatureComms https://techxplore.com/news/2026-07-microwave-neural-network-method-compress.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2083168618448060617#m",
-      "source": "TechXplore",
-      "sort_key": "2026-07-31T18:01:16+05:30",
-      "time": "31 Jul, 06:01 PM",
-      "type": "tweets",
-      "content": "<p>An eightfold data cut still preserved key storm-image features as a microwave neural network encoded gigabit-per-second streams into probabilistic signal tokens that only a similarly configured chip could interpret. <a href=\"https://nitter.net/Cornell\" title=\"Cornell University\">@cornell</a> <a href=\"https://nitter.net/NatureComms\" title=\"Nature Communications\">@NatureComms</a> <a href=\"https://techxplore.com/news/2026-07-microwave-neural-network-method-compress.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-microwave-neural-network-method-compress.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2083038243788840961%2FipjgyTW2%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>New microwave neural network method could compress and secure wireless communications</b>\n</a>\n<p>One year after unveiling a first-of-its-kind &quot;microwave brain&quot; microchip capable of computing on ultrafast data and wireless signals, researchers from the Cornell Duffield College of Engineering have...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-microwave-neural-network-method-compress.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
     }
   ],
   "youtube": [
@@ -909,6 +782,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

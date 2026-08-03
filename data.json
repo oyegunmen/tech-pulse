@@ -1,6 +1,186 @@
 {
   "news": [
     {
+      "title": "Good things take time\u2014but new research suggests mindfulness can make the wait easier",
+      "link": "https://phys.org/news/2026-08-good-mindfulness-easier.html",
+      "source": "Phys",
+      "sort_key": "2026-08-03T18:10:03+05:30",
+      "time": "03 Aug, 06:10 PM",
+      "type": "news",
+      "description": "Ask someone if they'd rather take $5 today or $10 next week and they'll know which option is better."
+    },
+    {
+      "title": "This self-programming AI system takes humans out of the programming equation",
+      "link": "https://techxplore.com/news/2026-08-ai-humans-equation.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-03T17:50:05+05:30",
+      "time": "03 Aug, 05:50 PM",
+      "type": "news",
+      "description": "Remote mountains or deserts far from cities are notorious for being off the cellular grid. But in the near future, cellphones could work in those plac..."
+    },
+    {
+      "title": "Most Americans prefer non-violent border enforcement, study finds",
+      "link": "https://phys.org/news/2026-08-americans-violent-border.html",
+      "source": "Phys",
+      "sort_key": "2026-08-03T17:50:04+05:30",
+      "time": "03 Aug, 05:50 PM",
+      "type": "news",
+      "description": "Most Americans favor nonviolent measures, such as temporary barricades, over violent measures, like the use of rubber bullets, by border enforcement o..."
+    },
+    {
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-03T17:38:00+05:30",
+      "time": "03 Aug, 05:38 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "A 21-hour dip could help explain Tabby's star's decade-long dimming mystery",
+      "link": "https://phys.org/news/2026-07-hour-dip-tabby-star-decade.html",
+      "source": "Phys",
+      "sort_key": "2026-08-03T17:30:05+05:30",
+      "time": "03 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Since 2016, an ordinary-looking F-type star called KIC 8462852, nicknamed Tabby's star, has behaved anything but ordinarily. In a new study published ..."
+    },
+    {
+      "title": "What happens to a moon when its planet is stolen?",
+      "link": "https://phys.org/news/2026-08-moon-planet-stolen.html",
+      "source": "Phys",
+      "sort_key": "2026-08-03T17:30:03+05:30",
+      "time": "03 Aug, 05:30 PM",
+      "type": "news",
+      "description": "We have known for a while that the Milky Way is full of homeless worlds. Rogue planets, free-floating planets\u2014call them what you like\u2014but they are pla..."
+    },
+    {
+      "title": "The Real Question for AI for 6G Isn\u2019t Whether\u2014It\u2019s Where",
+      "link": "https://spectrum.ieee.org/ai-ran-6g",
+      "source": "IEEE Spectrum",
+      "sort_key": "2026-08-03T17:30:01+05:30",
+      "time": "03 Aug, 05:30 PM",
+      "type": "news",
+      "description": "<p>Are expensive GPUs really needed at every cellphone tower?</p>"
+    },
+    {
+      "title": "Australia has long relied on volunteers: As bird flu spreads, they will need support",
+      "link": "https://phys.org/news/2026-08-australia-volunteers-bird-flu.html",
+      "source": "Phys",
+      "sort_key": "2026-08-03T17:10:02+05:30",
+      "time": "03 Aug, 05:10 PM",
+      "type": "news",
+      "description": "Australia had years to prepare for the arrival of bird flu. The deadly, highly transmissible H5N1 strain emerged in late 2020 in Asia before spreading..."
+    },
+    {
+      "title": "Students engineer reusable tool to monitor abandoned oil and gas wells",
+      "link": "https://techxplore.com/news/2026-08-students-reusable-tool-abandoned-oil.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-03T16:50:03+05:30",
+      "time": "03 Aug, 04:50 PM",
+      "type": "news",
+      "description": "For many mechanical engineering seniors, the Senior Capstone Design experience is the first opportunity to solve a problem without a textbook answer. ..."
+    },
+    {
+      "title": "At colleges, the AI boom means everyone wants to dabble in computer science",
+      "link": "https://phys.org/news/2026-08-colleges-ai-boom-dabble-science.html",
+      "source": "Phys",
+      "sort_key": "2026-08-03T16:40:02+05:30",
+      "time": "03 Aug, 04:40 PM",
+      "type": "news",
+      "description": "With no background in coding, Faith Maeba, a psychology major, was reluctant when her mother first suggested she enroll in classes on artificial intel..."
+    },
+    {
+      "title": "Two-Year Lifestyle Program Boosts Cognition 55% More in Older Adults",
+      "link": "https://scitechdaily.com/two-year-lifestyle-program-boosts-cognition-55-more-in-older-adults/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-03T16:33:55+05:30",
+      "time": "03 Aug, 04:33 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/two-year-lifestyle-program-boosts-cognition-55-more-in-older-adults/\" rel=\"nofollow\" title=\"Two-Year Lifestyle Progr..."
+    },
+    {
+      "title": "How digital interferences shape parent-child time",
+      "link": "https://phys.org/news/2026-08-digital-parent-child.html",
+      "source": "Phys",
+      "sort_key": "2026-08-03T16:30:05+05:30",
+      "time": "03 Aug, 04:30 PM",
+      "type": "news",
+      "description": "New research is giving children a voice in understanding how technological interruptions affect parent-child relationships. A paper, \"Distracted, Inte..."
+    },
+    {
+      "title": "When rogue AI launches a cyberattack, who is legally responsible?",
+      "link": "https://techxplore.com/news/2026-08-rogue-ai-cyberattack-legally-responsible.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-03T16:30:01+05:30",
+      "time": "03 Aug, 04:30 PM",
+      "type": "news",
+      "description": "Cyberattacks carried out by two OpenAI artificial intelligence models acting autonomously raise a novel legal question: Who is responsible when AI goe..."
+    },
+    {
+      "title": "Speaking More Languages May Slow Brain Aging",
+      "link": "https://scitechdaily.com/speaking-more-languages-may-slow-brain-aging/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-03T15:58:48+05:30",
+      "time": "03 Aug, 03:58 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/speaking-more-languages-may-slow-brain-aging/\" rel=\"nofollow\" title=\"Speaking More Languages May Slow Brain Aging\"><..."
+    },
+    {
+      "title": "Experimental Eye Drops Restore Sight in Blind Mice",
+      "link": "https://scitechdaily.com/experimental-eye-drops-restore-sight-in-blind-mice/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-03T15:23:34+05:30",
+      "time": "03 Aug, 03:23 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/experimental-eye-drops-restore-sight-in-blind-mice/\" rel=\"nofollow\" title=\"Experimental Eye Drops Restore Sight in B..."
+    },
+    {
+      "title": "Life speaks one universal language to activate genes: It speaks many more to silence them",
+      "link": "https://phys.org/news/2026-07-life-universal-language-genes-silence.html",
+      "source": "Phys",
+      "sort_key": "2026-08-03T14:30:01+05:30",
+      "time": "03 Aug, 02:30 PM",
+      "type": "news",
+      "description": "The signals that cells use to switch genes on have remained almost unchanged across 2 billion years of evolution, but the ones used to switch genes of..."
+    },
+    {
+      "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
+      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-03T14:00:05+05:30",
+      "time": "03 Aug, 02:00 PM",
+      "type": "news",
+      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can rea..."
+    },
+    {
+      "title": "South Korea records its highest-ever temperature of 42.5 C",
+      "link": "https://phys.org/news/2026-08-south-korea-highest-temperature.html",
+      "source": "Phys",
+      "sort_key": "2026-08-03T12:43:28+05:30",
+      "time": "03 Aug, 12:43 PM",
+      "type": "news",
+      "description": "South Korea registered its highest temperature since records began more than a century ago on Sunday, as authorities warned people to \"immediately\" st..."
+    },
+    {
+      "title": "August's total solar eclipse will sweep over Spain, Iceland and Greenland",
+      "link": "https://phys.org/news/2026-08-august-total-solar-eclipse-spain.html",
+      "source": "Phys",
+      "sort_key": "2026-08-03T12:42:40+05:30",
+      "time": "03 Aug, 12:42 PM",
+      "type": "news",
+      "description": "For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer."
+    },
+    {
+      "title": "How fitness, speed and position shape competition in expanding populations",
+      "link": "https://phys.org/news/2026-07-position-competition-populations.html",
+      "source": "Phys",
+      "sort_key": "2026-08-03T09:30:02+05:30",
+      "time": "03 Aug, 09:30 AM",
+      "type": "news",
+      "description": "A study published in the Journal of Statistical Mechanics: Theory and Experiment (JSTAT), inspired by the behavior of bacterial colonies observed in p..."
+    },
+    {
       "title": "Rideshare launches boost regional GDP and flexible jobs, study finds",
       "link": "https://phys.org/news/2026-07-rideshare-boost-regional-gdp-flexible.html",
       "source": "Phys",
@@ -361,15 +541,6 @@
       "description": "Researchers at the Indian Institute of Technology Gandhinagar (IITGN) and the Regional Centre for Biotechnology, Faridabad, have developed and tested ..."
     },
     {
-      "title": "How new informatics tools help turn biodiversity data into policy insights",
-      "link": "https://phys.org/news/2026-07-informatics-tools-biodiversity-policy-insights.html",
-      "source": "Phys",
-      "sort_key": "2026-08-02T05:10:01+05:30",
-      "time": "02 Aug, 05:10 AM",
-      "type": "news",
-      "description": "Biodiversity loss has been among the central topics in public, policy and scientific debate for several decades. While its accelerating pace and impac..."
-    },
-    {
       "title": "Quantum Photons Survive a 24-Kilometer Journey Through Chicago\u2019s Busy Internet",
       "link": "https://scitechdaily.com/quantum-photons-survive-a-24-kilometer-journey-through-chicagos-busy-internet/",
       "source": "ScitechDaily",
@@ -377,15 +548,6 @@
       "time": "02 Aug, 03:54 AM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/quantum-photons-survive-a-24-kilometer-journey-through-chicagos-busy-internet/\" rel=\"nofollow\" title=\"Quantum Photon..."
-    },
-    {
-      "title": "What this western Pennsylvania '90s Pizza Hut reveals about nostalgia",
-      "link": "https://phys.org/news/2026-07-western-pennsylvania-90s-pizza-hut.html",
-      "source": "Phys",
-      "sort_key": "2026-08-02T03:30:01+05:30",
-      "time": "02 Aug, 03:30 AM",
-      "type": "news",
-      "description": "A Pizza Hut in southwest Pennsylvania was recently highlighted for preserving its retro 1990s appearance, even as hundreds of other locations have clo..."
     },
     {
       "title": "Quantum Computing\u2019s \u201cDark Horse\u201d Just Cleared a Major Hurdle",
@@ -406,78 +568,6 @@
       "description": "<a href=\"https://scitechdaily.com/cern-experiments-detect-signs-of-the-universes-primordial-matter/\" rel=\"nofollow\" title=\"CERN Experiments Detect Sig..."
     },
     {
-      "title": "How molecular tethers and asynchronous replication drive parasite proliferation",
-      "link": "https://phys.org/news/2026-07-molecular-tethers-asynchronous-replication-parasite.html",
-      "source": "Phys",
-      "sort_key": "2026-08-02T02:30:01+05:30",
-      "time": "02 Aug, 02:30 AM",
-      "type": "news",
-      "description": "Malaria parasites proliferate in an unusual way. Rather than dividing into two daughter cells like human cells, they first amplify their genetic mater..."
-    },
-    {
-      "title": "AI opens new era in cognitive studies of wild primates",
-      "link": "https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html",
-      "source": "Phys",
-      "sort_key": "2026-08-02T01:30:02+05:30",
-      "time": "02 Aug, 01:30 AM",
-      "type": "news",
-      "description": "Scientists created an AI system that uses facial recognition and real-time touchscreen testing to automate cognitive studies of capuchin monkeys in th..."
-    },
-    {
-      "title": "Electron cooling tames highly charged ions in Penning trap for first time",
-      "link": "https://phys.org/news/2026-07-electron-cooling-highly-ions-penning.html",
-      "source": "Phys",
-      "sort_key": "2026-08-02T00:50:01+05:30",
-      "time": "02 Aug, 12:50 AM",
-      "type": "news",
-      "description": "Researchers at Technical University of Darmstadt and the GSI Helmholtz Center for Heavy Ion Research have succeeded for the first time in decelerating..."
-    },
-    {
-      "title": "Unusual metal oxide shows signs of magnetism under lattice strain in ultrathin layers",
-      "link": "https://phys.org/news/2026-07-unusual-metal-oxide-magnetism-lattice.html",
-      "source": "Phys",
-      "sort_key": "2026-08-02T00:10:01+05:30",
-      "time": "02 Aug, 12:10 AM",
-      "type": "news",
-      "description": "Ruthenium dioxide (RuO2) is a metal oxide that commonly serves as an important metallic conductor, quantum material and industrial electrocatalyst. Wh..."
-    },
-    {
-      "title": "Oil droplets remodel themselves, swallow their surroundings like living cells",
-      "link": "https://phys.org/news/2026-07-oil-droplets-remodel-swallow-cells.html",
-      "source": "Phys",
-      "sort_key": "2026-08-01T23:30:03+05:30",
-      "time": "01 Aug, 11:30 PM",
-      "type": "news",
-      "description": "NYU researchers have made microscopic oil droplets in water do something usually reserved for living cells: change shape in complex, controllable ways..."
-    },
-    {
-      "title": "Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames",
-      "link": "https://phys.org/news/2026-07-ways-wildfires-generate-tornadoes-lightning.html",
-      "source": "Phys",
-      "sort_key": "2026-08-01T23:30:01+05:30",
-      "time": "01 Aug, 11:30 PM",
-      "type": "news",
-      "description": "Thick smoke from massive wildfires has been spreading in North America and Europe once again in 2026. The health impacts of breathing this particle-fi..."
-    },
-    {
-      "title": "Brittany burial mounds may hide human-shaped stones as Co\u00ebby cemetery mystery deepens",
-      "link": "https://phys.org/news/2026-07-brittany-burial-mounds-human-stones.html",
-      "source": "Phys",
-      "sort_key": "2026-08-01T22:30:03+05:30",
-      "time": "01 Aug, 10:30 PM",
-      "type": "news",
-      "description": "For archaeologists, the Co\u00ebby cemetery in Brittany, France, is a gold mine for research. It contains several prehistoric stone monuments and earth mou..."
-    },
-    {
-      "title": "Insights into bee biology could ease US rules for organic honey",
-      "link": "https://phys.org/news/2026-07-insights-bee-biology-ease-honey.html",
-      "source": "Phys",
-      "sort_key": "2026-08-01T21:30:01+05:30",
-      "time": "01 Aug, 09:30 PM",
-      "type": "news",
-      "description": "Strict regulations have prevented continental U.S. beekeepers from participating in the lucrative organic honey market, but new research finds that be..."
-    },
-    {
       "title": "Ancient Immune Protein Could Hold the Key to Better Cancer Immunotherapy",
       "link": "https://scitechdaily.com/ancient-immune-protein-could-hold-the-key-to-better-cancer-immunotherapy/",
       "source": "ScitechDaily",
@@ -494,15 +584,6 @@
       "time": "01 Aug, 08:48 PM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/study-finds-a-surprising-link-between-gut-microbes-and-aging/\" rel=\"nofollow\" title=\"Study Finds a Surprising Link B..."
-    },
-    {
-      "title": "Moonlight-like fur and feathers may explain Egyptian god Thoth's two animal forms",
-      "link": "https://phys.org/news/2026-07-moonlight-fur-feathers-egyptian-god.html",
-      "source": "Phys",
-      "sort_key": "2026-08-01T20:30:01+05:30",
-      "time": "01 Aug, 08:30 PM",
-      "type": "news",
-      "description": "The ancient Egyptian god of the moon had two very different faces: a crescent-beaked white bird and a silver-coated baboon. Now, researchers think the..."
     },
     {
       "title": "Frequent Cannabis Users Wake Up With More \u201cStress Hormone\u201d",
@@ -539,78 +620,6 @@
       "time": "01 Aug, 07:03 PM",
       "type": "news",
       "description": "Primordial black holes may occasionally pass through white dwarf stars and trigger enormous Type Ia supernova explosions. Researchers found that these..."
-    },
-    {
-      "title": "Hugging Face CEO calls for accountability after OpenAI hack",
-      "link": "https://techxplore.com/news/2026-08-ceo-accountability-openai-hack.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-01T18:10:04+05:30",
-      "time": "01 Aug, 06:10 PM",
-      "type": "news",
-      "description": "The chief executive of Hugging Face said Friday that developers should be held accountable if their AI models go rogue, after his startup faced a rece..."
-    },
-    {
-      "title": "AI Helps Crack an 87-Year-Old Math Conjecture With One Tiny Formula",
-      "link": "https://scitechdaily.com/ai-helps-crack-an-87-year-old-math-conjecture-with-one-tiny-formula/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-01T17:41:05+05:30",
-      "time": "01 Aug, 05:41 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/ai-helps-crack-an-87-year-old-math-conjecture-with-one-tiny-formula/\" rel=\"nofollow\" title=\"AI Helps Crack an 87-Yea..."
-    },
-    {
-      "title": "Scientists map moon regolith to aid lunar bases",
-      "link": "https://techxplore.com/news/2026-07-scientists-moon-regolith-aid-lunar.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-01T17:30:04+05:30",
-      "time": "01 Aug, 05:30 PM",
-      "type": "news",
-      "description": "A strong foundation is key to any building, and this doesn't apply only to construction on Earth. As humanity slowly expands throughout the many world..."
-    },
-    {
-      "title": "Fridays With Bob",
-      "link": "https://spectrum.ieee.org/risk",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-08-01T17:30:01+05:30",
-      "time": "01 Aug, 05:30 PM",
-      "type": "news",
-      "description": "<p>Parting thoughts from legendary <em><em>IEEE</em></em> <em><em>Spectrum</em></em> author Robert N. Charette</p>"
-    },
-    {
-      "title": "A Single Faulty Gene Copy Can Unravel the Heart\u2019s DNA",
-      "link": "https://scitechdaily.com/a-single-faulty-gene-copy-can-unravel-the-hearts-dna/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-01T17:06:41+05:30",
-      "time": "01 Aug, 05:06 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/a-single-faulty-gene-copy-can-unravel-the-hearts-dna/\" rel=\"nofollow\" title=\"A Single Faulty Gene Copy Can Unravel t..."
-    },
-    {
-      "title": "Scientists Reveal Hidden DNA Traces in the Shroud of Turin",
-      "link": "https://scitechdaily.com/scientists-reveal-hidden-dna-traces-in-the-shroud-of-turin/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-01T16:31:32+05:30",
-      "time": "01 Aug, 04:31 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-reveal-hidden-dna-traces-in-the-shroud-of-turin/\" rel=\"nofollow\" title=\"Scientists Reveal Hidden DNA Trac..."
-    },
-    {
-      "title": "Google rolls back new satellite image AI tool after backlash",
-      "link": "https://techxplore.com/news/2026-08-google-satellite-image-ai-tool.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-01T16:30:05+05:30",
-      "time": "01 Aug, 04:30 PM",
-      "type": "news",
-      "description": "Google rolled back a new feature Friday allowing Google Earth users to generate AI visualizations on top of the service's satellite imagery, following..."
-    },
-    {
-      "title": "Scientists left water inside a battery and nearly doubled its power",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729043937.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-01T16:11:53+05:30",
-      "time": "01 Aug, 04:11 PM",
-      "type": "news",
-      "description": "A surprisingly simple change could make sodium-ion batteries far more powerful while opening the door to turning seawater into drinking water. Researc..."
     }
   ],
   "tweets": [
@@ -631,7 +640,7 @@
       "sort_key": "2026-08-02T18:34:50+05:30",
       "time": "02 Aug, 06:34 PM",
       "type": "tweets",
-      "content": "<p>Fallout collection time dropped from 15 minutes to 5 with a handheld vacuum attachment that keeps radioactive particles out of the vacuum while sealing them in a specimen container. <a href=\"https://techxplore.com/news/2026-07-vacuum-nuclear-fallout.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-vacuum-nuclear-fallout.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<b>Vacuum attachment designed to improve nuclear fallout collection</b>\n</a>\n<p>In a nondescript Idaho Falls warehouse, a nuclear nonproliferation researcher at Idaho National Laboratory (INL) picks up a small plastic bottle and pours tiny bits of rounded black glass across a...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-vacuum-nuclear-fallout.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "content": "<p>Fallout collection time dropped from 15 minutes to 5 with a handheld vacuum attachment that keeps radioactive particles out of the vacuum while sealing them in a specimen container. <a href=\"https://techxplore.com/news/2026-07-vacuum-nuclear-fallout.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-vacuum-nuclear-fallout.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2083159075593076738%2FEio9EGj3%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Vacuum attachment designed to improve nuclear fallout collection</b>\n</a>\n<p>In a nondescript Idaho Falls warehouse, a nuclear nonproliferation researcher at Idaho National Laboratory (INL) picks up a small plastic bottle and pours tiny bits of rounded black glass across a...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-vacuum-nuclear-fallout.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
     },
     {
@@ -651,7 +660,7 @@
       "sort_key": "2026-08-02T05:02:32+05:30",
       "time": "02 Aug, 05:02 AM",
       "type": "tweets",
-      "content": "<p>Legged robots are moving from delivery to elder care and military use, bringing unresolved concerns over surveillance, job loss and accountability as deployment expands. <a href=\"https://nitter.net/SciRobotics\" title=\"Science Robotics\">@SciRobotics</a> <a href=\"https://techxplore.com/news/2026-07-legged-robots-surveillance-job-battlefield.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-legged-robots-surveillance-job-battlefield.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<b>Legged robots raise surveillance, job and battlefield accountability concerns</b>\n</a>\n<p>Legged robots have recently transitioned from science fiction to engineering fact, with modern humanoid and quadrupedal machines now capable of delivering packages to front doors and taking on...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-legged-robots-surveillance-job-battlefield.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "content": "<p>Legged robots are moving from delivery to elder care and military use, bringing unresolved concerns over surveillance, job loss and accountability as deployment expands. <a href=\"https://nitter.net/SciRobotics\" title=\"Science Robotics\">@SciRobotics</a> <a href=\"https://techxplore.com/news/2026-07-legged-robots-surveillance-job-battlefield.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-legged-robots-surveillance-job-battlefield.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2082871913647616003%2FXg8m_5TV%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Legged robots raise surveillance, job and battlefield accountability concerns</b>\n</a>\n<p>Legged robots have recently transitioned from science fiction to engineering fact, with modern humanoid and quadrupedal machines now capable of delivering packages to front doors and taking on...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-legged-robots-surveillance-job-battlefield.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
     },
     {
@@ -691,7 +700,7 @@
       "sort_key": "2026-08-01T18:33:39+05:30",
       "time": "01 Aug, 06:33 PM",
       "type": "tweets",
-      "content": "<p>New skin-mounted radar sensors measure muscle force without invasive procedures, giving robotic and prosthetic devices a possible new way to time assistance while real-time control remains the next step. <a href=\"https://nitter.net/UQ_News\" title=\"UQ News\">@uq_news</a> <a href=\"https://nitter.net/SciRobotics\" title=\"Science Robotics\">@SciRobotics</a> <a href=\"https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<b>Muscle radar unlocks potential for future robotic limbs</b>\n</a>\n<p>University of Queensland researchers have developed new noninvasive sensors that measure muscle forces, unlocking new possibilities for wearable robotic mobility devices. Ultra-wideband radar sensors...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "content": "<p>New skin-mounted radar sensors measure muscle force without invasive procedures, giving robotic and prosthetic devices a possible new way to time assistance while real-time control remains the next step. <a href=\"https://nitter.net/UQ_News\" title=\"UQ News\">@uq_news</a> <a href=\"https://nitter.net/SciRobotics\" title=\"Science Robotics\">@SciRobotics</a> <a href=\"https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-07-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2083321371719872514%2FtVZu2t9k%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Muscle radar unlocks potential for future robotic limbs</b>\n</a>\n<p>University of Queensland researchers have developed new noninvasive sensors that measure muscle forces, unlocking new possibilities for wearable robotic mobility devices. Ultra-wideband radar sensors...</p>\n<small><a href=\"https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
     }
   ],
@@ -716,6 +725,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

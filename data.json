@@ -1,6 +1,168 @@
 {
   "news": [
     {
+      "title": "New membrane accelerates purification of industrial solvents",
+      "link": "https://phys.org/news/2026-08-membrane-purification-industrial-solvents.html",
+      "source": "Phys",
+      "sort_key": "2026-08-04T18:10:02+05:30",
+      "time": "04 Aug, 06:10 PM",
+      "type": "news",
+      "description": "Researchers from the Department of Chemical Engineering, working with an international team led by KU Leuven, have developed a membrane technology to ..."
+    },
+    {
+      "title": "Indoor moves prove easier than expected for most cats and owners",
+      "link": "https://phys.org/news/2026-08-indoor-easier-cats-owners.html",
+      "source": "Phys",
+      "sort_key": "2026-08-04T17:50:02+05:30",
+      "time": "04 Aug, 05:50 PM",
+      "type": "news",
+      "description": "Moving a pet cat from an outdoor lifestyle to living indoors is easier than many owners expect, according to new research that could help improve feli..."
+    },
+    {
+      "title": "The Download: US robot restrictions, and ICE\u2019s DNA grab",
+      "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-04T17:44:00+05:30",
+      "time": "04 Aug, 05:44 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "Indigenous-led conservation helps save endangered cockatoo",
+      "link": "https://phys.org/news/2026-08-indigenous-endangered-cockatoo.html",
+      "source": "Phys",
+      "sort_key": "2026-08-04T17:30:06+05:30",
+      "time": "04 Aug, 05:30 PM",
+      "type": "news",
+      "description": "An Indigenous community in Indonesia has found a way to protect one of the world's rarest cockatoos without abandoning a centuries-old sacred traditio..."
+    },
+    {
+      "title": "Asteroid Nysa's rare three-lobed structure challenges formation models",
+      "link": "https://phys.org/news/2026-08-asteroid-nysa-rare-lobed-formation.html",
+      "source": "Phys",
+      "sort_key": "2026-08-04T17:30:03+05:30",
+      "time": "04 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Named for the mythical valley where the god Dionysus was raised in secret by nymphs, the asteroid 44 Nysa inhabits the asteroid belt between Mars and ..."
+    },
+    {
+      "title": "Humans and Mice May Process Smells in Very Similar Ways",
+      "link": "https://scitechdaily.com/humans-and-mice-may-process-smells-in-very-similar-ways/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-04T17:27:17+05:30",
+      "time": "04 Aug, 05:27 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/humans-and-mice-may-process-smells-in-very-similar-ways/\" rel=\"nofollow\" title=\"Humans and Mice May Process Smells i..."
+    },
+    {
+      "title": "Study offers new clues to a long-standing mystery about bonnethead sharks",
+      "link": "https://phys.org/news/2026-08-clues-mystery-bonnethead-sharks.html",
+      "source": "Phys",
+      "sort_key": "2026-08-04T17:10:03+05:30",
+      "time": "04 Aug, 05:10 PM",
+      "type": "news",
+      "description": "A new study of bonnethead sharks (Sphyrna tiburo) in Florida dispelled a previous hypothesis about how the distinctive head shapes of males and female..."
+    },
+    {
+      "title": "These Beautiful Flowers Can Paralyze You, but Their Chemistry Could Save Lives",
+      "link": "https://scitechdaily.com/these-beautiful-flowers-can-paralyze-you-but-their-chemistry-could-save-lives/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-04T16:52:10+05:30",
+      "time": "04 Aug, 04:52 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/these-beautiful-flowers-can-paralyze-you-but-their-chemistry-could-save-lives/\" rel=\"nofollow\" title=\"These Beautifu..."
+    },
+    {
+      "title": "Research finds rhetoric around #MeToo often focused on punishment, not causes of violence",
+      "link": "https://phys.org/news/2026-08-rhetoric-metoo-focused-violence.html",
+      "source": "Phys",
+      "sort_key": "2026-08-04T16:50:03+05:30",
+      "time": "04 Aug, 04:50 PM",
+      "type": "news",
+      "description": "The #MeToo movement began as a way for victims of gender-based violence to find solidarity, share their experiences and bring justice to perpetrators ..."
+    },
+    {
+      "title": "Optimized enzyme mix cuts biorefinery costs while sustaining ethanol production",
+      "link": "https://techxplore.com/news/2026-08-optimized-enzyme-biorefinery-sustaining-ethanol.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-04T16:30:04+05:30",
+      "time": "04 Aug, 04:30 PM",
+      "type": "news",
+      "description": "Lignocellulolytic enzymes are a primary cost constraint in second-generation ethanol biorefineries, accounting for up to 30% of operating expenses. Be..."
+    },
+    {
+      "title": "Aquarium sends shark eggs to bolster wild populations",
+      "link": "https://phys.org/news/2026-08-aquarium-shark-eggs-bolster-wild.html",
+      "source": "Phys",
+      "sort_key": "2026-08-04T16:30:03+05:30",
+      "time": "04 Aug, 04:30 PM",
+      "type": "news",
+      "description": "Shedd Aquarium has sent four zebra shark eggs to contribute to a conservation effort for the endangered species, marking the Chicago nonprofit's first..."
+    },
+    {
+      "title": "U.S. Bans New Foreign Mobile Robots",
+      "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
+      "source": "IEEE Spectrum",
+      "sort_key": "2026-08-04T16:30:01+05:30",
+      "time": "04 Aug, 04:30 PM",
+      "type": "news",
+      "description": "<p>New rules further bifurcate U.S. and Chinese supply chains</p>"
+    },
+    {
+      "title": "New Stroke Treatment Turns Brain Cavities Into Repair Hubs",
+      "link": "https://scitechdaily.com/new-stroke-treatment-turns-brain-cavities-into-repair-hubs/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-04T16:17:00+05:30",
+      "time": "04 Aug, 04:17 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/new-stroke-treatment-turns-brain-cavities-into-repair-hubs/\" rel=\"nofollow\" title=\"New Stroke Treatment Turns Brain ..."
+    },
+    {
+      "title": "SOLARIS Project Will Study a Total Eclipse and the Heart",
+      "link": "https://spectrum.ieee.org/solar-eclipse-spain-2026-smartwatches",
+      "source": "IEEE Spectrum",
+      "sort_key": "2026-08-04T15:30:02+05:30",
+      "time": "04 Aug, 03:30 PM",
+      "type": "news",
+      "description": "<p>Researchers will gather smartwatch data to learn how an eclipse affects human health</p>"
+    },
+    {
+      "title": "US Northwest battles wildfires after Spokane neighborhoods scorched",
+      "link": "https://phys.org/news/2026-08-northwest-wildfires-spokane-neighborhoods.html",
+      "source": "Phys",
+      "sort_key": "2026-08-04T12:50:01+05:30",
+      "time": "04 Aug, 12:50 PM",
+      "type": "news",
+      "description": "Wildfires supercharged by drought and intense heat tore through the northwestern U.S. city of Spokane, forcing the evacuation of 65,000 people and red..."
+    },
+    {
+      "title": "Last Scottish island bird hunt banned after almost 500 years",
+      "link": "https://phys.org/news/2026-08-scottish-island-bird-years.html",
+      "source": "Phys",
+      "sort_key": "2026-08-04T12:30:01+05:30",
+      "time": "04 Aug, 12:30 PM",
+      "type": "news",
+      "description": "A centuries-old annual bird chick hunt on a remote Scottish island, known as the Guga Hunt, has been banned this year, authorities said Monday, citing..."
+    },
+    {
+      "title": "Suspected heatstroke kills three lions at Japan zoo",
+      "link": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+      "source": "Phys",
+      "sort_key": "2026-08-04T12:16:22+05:30",
+      "time": "04 Aug, 12:16 PM",
+      "type": "news",
+      "description": "Three lions from a Tokyo zoo have died from suspected heatstroke, and others are under treatment, a spokeswoman said Tuesday, with the big cats strugg..."
+    },
+    {
+      "title": "Tiger shark caught off Massachusetts could be sign of warming waters",
+      "link": "https://phys.org/news/2026-08-tiger-shark-caught-massachusetts.html",
+      "source": "Phys",
+      "sort_key": "2026-08-04T12:15:16+05:30",
+      "time": "04 Aug, 12:15 PM",
+      "type": "news",
+      "description": "Nate Rouette and his brother Nelson went shark fishing on Cape Cod hoping for an exciting catch, but were shocked by what they reeled in\u2014a tropical sp..."
+    },
+    {
       "title": "Mechanical shortcut' rapidly carries organic particles into the deep ocean",
       "link": "https://phys.org/news/2026-08-mechanical-shortcut-rapidly-particles-deep.html",
       "source": "Phys",
@@ -217,51 +379,6 @@
       "description": "It is six months since the main road into the village of Torcross, in South Devon, collapsed after a series of storms caused extensive damage to the c..."
     },
     {
-      "title": "Pixel patterns harness diffraction for faster, more accurate nanoscale 3D printing",
-      "link": "https://phys.org/news/2026-08-pixel-patterns-harness-diffraction-faster.html",
-      "source": "Phys",
-      "sort_key": "2026-08-04T01:50:02+05:30",
-      "time": "04 Aug, 01:50 AM",
-      "type": "news",
-      "description": "Researchers at the George W. Woodruff School of Mechanical Engineering have developed a new approach to nanoscale 3D printing that improves both speed..."
-    },
-    {
-      "title": "Researchers develop a new catalyst to convert CO\u2082 into ethanol using electricity",
-      "link": "https://phys.org/news/2026-08-catalyst-ethanol-electricity.html",
-      "source": "Phys",
-      "sort_key": "2026-08-04T01:36:14+05:30",
-      "time": "04 Aug, 01:36 AM",
-      "type": "news",
-      "description": "A research team led by Professor Hyoyoung Lee of the Department of Chemistry at Sungkyunkwan University has developed a new catalyst that converts car..."
-    },
-    {
-      "title": "World Meteorological Organization says prepare for a strong El Ni\u00f1o",
-      "link": "https://phys.org/news/2026-08-world-meteorological-strong-el-nio.html",
-      "source": "Phys",
-      "sort_key": "2026-08-04T01:30:05+05:30",
-      "time": "04 Aug, 01:30 AM",
-      "type": "news",
-      "description": "El Ni\u00f1o continues to intensify steadily and is expected to dominate global climate patterns in the August to October 2026 season, increasing the likel..."
-    },
-    {
-      "title": "Homo antecessor skull layers resemble modern humans and Neanderthals, fragments suggest",
-      "link": "https://phys.org/news/2026-08-homo-antecessor-skull-layers-resemble.html",
-      "source": "Phys",
-      "sort_key": "2026-08-04T01:30:03+05:30",
-      "time": "04 Aug, 01:30 AM",
-      "type": "news",
-      "description": "A new study provides quantitative data on cranial vault thickness in Homo antecessor, based on the analysis of three parietal fragments recovered from..."
-    },
-    {
-      "title": "Stomach stone hypothesis sheds light on the evolution of dinosaur digestive systems",
-      "link": "https://phys.org/news/2026-08-stomach-stone-hypothesis-evolution-dinosaur.html",
-      "source": "Phys",
-      "sort_key": "2026-08-04T01:10:07+05:30",
-      "time": "04 Aug, 01:10 AM",
-      "type": "news",
-      "description": "An international research team led by Assistant Professor Ryuji Takasaki of the Faculty of Biosphere-Geosphere Science at Okayama University of Scienc..."
-    },
-    {
       "title": "Noninvasive AI-based system translates brain signals into written text",
       "link": "https://techxplore.com/news/2026-08-noninvasive-ai-based-brain-written.html",
       "source": "TechXplore",
@@ -269,42 +386,6 @@
       "time": "04 Aug, 01:10 AM",
       "type": "news",
       "description": "Some physical injuries and neurological conditions can temporarily or permanently impair movement, leaving some people unable to speak, type on keyboa..."
-    },
-    {
-      "title": "Mechanical recycling contamination risks the circular plastics economy, but quality control analytics can help",
-      "link": "https://phys.org/news/2026-08-mechanical-recycling-contamination-circular-plastics.html",
-      "source": "Phys",
-      "sort_key": "2026-08-04T01:10:03+05:30",
-      "time": "04 Aug, 01:10 AM",
-      "type": "news",
-      "description": "A study from the University of Manchester into the effects of polymer cross-contamination on the outcome of mechanically recycling plastics has found ..."
-    },
-    {
-      "title": "Ant teams beat gravity-based puzzle solvers",
-      "link": "https://phys.org/news/2026-08-ant-teams-gravity-based-puzzle.html",
-      "source": "Phys",
-      "sort_key": "2026-08-04T00:50:10+05:30",
-      "time": "04 Aug, 12:50 AM",
-      "type": "news",
-      "description": "Ants live in highly organized colonies and cooperate daily to tackle a wide range of problems. Their striking group behaviors have fascinated biologis..."
-    },
-    {
-      "title": "Simulations hint at a hidden population of companionless black holes",
-      "link": "https://phys.org/news/2026-08-simulations-hint-hidden-population-companionless.html",
-      "source": "Phys",
-      "sort_key": "2026-08-04T00:50:07+05:30",
-      "time": "04 Aug, 12:50 AM",
-      "type": "news",
-      "description": "So far, almost all stellar-mass black holes detected by astronomers have been found in binary systems. However, astronomers have long suspected that t..."
-    },
-    {
-      "title": "Research challenges assumptions about online education success",
-      "link": "https://phys.org/news/2026-08-assumptions-online-success.html",
-      "source": "Phys",
-      "sort_key": "2026-08-04T00:50:05+05:30",
-      "time": "04 Aug, 12:50 AM",
-      "type": "news",
-      "description": "Admissions applications, discussion posts, grades, and activity logs are among the most common signals educators use to gauge whether students will th..."
     },
     {
       "title": "A design guide for 3D structures that combine load-bearing capacity and sound absorption",
@@ -325,15 +406,6 @@
       "description": "<a href=\"https://scitechdaily.com/these-good-immune-cells-could-hold-the-key-to-spinal-cord-regeneration/\" rel=\"nofollow\" title=\"These \u201cGood\u201d Immune C..."
     },
     {
-      "title": "Astrobiologist uses Apollo lunar samples as mirror onto early Earth",
-      "link": "https://phys.org/news/2026-08-astrobiologist-apollo-lunar-samples-mirror.html",
-      "source": "Phys",
-      "sort_key": "2026-08-04T00:30:07+05:30",
-      "time": "04 Aug, 12:30 AM",
-      "type": "news",
-      "description": "Roll back the tape of Earth's history, and geologists and astrobiologists remain perplexed about the environmental conditions on early Earth. That's b..."
-    },
-    {
       "title": "Oil field model helps assess recovery potential of Venezuela's extra-heavy oil",
       "link": "https://techxplore.com/news/2026-08-oil-field-recovery-potential-venezuela.html",
       "source": "TechXplore",
@@ -341,15 +413,6 @@
       "time": "04 Aug, 12:30 AM",
       "type": "news",
       "description": "Researchers from Skoltech\u2014a VEB.RF group institution\u2014and Khalifa University of Science and Technology, together with their Venezuelan colleagues in th..."
-    },
-    {
-      "title": "Nanopore method improves detection of cyanobacteria toxins in lake water",
-      "link": "https://phys.org/news/2026-08-nanopore-method-cyanobacteria-toxins-lake.html",
-      "source": "Phys",
-      "sort_key": "2026-08-04T00:30:02+05:30",
-      "time": "04 Aug, 12:30 AM",
-      "type": "news",
-      "description": "Cyanobacterial blooms, like the ones that occur in Lake Geneva, are rapid, dense growths of photosynthetic bacteria in fresh and marine waters that ca..."
     },
     {
       "title": "Trump\u2019s AI protectionism has come for robotics",
@@ -800,33 +863,6 @@
       "time": "02 Aug, 06:30 PM",
       "type": "news",
       "description": "<p>The Magnetophon also gave rise to the laugh track</p>"
-    },
-    {
-      "title": "Rocks From the Moon\u2019s Far Side Are Rewriting Lunar History",
-      "link": "https://scitechdaily.com/rocks-from-the-moons-far-side-are-rewriting-lunar-history/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-02T17:28:42+05:30",
-      "time": "02 Aug, 05:28 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/rocks-from-the-moons-far-side-are-rewriting-lunar-history/\" rel=\"nofollow\" title=\"Rocks From the Moon\u2019s Far Side Are..."
-    },
-    {
-      "title": "NASA\u2019s Curiosity Finds a Vast Sea of Mysterious Polygons on Mars",
-      "link": "https://scitechdaily.com/nasas-curiosity-finds-a-vast-sea-of-mysterious-polygons-on-mars/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-02T16:53:49+05:30",
-      "time": "02 Aug, 04:53 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/nasas-curiosity-finds-a-vast-sea-of-mysterious-polygons-on-mars/\" rel=\"nofollow\" title=\"NASA\u2019s Curiosity Finds a Vas..."
-    },
-    {
-      "title": "Astronomers May Have Found the First Moon Beyond Our Solar System",
-      "link": "https://scitechdaily.com/astronomers-may-have-found-the-first-moon-beyond-our-solar-system/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-02T16:18:48+05:30",
-      "time": "02 Aug, 04:18 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/astronomers-may-have-found-the-first-moon-beyond-our-solar-system/\" rel=\"nofollow\" title=\"Astronomers May Have Found..."
     }
   ],
   "tweets": [
@@ -891,8 +927,27 @@
       "author": "@TechXplore_com"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Why Sagrada Familia Took 144 Years to Complete",
+      "link": "https://www.youtube.com/watch?v=UiPJbxryrkU",
+      "source": "Real Engineering",
+      "sort_key": "2026-08-02T20:30:16+05:30",
+      "time": "02 Aug, 08:30 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/UiPJbxryrkU/mqdefault.jpg"
+    },
+    {
+      "title": "Is spider web really stronger than steel?",
+      "link": "https://www.youtube.com/watch?v=wt4p2oalmRY",
+      "source": "Vertasium",
+      "sort_key": "2026-08-02T18:51:11+05:30",
+      "time": "02 Aug, 06:51 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/wt4p2oalmRY/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

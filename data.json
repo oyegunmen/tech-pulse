@@ -1,6 +1,177 @@
 {
   "news": [
     {
+      "title": "Good news for our coasts and climate: Mangrove forests are bouncing back",
+      "link": "https://phys.org/news/2026-08-good-news-coasts-climate-mangrove.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T18:10:04+05:30",
+      "time": "06 Aug, 06:10 PM",
+      "type": "news",
+      "description": "Mangroves are perplexing plants. They breathe through their roots, appear to stand on stilts and grow best in hot, salty seawater drawn in and out by ..."
+    },
+    {
+      "title": "Smart trap study points to more precise codling moth management",
+      "link": "https://phys.org/news/2026-08-smart-precise-codling-moth.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T17:50:02+05:30",
+      "time": "06 Aug, 05:50 PM",
+      "type": "news",
+      "description": "Researchers from Michigan State University's Department of Entomology found that automated camera traps often detected codling moth activity in orchar..."
+    },
+    {
+      "title": "The Download: Google\u2019s AI shake-up and Meta\u2019s rogue model",
+      "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-06T17:40:00+05:30",
+      "time": "06 Aug, 05:40 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "Songbirds may have developed sharper senses to de-husk seeds",
+      "link": "https://phys.org/news/2026-08-songbirds-sharper-de-husk-seeds.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T17:30:04+05:30",
+      "time": "06 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Songbirds, birds belonging to the Passeriformes order, are best known for their ability to produce complex musical sounds. Yet some songbird species a..."
+    },
+    {
+      "title": "Educational psychologists warn of growing pressure on children's services",
+      "link": "https://phys.org/news/2026-08-psychologists-pressure-children.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T17:30:02+05:30",
+      "time": "06 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Growing backlogs in Education, Health and Care Needs Assessments (EHCNAs) are making it difficult for educational psychologists to prioritize early in..."
+    },
+    {
+      "title": "Improving oats for growers and consumers",
+      "link": "https://phys.org/news/2026-08-oats-growers-consumers.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T17:10:03+05:30",
+      "time": "06 Aug, 05:10 PM",
+      "type": "news",
+      "description": "Heart-healthy oats are finding their way into a wider variety of products and recipes as consumer demand grows. Although oats are grown on far fewer a..."
+    },
+    {
+      "title": "Researchers call for rethink of how women are supported into business",
+      "link": "https://phys.org/news/2026-08-rethink-women-business.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T16:50:03+05:30",
+      "time": "06 Aug, 04:50 PM",
+      "type": "news",
+      "description": "The way women are supported to start and grow businesses needs updating for the digital age, according to researchers from the University of East Lond..."
+    },
+    {
+      "title": "Low water on Germany's Rhine River threatens new blow to economy",
+      "link": "https://phys.org/news/2026-08-germany-rhine-river-threatens-economy.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T16:30:03+05:30",
+      "time": "06 Aug, 04:30 PM",
+      "type": "news",
+      "description": "Dwindling water levels on some of Germany's major rivers, worsened by heat and drought, are raising fears that badly constrained riverboat cargo traff..."
+    },
+    {
+      "title": "A Weather Balloon Became An Ocean Buoy\u2014and Kept Sending Data",
+      "link": "https://spectrum.ieee.org/ai-weather-forecasting-balloons-buoys",
+      "source": "IEEE Spectrum",
+      "sort_key": "2026-08-06T16:30:01+05:30",
+      "time": "06 Aug, 04:30 PM",
+      "type": "news",
+      "description": "<p>WindBorne uses sea-and-sky sensors for its weather forecasting AI</p>"
+    },
+    {
+      "title": "Alzheimer\u2019s May Scramble the Genome\u2019s 3D Architecture Inside Brain Cells",
+      "link": "https://scitechdaily.com/alzheimers-may-scramble-the-genomes-3d-architecture-inside-brain-cells/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-06T16:28:48+05:30",
+      "time": "06 Aug, 04:28 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/alzheimers-may-scramble-the-genomes-3d-architecture-inside-brain-cells/\" rel=\"nofollow\" title=\"Alzheimer\u2019s May Scram..."
+    },
+    {
+      "title": "Researchers Find a Way To Make Pancreatic Cancer Visible to the Immune System",
+      "link": "https://scitechdaily.com/researchers-find-a-way-to-make-pancreatic-cancer-visible-to-the-immune-system/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-06T15:53:47+05:30",
+      "time": "06 Aug, 03:53 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/researchers-find-a-way-to-make-pancreatic-cancer-visible-to-the-immune-system/\" rel=\"nofollow\" title=\"Researchers Fi..."
+    },
+    {
+      "title": "Brain Waves Once Dismissed As Noise May Help Build Our Reality",
+      "link": "https://scitechdaily.com/brain-waves-once-dismissed-as-noise-may-help-build-our-reality/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-06T15:18:46+05:30",
+      "time": "06 Aug, 03:18 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/brain-waves-once-dismissed-as-noise-may-help-build-our-reality/\" rel=\"nofollow\" title=\"Brain Waves Once Dismissed As..."
+    },
+    {
+      "title": "Pacific islands alarmed by Trump-backed push for deep-sea mining",
+      "link": "https://phys.org/news/2026-08-pacific-islands-alarmed-trump-deep.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T14:10:01+05:30",
+      "time": "06 Aug, 02:10 PM",
+      "type": "news",
+      "description": "A Pacific island leader says there were \"no consultations\" before the U.S. announced swaths of nearby ocean could be auctioned for deep-sea mining exp..."
+    },
+    {
+      "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement",
+      "link": "https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T13:10:01+05:30",
+      "time": "06 Aug, 01:10 PM",
+      "type": "news",
+      "description": "Human-caused climate change doubled the likelihood of the tinderbox weather conditions that sparked Canada's massive summer wildfires and in turn ange..."
+    },
+    {
+      "title": "Meta chases OpenAI, Anthropic with new AI coding app",
+      "link": "https://techxplore.com/news/2026-08-meta-openai-anthropic-ai-coding.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-06T12:39:45+05:30",
+      "time": "06 Aug, 12:39 PM",
+      "type": "news",
+      "description": "Meta entered the race for automated coding tools Wednesday when it announced a new app for developers of artificial intelligence products, competing w..."
+    },
+    {
+      "title": "Scientists are certain a wayward SpaceX rocket slammed into the moon as predicted",
+      "link": "https://phys.org/news/2026-08-scientists-wayward-spacex-rocket-slammed.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T12:34:29+05:30",
+      "time": "06 Aug, 12:34 PM",
+      "type": "news",
+      "description": "A SpaceX rocket that launched a pair of lunar landers slammed into the moon as predicted on Wednesday after drifting off course for the past year, sci..."
+    },
+    {
+      "title": "Fuego volcano activity that triggered evacuations in Guatemala is decreasing, but risks remain",
+      "link": "https://phys.org/news/2026-08-fuego-volcano-triggered-evacuations-guatemala.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T12:33:33+05:30",
+      "time": "06 Aug, 12:33 PM",
+      "type": "news",
+      "description": "Activity at Guatemala's Fuego volcano that began Monday morning and caused widespread evacuations is gradually decreasing, authorities said Wednesday."
+    },
+    {
+      "title": "Sizing errors can hide true nanoparticle behavior",
+      "link": "https://phys.org/news/2026-08-sizing-errors-true-nanoparticle-behavior.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T12:30:02+05:30",
+      "time": "06 Aug, 12:30 PM",
+      "type": "news",
+      "description": "Nanoscience, which studies small objects, has a big problem. According to a team of scientists at the National Institute of Standards and Technology (..."
+    },
+    {
+      "title": "Powerhouses for fake meat: Muscle protein can now be grown in chloroplasts of lettuce and tobacco plants",
+      "link": "https://phys.org/news/2026-08-powerhouses-fake-meat-muscle-protein.html",
+      "source": "Phys",
+      "sort_key": "2026-08-06T09:30:01+05:30",
+      "time": "06 Aug, 09:30 AM",
+      "type": "news",
+      "description": "Livestock farming requires valuable land to grow fodder, uses vast amounts of freshwater and contributes to global warming through methane and nitrous..."
+    },
+    {
       "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
       "link": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
       "source": "Science Daily",
@@ -199,24 +370,6 @@
       "description": "<a href=\"https://scitechdaily.com/beetroot-juice-may-ease-pregnancys-strain-on-the-kidneys/\" rel=\"nofollow\" title=\"Beetroot Juice May Ease Pregnancy\u2019s..."
     },
     {
-      "title": "'Spooky' particles transit DC suburbs, a step toward a quantum network",
-      "link": "https://phys.org/news/2026-08-spooky-particles-transit-dc-suburbs.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T02:00:01+05:30",
-      "time": "06 Aug, 02:00 AM",
-      "type": "news",
-      "description": "In early 2025, special signals wended their way through a fiber-optic highway strung above the streets and sidewalks of the Maryland suburbs. The arri..."
-    },
-    {
-      "title": "Well-worn wins: Wild capuchin monkeys prefer stones with a proven track record of cracking nuts",
-      "link": "https://phys.org/news/2026-08-worn-wild-capuchin-monkeys-stones.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T01:50:09+05:30",
-      "time": "06 Aug, 01:50 AM",
-      "type": "news",
-      "description": "A new study provides experimental evidence that wild capuchin monkeys use more than just physical cues when selecting stone tools; they also rely on v..."
-    },
-    {
       "title": "Engineered atomic interface opens a new path for atomically thin transistors",
       "link": "https://techxplore.com/news/2026-08-atomic-interface-path-atomically-thin.html",
       "source": "TechXplore",
@@ -235,42 +388,6 @@
       "description": "Last year, Melanie Walsh, a University of Washington assistant professor in the Information School, wrote an article examining how 300 popular childre..."
     },
     {
-      "title": "A small molecular module helps time development of C. elegans",
-      "link": "https://phys.org/news/2026-08-small-molecular-module-elegans.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T01:50:01+05:30",
-      "time": "06 Aug, 01:50 AM",
-      "type": "news",
-      "description": "For an animal to develop normally, cells must not only become the right types but also do so at the right time. In the worm C. elegans, the protein LI..."
-    },
-    {
-      "title": "Genomic evidence suggests coral reefs may be rewriting their genetic future in real time",
-      "link": "https://phys.org/news/2026-08-genomic-evidence-coral-reefs-rewriting.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T01:40:01+05:30",
-      "time": "06 Aug, 01:40 AM",
-      "type": "news",
-      "description": "The 2019 heat wave that struck Mo'orea\u2014a volcanic island in French Polynesia\u2014swept through its coral reefs like an invisible wildfire. Colorful, livel..."
-    },
-    {
-      "title": "New semiconductor maser operates continuously above room temperature",
-      "link": "https://phys.org/news/2026-08-semiconductor-maser-room-temperature.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T01:30:06+05:30",
-      "time": "06 Aug, 01:30 AM",
-      "type": "news",
-      "description": "Lasers have become indispensable in everyday life and research, with applications ranging from data transmission and metrology to manufacturing. Maser..."
-    },
-    {
-      "title": "Accelerating the discovery of ceramic materials using cellulose nanofiber dispersions",
-      "link": "https://phys.org/news/2026-08-discovery-ceramic-materials-cellulose-nanofiber.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T01:30:01+05:30",
-      "time": "06 Aug, 01:30 AM",
-      "type": "news",
-      "description": "Ceramic materials are used everywhere, from smartphones and computers to electric vehicles and renewable energy systems. These materials are used in a..."
-    },
-    {
       "title": "Tick Found in Austin Apartment Linked to Rare Relapsing Fever",
       "link": "https://scitechdaily.com/tick-found-in-austin-apartment-linked-to-rare-relapsing-fever/",
       "source": "ScitechDaily",
@@ -280,42 +397,6 @@
       "description": "<a href=\"https://scitechdaily.com/tick-found-in-austin-apartment-linked-to-rare-relapsing-fever/\" rel=\"nofollow\" title=\"Tick Found in Austin Apartment..."
     },
     {
-      "title": "Harvesting rainwater from rooftops could help cities stay cool and cut the number of heat wave days",
-      "link": "https://phys.org/news/2026-08-harvesting-rainwater-rooftops-cities-stay.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T01:20:01+05:30",
-      "time": "06 Aug, 01:20 AM",
-      "type": "news",
-      "description": "Collecting rainwater from rooftops and using it to spray buildings during hot weather could help cities cut air conditioning use, lower urban temperat..."
-    },
-    {
-      "title": "Using the Earth's magnetic field to hunt for axions and dark photons",
-      "link": "https://phys.org/news/2026-08-earth-magnetic-field-axions-dark.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T01:10:05+05:30",
-      "time": "06 Aug, 01:10 AM",
-      "type": "news",
-      "description": "Dark matter's existence is all but certain\u2014astronomers believe it makes up about a quarter of the universe's total energy content\u2014yet its true identit..."
-    },
-    {
-      "title": "Inflated confidence may not give children a learning advantage after all",
-      "link": "https://phys.org/news/2026-08-inflated-confidence-children-advantage.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T01:10:01+05:30",
-      "time": "06 Aug, 01:10 AM",
-      "type": "news",
-      "description": "Young children often overestimate what they can do. That overconfidence may help them approach challenges without fear, but it can also get them into ..."
-    },
-    {
-      "title": "How hydrogen can be produced from bio-based formic acid in a continuous process",
-      "link": "https://phys.org/news/2026-08-hydrogen-bio-based-formic-acid.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T00:56:09+05:30",
-      "time": "06 Aug, 12:56 AM",
-      "type": "news",
-      "description": "With annual production of around 1 million metric tons (1.1 million tons), formic acid is one of the most important basic chemicals and is used, among..."
-    },
-    {
       "title": "Ozempic Changes Your Body, but Does It Change Your Life? A New Study Suggests Not",
       "link": "https://scitechdaily.com/ozempic-changes-your-body-but-does-it-change-your-life-a-new-study-suggests-not/",
       "source": "ScitechDaily",
@@ -323,33 +404,6 @@
       "time": "06 Aug, 12:52 AM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/ozempic-changes-your-body-but-does-it-change-your-life-a-new-study-suggests-not/\" rel=\"nofollow\" title=\"Ozempic Chan..."
-    },
-    {
-      "title": "Runaway supermassive black hole RBH-1 offers new way to reconstruct ancient merger",
-      "link": "https://phys.org/news/2026-08-runaway-supermassive-black-hole-rbh.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T00:50:03+05:30",
-      "time": "06 Aug, 12:50 AM",
-      "type": "news",
-      "description": "Black holes are fascinating regions in space where gravity is so strong that nothing, even light, can escape them. The largest known black holes, call..."
-    },
-    {
-      "title": "Historic discovery finds 19th-century estate agent used peepshow technology to create proto version of Rightmove",
-      "link": "https://phys.org/news/2026-08-historic-discovery-19th-century-estate.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T00:50:01+05:30",
-      "time": "06 Aug, 12:50 AM",
-      "type": "news",
-      "description": "A 19th-century real estate agent created the world's first version of Rightmove more than 160 years before the birth of online property previews."
-    },
-    {
-      "title": "Electric field reverses phonon chirality and spin direction in ferroelectric crystal",
-      "link": "https://phys.org/news/2026-08-electric-field-reverses-phonon-chirality.html",
-      "source": "Phys",
-      "sort_key": "2026-08-06T00:30:06+05:30",
-      "time": "06 Aug, 12:30 AM",
-      "type": "news",
-      "description": "Chiral phonons are groups of atoms that move in a circular direction when excited by an energy source, such as heat. As the phonons move through a mat..."
     },
     {
       "title": "These 3D-printed objects can tell you if they're being used properly",
@@ -784,15 +838,6 @@
       "description": "Flapping-wing micro aerial vehicles (FW-MAVs) are small, lightweight robots inspired by the flight mechanisms of birds and insects. By using rapidly m..."
     },
     {
-      "title": "Selective microwave heating speeds bamboo-to-hydrogen fuel conversion",
-      "link": "https://techxplore.com/news/2026-08-microwave-bamboo-hydrogen-fuel-conversion.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-04T22:30:01+05:30",
-      "time": "04 Aug, 10:30 PM",
-      "type": "news",
-      "description": "Researchers at Kyushu University have shown that microwave (MW) radiation can dramatically speed the conversion of biomass into useful gases by creati..."
-    },
-    {
       "title": "A Daily Multivitamin May Help Older Adults Stay Active",
       "link": "https://scitechdaily.com/a-daily-multivitamin-may-help-older-adults-stay-active/",
       "source": "ScitechDaily",
@@ -854,78 +899,6 @@
       "time": "04 Aug, 06:30 PM",
       "type": "news",
       "description": "An emperor penguin colony in Antarctica saw a massive decline in chicks in 2025. The contours of a nearby grounded iceberg may have been the cause."
-    },
-    {
-      "title": "The Download: US robot restrictions and ICE\u2019s DNA grab",
-      "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-04T17:44:00+05:30",
-      "time": "04 Aug, 05:44 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "Humans and Mice May Process Smells in Very Similar Ways",
-      "link": "https://scitechdaily.com/humans-and-mice-may-process-smells-in-very-similar-ways/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-04T17:27:17+05:30",
-      "time": "04 Aug, 05:27 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/humans-and-mice-may-process-smells-in-very-similar-ways/\" rel=\"nofollow\" title=\"Humans and Mice May Process Smells i..."
-    },
-    {
-      "title": "Strange quantum experiment shows \u201cnegative time\u201d is more than an illusion",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-04T17:14:58+05:30",
-      "time": "04 Aug, 05:14 PM",
-      "type": "news",
-      "description": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whe..."
-    },
-    {
-      "title": "These Beautiful Flowers Can Paralyze You, but Their Chemistry Could Save Lives",
-      "link": "https://scitechdaily.com/these-beautiful-flowers-can-paralyze-you-but-their-chemistry-could-save-lives/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-04T16:52:10+05:30",
-      "time": "04 Aug, 04:52 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/these-beautiful-flowers-can-paralyze-you-but-their-chemistry-could-save-lives/\" rel=\"nofollow\" title=\"These Beautifu..."
-    },
-    {
-      "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
-      "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-08-04T16:30:01+05:30",
-      "time": "04 Aug, 04:30 PM",
-      "type": "news",
-      "description": "<p>New rules ban nearly all new foreign mobile robots for national security reasons</p>"
-    },
-    {
-      "title": "New Stroke Treatment Turns Brain Cavities Into Repair Hubs",
-      "link": "https://scitechdaily.com/new-stroke-treatment-turns-brain-cavities-into-repair-hubs/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-04T16:17:00+05:30",
-      "time": "04 Aug, 04:17 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/new-stroke-treatment-turns-brain-cavities-into-repair-hubs/\" rel=\"nofollow\" title=\"New Stroke Treatment Turns Brain ..."
-    },
-    {
-      "title": "SOLARIS Project Will Study a Total Eclipse and the Heart",
-      "link": "https://spectrum.ieee.org/solar-eclipse-spain-2026-smartwatches",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-08-04T15:30:02+05:30",
-      "time": "04 Aug, 03:30 PM",
-      "type": "news",
-      "description": "<p>Researchers will gather smartwatch data to learn how an eclipse affects human health</p>"
-    },
-    {
-      "title": "Scientists just 3D printed one of the hardest metals on Earth",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801094053.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-04T12:38:28+05:30",
-      "time": "04 Aug, 12:38 PM",
-      "type": "news",
-      "description": "A new 3D printing technique can produce exceptionally hard tungsten carbide cobalt while using less of its expensive raw materials. By softening rathe..."
     }
   ],
   "tweets": [
@@ -1052,6 +1025,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

@@ -1,6 +1,150 @@
 {
   "news": [
     {
+      "title": "Europe readies for solar eclipse dip in power generation",
+      "link": "https://techxplore.com/news/2026-08-europe-readies-solar-eclipse-dip.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-08T18:10:03+05:30",
+      "time": "08 Aug, 06:10 PM",
+      "type": "news",
+      "description": "European energy operators are braced for next week's solar eclipse, which is expected to cause a temporary dip in power generation, and have taken ste..."
+    },
+    {
+      "title": "Swarms of tiny robots remove microplastics from soil and water",
+      "link": "https://phys.org/news/2026-08-swarms-tiny-robots-microplastics-soil.html",
+      "source": "Phys",
+      "sort_key": "2026-08-08T18:10:01+05:30",
+      "time": "08 Aug, 06:10 PM",
+      "type": "news",
+      "description": "Microplastics, which are plastic particles under 5 millimeters, are a major and growing threat in both soil and water. They damage soil fertility, dis..."
+    },
+    {
+      "title": "Researchers Map the Hidden 3D Geometry of a Quantum Wavefunction",
+      "link": "https://scitechdaily.com/researchers-map-the-hidden-3d-geometry-of-a-quantum-wavefunction/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-08T17:46:58+05:30",
+      "time": "08 Aug, 05:46 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/researchers-map-the-hidden-3d-geometry-of-a-quantum-wavefunction/\" rel=\"nofollow\" title=\"Researchers Map the Hidden ..."
+    },
+    {
+      "title": "Gut cells may measure hunger by how watery their insides become",
+      "link": "https://phys.org/news/2026-08-gut-cells-hunger-watery-insides.html",
+      "source": "Phys",
+      "sort_key": "2026-08-08T17:30:01+05:30",
+      "time": "08 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Researchers led by Sa Kan Yoo at the RIKEN Center for Biosystems Dynamics Research (BDR) in Japan have discovered that the natural turnover of gut cel..."
+    },
+    {
+      "title": "Lost in Space: Rare Cosmic Flare Exposes a Wandering Black Hole Far From Its Galaxy\u2019s Center",
+      "link": "https://scitechdaily.com/lost-in-space-rare-cosmic-flare-exposes-a-wandering-black-hole-far-from-its-galaxys-center/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-08T17:11:48+05:30",
+      "time": "08 Aug, 05:11 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/lost-in-space-rare-cosmic-flare-exposes-a-wandering-black-hole-far-from-its-galaxys-center/\" rel=\"nofollow\" title=\"L..."
+    },
+    {
+      "title": "Electrolyzer enables hydrogen and sustainable plastics production",
+      "link": "https://techxplore.com/news/2026-08-electrolyzer-enables-hydrogen-sustainable-plastics.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-08T17:10:04+05:30",
+      "time": "08 Aug, 05:10 PM",
+      "type": "news",
+      "description": "Keele scientists have developed a new kind of electrolyzer that produces both hydrogen and the base materials for sustainable plastic production, open..."
+    },
+    {
+      "title": "Mega-study analyzes the impact of gratitude interventions",
+      "link": "https://phys.org/news/2026-08-mega-impact-gratitude-interventions.html",
+      "source": "Phys",
+      "sort_key": "2026-08-08T16:50:03+05:30",
+      "time": "08 Aug, 04:50 PM",
+      "type": "news",
+      "description": "Are some interventions designed to induce gratitude more effectively than others? In which countries and cultures do they work best to improve mood, s..."
+    },
+    {
+      "title": "Apple and OpenAI escalate legal battle over devices",
+      "link": "https://techxplore.com/news/2026-08-apple-openai-escalate-legal-devices.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-08T16:50:01+05:30",
+      "time": "08 Aug, 04:50 PM",
+      "type": "news",
+      "description": "A legal battle between Apple and OpenAI over the ChatGPT maker's secretive device project escalated this week when the artificial intelligence (AI) de..."
+    },
+    {
+      "title": "Dark Matter May Be Leaving a Signal in Earth\u2019s Atmosphere",
+      "link": "https://scitechdaily.com/dark-matter-may-be-leaving-a-signal-in-earths-atmosphere/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-08T16:36:56+05:30",
+      "time": "08 Aug, 04:36 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/dark-matter-may-be-leaving-a-signal-in-earths-atmosphere/\" rel=\"nofollow\" title=\"Dark Matter May Be Leaving a Signal..."
+    },
+    {
+      "title": "Amazon behind massive private gas plant for new data centers",
+      "link": "https://techxplore.com/news/2026-08-amazon-massive-private-gas-centers.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-08T16:30:05+05:30",
+      "time": "08 Aug, 04:30 PM",
+      "type": "news",
+      "description": "Amazon confirmed Friday that it is financing a massive private gas power plant in Texas that could become the single-largest source of greenhouse gas ..."
+    },
+    {
+      "title": "Canada tries to adapt to a future of wildfires",
+      "link": "https://phys.org/news/2026-08-canada-future-wildfires.html",
+      "source": "Phys",
+      "sort_key": "2026-08-08T16:30:04+05:30",
+      "time": "08 Aug, 04:30 PM",
+      "type": "news",
+      "description": "Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada..."
+    },
+    {
+      "title": "Loneliness may damage health in ways isolation does not: New study",
+      "link": "https://phys.org/news/2026-08-loneliness-health-ways-isolation.html",
+      "source": "Phys",
+      "sort_key": "2026-08-08T16:10:02+05:30",
+      "time": "08 Aug, 04:10 PM",
+      "type": "news",
+      "description": "You can spend every day surrounded by other people and still feel lonely. You can also spend long periods alone without finding the experience distres..."
+    },
+    {
+      "title": "Nocturnal 'coffee frog' discovered in Costa Rica",
+      "link": "https://phys.org/news/2026-08-nocturnal-coffee-frog-costa-rica.html",
+      "source": "Phys",
+      "sort_key": "2026-08-08T15:30:03+05:30",
+      "time": "08 Aug, 03:30 PM",
+      "type": "news",
+      "description": "A tiny greenish, nocturnal frog that thrives in coffee plantations has been discovered in Costa Rica's central Pacific region, where it also faces ris..."
+    },
+    {
+      "title": "EU tells Meta, TikTok to boost monitoring, fact-checking",
+      "link": "https://techxplore.com/news/2026-08-eu-meta-tiktok-boost-fact.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-08T13:40:56+05:30",
+      "time": "08 Aug, 01:40 PM",
+      "type": "news",
+      "description": "The EU's tech chief called on Meta and TikTok to \"act decisively\" to stem disinformation at times of crisis, saying the European Commission held talks..."
+    },
+    {
+      "title": "Silver nanocatalysts switch reaction sites between power generation and hydrogen production",
+      "link": "https://phys.org/news/2026-08-silver-nanocatalysts-reaction-sites-power.html",
+      "source": "Phys",
+      "sort_key": "2026-08-08T12:20:52+05:30",
+      "time": "08 Aug, 12:20 PM",
+      "type": "news",
+      "description": "For the first time, researchers have discovered that the same silver (Ag) nanocatalyst operates at different reaction sites depending on whether a sol..."
+    },
+    {
+      "title": "Sunlight creates quantum entanglement once thought to require lasers",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-08-08T09:19:26+05:30",
+      "time": "08 Aug, 09:19 AM",
+      "type": "news",
+      "description": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in ..."
+    },
+    {
       "title": "Scientists Find Remarkable New Snail Species in Montenegro\u2019s Mountains",
       "link": "https://scitechdaily.com/scientists-find-remarkable-new-snail-species-in-montenegros-mountains/",
       "source": "ScitechDaily",
@@ -271,24 +415,6 @@
       "description": "The origin of spin in spiral and elliptical galaxies has posed a long-standing puzzle for astronomers. One idea, known as tidal torque theory, propose..."
     },
     {
-      "title": "Natural insecticide made from compound found in garlic and spearmint kills bean beetles effectively",
-      "link": "https://phys.org/news/2026-08-natural-insecticide-compound-garlic-spearmint.html",
-      "source": "Phys",
-      "sort_key": "2026-08-07T22:30:07+05:30",
-      "time": "07 Aug, 10:30 PM",
-      "type": "news",
-      "description": "In an effort to develop more environmentally friendly alternatives to synthetic insecticides, researchers from Kyushu University have developed and te..."
-    },
-    {
-      "title": "AI method reveals hidden patterns in microbial communities in the Warnow Estuary",
-      "link": "https://phys.org/news/2026-08-ai-method-reveals-hidden-patterns.html",
-      "source": "Phys",
-      "sort_key": "2026-08-07T22:30:01+05:30",
-      "time": "07 Aug, 10:30 PM",
-      "type": "news",
-      "description": "Microbial communities are highly sensitive to environmental changes, yet their enormous diversity makes it difficult to identify ecological patterns. ..."
-    },
-    {
       "title": "When security becomes a risk factor\u2014privacy risks of public URL-scanning services",
       "link": "https://techxplore.com/news/2026-08-factor-privacy-url-scanning.html",
       "source": "TechXplore",
@@ -298,42 +424,6 @@
       "description": "URL scanning services are now a common component of modern security workflows. They help detect phishing websites or malware early and warn users befo..."
     },
     {
-      "title": "Just 50\u00b0C decides whether an ultrathin magnetic film stays flat or falls apart",
-      "link": "https://phys.org/news/2026-08-50c-ultrathin-magnetic-stays-flat.html",
-      "source": "Phys",
-      "sort_key": "2026-08-07T22:10:07+05:30",
-      "time": "07 Aug, 10:10 PM",
-      "type": "news",
-      "description": "Magnetic storage technologies, which store information in the direction of magnetization, play an essential role in modern data storage. Hard disk dri..."
-    },
-    {
-      "title": "Food fraud costs UK economy up to \u00a32 billion a year, new study finds",
-      "link": "https://phys.org/news/2026-08-food-fraud-uk-economy-billion.html",
-      "source": "Phys",
-      "sort_key": "2026-08-07T22:10:03+05:30",
-      "time": "07 Aug, 10:10 PM",
-      "type": "news",
-      "description": "Food fraud is costing the UK economy up to \u00a32 billion every year, according to the first study to calculate its full economic impact. The research, fr..."
-    },
-    {
-      "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
-      "link": "https://phys.org/news/2026-08-adults-ai-financial-guidance-gallup.html",
-      "source": "Phys",
-      "sort_key": "2026-08-07T21:50:07+05:30",
-      "time": "07 Aug, 09:50 PM",
-      "type": "news",
-      "description": "Some U.S. adults are using artificial intelligence for financial guidance, but it's far from the most trusted source of advice, according to a new Gal..."
-    },
-    {
-      "title": "Uranus's unusual rotation makes its bow shock expand and contract each day",
-      "link": "https://phys.org/news/2026-08-uranus-unusual-rotation-day.html",
-      "source": "Phys",
-      "sort_key": "2026-08-07T21:50:05+05:30",
-      "time": "07 Aug, 09:50 PM",
-      "type": "news",
-      "description": "Within our solar system, Uranus is a geometric oddball. Its spin axis tilts more than 90\u00b0 from its orbit, so it essentially rolls on its side through ..."
-    },
-    {
       "title": "Negative imaginary theory moves from math niche to robots, aircraft and nanodevices",
       "link": "https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html",
       "source": "TechXplore",
@@ -341,15 +431,6 @@
       "time": "07 Aug, 09:50 PM",
       "type": "news",
       "description": "Over the past two decades, a powerful but highly specialized branch of control engineering\u2014known as negative imaginary (NI) systems theory\u2014has quietly..."
-    },
-    {
-      "title": "Protein-enriched ketchup gets boost from algae extracts",
-      "link": "https://phys.org/news/2026-08-protein-enriched-ketchup-boost-algae.html",
-      "source": "Phys",
-      "sort_key": "2026-08-07T21:30:03+05:30",
-      "time": "07 Aug, 09:30 PM",
-      "type": "news",
-      "description": "Added protein is showing up in foods from breakfast cereal to pasta, but not many condiments \u2026 yet. Researchers have now developed an enriched tomato ..."
     },
     {
       "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
@@ -791,81 +872,19 @@
       "time": "06 Aug, 06:30 PM",
       "type": "news",
       "description": "Within minutes of impact, debris began heating Earth\u2019s atmosphere. Fine dust trapped that heat, potentially killing the dinosaurs quickly."
-    },
-    {
-      "title": "A star\u2019s violent death exposed a hidden supermassive black hole",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-06T17:46:32+05:30",
-      "time": "06 Aug, 05:46 PM",
-      "type": "news",
-      "description": "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy\u2014the first dormant black hole detected so far f..."
-    },
-    {
-      "title": "The Download: Google\u2019s AI shake-up and Meta\u2019s rogue model",
-      "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-06T17:40:00+05:30",
-      "time": "06 Aug, 05:40 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-06T17:33:02+05:30",
-      "time": "06 Aug, 05:33 PM",
-      "type": "news",
-      "description": "A new hollow nanoreactor mimics living cells to make hydrogen peroxide more efficiently using visible light. Its light-trapping cavity and proton-shut..."
-    },
-    {
-      "title": "A Weather Balloon Became An Ocean Buoy\u2014and Kept Sending Data",
-      "link": "https://spectrum.ieee.org/ai-weather-forecasting-balloons-buoys",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-08-06T16:30:01+05:30",
-      "time": "06 Aug, 04:30 PM",
-      "type": "news",
-      "description": "<p>WindBorne uses sea-and-sky sensors for its weather-forecasting AI</p>"
-    },
-    {
-      "title": "Alzheimer\u2019s May Scramble the Genome\u2019s 3D Architecture Inside Brain Cells",
-      "link": "https://scitechdaily.com/alzheimers-may-scramble-the-genomes-3d-architecture-inside-brain-cells/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-06T16:28:48+05:30",
-      "time": "06 Aug, 04:28 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/alzheimers-may-scramble-the-genomes-3d-architecture-inside-brain-cells/\" rel=\"nofollow\" title=\"Alzheimer\u2019s May Scram..."
-    },
-    {
-      "title": "Researchers Find a Way To Make Pancreatic Cancer Visible to the Immune System",
-      "link": "https://scitechdaily.com/researchers-find-a-way-to-make-pancreatic-cancer-visible-to-the-immune-system/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-06T15:53:47+05:30",
-      "time": "06 Aug, 03:53 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/researchers-find-a-way-to-make-pancreatic-cancer-visible-to-the-immune-system/\" rel=\"nofollow\" title=\"Researchers Fi..."
-    },
-    {
-      "title": "Brain Waves Once Dismissed As Noise May Help Build Our Reality",
-      "link": "https://scitechdaily.com/brain-waves-once-dismissed-as-noise-may-help-build-our-reality/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-06T15:18:46+05:30",
-      "time": "06 Aug, 03:18 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/brain-waves-once-dismissed-as-noise-may-help-build-our-reality/\" rel=\"nofollow\" title=\"Brain Waves Once Dismissed As..."
-    },
-    {
-      "title": "Meta chases OpenAI, Anthropic with new AI coding app",
-      "link": "https://techxplore.com/news/2026-08-meta-openai-anthropic-ai-coding.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-06T12:39:45+05:30",
-      "time": "06 Aug, 12:39 PM",
-      "type": "news",
-      "description": "Meta entered the race for automated coding tools Wednesday when it announced a new app for developers of artificial intelligence products, competing w..."
     }
   ],
   "tweets": [
+    {
+      "title": "Public URL-scan feeds exposed 4,000+ sensitive-access links across 2 million scanned URLs, and the published links were later accessed by third parties. https://techxplore.com/news/2026-08-factor-privacy-url-scanning.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2086068063733010664#m",
+      "source": "TechXplore",
+      "sort_key": "2026-08-08T18:02:38+05:30",
+      "time": "08 Aug, 06:02 PM",
+      "type": "tweets",
+      "content": "<p>Public URL-scan feeds exposed 4,000+ sensitive-access links across 2 million scanned URLs, and the published links were later accessed by third parties. <a href=\"https://techxplore.com/news/2026-08-factor-privacy-url-scanning.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-factor-privacy-url-scanning.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2085850146919821312%2FUyqTaEUN%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>When security becomes a risk factor\u2014privacy risks of public URL-scanning services</b>\n</a>\n<p>URL scanning services are now a common component of modern security workflows. They help detect phishing websites or malware early and warn users before they visit a URL. However, the practice of...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-factor-privacy-url-scanning.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
     {
       "title": "A reusable toolkit has made one numerical computing tool 3,000 times faster while improving its results, turning a custom optimization problem into a few lines of code. https://techxplore.com/news/2026-08-optimizing-software-professor-egg-downsizes.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
       "link": "https://nitter.net/TechXplore_com/status/2085910222753681773#m",
@@ -969,6 +988,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

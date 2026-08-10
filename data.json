@@ -1,6 +1,159 @@
 {
   "news": [
     {
+      "title": "How dogs evolved differently across the globe to match human traits",
+      "link": "https://phys.org/news/2026-08-dogs-evolved-differently-globe-human.html",
+      "source": "Phys",
+      "sort_key": "2026-08-10T04:40:01+05:30",
+      "time": "10 Aug, 04:40 AM",
+      "type": "news",
+      "description": "We call them \"man's best friend,\" and the evidence supports it. Dogs have been found buried alongside humans in graves dating back 14,000 years. They ..."
+    },
+    {
+      "title": "This AI Can Find the Missing Atoms That X-Rays Cannot See",
+      "link": "https://scitechdaily.com/this-ai-can-find-the-missing-atoms-that-x-rays-cannot-see/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-10T01:18:50+05:30",
+      "time": "10 Aug, 01:18 AM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/this-ai-can-find-the-missing-atoms-that-x-rays-cannot-see/\" rel=\"nofollow\" title=\"This AI Can Find the Missing Atoms..."
+    },
+    {
+      "title": "Controlled cracking technique prints quantum dots into tiny pixels for sharper displays",
+      "link": "https://phys.org/news/2026-08-technique-quantum-dots-tiny-pixels.html",
+      "source": "Phys",
+      "sort_key": "2026-08-10T00:50:01+05:30",
+      "time": "10 Aug, 12:50 AM",
+      "type": "news",
+      "description": "Recent technological advances have enabled the development of increasingly sophisticated, sharper displays for electronic devices. Many modern display..."
+    },
+    {
+      "title": "Scientists Catch a Hidden Electronic State Forming Almost Instantly",
+      "link": "https://scitechdaily.com/scientists-catch-a-hidden-electronic-state-forming-almost-instantly/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-10T00:43:57+05:30",
+      "time": "10 Aug, 12:43 AM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/scientists-catch-a-hidden-electronic-state-forming-almost-instantly/\" rel=\"nofollow\" title=\"Scientists Catch a Hidde..."
+    },
+    {
+      "title": "Hong Kong weather observatory posts record high temperature",
+      "link": "https://phys.org/news/2026-08-hong-kong-weather-observatory-high.html",
+      "source": "Phys",
+      "sort_key": "2026-08-10T00:23:13+05:30",
+      "time": "10 Aug, 12:23 AM",
+      "type": "news",
+      "description": "Hong Kong's weather observatory posted a record high temperature of 36.9\u00b0C (98\u00b0F) on Sunday as Typhoon Dolphin swept warm air over the city, the meteo..."
+    },
+    {
+      "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle",
+      "link": "https://phys.org/news/2026-08-perseid-meteor-shower-summer-dazzle.html",
+      "source": "Phys",
+      "sort_key": "2026-08-10T00:22:39+05:30",
+      "time": "10 Aug, 12:22 AM",
+      "type": "news",
+      "description": "The Perseid summer light show is back\u2014and viewing conditions are especially promising for the Northern Hemisphere."
+    },
+    {
+      "title": "Early snakes explored life underground, on land and at sea",
+      "link": "https://phys.org/news/2026-08-early-snakes-explored-life-underground.html",
+      "source": "Phys",
+      "sort_key": "2026-08-10T00:10:01+05:30",
+      "time": "10 Aug, 12:10 AM",
+      "type": "news",
+      "description": "Snakes are highly modified lizards, with more than 4,000 living species today. The origin of snakes has long been one of evolutionary biology's most d..."
+    },
+    {
+      "title": "Starlink Satellites Reveal a Hidden Atmosphere 300 Miles Above Earth",
+      "link": "https://scitechdaily.com/starlink-satellites-reveal-a-hidden-atmosphere-300-miles-above-earth/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-10T00:08:01+05:30",
+      "time": "10 Aug, 12:08 AM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/starlink-satellites-reveal-a-hidden-atmosphere-300-miles-above-earth/\" rel=\"nofollow\" title=\"Starlink Satellites Rev..."
+    },
+    {
+      "title": "New catalyst with 75% less platinum promises to reduce the cost of hydrogen fuel cells",
+      "link": "https://phys.org/news/2026-08-catalyst-platinum-hydrogen-fuel-cells.html",
+      "source": "Phys",
+      "sort_key": "2026-08-09T23:30:01+05:30",
+      "time": "09 Aug, 11:30 PM",
+      "type": "news",
+      "description": "The high cost of platinum is one of the main barriers to the wider adoption of hydrogen fuel cells. Now, researchers at IMDEA Materials Institute have..."
+    },
+    {
+      "title": "Australia has pledged to restore nature. But could we ever bring back lost ecosystems?",
+      "link": "https://phys.org/news/2026-08-australia-pledged-nature-lost-ecosystems.html",
+      "source": "Phys",
+      "sort_key": "2026-08-09T22:50:01+05:30",
+      "time": "09 Aug, 10:50 PM",
+      "type": "news",
+      "description": "Nature is not doing well in Australia. Many unique mammals, birds and insects are struggling. Entire ecosystems are collapsing."
+    },
+    {
+      "title": "Tiny particles defy action-reaction symmetry to stay in motion",
+      "link": "https://phys.org/news/2026-08-tiny-particles-defy-action-reaction.html",
+      "source": "Phys",
+      "sort_key": "2026-08-09T22:10:01+05:30",
+      "time": "09 Aug, 10:10 PM",
+      "type": "news",
+      "description": "From schools of fish and flocks of birds to microscopic synthetic particles, many systems in nature and the laboratory consist of individual units or ..."
+    },
+    {
+      "title": "Cancer Cells Exploit a Hidden Immune \u201cOff Switch\u201d",
+      "link": "https://scitechdaily.com/cancer-cells-exploit-a-hidden-immune-off-switch/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-09T21:32:41+05:30",
+      "time": "09 Aug, 09:32 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/cancer-cells-exploit-a-hidden-immune-off-switch/\" rel=\"nofollow\" title=\"Cancer Cells Exploit a Hidden Immune \u201cOff Sw..."
+    },
+    {
+      "title": "Cosmic filaments help set first limits on dark matter's decay into gravitons",
+      "link": "https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html",
+      "source": "Phys",
+      "sort_key": "2026-08-09T21:30:01+05:30",
+      "time": "09 Aug, 09:30 PM",
+      "type": "news",
+      "description": "Composing some 85% of the universe's total mass, dark matter betrays its presence only through gravity, unlike ordinary matter. Yet through new resear..."
+    },
+    {
+      "title": "Rare Human Brain Study Reveals How an Alzheimer\u2019s Drug May Protect the Brain",
+      "link": "https://scitechdaily.com/rare-human-brain-study-reveals-how-an-alzheimers-drug-may-protect-the-brain/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-09T20:57:06+05:30",
+      "time": "09 Aug, 08:57 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/rare-human-brain-study-reveals-how-an-alzheimers-drug-may-protect-the-brain/\" rel=\"nofollow\" title=\"Rare Human Brain..."
+    },
+    {
+      "title": "Over half of people are unaware of the environmental effects of sunscreen",
+      "link": "https://phys.org/news/2026-08-people-unaware-environmental-effects-sunscreen.html",
+      "source": "Phys",
+      "sort_key": "2026-08-09T20:50:01+05:30",
+      "time": "09 Aug, 08:50 PM",
+      "type": "news",
+      "description": "This summer, millions of people across the country have been digging out sunscreen to protect themselves from a record-breaking series of heat waves."
+    },
+    {
+      "title": "This Simple Daily Habit May Ease Pain and Depression",
+      "link": "https://scitechdaily.com/this-simple-daily-habit-may-ease-pain-and-depression/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-09T20:22:30+05:30",
+      "time": "09 Aug, 08:22 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/this-simple-daily-habit-may-ease-pain-and-depression/\" rel=\"nofollow\" title=\"This Simple Daily Habit May Ease Pain a..."
+    },
+    {
+      "title": "Rare Mars meteorite preserves 1.27-billion-year-old clues to planet's deep interior",
+      "link": "https://phys.org/news/2026-08-rare-mars-meteorite-billion-year.html",
+      "source": "Phys",
+      "sort_key": "2026-08-09T19:50:01+05:30",
+      "time": "09 Aug, 07:50 PM",
+      "type": "news",
+      "description": "Boston College scientists have determined that a newly discovered meteorite from Mars is 1.27 billion years old and derived from a previously unsample..."
+    },
+    {
       "title": "Oldest known giant rock scallop bead suggests California coastal trade began millennia earlier",
       "link": "https://phys.org/news/2026-08-oldest-giant-scallop-bead-california.html",
       "source": "Phys",
@@ -431,303 +584,6 @@
       "time": "08 Aug, 09:19 AM",
       "type": "news",
       "description": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in ..."
-    },
-    {
-      "title": "Scientists Find Remarkable New Snail Species in Montenegro\u2019s Mountains",
-      "link": "https://scitechdaily.com/scientists-find-remarkable-new-snail-species-in-montenegros-mountains/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-08T07:18:32+05:30",
-      "time": "08 Aug, 07:18 AM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-find-remarkable-new-snail-species-in-montenegros-mountains/\" rel=\"nofollow\" title=\"Scientists Find Remark..."
-    },
-    {
-      "title": "Scientists Discover a 300-Million-Year-Old Geological Time Capsule Inside Fossilized Wood",
-      "link": "https://scitechdaily.com/scientists-discover-a-300-million-year-old-geological-time-capsule-inside-fossilized-wood/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-08T06:43:25+05:30",
-      "time": "08 Aug, 06:43 AM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-discover-a-300-million-year-old-geological-time-capsule-inside-fossilized-wood/\" rel=\"nofollow\" title=\"Sc..."
-    },
-    {
-      "title": "Why Are Wasps Disappearing This Summer?",
-      "link": "https://scitechdaily.com/why-are-wasps-disappearing-this-summer/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-08T06:08:38+05:30",
-      "time": "08 Aug, 06:08 AM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/why-are-wasps-disappearing-this-summer/\" rel=\"nofollow\" title=\"Why Are Wasps Disappearing This Summer?\"><img alt=\"Wa..."
-    },
-    {
-      "title": "One million years without sex fails to erase stick insects' unused biological system",
-      "link": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T04:30:02+05:30",
-      "time": "08 Aug, 04:30 AM",
-      "type": "news",
-      "description": "Scientists have made a surprising finding about how an asexually reproducing stick insect has evolved. Research led by Dr. Darren Parker, lecturer in ..."
-    },
-    {
-      "title": "New AI model reveals the volume of the world's glaciers",
-      "link": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T04:10:01+05:30",
-      "time": "08 Aug, 04:10 AM",
-      "type": "news",
-      "description": "How much ice is stored in the world's glaciers? And where exactly is it located? A new study led by Ca' Foscari University of Venice, in collaboration..."
-    },
-    {
-      "title": "Creating cleaner chemical reactions that run on oxygen and produce only water as waste",
-      "link": "https://phys.org/news/2026-08-cleaner-chemical-reactions-oxygen.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T03:50:01+05:30",
-      "time": "08 Aug, 03:50 AM",
-      "type": "news",
-      "description": "Oxygen provides the driving force for many vital chemical reactions. Two well-known examples include respiration, the process that allows living thing..."
-    },
-    {
-      "title": "Researchers unlock high-res view of 2D materials by doing a microscopic twist",
-      "link": "https://phys.org/news/2026-08-high-res-view-2d-materials.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T03:30:03+05:30",
-      "time": "08 Aug, 03:30 AM",
-      "type": "news",
-      "description": "By rapidly twisting a microscopically small tip back and forth, researchers at the University of Maryland (UMD) have unlocked a new way to detect subt..."
-    },
-    {
-      "title": "Hidden anatomy of clouds reveals how rain may begin without ice crystals",
-      "link": "https://phys.org/news/2026-08-hidden-anatomy-clouds-reveals-ice.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T03:10:02+05:30",
-      "time": "08 Aug, 03:10 AM",
-      "type": "news",
-      "description": "The initiation of rain in clouds without ice remains one of the largest unsolved mysteries in atmospheric science."
-    },
-    {
-      "title": "Laser spectroscopy helps reveal hidden nuclear properties in fermium",
-      "link": "https://phys.org/news/2026-08-laser-spectroscopy-reveal-hidden-nuclear.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T02:50:01+05:30",
-      "time": "08 Aug, 02:50 AM",
-      "type": "news",
-      "description": "For the first time, researchers have determined the shape of the actinide nucleus of fermium-255 and measured its structure with high precision and re..."
-    },
-    {
-      "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
-      "link": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T02:30:01+05:30",
-      "time": "08 Aug, 02:30 AM",
-      "type": "news",
-      "description": "Using light to process quantum information is one of the most promising approaches to building future quantum computers. Light particles, known as pho..."
-    },
-    {
-      "title": "Crossing into a mirror world: Particles turn to wisps of fog, and the magnetic monopole paradox dissolves",
-      "link": "https://phys.org/news/2026-08-mirror-world-particles-wisps-fog.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T02:10:02+05:30",
-      "time": "08 Aug, 02:10 AM",
-      "type": "news",
-      "description": "In Goethe's ballad \"Erlk\u00f6nig,\" immortalized in Schubert's fevered 1815 setting, a dying boy riding through the night sees a spectral king beckoning fr..."
-    },
-    {
-      "title": "Tiny floating magnet detects ultrafaint magnetic fields at room temperature",
-      "link": "https://phys.org/news/2026-08-tiny-magnet-ultrafaint-magnetic-fields.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T01:50:02+05:30",
-      "time": "08 Aug, 01:50 AM",
-      "type": "news",
-      "description": "Measuring faint magnetic fields is useful in a number of areas, including mapping brain activity, monitoring hearts and probing fundamental physics. T..."
-    },
-    {
-      "title": "Antenna-like cell appendage may help turtle embryos sense sex-deciding nest temperatures",
-      "link": "https://phys.org/news/2026-08-antenna-cell-appendage-turtle-embryos.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T01:30:01+05:30",
-      "time": "08 Aug, 01:30 AM",
-      "type": "news",
-      "description": "When most baby turtles hatch, their sex depends on the temperature of the sand or soil where their mother laid her eggs. Warm incubation produces fema..."
-    },
-    {
-      "title": "Hydraulic traits reveal why some mountain trees move uphill while others shift downhill",
-      "link": "https://phys.org/news/2026-08-hydraulic-traits-reveal-mountain-trees.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T01:10:01+05:30",
-      "time": "08 Aug, 01:10 AM",
-      "type": "news",
-      "description": "As global temperatures rise, scientists have largely assumed that mountain tree species will move uphill in search of cooler conditions. A new study p..."
-    },
-    {
-      "title": "This Fingertip Patch Tracks Parkinson\u2019s Medication Using Sweat",
-      "link": "https://scitechdaily.com/this-fingertip-patch-tracks-parkinsons-medication-using-sweat/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-08T00:52:15+05:30",
-      "time": "08 Aug, 12:52 AM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/this-fingertip-patch-tracks-parkinsons-medication-using-sweat/\" rel=\"nofollow\" title=\"This Fingertip Patch Tracks Pa..."
-    },
-    {
-      "title": "Boron layers could set a superconductivity record, theoretical study predicts",
-      "link": "https://phys.org/news/2026-08-boron-layers-superconductivity-theoretical.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T00:50:01+05:30",
-      "time": "08 Aug, 12:50 AM",
-      "type": "news",
-      "description": "Scientists in China predict that stacking two microscopic layers of boron could set a new record for superconductivity. Superconductors are materials ..."
-    },
-    {
-      "title": "New platform speeds bacterial gene mapping for better biotech design",
-      "link": "https://phys.org/news/2026-08-platform-bacterial-gene-biotech.html",
-      "source": "Phys",
-      "sort_key": "2026-08-08T00:30:01+05:30",
-      "time": "08 Aug, 12:30 AM",
-      "type": "news",
-      "description": "Scientists at the Department of Energy's Oak Ridge National Laboratory have created a platform that pinpoints genetic triggers that turn microbes into..."
-    },
-    {
-      "title": "Why Low-Carb Diets Send Some People\u2019s Cholesterol Soaring",
-      "link": "https://scitechdaily.com/why-low-carb-diets-send-some-peoples-cholesterol-soaring/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-08T00:17:14+05:30",
-      "time": "08 Aug, 12:17 AM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/why-low-carb-diets-send-some-peoples-cholesterol-soaring/\" rel=\"nofollow\" title=\"Why Low-Carb Diets Send Some People..."
-    },
-    {
-      "title": "Oral Weight Loss Pill Helps Patients Lose up to 12% of Body Weight",
-      "link": "https://scitechdaily.com/oral-weight-loss-pill-helps-patients-lose-up-to-12-of-body-weight/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-07T23:42:52+05:30",
-      "time": "07 Aug, 11:42 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/oral-weight-loss-pill-helps-patients-lose-up-to-12-of-body-weight/\" rel=\"nofollow\" title=\"Oral Weight Loss Pill Help..."
-    },
-    {
-      "title": "AI agents automate atom-by-atom simulations to accelerate discovery of new materials",
-      "link": "https://techxplore.com/news/2026-08-ai-agents-automate-atom-simulations.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-07T22:50:10+05:30",
-      "time": "07 Aug, 10:50 PM",
-      "type": "news",
-      "description": "A team from the U.S. Department of Energy's (DOE) Argonne National Laboratory has successfully demonstrated an artificial intelligence (AI)-driven sys..."
-    },
-    {
-      "title": "When security becomes a risk factor\u2014privacy risks of public URL-scanning services",
-      "link": "https://techxplore.com/news/2026-08-factor-privacy-url-scanning.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-07T22:10:09+05:30",
-      "time": "07 Aug, 10:10 PM",
-      "type": "news",
-      "description": "URL scanning services are now a common component of modern security workflows. They help detect phishing websites or malware early and warn users befo..."
-    },
-    {
-      "title": "Negative imaginary theory moves from math niche to robots, aircraft and nanodevices",
-      "link": "https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-07T21:50:03+05:30",
-      "time": "07 Aug, 09:50 PM",
-      "type": "news",
-      "description": "Over the past two decades, a powerful but highly specialized branch of control engineering\u2014known as negative imaginary (NI) systems theory\u2014has quietly..."
-    },
-    {
-      "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
-      "link": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-08-07T21:30:01+05:30",
-      "time": "07 Aug, 09:30 PM",
-      "type": "news",
-      "description": "<p>This week\u2019s selection of awesome robot videos also includes NASA\u2019s Skyfall water-hunting Martian helicopter, gecko-inspired robotic grippers, and m..."
-    },
-    {
-      "title": "Ancient Greek rings may have been forged with iron from meteorites",
-      "link": "https://www.sciencenews.org/article/bronze-age-greek-rings-iron-meteorites",
-      "source": "Sciencenews",
-      "sort_key": "2026-08-07T21:30:00+05:30",
-      "time": "07 Aug, 09:30 PM",
-      "type": "news",
-      "description": "Chemical analysis of Bronze Age iron objects indicate that Greek nobles may have indulged in signet rings made with precious metal from the sky."
-    },
-    {
-      "title": "One of the Thinnest Transistor Interfaces Yet Could Reshape Future Chips",
-      "link": "https://scitechdaily.com/one-of-the-thinnest-transistor-interfaces-yet-could-reshape-future-chips/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-07T20:36:25+05:30",
-      "time": "07 Aug, 08:36 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/one-of-the-thinnest-transistor-interfaces-yet-could-reshape-future-chips/\" rel=\"nofollow\" title=\"One of the Thinnest..."
-    },
-    {
-      "title": "Scientists Find Two New Ways To Break Down \u201cForever Chemicals\u201d in Water",
-      "link": "https://scitechdaily.com/scientists-find-two-new-ways-to-break-down-forever-chemicals-in-water/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-07T20:01:51+05:30",
-      "time": "07 Aug, 08:01 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-find-two-new-ways-to-break-down-forever-chemicals-in-water/\" rel=\"nofollow\" title=\"Scientists Find Two Ne..."
-    },
-    {
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-07T19:50:00+05:30",
-      "time": "07 Aug, 07:50 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-07T19:30:00+05:30",
-      "time": "07 Aug, 07:30 PM",
-      "type": "news",
-      "description": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees o..."
-    },
-    {
-      "title": "AI may respond differently to bosses and subordinates",
-      "link": "https://www.sciencenews.org/article/ai-bosses-subordinate-response-safety",
-      "source": "Sciencenews",
-      "sort_key": "2026-08-07T19:30:00+05:30",
-      "time": "07 Aug, 07:30 PM",
-      "type": "news",
-      "description": "In simulated conversations, social hierarchy can sway AI agents, making lower-status systems more likely to follow harmful requests."
-    },
-    {
-      "title": "Nuclear Reactors Keep Emitting a Hidden Signal Long After They Shut Down",
-      "link": "https://scitechdaily.com/nuclear-reactors-keep-emitting-a-hidden-signal-long-after-they-shut-down/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-07T19:26:31+05:30",
-      "time": "07 Aug, 07:26 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/nuclear-reactors-keep-emitting-a-hidden-signal-long-after-they-shut-down/\" rel=\"nofollow\" title=\"Nuclear Reactors Ke..."
-    },
-    {
-      "title": "'Chameleon' chip adapts to changing data speeds, cutting prediction errors by up to 40-fold",
-      "link": "https://techxplore.com/news/2026-08-chameleon-chip-errors.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-07T18:50:04+05:30",
-      "time": "07 Aug, 06:50 PM",
-      "type": "news",
-      "description": "AI semiconductors are becoming more programmable. KAIST researchers have developed a device whose response characteristics can be programmed to proces..."
-    },
-    {
-      "title": "Cars Communicating Badly Is an Already-Solved Problem",
-      "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-08-07T18:30:01+05:30",
-      "time": "07 Aug, 06:30 PM",
-      "type": "news",
-      "description": "<p>5G-inspired V2X tech lets vehicles share sensors on the open road</p>"
-    },
-    {
-      "title": "Not all clean power cuts emissions equally: Timing and location determine impact",
-      "link": "https://techxplore.com/news/2026-08-power-emissions-equally-impact.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-07T18:30:01+05:30",
-      "time": "07 Aug, 06:30 PM",
-      "type": "news",
-      "description": "On paper, a megawatt-hour is just a megawatt-hour; it will charge your phone or run your dishwasher the same way, regardless of the source. However, i..."
     }
   ],
   "tweets": [
@@ -790,50 +646,10 @@
       "type": "tweets",
       "content": "<p>Public URL-scan feeds exposed 4,000+ sensitive-access links across 2 million scanned URLs, and the published links were later accessed by third parties. <a href=\"https://techxplore.com/news/2026-08-factor-privacy-url-scanning.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-factor-privacy-url-scanning.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2085850146919821312%2FUyqTaEUN%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>When security becomes a risk factor\u2014privacy risks of public URL-scanning services</b>\n</a>\n<p>URL scanning services are now a common component of modern security workflows. They help detect phishing websites or malware early and warn users before they visit a URL. However, the practice of...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-factor-privacy-url-scanning.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
-    },
-    {
-      "title": "A reusable toolkit has made one numerical computing tool 3,000 times faster while improving its results, turning a custom optimization problem into a few lines of code. https://techxplore.com/news/2026-08-optimizing-software-professor-egg-downsizes.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2085910222753681773#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-08T07:35:26+05:30",
-      "time": "08 Aug, 07:35 AM",
-      "type": "tweets",
-      "content": "<p>A reusable toolkit has made one numerical computing tool 3,000 times faster while improving its results, turning a custom optimization problem into a few lines of code. <a href=\"https://techxplore.com/news/2026-08-optimizing-software-professor-egg-downsizes.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-optimizing-software-professor-egg-downsizes.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<b>Optimizing software: Computing professor&apos;s &apos;egg&apos; downsizes programs to make them more nimble</b>\n</a>\n<p>Many software tools, including compilers, optimizers and synthesizers, have a common task at their core. They must transform long, complicated programs into simplified equivalents. These scaled-down...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-optimizing-software-professor-egg-downsizes.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "A 3D-printed bottle can switch from a green check to a red alert when its cap is loose, using moving optical layers instead of internal electronics. @MIT https://techxplore.com/news/2026-08-3d-theyre-properly.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2085857362917597297#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-08T04:05:23+05:30",
-      "time": "08 Aug, 04:05 AM",
-      "type": "tweets",
-      "content": "<p>A 3D-printed bottle can switch from a green check to a red alert when its cap is loose, using moving optical layers instead of internal electronics. <a href=\"https://nitter.net/MIT\" title=\"Massachusetts Institute of Technology (MIT)\">@MIT</a> <a href=\"https://techxplore.com/news/2026-08-3d-theyre-properly.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-3d-theyre-properly.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2085064911605080064%2FQz_3f4Rn%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>These 3D-printed objects can tell you if they&apos;re being used properly</b>\n</a>\n<p>Imagine a bottle of hazardous chemicals sitting on a laboratory shelf that changes its appearance to alert scientists that its lid is not properly secured, potentially preventing a dangerous spill.</p>\n<small><a href=\"https://techxplore.com/news/2026-08-3d-theyre-properly.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "From months or years to days, an AI agent system automated atom-by-atom materials simulations end to end and produced results remarkably close to expert-run manual calculations. https://techxplore.com/news/2026-08-ai-agents-automate-atom-simulations.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2085811777418186972#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-08T01:04:14+05:30",
-      "time": "08 Aug, 01:04 AM",
-      "type": "tweets",
-      "content": "<p>From months or years to days, an AI agent system automated atom-by-atom materials simulations end to end and produced results remarkably close to expert-run manual calculations. <a href=\"https://techxplore.com/news/2026-08-ai-agents-automate-atom-simulations.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-ai-agents-automate-atom-simulations.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2085778357380411392%2F1yOvI2cr%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>AI agents automate atom-by-atom simulations to accelerate discovery of new materials</b>\n</a>\n<p>A team from the U.S. Department of Energy&apos;s (DOE) Argonne National Laboratory has successfully demonstrated an artificial intelligence (AI)-driven system to automate a powerful simulation method that...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-ai-agents-automate-atom-simulations.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "Up to 40-fold lower prediction errors: a programmable memtransistor adapts its response speed to mixed fast- and slow-changing data, unlike fixed-response chips. @NatureComms https://techxplore.com/news/2026-08-chameleon-chip-errors.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2085750880612069704#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-07T21:02:15+05:30",
-      "time": "07 Aug, 09:02 PM",
-      "type": "tweets",
-      "content": "<p>Up to 40-fold lower prediction errors: a programmable memtransistor adapts its response speed to mixed fast- and slow-changing data, unlike fixed-response chips. <a href=\"https://nitter.net/NatureComms\" title=\"Nature Communications\">@NatureComms</a> <a href=\"https://techxplore.com/news/2026-08-chameleon-chip-errors.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-chameleon-chip-errors.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2085718598899871745%2Fr7etxM3w%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>&apos;Chameleon&apos; chip adapts to changing data speeds, cutting prediction errors by up to 40-fold</b>\n</a>\n<p>AI semiconductors are becoming more programmable. KAIST researchers have developed a device whose response characteristics can be programmed to process data that changes at different speeds. The...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-chameleon-chip-errors.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "06:14 PM IST"
+    "last_updated": "09:14 AM IST"
   }
 }

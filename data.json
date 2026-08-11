@@ -1,6 +1,186 @@
 {
   "news": [
     {
+      "title": "Want a happier marriage? Study suggests one simple habit",
+      "link": "https://phys.org/news/2026-08-happier-marriage-simple-habit.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T18:10:02+05:30",
+      "time": "11 Aug, 06:10 PM",
+      "type": "news",
+      "description": "Research has long shown that exercise benefits both physical and mental health. Now, a new study from researchers at BYU suggests that it may also str..."
+    },
+    {
+      "title": "Australia's plastic exports may deepen health risks in Indonesian communities",
+      "link": "https://phys.org/news/2026-08-australia-plastic-exports-deepen-health.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T17:50:01+05:30",
+      "time": "11 Aug, 05:50 PM",
+      "type": "news",
+      "description": "A new commentary in BMJ Global Health, co-authored by the George Institute, reveals that Australia exported 22,333 metric tons of plastic waste to Ind..."
+    },
+    {
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-11T17:40:00+05:30",
+      "time": "11 Aug, 05:40 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "How barramundi research gives breeders more control",
+      "link": "https://phys.org/news/2026-08-barramundi-breeders.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T17:30:05+05:30",
+      "time": "11 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Barramundi farmers will soon be able to improve stock genetics by placing more emphasis on the sex of their breeding fish. University of Queensland Ph..."
+    },
+    {
+      "title": "Historical DNA reveals largetooth sawfish have lost much of their genetic diversity",
+      "link": "https://phys.org/news/2026-08-historical-dna-reveals-largetooth-sawfish.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T17:30:04+05:30",
+      "time": "11 Aug, 05:30 PM",
+      "type": "news",
+      "description": "The genetic diversity of the largetooth sawfish (Pristis pristis), a critically endangered ray, has plummeted over the past century and a half, accord..."
+    },
+    {
+      "title": "Should people marry AI agents?",
+      "link": "https://techxplore.com/news/2026-08-people-ai-agents.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-11T17:30:02+05:30",
+      "time": "11 Aug, 05:30 PM",
+      "type": "news",
+      "description": "The widespread use of conversational platforms such as ChatGPT and Gemini is raising important new ethical, anthropological and legal questions regard..."
+    },
+    {
+      "title": "Large-scale study finds no link between crime and unauthorized immigration",
+      "link": "https://phys.org/news/2026-08-large-scale-link-crime-unauthorized.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T17:10:01+05:30",
+      "time": "11 Aug, 05:10 PM",
+      "type": "news",
+      "description": "For more than two decades, Charis E. Kubrin has followed the data wherever it leads. As UC Irvine Chancellor's Professor of Criminology, Law and Socie..."
+    },
+    {
+      "title": "Never-Before-Seen Vortices Are Swirling Across the Sun",
+      "link": "https://scitechdaily.com/never-before-seen-vortices-are-swirling-across-the-sun/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-11T17:08:30+05:30",
+      "time": "11 Aug, 05:08 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/never-before-seen-vortices-are-swirling-across-the-sun/\" rel=\"nofollow\" title=\"Never-Before-Seen Vortices Are Swirli..."
+    },
+    {
+      "title": "In Oregon, voters' passage of gun control measure led to more firearms in the state",
+      "link": "https://phys.org/news/2026-08-oregon-voters-passage-gun-firearms.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T16:50:03+05:30",
+      "time": "11 Aug, 04:50 PM",
+      "type": "news",
+      "description": "Oregon voters' narrow 2022 approval of a referendum designed to limit gun purchases has instead resulted in thousands more firearms in the state than ..."
+    },
+    {
+      "title": "Something May Be Flowing Beneath Pluto\u2019s Giant Heart-Shaped Glacier",
+      "link": "https://scitechdaily.com/something-may-be-flowing-beneath-plutos-giant-heart-shaped-glacier/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-11T16:33:28+05:30",
+      "time": "11 Aug, 04:33 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/something-may-be-flowing-beneath-plutos-giant-heart-shaped-glacier/\" rel=\"nofollow\" title=\"Something May Be Flowing ..."
+    },
+    {
+      "title": "Driver who broke the sound barrier attempts another land speed record in Utah",
+      "link": "https://techxplore.com/news/2026-08-driver-broke-barrier-utah.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-11T16:30:06+05:30",
+      "time": "11 Aug, 04:30 PM",
+      "type": "news",
+      "description": "The first \u2014 and only \u2014 person to break the sound barrier in a car hits the track in Utah this week with new wheels and his eye on another record."
+    },
+    {
+      "title": "First evidence of Neanderthal bone tool use in Romania discovered",
+      "link": "https://phys.org/news/2026-08-evidence-neanderthal-bone-tool-romania.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T16:30:04+05:30",
+      "time": "11 Aug, 04:30 PM",
+      "type": "news",
+      "description": "Deep in the V\u00e2rghi\u0219 Gorges, tucked away in the dark recesses of a cave, researchers have found the first evidence that Neanderthals used bone tools in..."
+    },
+    {
+      "title": "Fighting pathogens by watching how they read their own DNA: Q&A with structural biologist",
+      "link": "https://phys.org/news/2026-08-pathogens-dna-qa-biologist.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T16:30:03+05:30",
+      "time": "11 Aug, 04:30 PM",
+      "type": "news",
+      "description": "Every living cell, from the simplest bacterium to a human neuron, relies on the same basic machinery to read, interpret, and use its DNA. This molecul..."
+    },
+    {
+      "title": "Don\u2019t Miss: Europe Is About To Go Dark in a Spectacular Total Solar Eclipse",
+      "link": "https://scitechdaily.com/dont-miss-europe-is-about-to-go-dark-in-a-spectacular-total-solar-eclipse/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-11T15:58:09+05:30",
+      "time": "11 Aug, 03:58 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/dont-miss-europe-is-about-to-go-dark-in-a-spectacular-total-solar-eclipse/\" rel=\"nofollow\" title=\"Don\u2019t Miss: Europe..."
+    },
+    {
+      "title": "Who are the secret gardeners of a parasitic plant?",
+      "link": "https://phys.org/news/2026-08-secret-gardeners-parasitic.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T15:30:01+05:30",
+      "time": "11 Aug, 03:30 PM",
+      "type": "news",
+      "description": "In the coastal forests of a tropical Japanese island near Okinawa grows an inconspicuous plant that is easy to mistake for a mushroom. It is a non-gre..."
+    },
+    {
+      "title": "Ancient Colombians built huge water system without centralized rule, archaeologists say",
+      "link": "https://phys.org/news/2026-08-ancient-colombians-built-huge-centralized.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T14:30:05+05:30",
+      "time": "11 Aug, 02:30 PM",
+      "type": "news",
+      "description": "Communities living in Colombia thousands of years ago achieved an engineering wonder of the world based on cooperation among family groups without top..."
+    },
+    {
+      "title": "New optical method reveals internal dynamics of elusive Wigner crystals",
+      "link": "https://phys.org/news/2026-08-optical-method-reveals-internal-dynamics.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T14:30:03+05:30",
+      "time": "11 Aug, 02:30 PM",
+      "type": "news",
+      "description": "Researchers at the University of Basel and the Technical University of Munich have developed a new method to reveal the collective motion of electrons..."
+    },
+    {
+      "title": "Jackie, the California bald eagle who became an internet sensation, dies after illness",
+      "link": "https://phys.org/news/2026-08-jackie-california-bald-eagle-internet.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T12:40:02+05:30",
+      "time": "11 Aug, 12:40 PM",
+      "type": "news",
+      "description": "Jackie, the bald eagle who became an internet sensation and a symbol of the species' recovery in California, died Monday after being treated for an il..."
+    },
+    {
+      "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+      "link": "https://phys.org/news/2026-08-magnitude-quake-western-colombia-people.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T12:06:14+05:30",
+      "time": "11 Aug, 12:06 PM",
+      "type": "news",
+      "description": "A powerful 7.4 magnitude earthquake struck western Colombia on Monday, killing at least 111 people, damaging hundreds of buildings and leaving many tr..."
+    },
+    {
+      "title": "Weather prediction hits a theoretical 129-day ceiling",
+      "link": "https://phys.org/news/2026-08-weather-theoretical-day-ceiling.html",
+      "source": "Phys",
+      "sort_key": "2026-08-11T12:02:13+05:30",
+      "time": "11 Aug, 12:02 PM",
+      "type": "news",
+      "description": "Prediction is the goal and test of all science, one might argue. Meteorologists have been curious about the inherent limits of weather forecasting eve..."
+    },
+    {
       "title": "Ancient Maltese seafarers likely navigated by the stars",
       "link": "https://phys.org/news/2026-08-ancient-maltese-seafarers-stars.html",
       "source": "Phys",
@@ -181,51 +361,6 @@
       "description": "Common carp are among the world's most widely farmed freshwater fish, providing food and livelihoods for millions of people. But across fish farms and..."
     },
     {
-      "title": "Photosynthetic microorganisms achieve long-lasting and renewable chemical production",
-      "link": "https://phys.org/news/2026-08-photosynthetic-microorganisms-renewable-chemical-production.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T03:10:01+05:30",
-      "time": "11 Aug, 03:10 AM",
-      "type": "news",
-      "description": "Photosynthetic microorganisms can use light energy to convert carbon dioxide into useful compounds under mild, environmentally compatible conditions. ..."
-    },
-    {
-      "title": "Uncovering how Cryptococcus shifts from silent infection to killer fungus",
-      "link": "https://phys.org/news/2026-08-uncovering-cryptococcus-shifts-silent-infection.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T03:00:01+05:30",
-      "time": "11 Aug, 03:00 AM",
-      "type": "news",
-      "description": "For most healthy people, Cryptococcus is an unnoticed infection. The immune system walls it off in the lungs and keeps it dormant for life. But in pat..."
-    },
-    {
-      "title": "Rocket debris crashed into the moon\u2014why this could threaten future lunar bases",
-      "link": "https://phys.org/news/2026-08-rocket-debris-moon-threaten-future.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T02:50:09+05:30",
-      "time": "11 Aug, 02:50 AM",
-      "type": "news",
-      "description": "In the early hours of Wednesday morning, Aug. 5, the upper stage of a Falcon 9 rocket crashed into the moon in an uncontrolled collision."
-    },
-    {
-      "title": "Fermentation emerges as key pathway for ammonium production beneath the Pearl River Delta",
-      "link": "https://phys.org/news/2026-08-fermentation-emerges-key-pathway-ammonium.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T02:50:01+05:30",
-      "time": "11 Aug, 02:50 AM",
-      "type": "news",
-      "description": "A study led by Professor Jimmy Jiujiu Jiao from the Department of Earth and Planetary Sciences at The University of Hong Kong (HKU) and Professor Meng..."
-    },
-    {
-      "title": "Mars could have carried liquid water more recently than we thought",
-      "link": "https://phys.org/news/2026-08-mars-liquid-thought.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T02:30:13+05:30",
-      "time": "11 Aug, 02:30 AM",
-      "type": "news",
-      "description": "For decades, astronomers have assumed that the Martian surface froze solid around 3 billion years ago and has stayed that way ever since. If this were..."
-    },
-    {
       "title": "AI model captures how humans read, paving the way to personalized text and better augmented reality",
       "link": "https://techxplore.com/news/2026-08-ai-captures-humans-paving-personalized.html",
       "source": "TechXplore",
@@ -233,24 +368,6 @@
       "time": "11 Aug, 02:30 AM",
       "type": "news",
       "description": "Researchers at Aalto University, together with international partners, have developed the most accurate model yet of how humans read. The new model us..."
-    },
-    {
-      "title": "AI is making disinformation harder to spot\u2014but we've found a new way to catch it",
-      "link": "https://phys.org/news/2026-08-ai-disinformation-harder-weve.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T02:30:01+05:30",
-      "time": "11 Aug, 02:30 AM",
-      "type": "news",
-      "description": "Do you ever see comments on social media that seem way off-topic but still manage to wrench the discussion around to divisive political debate?"
-    },
-    {
-      "title": "Quantum heat circuits learn electronics' oldest trick: Sharing a power supply",
-      "link": "https://phys.org/news/2026-08-quantum-circuits-electronics-oldest-power.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T02:10:10+05:30",
-      "time": "11 Aug, 02:10 AM",
-      "type": "news",
-      "description": "Every electronic and optoelectronic device generates heat, and today that heat is managed almost entirely from the outside. Heatsinks, fans, cold plat..."
     },
     {
       "title": "New coding technique skips needless calculations, speeding some GPU tasks nearly fourfold",
@@ -262,15 +379,6 @@
       "description": "The multiplication of matrices and higher-dimensional arrays called tensors lies at the heart of modern computing. Matrix or tensor multiplication is,..."
     },
     {
-      "title": "As charitable food aid expands, new study raises questions for food security policy",
-      "link": "https://phys.org/news/2026-08-charitable-food-aid-policy.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T02:10:03+05:30",
-      "time": "11 Aug, 02:10 AM",
-      "type": "news",
-      "description": "As food insecurity persists across high-income countries, charitable organizations and food banks are playing an increasingly important role in helpin..."
-    },
-    {
       "title": "Zuckerberg manifesto pushes an open-source approach on AI as Meta releases its latest model",
       "link": "https://techxplore.com/news/2026-08-zuckerberg-manifesto-source-approach-ai.html",
       "source": "TechXplore",
@@ -278,24 +386,6 @@
       "time": "11 Aug, 02:10 AM",
       "type": "news",
       "description": "Meta Platforms on Monday announced the release of a new artificial intelligence model that's open for other software developers to use as CEO Mark Zuc..."
-    },
-    {
-      "title": "Distant time crystals oscillate in unison, paving the way for spin networks",
-      "link": "https://phys.org/news/2026-08-distant-crystals-oscillate-unison-paving.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T01:50:09+05:30",
-      "time": "11 Aug, 01:50 AM",
-      "type": "news",
-      "description": "In January 2024, physicists at TU Dortmund University demonstrated a continuous time crystal in a semiconductor whose oscillations remained stable for..."
-    },
-    {
-      "title": "When meat doesn't matter: Female Guinea baboons do not prefer males who are better at acquiring or sharing meat",
-      "link": "https://phys.org/news/2026-08-meat-doesnt-female-guinea-baboons.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T01:50:04+05:30",
-      "time": "11 Aug, 01:50 AM",
-      "type": "news",
-      "description": "Meat is a rare and highly prized resource for wild Guinea baboons (Papio papio). Yet, contrary to long-standing assumptions based on human hunter\u2013gath..."
     },
     {
       "title": "Carbon accounting rules can shape both hydrogen investment returns and emissions",
@@ -314,24 +404,6 @@
       "time": "11 Aug, 01:50 AM",
       "type": "news",
       "description": "The ability to change focus instantly is something most people take for granted. Every day, our eyes effortlessly switch between reading a book, recog..."
-    },
-    {
-      "title": "Record July heat in regions home to 900 million people",
-      "link": "https://phys.org/news/2026-08-july-regions-home-million-people.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T01:30:10+05:30",
-      "time": "11 Aug, 01:30 AM",
-      "type": "news",
-      "description": "Regions home to around 900 million people experienced their hottest July on record in 2026, including in the Sahel, Central America, France and Spain,..."
-    },
-    {
-      "title": "The impact of recent super El Ni\u00f1os on sea level rise",
-      "link": "https://phys.org/news/2026-08-impact-super-el-nios-sea.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T01:30:08+05:30",
-      "time": "11 Aug, 01:30 AM",
-      "type": "news",
-      "description": "El Ni\u00f1os and La Ni\u00f1as are the third-most dominant influences on Earth's climate, after the sun and the greenhouse effect. But they haven't been easy t..."
     },
     {
       "title": "The economic realities of fusion power\u2014a framework for understanding what it would take to be profitable",
@@ -359,24 +431,6 @@
       "time": "11 Aug, 01:30 AM",
       "type": "news",
       "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I..."
-    },
-    {
-      "title": "Climate change could mean four extra hours of extreme heat on hot days",
-      "link": "https://phys.org/news/2026-08-climate-extra-hours-extreme-hot.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T01:10:05+05:30",
-      "time": "11 Aug, 01:10 AM",
-      "type": "news",
-      "description": "Hot days could gain more than four additional hours of extreme heat by the end of the 21st century under a high-emissions scenario, according to a mod..."
-    },
-    {
-      "title": "Europe braces for another summer heat wave",
-      "link": "https://phys.org/news/2026-08-europe-braces-summer.html",
-      "source": "Phys",
-      "sort_key": "2026-08-11T01:10:04+05:30",
-      "time": "11 Aug, 01:10 AM",
-      "type": "news",
-      "description": "Much of Europe is bracing for another scorching heat wave following periods of record drought that have driven rivers to historic lows, ignited histor..."
     },
     {
       "title": "Schizophrenia\u2019s Brain Damage May Start in One Key Region",
@@ -746,60 +800,6 @@
       "time": "09 Aug, 08:22 PM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/this-simple-daily-habit-may-ease-pain-and-depression/\" rel=\"nofollow\" title=\"This Simple Daily Habit May Ease Pain a..."
-    },
-    {
-      "title": "New Research Questions a Textbook Theory of How Insect Societies Evolve",
-      "link": "https://scitechdaily.com/new-research-questions-a-textbook-theory-of-how-insect-societies-evolve/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-09T17:27:29+05:30",
-      "time": "09 Aug, 05:27 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/new-research-questions-a-textbook-theory-of-how-insect-societies-evolve/\" rel=\"nofollow\" title=\"New Research Questio..."
-    },
-    {
-      "title": "A new attack slips past the latest defenses built into your computer's processor",
-      "link": "https://techxplore.com/news/2026-08-latest-defenses-built-processor.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-09T17:10:02+05:30",
-      "time": "09 Aug, 05:10 PM",
-      "type": "news",
-      "description": "Chipmakers and operating system developers have spent years building defenses. A new study from MIT's Computer Science and Artificial Intelligence Lab..."
-    },
-    {
-      "title": "Only Three Are Known To Exist: China\u2019s Mysterious Eyeless Cave Snail",
-      "link": "https://scitechdaily.com/only-three-are-known-to-exist-chinas-mysterious-eyeless-cave-snail/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-09T16:52:34+05:30",
-      "time": "09 Aug, 04:52 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/only-three-are-known-to-exist-chinas-mysterious-eyeless-cave-snail/\" rel=\"nofollow\" title=\"Only Three Are Known To E..."
-    },
-    {
-      "title": "Chemists set electrons free and break a decades-old chemistry barrier",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-09T16:32:03+05:30",
-      "time": "09 Aug, 04:32 PM",
-      "type": "news",
-      "description": "Chemists have developed a catalyst that breaks a long-standing rule governing which molecules receive electrons during chemical reactions. By releasin..."
-    },
-    {
-      "title": "\u201cI Couldn\u2019t Do It Anymore\u201d \u2013 Antarctic Guides Quit Their Dream Jobs After Witnessing Tourism\u2019s Damage",
-      "link": "https://scitechdaily.com/i-couldnt-do-it-anymore-antarctic-guides-quit-their-dream-jobs-after-witnessing-tourisms-damage/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-09T16:17:28+05:30",
-      "time": "09 Aug, 04:17 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/i-couldnt-do-it-anymore-antarctic-guides-quit-their-dream-jobs-after-witnessing-tourisms-damage/\" rel=\"nofollow\" tit..."
-    },
-    {
-      "title": "A 0.42-nanometer breakthrough could push transistors beyond silicon",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-09T11:35:43+05:30",
-      "time": "09 Aug, 11:35 AM",
-      "type": "news",
-      "description": "Atomically thin semiconductors could enable dramatically smaller and more efficient chips, but a stubborn problem at the boundary between materials ha..."
     }
   ],
   "tweets": [
@@ -852,20 +852,10 @@
       "type": "tweets",
       "content": "<p>A SIM card can become a direct attack path into phones, EV chargers and IoT devices: in 26 tested devices, some executed SIM-sent modem commands that could disable cellular service, expose identifiers or force weaker 2G connections <a href=\"https://techxplore.com/news/2026-08-malicious-sim-cards-hijack-smartphones.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-malicious-sim-cards-hijack-smartphones.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2086801157528174594%2FEyDnJYZ9%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>How malicious SIM cards can hijack smartphones, EV chargers and connected devices</b>\n</a>\n<p>Subscriber Identity Modules (SIMs), secure elements used to connect devices to a mobile network, can pose severe security risks when compromised. A malicious SIM could allow attackers to gather...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-malicious-sim-cards-hijack-smartphones.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
-    },
-    {
-      "title": "26.31% certified efficiency puts this TOPCon solar cell among the highest reported, using a paste-and-laser metallization approach that also delivered a record 41.98 mA/cm2 current for large-area devices. @cellpressnews https://techxplore.com/news/2026-08-laser-strategy-topcon-solar-cells.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2086431277343735841#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-09T18:05:55+05:30",
-      "time": "09 Aug, 06:05 PM",
-      "type": "tweets",
-      "content": "<p>26.31% certified efficiency puts this TOPCon solar cell among the highest reported, using a paste-and-laser metallization approach that also delivered a record 41.98 mA/cm2 current for large-area devices. <a href=\"https://nitter.net/CellPressNews\" title=\"Cell Press\">@cellpressnews</a> <a href=\"https://techxplore.com/news/2026-08-laser-strategy-topcon-solar-cells.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-laser-strategy-topcon-solar-cells.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2085381278069850112%2FTcqe3UiN%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Paste-and-laser strategy helps TOPCon solar cells reach 26.31% certified efficiency</b>\n</a>\n<p>Improving the efficiency of solar cells is key to reducing the cost of solar power. Now, scientists have developed a new synergistic metallization strategy for tunnel oxide passivated contact...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-laser-strategy-topcon-solar-cells.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

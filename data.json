@@ -1,6 +1,267 @@
 {
   "news": [
     {
+      "title": "Moonquakes could reveal buried lunar ice for future explorers",
+      "link": "https://phys.org/news/2026-08-moonquakes-reveal-lunar-ice-future.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T18:10:05+05:30",
+      "time": "12 Aug, 06:10 PM",
+      "type": "news",
+      "description": "The surface of the moon is a bleak and forbidding place that could be hiding a lot of water ice within its dusty landscape. However, most possible ice..."
+    },
+    {
+      "title": "Bumblebees can learn to associate new smells with their queen",
+      "link": "https://phys.org/news/2026-08-bumblebees-associate-queen.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T18:10:03+05:30",
+      "time": "12 Aug, 06:10 PM",
+      "type": "news",
+      "description": "Bumblebees are able to learn to associate new odors with their colony's queen, instead of being preprogrammed to recognize the queen's pheromones from..."
+    },
+    {
+      "title": "Scientists develop 'RoboDojo,' a unified platform to evaluate embodied AI",
+      "link": "https://techxplore.com/news/2026-08-scientists-robodojo-platform-embodied-ai.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-12T18:10:02+05:30",
+      "time": "12 Aug, 06:10 PM",
+      "type": "news",
+      "description": "The Multimedia Laboratory (MMLab) at The University of Hong Kong (HKU) has spearheaded the development of \"RoboDojo,\" a unified benchmarking platform ..."
+    },
+    {
+      "title": "Q&A: Flesh-eating screwworms have returned. Which new technologies could stop them?",
+      "link": "https://phys.org/news/2026-08-qa-flesh-screwworms-technologies.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T18:00:01+05:30",
+      "time": "12 Aug, 06:00 PM",
+      "type": "news",
+      "description": "They may look like any ordinary species of flies buzzing around on any given day, but the New World screwworm is quite extraordinary. Screwworm flies ..."
+    },
+    {
+      "title": "How cement plants can remove CO\u2082 from the atmosphere",
+      "link": "https://techxplore.com/news/2026-08-cement-atmosphere.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-12T17:43:37+05:30",
+      "time": "12 Aug, 05:43 PM",
+      "type": "news",
+      "description": "Cement is one of the most in-demand building materials of our time. Every year, around 4 billion tonnes are produced. Cement production is energy-inte..."
+    },
+    {
+      "title": "The way trees sway may communicate water stress",
+      "link": "https://phys.org/news/2026-08-trees-sway-communicate-stress.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T17:40:02+05:30",
+      "time": "12 Aug, 05:40 PM",
+      "type": "news",
+      "description": "The Western U.S. is experiencing periods of increasingly intense drought, and higher temperatures are exacerbating the issue by drawing even more mois..."
+    },
+    {
+      "title": "Long-sought Zhang-Rice singlet visualized directly in cuprate superconductor",
+      "link": "https://phys.org/news/2026-08-sought-zhang-rice-singlet-visualized.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T17:30:01+05:30",
+      "time": "12 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Superconductors are materials that conduct electricity with zero electrical resistance below specific temperatures. Most of these materials become sup..."
+    },
+    {
+      "title": "New wildfire research system follows ecosystems from controlled burns through long-term recovery",
+      "link": "https://phys.org/news/2026-08-wildfire-ecosystems-term-recovery.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T17:20:01+05:30",
+      "time": "12 Aug, 05:20 PM",
+      "type": "news",
+      "description": "On a perfect, crisp fall day with blue skies, scientists in yellow safety coats gather in the sprawling desert north of Reno. They watch as flames con..."
+    },
+    {
+      "title": "Wind farms need smarter, site-specific strategies to protect birds and bats, review finds",
+      "link": "https://techxplore.com/news/2026-08-farms-smarter-site-specific-strategies.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-12T17:10:01+05:30",
+      "time": "12 Aug, 05:10 PM",
+      "type": "news",
+      "description": "A major review of current mitigation strategies to prevent bird and bat collisions with wind turbines concludes that future wildlife-safe wind energy ..."
+    },
+    {
+      "title": "New Drug Candidate Helps Overcome Cancer Treatment Resistance",
+      "link": "https://scitechdaily.com/new-drug-candidate-helps-overcome-cancer-treatment-resistance/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-12T17:07:42+05:30",
+      "time": "12 Aug, 05:07 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/new-drug-candidate-helps-overcome-cancer-treatment-resistance/\" rel=\"nofollow\" title=\"New Drug Candidate Helps Overc..."
+    },
+    {
+      "title": "A transferable framework for evaluating the potential for forecast-informed reservoir operations in watersheds",
+      "link": "https://phys.org/news/2026-08-framework-potential-reservoir-watersheds.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T17:00:01+05:30",
+      "time": "12 Aug, 05:00 PM",
+      "type": "news",
+      "description": "With extreme weather increasing around the world, scientists are working to help critical infrastructure, such as water management systems, adapt. On ..."
+    },
+    {
+      "title": "Younger, wealthier households are pulling ahead on AI's benefits",
+      "link": "https://techxplore.com/news/2026-08-younger-wealthier-households-ai-benefits.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-12T16:50:04+05:30",
+      "time": "12 Aug, 04:50 PM",
+      "type": "news",
+      "description": "Who's using AI at home and how do they use it? And is it making them more efficient?"
+    },
+    {
+      "title": "Childhood Trauma May Leave a Lasting \u201cScar\u201d Inside Brain Cells",
+      "link": "https://scitechdaily.com/childhood-trauma-may-leave-a-lasting-scar-inside-brain-cells/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-12T16:31:44+05:30",
+      "time": "12 Aug, 04:31 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/childhood-trauma-may-leave-a-lasting-scar-inside-brain-cells/\" rel=\"nofollow\" title=\"Childhood Trauma May Leave a La..."
+    },
+    {
+      "title": "Experts explain why we don't need more data centers to build better AI",
+      "link": "https://techxplore.com/news/2026-08-experts-dont-centers-ai.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-12T16:30:05+05:30",
+      "time": "12 Aug, 04:30 PM",
+      "type": "news",
+      "description": "Sending data centers into space. Building them at the bottom of the ocean. Converting California fairgrounds\u2014and San Francisco's Cow Palace\u2014into massi..."
+    },
+    {
+      "title": "The perfect storm that turbocharged Venezuela's twin quakes",
+      "link": "https://phys.org/news/2026-08-storm-turbocharged-venezuela-twin-quakes.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T16:30:01+05:30",
+      "time": "12 Aug, 04:30 PM",
+      "type": "news",
+      "description": "A dangerous cocktail of tectonic positioning, loose earth and shoddy construction contributed to the unprecedented damage caused by Venezuela's twin e..."
+    },
+    {
+      "title": "Pakistani Judges Give Their Verdict on JudgeGPT",
+      "link": "https://spectrum.ieee.org/judgegpt-experiment",
+      "source": "IEEE Spectrum",
+      "sort_key": "2026-08-12T16:30:01+05:30",
+      "time": "12 Aug, 04:30 PM",
+      "type": "news",
+      "description": "<p>First large-scale trial of AI in judiciary finds 6.3% speed-up, fewer appeals </p>"
+    },
+    {
+      "title": "Popular Erectile Dysfunction Drug Linked to Vision-Threatening Eye Disease",
+      "link": "https://scitechdaily.com/popular-erectile-dysfunction-drug-linked-to-vision-threatening-eye-disease/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-12T15:55:39+05:30",
+      "time": "12 Aug, 03:55 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/popular-erectile-dysfunction-drug-linked-to-vision-threatening-eye-disease/\" rel=\"nofollow\" title=\"Popular Erectile ..."
+    },
+    {
+      "title": "Anthropic unveils AI watermarks to comply with EU law",
+      "link": "https://techxplore.com/news/2026-08-anthropic-unveils-ai-watermarks-comply.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-12T15:20:01+05:30",
+      "time": "12 Aug, 03:20 PM",
+      "type": "news",
+      "description": "The American AI company Anthropic announced it will add an invisible watermark to text produced by its Claude chatbot to comply with European Union re..."
+    },
+    {
+      "title": "Google's Gemini AI assistant reaches one billion users",
+      "link": "https://techxplore.com/news/2026-08-google-gemini-ai-billion-users.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-12T15:00:02+05:30",
+      "time": "12 Aug, 03:00 PM",
+      "type": "news",
+      "description": "Google's artificial intelligence assistant Gemini has surpassed 1 billion monthly users, CEO Sundar Pichai announced Tuesday, a week after a major reo..."
+    },
+    {
+      "title": "How we picked 35 of the world\u2019s top young scientists and engineers",
+      "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-12T14:38:40+05:30",
+      "time": "12 Aug, 02:38 PM",
+      "type": "news",
+      "description": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world ..."
+    },
+    {
+      "title": "How to design a space habitat that supports its residents' mental health",
+      "link": "https://phys.org/news/2026-08-space-habitat-residents-mental-health.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T14:30:04+05:30",
+      "time": "12 Aug, 02:30 PM",
+      "type": "news",
+      "description": "In extreme environments, habitats are built for survival. Submarines, Antarctic bases and post-disaster dwellings are designed to prioritize health an..."
+    },
+    {
+      "title": "Newborn screening for cancer risk could save lives. Should it be done?",
+      "link": "https://www.sciencenews.org/article/newborn-screening-cancer-risk-mutations",
+      "source": "Sciencenews",
+      "sort_key": "2026-08-12T14:30:00+05:30",
+      "time": "12 Aug, 02:30 PM",
+      "type": "news",
+      "description": "Genetic screening that identifies cancer-linked mutations in newborns could give doctors a head start on treatment, but it comes with risks."
+    },
+    {
+      "title": "Total solar eclipse to spellbind Europe",
+      "link": "https://phys.org/news/2026-08-total-solar-eclipse-spellbind-europe.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T14:10:01+05:30",
+      "time": "12 Aug, 02:10 PM",
+      "type": "news",
+      "description": "Millions of Europeans will contemplate the sky in awe on Wednesday as a rare total solar eclipse crosses part of the continent and plunges a swath of ..."
+    },
+    {
+      "title": "UK 'on course' to record warmest summer for second year in a row",
+      "link": "https://phys.org/news/2026-08-uk-warmest-summer-year-row.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T13:50:01+05:30",
+      "time": "12 Aug, 01:50 PM",
+      "type": "news",
+      "description": "Britain is \"on course\" to chalk up its warmest summer on record for the second year running, the UK's Met Office weather agency said Tuesday as the co..."
+    },
+    {
+      "title": "How Britain's mapmakers track climate change",
+      "link": "https://phys.org/news/2026-08-britain-mapmakers-track-climate.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T13:40:01+05:30",
+      "time": "12 Aug, 01:40 PM",
+      "type": "news",
+      "description": "Once used to defend Britain's shores against Napoleonic France, the Ordnance Survey's detailed maps are now essential for tracking and adapting to cli..."
+    },
+    {
+      "title": "Elvish, Klingon and Pig Latin: What can invented languages teach us about the human brain?",
+      "link": "https://phys.org/news/2026-08-elvish-klingon-pig-latin-languages.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T13:10:01+05:30",
+      "time": "12 Aug, 01:10 PM",
+      "type": "news",
+      "description": "Invented languages tend to be the stuff of fantasy or science fiction worlds. But as a child, you may have made one up yourself."
+    },
+    {
+      "title": "Spotify to launch badge identifying AI music",
+      "link": "https://techxplore.com/news/2026-08-spotify-badge-ai-music.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-12T13:09:46+05:30",
+      "time": "12 Aug, 01:09 PM",
+      "type": "news",
+      "description": "Streaming giant Spotify said Tuesday it would launch a new \"AI Persona\" badge in mid-September, clearly identifying content producers that are AI-gene..."
+    },
+    {
+      "title": "Meta meets its own 'tobacco' moment in court",
+      "link": "https://techxplore.com/news/2026-08-meta-tobacco-moment-court.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-12T13:08:46+05:30",
+      "time": "12 Aug, 01:08 PM",
+      "type": "news",
+      "description": "With billions of users around the world, Meta will defend itself against allegations of harming children in a new trial in the United States this week..."
+    },
+    {
+      "title": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver",
+      "link": "https://phys.org/news/2026-08-solar-eclipse-north-america-sliver.html",
+      "source": "Phys",
+      "sort_key": "2026-08-12T13:07:15+05:30",
+      "time": "12 Aug, 01:07 PM",
+      "type": "news",
+      "description": "Sorry, North America. After winning the cosmic lottery with a pair of coast-to-coast total solar eclipses, now it's Europe's turn."
+    },
+    {
       "title": "Today's Mediterranean diet leans on olive oil, veggies and fish\u2014But the ancients mainly ate bread",
       "link": "https://phys.org/news/2026-08-today-mediterranean-diet-olive-oil.html",
       "source": "Phys",
@@ -172,132 +433,6 @@
       "description": "Capturing carbon or storing hydrogen to combat global warming requires compressing gases into sponge-like porous materials. Until now, gas molecules w..."
     },
     {
-      "title": "Sorting potatoes with AI",
-      "link": "https://phys.org/news/2026-08-potatoes-ai.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T03:30:07+05:30",
-      "time": "12 Aug, 03:30 AM",
-      "type": "news",
-      "description": "Karevo's AI-powered optical recognition system can sort up to 10 tons of potatoes per hour with 95% accuracy. The founder's journey took him from a po..."
-    },
-    {
-      "title": "Late Paleozoic Ice Age warming event hints at potential climate 'tipping point'",
-      "link": "https://phys.org/news/2026-08-late-paleozoic-ice-age-event.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T03:30:01+05:30",
-      "time": "12 Aug, 03:30 AM",
-      "type": "news",
-      "description": "Researchers say a spike in temperatures during an ice age 304 million years ago could inform what climate scientists are learning about rapidly changi..."
-    },
-    {
-      "title": "X-ray analysis reveals the inner life of leaves while advancing engineering efforts to reduce 'crop sweat'",
-      "link": "https://phys.org/news/2026-08-ray-analysis-reveals-life-advancing.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T03:20:01+05:30",
-      "time": "12 Aug, 03:20 AM",
-      "type": "news",
-      "description": "In the Midwestern summer, humans and plants have to breathe through the heat and humidity. Researchers hope that a retooled crop plant\u2014one with an imp..."
-    },
-    {
-      "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
-      "link": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T03:10:04+05:30",
-      "time": "12 Aug, 03:10 AM",
-      "type": "news",
-      "description": "A University of Kansas physicist played a leading role in a CERN study showing that two rival explanations for how gluons behave inside atomic nuclei ..."
-    },
-    {
-      "title": "As New World screwworm returns to the US, a new dashboard tracks the risk",
-      "link": "https://phys.org/news/2026-08-world-screwworm-dashboard-tracks.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T03:10:01+05:30",
-      "time": "12 Aug, 03:10 AM",
-      "type": "news",
-      "description": "In the 1950s, the New World screwworm cost U.S. livestock producers tens of millions of dollars a year, reaching $50 million to $100 million annually ..."
-    },
-    {
-      "title": "Himalayan grain demonstrates the potential of pangenome-guided breeding for higher yields and adaptability",
-      "link": "https://phys.org/news/2026-08-himalayan-grain-potential-pangenome-higher.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T03:00:01+05:30",
-      "time": "12 Aug, 03:00 AM",
-      "type": "news",
-      "description": "Scientists from the Centre for Crop and Food Innovation (CCFI) at Murdoch University have participated in a landmark proof-of-concept research project..."
-    },
-    {
-      "title": "Reading daily ocean temperatures from red algae",
-      "link": "https://phys.org/news/2026-08-daily-ocean-temperatures-red-algae.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T02:50:04+05:30",
-      "time": "12 Aug, 02:50 AM",
-      "type": "news",
-      "description": "Understanding how marine ecosystems respond to a warming ocean requires detailed records of past temperatures. An international research team led by J..."
-    },
-    {
-      "title": "Marine heat waves pose hidden threat to human health, researchers warn",
-      "link": "https://phys.org/news/2026-08-marine-pose-hidden-threat-human.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T02:50:03+05:30",
-      "time": "12 Aug, 02:50 AM",
-      "type": "news",
-      "description": "The devastating impacts of marine heat waves extend far beyond dying coral reefs and declining fisheries, with new research warning that these extreme..."
-    },
-    {
-      "title": "Malaysian farmers, environmental groups call for rejection of GMO rice trial",
-      "link": "https://phys.org/news/2026-08-malaysian-farmers-environmental-groups-gmo.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T02:30:08+05:30",
-      "time": "12 Aug, 02:30 AM",
-      "type": "news",
-      "description": "A coalition of farmers, consumer associations and environmental groups is urging Malaysia's National Biosafety Board to reject a proposed field trial ..."
-    },
-    {
-      "title": "Fungal chitin offers new route to tougher hydrogels for medical devices and soft robots",
-      "link": "https://phys.org/news/2026-08-fungal-chitin-route-tougher-hydrogels.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T02:30:05+05:30",
-      "time": "12 Aug, 02:30 AM",
-      "type": "news",
-      "description": "Researchers at the Department of Energy's (DOE) Oak Ridge National Laboratory (ORNL) and the University of Tennessee (UT), Knoxville, have made an adv..."
-    },
-    {
-      "title": "Consistency-based rewards could build lasting cooperation better than punishing free-riders",
-      "link": "https://phys.org/news/2026-08-based-rewards-cooperation-free-riders.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T02:30:03+05:30",
-      "time": "12 Aug, 02:30 AM",
-      "type": "news",
-      "description": "A vaccine only protects a whole community if enough people get it, including those who would stay safe anyway once their neighbors are covered. The sa..."
-    },
-    {
-      "title": "Three energy-loss routes may explain Tarantula Nebula's X-ray shortfall",
-      "link": "https://phys.org/news/2026-08-energy-loss-routes-tarantula-nebula.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T02:20:01+05:30",
-      "time": "12 Aug, 02:20 AM",
-      "type": "news",
-      "description": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA's space..."
-    },
-    {
-      "title": "Researchers create early warning system to monitor housing evictions",
-      "link": "https://phys.org/news/2026-08-early-housing-evictions.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T02:10:02+05:30",
-      "time": "12 Aug, 02:10 AM",
-      "type": "news",
-      "description": "Human service organizations play an important role in connecting people to housing, health care, food access and other essential services. Yet forecas..."
-    },
-    {
-      "title": "Perceived naturalness emerges as key driver of public support for climate technology",
-      "link": "https://phys.org/news/2026-08-naturalness-emerges-key-driver-climate.html",
-      "source": "Phys",
-      "sort_key": "2026-08-12T02:10:01+05:30",
-      "time": "12 Aug, 02:10 AM",
-      "type": "news",
-      "description": "From nuclear energy to lab-grown meat, the list of effective but unpopular climate solutions is long. A new University of Colorado Boulder study sheds..."
-    },
-    {
       "title": "Scientists Find a Smarter Way To Turn Used Coffee Grounds Into Clean Fuel",
       "link": "https://scitechdaily.com/scientists-find-a-smarter-way-to-turn-used-coffee-grounds-into-clean-fuel/",
       "source": "ScitechDaily",
@@ -361,7 +496,7 @@
       "description": "The electric grid has never mattered more\u2014or faced more pressure. As transportation, buildings and industry electrify, ever more of modern life runs t..."
     },
     {
-      "title": "How the \u201ccensorship-industrial complex\u201d is changing the Internet and US policy",
+      "title": "How the \u201ccensorship-industrial complex\u201d is changing the internet and US policy",
       "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
       "source": "MIT Technology Review",
       "sort_key": "2026-08-11T23:28:57+05:30",
@@ -640,78 +775,6 @@
       "description": "<a href=\"https://scitechdaily.com/this-common-amino-acid-may-help-the-body-fight-cancer-and-viruses/\" rel=\"nofollow\" title=\"This Common Amino Acid May..."
     },
     {
-      "title": "New engineering studies aim to slow battery aging while idle",
-      "link": "https://techxplore.com/news/2026-08-aim-battery-aging-idle.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-11T03:10:05+05:30",
-      "time": "11 Aug, 03:10 AM",
-      "type": "news",
-      "description": "Most batteries spend more than 70% of their lifetime at rest. Yet few studies have examined calendar aging, which is how a battery degrades when it is..."
-    },
-    {
-      "title": "AI model captures how humans read, paving the way to personalized text and better augmented reality",
-      "link": "https://techxplore.com/news/2026-08-ai-captures-humans-paving-personalized.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-11T02:30:11+05:30",
-      "time": "11 Aug, 02:30 AM",
-      "type": "news",
-      "description": "Researchers at Aalto University, together with international partners, have developed the most accurate model yet of how humans read. The new model us..."
-    },
-    {
-      "title": "New coding technique skips needless calculations, speeding some GPU tasks nearly fourfold",
-      "link": "https://techxplore.com/news/2026-08-coding-technique-needless-gpu-tasks.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-11T02:10:05+05:30",
-      "time": "11 Aug, 02:10 AM",
-      "type": "news",
-      "description": "The multiplication of matrices and higher-dimensional arrays called tensors lies at the heart of modern computing. Matrix or tensor multiplication is,..."
-    },
-    {
-      "title": "Zuckerberg manifesto pushes an open-source approach on AI as Meta releases its latest model",
-      "link": "https://techxplore.com/news/2026-08-zuckerberg-manifesto-source-approach-ai.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-11T02:10:02+05:30",
-      "time": "11 Aug, 02:10 AM",
-      "type": "news",
-      "description": "Meta Platforms on Monday announced the release of a new artificial intelligence model that's open for other software developers to use as CEO Mark Zuc..."
-    },
-    {
-      "title": "Carbon accounting rules can shape both hydrogen investment returns and emissions",
-      "link": "https://techxplore.com/news/2026-08-carbon-accounting-hydrogen-investment-emissions.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-11T01:50:02+05:30",
-      "time": "11 Aug, 01:50 AM",
-      "type": "news",
-      "description": "A new study by University of Mannheim researchers Gunther Glenk, Philip Holler and Stefan Reichelstein examines how the assessment of carbon emissions..."
-    },
-    {
-      "title": "Graphene-powered soft lens could pave the way for smarter glasses, cameras and medical devices",
-      "link": "https://techxplore.com/news/2026-08-graphene-powered-soft-lens-pave.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-11T01:50:01+05:30",
-      "time": "11 Aug, 01:50 AM",
-      "type": "news",
-      "description": "The ability to change focus instantly is something most people take for granted. Every day, our eyes effortlessly switch between reading a book, recog..."
-    },
-    {
-      "title": "The economic realities of fusion power\u2014a framework for understanding what it would take to be profitable",
-      "link": "https://techxplore.com/news/2026-08-economic-realities-fusion-power-framework.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-11T01:30:04+05:30",
-      "time": "11 Aug, 01:30 AM",
-      "type": "news",
-      "description": "In the last decade, scientists have shown that fusion energy can work as a physical process. Next question: Can it work economically? A study co-autho..."
-    },
-    {
-      "title": "Neuromorphic AI training technique could help usher in the era of low-power AI",
-      "link": "https://techxplore.com/news/2026-08-neuromorphic-ai-technique-usher-era.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-11T01:30:01+05:30",
-      "time": "11 Aug, 01:30 AM",
-      "type": "news",
-      "description": "While asking questions to ChatGPT and similar tools to generate images has become part of daily life, behind this convenience lies the massive power c..."
-    },
-    {
       "title": "AI professors are negotiating the new realities of academic research",
       "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
       "source": "MIT Technology Review",
@@ -737,15 +800,6 @@
       "time": "11 Aug, 12:20 AM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/a-simple-treatment-could-save-extremely-premature-babies-from-blindness/\" rel=\"nofollow\" title=\"A Simple Treatment C..."
-    },
-    {
-      "title": "Computer vision team develops an efficient method for scaling pretrained AI models",
-      "link": "https://techxplore.com/news/2026-08-vision-team-efficient-method-scaling.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-11T00:10:05+05:30",
-      "time": "11 Aug, 12:10 AM",
-      "type": "news",
-      "description": "A new technology has been developed that enables pretrained AI models to be expanded into larger models with specialized expert modules without traini..."
     },
     {
       "title": "Low-Protein \u201cLongevity Diet\u201d Linked to Fat Loss, Muscle Preservation, and Healthy Aging",
@@ -818,99 +872,19 @@
       "time": "10 Aug, 06:30 PM",
       "type": "news",
       "description": "School device use links with lower test scores and distractions abound. But reversing the entrenched pandemic pivot to screens will be hard."
-    },
-    {
-      "title": "Scientists discover a hidden switch inside silver nanocatalysts",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-10T17:57:30+05:30",
-      "time": "10 Aug, 05:57 PM",
-      "type": "news",
-      "description": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making ele..."
-    },
-    {
-      "title": "The Download: AI agents for science, and the \u201ccensorship-industrial complex\u201d",
-      "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-10T17:40:00+05:30",
-      "time": "10 Aug, 05:40 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "Breast Cancer May Hijack Nerves To Grow and Resist Treatment",
-      "link": "https://scitechdaily.com/breast-cancer-may-hijack-nerves-to-grow-and-resist-treatment/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-10T17:22:53+05:30",
-      "time": "10 Aug, 05:22 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/breast-cancer-may-hijack-nerves-to-grow-and-resist-treatment/\" rel=\"nofollow\" title=\"Breast Cancer May Hijack Nerves..."
-    },
-    {
-      "title": "Any Level of Physical Activity May Slow Cognitive Decline, Study Suggests",
-      "link": "https://scitechdaily.com/any-level-of-physical-activity-may-slow-cognitive-decline-study-suggests/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-10T16:47:11+05:30",
-      "time": "10 Aug, 04:47 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/any-level-of-physical-activity-may-slow-cognitive-decline-study-suggests/\" rel=\"nofollow\" title=\"Any Level of Physic..."
-    },
-    {
-      "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-10T16:25:53+05:30",
-      "time": "10 Aug, 04:25 PM",
-      "type": "news",
-      "description": "A total solar eclipse will plunge parts of Europe into darkness on August 12, 2026, with Spain offering some of the best views. ESA will livestream th..."
-    },
-    {
-      "title": "A Blood Test Years Before Cancer May Reveal a Hidden Warning Sign",
-      "link": "https://scitechdaily.com/a-blood-test-years-before-cancer-may-reveal-a-hidden-warning-sign/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-10T16:12:34+05:30",
-      "time": "10 Aug, 04:12 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/a-blood-test-years-before-cancer-may-reveal-a-hidden-warning-sign/\" rel=\"nofollow\" title=\"A Blood Test Years Before ..."
-    },
-    {
-      "title": "Voyager 2 was running out of power. NASA just bought it more time",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015703.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-10T15:15:23+05:30",
-      "time": "10 Aug, 03:15 PM",
-      "type": "news",
-      "description": "NASA engineers have found a clever way to squeeze more life out of Voyager 2, nearly half a century after it left Earth. In an operation nicknamed the..."
-    },
-    {
-      "title": "AI for science needs reasoning, not just data",
-      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-10T14:30:00+05:30",
-      "time": "10 Aug, 02:30 PM",
-      "type": "news",
-      "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the \u201cfacts of physic..."
-    },
-    {
-      "title": "These startups are chasing the next big thing in LLMs",
-      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-10T14:30:00+05:30",
-      "time": "10 Aug, 02:30 PM",
-      "type": "news",
-      "description": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ..."
-    },
-    {
-      "title": "Cassini reveals a surprising twist in Saturn\u2019s magnetic shield",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035153.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-10T11:26:34+05:30",
-      "time": "10 Aug, 11:26 AM",
-      "type": "news",
-      "description": "Cassini data has revealed a surprising twist in Saturn\u2019s magnetic shield: the planet\u2019s rapid rotation appears to drag a key opening in its magnetosphe..."
     }
   ],
   "tweets": [
+    {
+      "title": "More than a third of a zinc battery\u2019s capacity can vanish in a day at rest, but an ultra-dilute electrolyte cut that idle loss to under 1.5% while the corrosion driver came from an unexpected place. @NatureComms @Joule_CP https://techxplore.com/news/2026-08-aim-battery-aging-idle.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2087517932691546522#m",
+      "source": "TechXplore",
+      "sort_key": "2026-08-12T18:03:54+05:30",
+      "time": "12 Aug, 06:03 PM",
+      "type": "tweets",
+      "content": "<p>More than a third of a zinc battery\u2019s capacity can vanish in a day at rest, but an ultra-dilute electrolyte cut that idle loss to under 1.5% while the corrosion driver came from an unexpected place. <a href=\"https://nitter.net/NatureComms\" title=\"Nature Communications\">@NatureComms</a> <a href=\"https://nitter.net/Joule_CP\" title=\"Joule\">@Joule_CP</a> <a href=\"https://techxplore.com/news/2026-08-aim-battery-aging-idle.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-aim-battery-aging-idle.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2087081307025309696%2FmRrIVwfI%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>New engineering studies aim to slow battery aging while idle</b>\n</a>\n<p>Most batteries spend more than 70% of their lifetime at rest. Yet few studies have examined calendar aging, which is how a battery degrades when it is neither charging nor being used.</p>\n<small><a href=\"https://techxplore.com/news/2026-08-aim-battery-aging-idle.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
     {
       "title": "Three stacked holographic layers steer red, green, and blue light separately to produce bright full-color images in a transparent AR waveguide, while sidestepping complex grating alignment. @opticalsociety https://techxplore.com/news/2026-08-holographic-layers-red-green-blue.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
       "link": "https://nitter.net/TechXplore_com/status/2087374635616628936#m",
@@ -998,7 +972,7 @@
       "sort_key": "2026-08-11T01:35:46+05:30",
       "time": "11 Aug, 01:35 AM",
       "type": "tweets",
-      "content": "<p>0.7 volts from concentration batteries\u2014more than 10 times the assumed limit\u2014shows how engineering ion surroundings can expand electrolyte design without changing electrode materials. <a href=\"https://nitter.net/Cornell\" title=\"Cornell University\">@cornell</a> <a href=\"https://nitter.net/NatureComms\" title=\"Nature Communications\">@NatureComms</a> <a href=\"https://nitter.net/ScienceAdvances\" title=\"Science Advances\">@ScienceAdvances</a> <a href=\"https://techxplore.com/news/2026-08-ai-electrolyte-paths-batteries.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-ai-electrolyte-paths-batteries.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<b>AI and electrolyte engineering open new paths for better batteries</b>\n</a>\n<p>Cornell researchers are using artificial intelligence to speed the search for better battery materials while using a creative approach to chemistry to expand the design space for electrolytes,...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-ai-electrolyte-paths-batteries.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "content": "<p>0.7 volts from concentration batteries\u2014more than 10 times the assumed limit\u2014shows how engineering ion surroundings can expand electrolyte design without changing electrode materials. <a href=\"https://nitter.net/Cornell\" title=\"Cornell University\">@cornell</a> <a href=\"https://nitter.net/NatureComms\" title=\"Nature Communications\">@NatureComms</a> <a href=\"https://nitter.net/ScienceAdvances\" title=\"Science Advances\">@ScienceAdvances</a> <a href=\"https://techxplore.com/news/2026-08-ai-electrolyte-paths-batteries.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-ai-electrolyte-paths-batteries.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2086831084210401281%2FaJpW9ZO5%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>AI and electrolyte engineering open new paths for better batteries</b>\n</a>\n<p>Cornell researchers are using artificial intelligence to speed the search for better battery materials while using a creative approach to chemistry to expand the design space for electrolytes,...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-ai-electrolyte-paths-batteries.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
     },
     {
@@ -1034,6 +1008,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

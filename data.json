@@ -1,6 +1,150 @@
 {
   "news": [
     {
+      "title": "Pacific farmers are reviving traditional knowledge to tackle a changing climate",
+      "link": "https://phys.org/news/2026-08-pacific-farmers-reviving-traditional-knowledge.html",
+      "source": "Phys",
+      "sort_key": "2026-08-14T18:00:01+05:30",
+      "time": "14 Aug, 06:00 PM",
+      "type": "news",
+      "description": "For thousands of years, farmers in the Pacific have lived in harmony with their environment. But rising temperatures, unpredictable rainfall and tired..."
+    },
+    {
+      "title": "The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells",
+      "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-14T17:47:21+05:30",
+      "time": "14 Aug, 05:47 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "Red skies, lost solar power: Why Australia must prepare for more dust storms",
+      "link": "https://phys.org/news/2026-08-red-skies-lost-solar-power.html",
+      "source": "Phys",
+      "sort_key": "2026-08-14T17:40:01+05:30",
+      "time": "14 Aug, 05:40 PM",
+      "type": "news",
+      "description": "Imagine you wake up one morning and look out your window. You see a red sky, hear a ferocious blast of wind and watch as tree branches creak and crack..."
+    },
+    {
+      "title": "Quantum Latin squares cannot solve Euler's 36 officers problem without entanglement",
+      "link": "https://phys.org/news/2026-08-quantum-latin-squares-euler-officers.html",
+      "source": "Phys",
+      "sort_key": "2026-08-14T17:30:02+05:30",
+      "time": "14 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Latin squares are arrangements of symbols in a grid in which every symbol appears exactly once in each row and column. These symbol arrangements, whic..."
+    },
+    {
+      "title": "Can 'digital twins' help California manage its growing flood risk?",
+      "link": "https://phys.org/news/2026-08-digital-twins-california.html",
+      "source": "Phys",
+      "sort_key": "2026-08-14T17:20:02+05:30",
+      "time": "14 Aug, 05:20 PM",
+      "type": "news",
+      "description": "Approximately 1.4 million Californians live in areas at high risk of flooding each year, and climate change is only driving this number up. But flood ..."
+    },
+    {
+      "title": "New Research Challenges Common Exercise Advice for Bone Health",
+      "link": "https://scitechdaily.com/new-research-challenges-common-exercise-advice-for-bone-health/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-14T17:09:00+05:30",
+      "time": "14 Aug, 05:09 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/new-research-challenges-common-exercise-advice-for-bone-health/\" rel=\"nofollow\" title=\"New Research Challenges Commo..."
+    },
+    {
+      "title": "Scholar's work in South America helps fight Chagas disease in the U.S.",
+      "link": "https://phys.org/news/2026-08-scholar-south-america-chagas-disease.html",
+      "source": "Phys",
+      "sort_key": "2026-08-14T17:00:03+05:30",
+      "time": "14 Aug, 05:00 PM",
+      "type": "news",
+      "description": "A three-month Fulbright U.S. Scholar trip to Argentina wasn't just about bringing Texas know-how to South America for Gabriel Hamer, Ph.D., a Texas A&..."
+    },
+    {
+      "title": "Crocodiles can't fly. Birds can. Scientists have finally figured out why",
+      "link": "https://phys.org/news/2026-08-crocodiles-fly-birds-scientists-figured.html",
+      "source": "Phys",
+      "sort_key": "2026-08-14T16:40:01+05:30",
+      "time": "14 Aug, 04:40 PM",
+      "type": "news",
+      "description": "The closest living relatives of crocodiles and alligators are, perhaps surprisingly, birds. Both are archosauriforms, a group of species that originat..."
+    },
+    {
+      "title": "Cancer Cells Use a Sugar Shield To Hide From the Immune System",
+      "link": "https://scitechdaily.com/cancer-cells-use-a-sugar-shield-to-hide-from-the-immune-system/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-14T16:34:28+05:30",
+      "time": "14 Aug, 04:34 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/cancer-cells-use-a-sugar-shield-to-hide-from-the-immune-system/\" rel=\"nofollow\" title=\"Cancer Cells Use a Sugar Shie..."
+    },
+    {
+      "title": "Rings forged from meteorites may have been fashionable among ancient Greek elites",
+      "link": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
+      "source": "Phys",
+      "sort_key": "2026-08-14T16:10:01+05:30",
+      "time": "14 Aug, 04:10 PM",
+      "type": "news",
+      "description": "Meteorites provided a rare but ready source of iron for ancient Bronze Age cultures before smelting became common. A new study, published in the Journ..."
+    },
+    {
+      "title": "Avoiding These 3 Health Risks in Midlife Linked to 13 More Years Without Dementia",
+      "link": "https://scitechdaily.com/avoiding-these-3-health-risks-in-midlife-linked-to-13-more-years-without-dementia/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-14T15:59:17+05:30",
+      "time": "14 Aug, 03:59 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/avoiding-these-3-health-risks-in-midlife-linked-to-13-more-years-without-dementia/\" rel=\"nofollow\" title=\"Avoiding T..."
+    },
+    {
+      "title": "An 'influencer' degree? Colleges bet on content creator major as critics question its value",
+      "link": "https://phys.org/news/2026-08-degree-colleges-content-creator-major.html",
+      "source": "Phys",
+      "sort_key": "2026-08-14T15:10:02+05:30",
+      "time": "14 Aug, 03:10 PM",
+      "type": "news",
+      "description": "Ask a teen what they want to be when they grow up, and there's a fair chance being an influencer is on their list."
+    },
+    {
+      "title": "EU cities plan to compensate for a fifth of their emissions through carbon removal, but few have thought through how",
+      "link": "https://phys.org/news/2026-08-eu-cities-compensate-emissions-carbon.html",
+      "source": "Phys",
+      "sort_key": "2026-08-14T14:30:05+05:30",
+      "time": "14 Aug, 02:30 PM",
+      "type": "news",
+      "description": "An analysis of 103 European cities' climate-neutral plans for 2030 (including 22 capital cities) shows that municipalities are planning to rely on car..."
+    },
+    {
+      "title": "This scientist is helping build a missing map of childhood",
+      "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-14T14:30:00+05:30",
+      "time": "14 Aug, 02:30 PM",
+      "type": "news",
+      "description": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil ..."
+    },
+    {
+      "title": "Job titles of the future: Space travel agent",
+      "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-14T14:30:00+05:30",
+      "time": "14 Aug, 02:30 PM",
+      "type": "news",
+      "description": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has ..."
+    },
+    {
+      "title": "Cloning could be used to save species\u2014or make human \u201corgan sacks\u201d",
+      "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-14T14:30:00+05:30",
+      "time": "14 Aug, 02:30 PM",
+      "type": "news",
+      "description": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They\u2019ve developed a CRISPR-based approach to essentially cut o..."
+    },
+    {
       "title": "Why has Britain's grass turned yellow? A plant scientist explains what happens next",
       "link": "https://phys.org/news/2026-08-britain-grass-yellow-scientist.html",
       "source": "Phys",
@@ -244,42 +388,6 @@
       "description": "A new study, led by researchers at the University of Staffordshire, has found evidence of potentially hazardous microbial growth on mummified human an..."
     },
     {
-      "title": "EU's race for lithium and rare earths sidelined calls to reduce consumption, finds study",
-      "link": "https://phys.org/news/2026-08-eu-lithium-rare-earths-sidelined.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T01:30:04+05:30",
-      "time": "14 Aug, 01:30 AM",
-      "type": "news",
-      "description": "In 2024, the Critical Raw Materials Act (CRMA) came into force. The regulation is intended to secure Europe's supply of critical raw materials, especi..."
-    },
-    {
-      "title": "Beyond the algorithm, online negativity takes on a life of its own as users try to stand out",
-      "link": "https://phys.org/news/2026-08-algorithm-online-negativity-life-users.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T01:30:01+05:30",
-      "time": "14 Aug, 01:30 AM",
-      "type": "news",
-      "description": "It doesn't take a scientist to figure out that social media can trend toward the negative. But it might take one to figure out why. In a new paper in ..."
-    },
-    {
-      "title": "Magnetic mystery in thorium clusters resolved by new study",
-      "link": "https://phys.org/news/2026-08-magnetic-mystery-thorium-clusters.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T01:10:05+05:30",
-      "time": "14 Aug, 01:10 AM",
-      "type": "news",
-      "description": "Scientists from the University of Manchester's Department of Chemistry, Centre for Radiochemistry Research and Photon Science Institute, led by Profes..."
-    },
-    {
-      "title": "When important local knowledge about nature and climate is not put to use",
-      "link": "https://phys.org/news/2026-08-important-local-knowledge-nature-climate.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T01:10:01+05:30",
-      "time": "14 Aug, 01:10 AM",
-      "type": "news",
-      "description": "Climate change and biodiversity loss require us to base our decisions on the best possible knowledge. Yet a new study conducted by Dr. Roxana Roos at ..."
-    },
-    {
       "title": "Astronomers Caught a Star Exploding Almost the Instant It Began",
       "link": "https://scitechdaily.com/astronomers-caught-a-star-exploding-almost-the-instant-it-began/",
       "source": "ScitechDaily",
@@ -289,42 +397,6 @@
       "description": "<a href=\"https://scitechdaily.com/astronomers-caught-a-star-exploding-almost-the-instant-it-began/\" rel=\"nofollow\" title=\"Astronomers Caught a Star Ex..."
     },
     {
-      "title": "Heavy rain soaks eastern Japan, prompting highest-level warning",
-      "link": "https://phys.org/news/2026-08-heavy-eastern-japan-prompting-highest.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T00:50:04+05:30",
-      "time": "14 Aug, 12:50 AM",
-      "type": "news",
-      "description": "Torrential rain pummeled eastern Japan on Thursday, triggering landslides and power outages and prompting the weather authority to issue its highest-l..."
-    },
-    {
-      "title": "Copper's surprising melting behavior provides insights into future fusion design",
-      "link": "https://phys.org/news/2026-08-copper-behavior-insights-future-fusion.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T00:50:03+05:30",
-      "time": "14 Aug, 12:50 AM",
-      "type": "news",
-      "description": "Future fusion power plants aim to recreate the heart of a star here on Earth to power our future energy needs. While the core fusion plasma will burn ..."
-    },
-    {
-      "title": "How 'pioneering pairs' of ospreys drive population recovery",
-      "link": "https://phys.org/news/2026-08-pairs-ospreys-population-recovery.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T00:40:01+05:30",
-      "time": "14 Aug, 12:40 AM",
-      "type": "news",
-      "description": "A new study by Bournemouth University (BU) has found that faster recovery of osprey populations relies on a small number of ospreys that, unlike most,..."
-    },
-    {
-      "title": "Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days",
-      "link": "https://phys.org/news/2026-08-days-ontario-wildfire-brought-unhealthy.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T00:30:08+05:30",
-      "time": "14 Aug, 12:30 AM",
-      "type": "news",
-      "description": "Smoke from Canada's July wildfires exposed people across Canada and the United States to unhealthy, very unhealthy or hazardous air for nearly 106 mil..."
-    },
-    {
       "title": "From 'learning' to 'thinking,' AI language has long carried double meanings",
       "link": "https://techxplore.com/news/2026-08-ai-language.html",
       "source": "TechXplore",
@@ -332,15 +404,6 @@
       "time": "14 Aug, 12:30 AM",
       "type": "news",
       "description": "Organizations can describe artificial intelligence using familiar words like \"thinking,\" \"writing\" and \"learning.\" But according to Carnegie Mellon Un..."
-    },
-    {
-      "title": "What a dry meteorite tells us about water on Mars",
-      "link": "https://phys.org/news/2026-08-dry-meteorite-mars.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T00:30:01+05:30",
-      "time": "14 Aug, 12:30 AM",
-      "type": "news",
-      "description": "Detecting water where none remains today: Neutron and X-ray tomography make it possible. In an international study conducted with the participation of..."
     },
     {
       "title": "Empty Space May Not Be Empty After All: Magnetar Reveals a Bizarre Quantum Effect",
@@ -685,15 +748,6 @@
       "description": "<a href=\"https://scitechdaily.com/mit-physicists-zapped-a-quantum-crystal-with-lasers-and-discovered-something-surprising/\" rel=\"nofollow\" title=\"MIT ..."
     },
     {
-      "title": "Scientists just created female clones of male mice",
-      "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-13T00:29:48+05:30",
-      "time": "13 Aug, 12:29 AM",
-      "type": "news",
-      "description": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove t..."
-    },
-    {
       "title": "Google unveils latest Pixel phones with slimmer cameras and more AI features",
       "link": "https://techxplore.com/news/2026-08-google-unveils-latest-pixel-slimmer.html",
       "source": "TechXplore",
@@ -746,15 +800,6 @@
       "time": "12 Aug, 10:30 PM",
       "type": "news",
       "description": "Magnesium supplements are gaining popularity to treat conditions such as insomnia, migraines and constipation. Most magnesium salts are extracted from..."
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data",
-      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-12T22:21:57+05:30",
-      "time": "12 Aug, 10:21 PM",
-      "type": "news",
-      "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives ..."
     },
     {
       "title": "New model bridges ferroelectric physics and circuit modeling",
@@ -881,123 +926,6 @@
       "time": "12 Aug, 07:08 PM",
       "type": "news",
       "description": "Researchers have found a clever new way to map a part of Earth\u2019s upper atmosphere that is notoriously difficult to observe. Using orbital data from ro..."
-    },
-    {
-      "title": "Scientists develop 'RoboDojo,' a unified platform to evaluate embodied AI",
-      "link": "https://techxplore.com/news/2026-08-scientists-robodojo-platform-embodied-ai.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-12T18:10:02+05:30",
-      "time": "12 Aug, 06:10 PM",
-      "type": "news",
-      "description": "The Multimedia Laboratory (MMLab) at The University of Hong Kong (HKU) has spearheaded the development of \"RoboDojo,\" a unified benchmarking platform ..."
-    },
-    {
-      "title": "How cement plants can remove CO\u2082 from the atmosphere",
-      "link": "https://techxplore.com/news/2026-08-cement-atmosphere.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-12T17:43:37+05:30",
-      "time": "12 Aug, 05:43 PM",
-      "type": "news",
-      "description": "Cement is one of the most in-demand building materials of our time. Every year, around 4 billion tonnes are produced. Cement production is energy-inte..."
-    },
-    {
-      "title": "The Download: our 35 young innovators and the \u201ccensorship-industrial complex\u201d",
-      "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-12T17:40:00+05:30",
-      "time": "12 Aug, 05:40 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "Wind farms need smarter, site-specific strategies to protect birds and bats, review finds",
-      "link": "https://techxplore.com/news/2026-08-farms-smarter-site-specific-strategies.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-12T17:10:01+05:30",
-      "time": "12 Aug, 05:10 PM",
-      "type": "news",
-      "description": "A major review of current mitigation strategies to prevent bird and bat collisions with wind turbines concludes that future wildlife-safe wind energy ..."
-    },
-    {
-      "title": "New Drug Candidate Helps Overcome Cancer Treatment Resistance",
-      "link": "https://scitechdaily.com/new-drug-candidate-helps-overcome-cancer-treatment-resistance/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-12T17:07:42+05:30",
-      "time": "12 Aug, 05:07 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/new-drug-candidate-helps-overcome-cancer-treatment-resistance/\" rel=\"nofollow\" title=\"New Drug Candidate Helps Overc..."
-    },
-    {
-      "title": "Childhood Trauma May Leave a Lasting \u201cScar\u201d Inside Brain Cells",
-      "link": "https://scitechdaily.com/childhood-trauma-may-leave-a-lasting-scar-inside-brain-cells/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-12T16:31:44+05:30",
-      "time": "12 Aug, 04:31 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/childhood-trauma-may-leave-a-lasting-scar-inside-brain-cells/\" rel=\"nofollow\" title=\"Childhood Trauma May Leave a La..."
-    },
-    {
-      "title": "Pakistani Judges Give Their Verdict on JudgeGPT",
-      "link": "https://spectrum.ieee.org/judgegpt-experiment",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-08-12T16:30:01+05:30",
-      "time": "12 Aug, 04:30 PM",
-      "type": "news",
-      "description": "<p>First large-scale trial of AI in judiciary finds 6.3 percent speed-up, fewer appeals </p>"
-    },
-    {
-      "title": "Popular Erectile Dysfunction Drug Linked to Vision-Threatening Eye Disease",
-      "link": "https://scitechdaily.com/popular-erectile-dysfunction-drug-linked-to-vision-threatening-eye-disease/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-12T15:55:39+05:30",
-      "time": "12 Aug, 03:55 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/popular-erectile-dysfunction-drug-linked-to-vision-threatening-eye-disease/\" rel=\"nofollow\" title=\"Popular Erectile ..."
-    },
-    {
-      "title": "James Webb captures a cosmic lion sculpted by a dying star",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-12T15:45:19+05:30",
-      "time": "12 Aug, 03:45 PM",
-      "type": "news",
-      "description": "James Webb has captured a striking new infrared view of NGC 2392, the Lion Nebula, revealing the dramatic aftermath of a dying Sun-like star. At its c..."
-    },
-    {
-      "title": "A strange crystal made of electrons just revealed its hidden motion",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-12T14:40:01+05:30",
-      "time": "12 Aug, 02:40 PM",
-      "type": "news",
-      "description": "Physicists have found a new way to peer inside one of matter\u2019s most elusive quantum states: the Wigner crystal, where electrons stop behaving like ind..."
-    },
-    {
-      "title": "How we picked 35 of the world\u2019s top young scientists and engineers",
-      "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-12T14:38:40+05:30",
-      "time": "12 Aug, 02:38 PM",
-      "type": "news",
-      "description": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world ..."
-    },
-    {
-      "title": "Newborn screening for cancer risk could save lives. Should it be done?",
-      "link": "https://www.sciencenews.org/article/newborn-screening-cancer-risk-mutations",
-      "source": "Sciencenews",
-      "sort_key": "2026-08-12T14:30:00+05:30",
-      "time": "12 Aug, 02:30 PM",
-      "type": "news",
-      "description": "Genetic screening that identifies cancer-linked mutations in newborns could give doctors a head start on treatment, but it comes with risks."
-    },
-    {
-      "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-12T09:37:22+05:30",
-      "time": "12 Aug, 09:37 AM",
-      "type": "news",
-      "description": "Ordinary WiFi networks could quietly become powerful surveillance tools, allowing people to be identified without cameras, special sensors, or even ca..."
     }
   ],
   "tweets": [
@@ -1038,7 +966,7 @@
       "sort_key": "2026-08-13T21:04:04+05:30",
       "time": "13 Aug, 09:04 PM",
       "type": "tweets",
-      "content": "<p>A simple pneumatic robot rotated a bottle cap nearly 4 times more than a human hand, while pinching, hooking, and grasping with just two inputs. @<a href=\"https://nitter.net/WileyResearch\" title=\"Joshua F Wiley, PhD\">@WileyResearch</a> @advscinews <a href=\"https://techxplore.com/news/2026-08-simple-robot-exceeds-human-core.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-simple-robot-exceeds-human-core.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<b>Simple robot design exceeds human hand in some core motions</b>\n</a>\n<p>The human hand is a dexterous and versatile machine. Scientists have conventionally tried to replicate these traits in robots by copying the biological mechanics of the hand, resulting in complex and...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-simple-robot-exceeds-human-core.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "content": "<p>A simple pneumatic robot rotated a bottle cap nearly 4 times more than a human hand, while pinching, hooking, and grasping with just two inputs. @<a href=\"https://nitter.net/WileyResearch\" title=\"Joshua F Wiley, PhD\">@WileyResearch</a> @advscinews <a href=\"https://techxplore.com/news/2026-08-simple-robot-exceeds-human-core.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-simple-robot-exceeds-human-core.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2087800061564735488%2FMt9HtIjS%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Simple robot design exceeds human hand in some core motions</b>\n</a>\n<p>The human hand is a dexterous and versatile machine. Scientists have conventionally tried to replicate these traits in robots by copying the biological mechanics of the hand, resulting in complex and...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-simple-robot-exceeds-human-core.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
       "author": "@TechXplore_com"
     },
     {
@@ -1110,20 +1038,20 @@
       "type": "tweets",
       "content": "<p>In a feat of adaptive reuse, the century-old Met Warehouse has become a new home for <a href=\"https://nitter.net/mitsap\" title=\"MIT SA+P\">@mitsap</a>. \u201cIt\u2019s almost inconceivable that this brick box, which was not designed for human habitation but to store objects, has been opened up,\u201d says John Ochsendorf.  <a href=\"https://news.mit.edu/2026/met-warehouse-opens-new-home-mit-school-architecture-planning-0812\">news.mit.edu/2026/met-wareho\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://news.mit.edu/2026/met-warehouse-opens-new-home-mit-school-architecture-planning-0812\">\n<img src=\"https://nitter.net/pic/card_img%2F2087526629845106688%2FUS-pUf0o%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Met Warehouse opens as the new home of MIT\u2019s School of Architecture and Planning</b>\n</a>\n<p>The Metropolitan Storage Warehouse in Cambridge, Massachusetts, is opening as the new home of MIT\u2019s School of Architecture and Planning, after a makeover turning the century-old storage facility into...</p>\n<small><a href=\"https://news.mit.edu/2026/met-warehouse-opens-new-home-mit-school-architecture-planning-0812\">news.mit.edu</a></small>",
       "author": "@MIT"
-    },
-    {
-      "title": "More than a third of a zinc battery\u2019s capacity can vanish in a day at rest, but an ultra-dilute electrolyte cut that idle loss to under 1.5% while the corrosion driver came from an unexpected place. @NatureComms @Joule_CP https://techxplore.com/news/2026-08-aim-battery-aging-idle.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2087517932691546522#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-12T18:03:54+05:30",
-      "time": "12 Aug, 06:03 PM",
-      "type": "tweets",
-      "content": "<p>More than a third of a zinc battery\u2019s capacity can vanish in a day at rest, but an ultra-dilute electrolyte cut that idle loss to under 1.5% while the corrosion driver came from an unexpected place. <a href=\"https://nitter.net/NatureComms\" title=\"Nature Communications\">@NatureComms</a> <a href=\"https://nitter.net/Joule_CP\" title=\"Joule\">@Joule_CP</a> <a href=\"https://techxplore.com/news/2026-08-aim-battery-aging-idle.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-aim-battery-aging-idle.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2087081307025309696%2FmRrIVwfI%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>New engineering studies aim to slow battery aging while idle</b>\n</a>\n<p>Most batteries spend more than 70% of their lifetime at rest. Yet few studies have examined calendar aging, which is how a battery degrades when it is neither charging nor being used.</p>\n<small><a href=\"https://techxplore.com/news/2026-08-aim-battery-aging-idle.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Meta's new model wants \"deep access\" to your personal life...",
+      "link": "https://www.youtube.com/watch?v=G55HSGpuh1M",
+      "source": "Fireship",
+      "sort_key": "2026-08-12T23:59:41+05:30",
+      "time": "12 Aug, 11:59 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/G55HSGpuh1M/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

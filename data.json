@@ -1,6 +1,159 @@
 {
   "news": [
     {
+      "title": "Tungsten may suffer more radiation damage in fusion reactors than expected",
+      "link": "https://phys.org/news/2026-08-tungsten-fusion-reactors.html",
+      "source": "Phys",
+      "sort_key": "2026-08-15T18:10:01+05:30",
+      "time": "15 Aug, 06:10 PM",
+      "type": "news",
+      "description": "Fusion reactors, devices that generate energy by fusing light atomic nuclei at extremely high temperatures, could contribute to ongoing efforts aimed ..."
+    },
+    {
+      "title": "Scientists Survey Mount Ararat\u2019s Mysterious Glacier for the First Time",
+      "link": "https://scitechdaily.com/scientists-survey-mount-ararats-mysterious-glacier-for-the-first-time/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-15T18:01:02+05:30",
+      "time": "15 Aug, 06:01 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/scientists-survey-mount-ararats-mysterious-glacier-for-the-first-time/\" rel=\"nofollow\" title=\"Scientists Survey Moun..."
+    },
+    {
+      "title": "Nonrepeating photonic crystal may enable more tunable, reliable semiconductor lasers",
+      "link": "https://phys.org/news/2026-08-nonrepeating-photonic-crystal-enable-tunable.html",
+      "source": "Phys",
+      "sort_key": "2026-08-15T17:30:05+05:30",
+      "time": "15 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Over the past two decades, photonic-crystal surface-emitting lasers (PCSELs) have shown promise as a type of advanced semiconductor laser useful in de..."
+    },
+    {
+      "title": "Minnesota iron ore could be key to sustainable and lower cost semiconductor",
+      "link": "https://phys.org/news/2026-08-minnesota-iron-ore-key-sustainable.html",
+      "source": "Phys",
+      "sort_key": "2026-08-15T17:30:01+05:30",
+      "time": "15 Aug, 05:30 PM",
+      "type": "news",
+      "description": "For the first time, researchers at the University of Minnesota Twin Cities have demonstrated that the low-purity iron ore prevalent in Minnesota can b..."
+    },
+    {
+      "title": "Scientists Turn One of the World\u2019s Hardest-To-Recycle Plastics Into Engine Oil",
+      "link": "https://scitechdaily.com/scientists-turn-one-of-the-worlds-hardest-to-recycle-plastics-into-engine-oil/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-15T17:26:12+05:30",
+      "time": "15 Aug, 05:26 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/scientists-turn-one-of-the-worlds-hardest-to-recycle-plastics-into-engine-oil/\" rel=\"nofollow\" title=\"Scientists Tur..."
+    },
+    {
+      "title": "Helmholtz resonance powers miniature boats and ultrasonic flying robots",
+      "link": "https://techxplore.com/news/2026-08-helmholtz-resonance-powers-miniature-boats.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-15T17:10:04+05:30",
+      "time": "15 Aug, 05:10 PM",
+      "type": "news",
+      "description": "When air is blown across the neck of a bottle, it doesn't just produce a pleasant tone: it also demonstrates a phenomenon called Helmholtz resonance. ..."
+    },
+    {
+      "title": "Four more belugas arrive at Chicago aquarium from shuttered Canadian theme park",
+      "link": "https://phys.org/news/2026-08-belugas-chicago-aquarium-shuttered-canadian.html",
+      "source": "Phys",
+      "sort_key": "2026-08-15T17:10:02+05:30",
+      "time": "15 Aug, 05:10 PM",
+      "type": "news",
+      "description": "Four more belugas have arrived at a Chicago aquarium as part of a plan to move Canada's last remaining captive whales from a shuttered theme park to a..."
+    },
+    {
+      "title": "Scientists Have Uncovered a Troubling New Pattern Hidden in America\u2019s Rivers",
+      "link": "https://scitechdaily.com/scientists-have-uncovered-a-troubling-new-pattern-hidden-in-americas-rivers/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-15T16:51:01+05:30",
+      "time": "15 Aug, 04:51 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/scientists-have-uncovered-a-troubling-new-pattern-hidden-in-americas-rivers/\" rel=\"nofollow\" title=\"Scientists Have ..."
+    },
+    {
+      "title": "Shackled men in 2,600-year-old Greek mass graves were likely locals, archaeologists find",
+      "link": "https://phys.org/news/2026-08-shackled-men-year-greek-mass.html",
+      "source": "Phys",
+      "sort_key": "2026-08-15T16:50:01+05:30",
+      "time": "15 Aug, 04:50 PM",
+      "type": "news",
+      "description": "In 2016, archaeologists working at the Phaleron Burial Ground, part of the ancient Attica region, uncovered an astonishing sight: three mass graves da..."
+    },
+    {
+      "title": "Scientists simulating ant swarms find a 'first mover' can set the colony in motion",
+      "link": "https://phys.org/news/2026-08-scientists-simulating-ant-swarms-mover.html",
+      "source": "Phys",
+      "sort_key": "2026-08-15T16:30:03+05:30",
+      "time": "15 Aug, 04:30 PM",
+      "type": "news",
+      "description": "In ant colonies, a single ant can be the catalyst for a wave of mob activity, launching brief bursts of coordinated movement involving hundreds or eve..."
+    },
+    {
+      "title": "Black-box technologies could undermine confidence in scientific findings",
+      "link": "https://phys.org/news/2026-08-black-technologies-undermine-confidence-scientific.html",
+      "source": "Phys",
+      "sort_key": "2026-08-15T16:30:02+05:30",
+      "time": "15 Aug, 04:30 PM",
+      "type": "news",
+      "description": "Scientists are increasingly relying on powerful data sources and tools that they often cannot fully understand, inspect or verify, according to a new ..."
+    },
+    {
+      "title": "Hurricane poised to hit Hawaii as El Ni\u00f1o stirs Pacific",
+      "link": "https://phys.org/news/2026-08-hurricane-poised-hawaii-el-nio.html",
+      "source": "Phys",
+      "sort_key": "2026-08-15T15:50:01+05:30",
+      "time": "15 Aug, 03:50 PM",
+      "type": "news",
+      "description": "A strengthening tropical storm named Lala is set to hit Hawaii's Big Island with hurricane-force gales on Saturday, bringing dangerous winds, rainfall..."
+    },
+    {
+      "title": "Extreme weather is making work difficult for many people. This is what needs to change",
+      "link": "https://phys.org/news/2026-08-extreme-weather-difficult-people.html",
+      "source": "Phys",
+      "sort_key": "2026-08-15T15:30:04+05:30",
+      "time": "15 Aug, 03:30 PM",
+      "type": "news",
+      "description": "The UK has experienced several heat waves this summer\u2014heat stress among workers is one of the biggest causes of weather-related sick leave. Very high ..."
+    },
+    {
+      "title": "Opinion: What does life after AI look like? Cory Doctorow's guide is an outdated map, lacking answers",
+      "link": "https://techxplore.com/news/2026-08-opinion-life-ai-cory-doctorow.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-15T15:10:01+05:30",
+      "time": "15 Aug, 03:10 PM",
+      "type": "news",
+      "description": "A \"centaur\" is a human helped by a machine: The person sets the direction, the machine supplies the horsepower, and together they are better than eith..."
+    },
+    {
+      "title": "Faced with historic drought, the Dutch rethink water management",
+      "link": "https://phys.org/news/2026-08-historic-drought-dutch-rethink.html",
+      "source": "Phys",
+      "sort_key": "2026-08-15T13:30:01+05:30",
+      "time": "15 Aug, 01:30 PM",
+      "type": "news",
+      "description": "On the banks of the Waal, the Dutch branch of the Rhine, swimmers are sunning themselves on a Nijmegen beach that didn't exist before the river level ..."
+    },
+    {
+      "title": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued",
+      "link": "https://phys.org/news/2026-08-magnitude-earthquake-coast-indonesia-tsunami.html",
+      "source": "Phys",
+      "sort_key": "2026-08-15T12:57:46+05:30",
+      "time": "15 Aug, 12:57 PM",
+      "type": "news",
+      "description": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, damaging buildings and homes, and triggering a tsunami warning. ..."
+    },
+    {
+      "title": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
+      "link": "https://phys.org/news/2026-04-commercial-whaling-erased-blue-fin.html",
+      "source": "Phys",
+      "sort_key": "2026-08-15T09:30:01+05:30",
+      "time": "15 Aug, 09:30 AM",
+      "type": "news",
+      "description": "More than 40 years after the end of commercial whaling, new research reveals a recent increase in sightings of the world's two largest whale species i..."
+    },
+    {
       "title": "'Starwashing': How space companies use the greenwashing playbook while causing environmental damage",
       "link": "https://phys.org/news/2026-08-starwashing-space-companies-greenwashing-playbook.html",
       "source": "Phys",
@@ -199,24 +352,6 @@
       "description": "Tornadoes are among the most destructive weather phenomena on Earth. Their small scale, short life cycle and sudden onset make them extremely difficul..."
     },
     {
-      "title": "Controlling the rotation direction of light without complex new materials",
-      "link": "https://phys.org/news/2026-08-rotation-complex-materials.html",
-      "source": "Phys",
-      "sort_key": "2026-08-15T00:10:04+05:30",
-      "time": "15 Aug, 12:10 AM",
-      "type": "news",
-      "description": "A new pathway has opened for controlling the rotation direction of light simply by changing how molecules are arranged, without having to synthesize c..."
-    },
-    {
-      "title": "Bringing butterflies back from the brink of extinction",
-      "link": "https://phys.org/news/2026-08-butterflies-brink-extinction.html",
-      "source": "Phys",
-      "sort_key": "2026-08-15T00:10:02+05:30",
-      "time": "15 Aug, 12:10 AM",
-      "type": "news",
-      "description": "On a summer day in Michigan, a tiny Poweshiek skipperling butterfly\u2014smaller than a quarter\u2014takes flight over a restored prairie."
-    },
-    {
       "title": "Scientists Say This Simple Habit Could Lead to a Happier Marriage",
       "link": "https://scitechdaily.com/scientists-say-this-simple-habit-could-lead-to-a-happier-marriage/",
       "source": "ScitechDaily",
@@ -226,24 +361,6 @@
       "description": "<a href=\"https://scitechdaily.com/scientists-say-this-simple-habit-could-lead-to-a-happier-marriage/\" rel=\"nofollow\" title=\"Scientists Say This Simple..."
     },
     {
-      "title": "Mysterious Cygnus Bubble may trace back to microquasar, astronomers suggest",
-      "link": "https://phys.org/news/2026-08-mysterious-cygnus-microquasar-astronomers.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T23:50:07+05:30",
-      "time": "14 Aug, 11:50 PM",
-      "type": "news",
-      "description": "Astronomers have proposed a new explanation for the mysterious Cygnus Bubble, a vast cloud of ultra-high-energy gamma rays stretching thousands of lig..."
-    },
-    {
-      "title": "Q&A: What are chalk streams and why are these rare rivers under threat?",
-      "link": "https://phys.org/news/2026-08-qa-chalk-streams-rare-rivers.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T23:50:06+05:30",
-      "time": "14 Aug, 11:50 PM",
-      "type": "news",
-      "description": "Chalk streams are among the world's rarest river habitats. Fewer than 300 exist globally, and most are found in England. They support rich wildlife an..."
-    },
-    {
       "title": "Built-in charge could replace chemical reagents in gold recovery from electronic waste",
       "link": "https://techxplore.com/news/2026-08-built-chemical-reagents-gold-recovery.html",
       "source": "TechXplore",
@@ -251,15 +368,6 @@
       "time": "14 Aug, 11:50 PM",
       "type": "news",
       "description": "Recovering valuable metals from electronic waste, mining streams and industrial waste typically requires large quantities of chemical reagents. Resear..."
-    },
-    {
-      "title": "New findings overturn 100-year-old assumption about common bacteria in the lungs",
-      "link": "https://phys.org/news/2026-08-overturn-year-assumption-common-bacteria.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T23:30:04+05:30",
-      "time": "14 Aug, 11:30 PM",
-      "type": "news",
-      "description": "The human body is teeming with more than 35 trillion bacteria, coexisting in microbiomes inside the gut, mouth, lungs, skin and urogenital tract. Whil..."
     },
     {
       "title": "Light-emitting textile sensors could optimize prosthetic fit and comfort",
@@ -289,33 +397,6 @@
       "description": "<a href=\"https://scitechdaily.com/this-simple-measurement-could-expose-a-hidden-diabetes-risk-and-its-not-your-waistline/\" rel=\"nofollow\" title=\"This ..."
     },
     {
-      "title": "Scientists develop method to deliver sugars directly into cells",
-      "link": "https://phys.org/news/2026-08-scientists-method-sugars-cells.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T23:10:04+05:30",
-      "time": "14 Aug, 11:10 PM",
-      "type": "news",
-      "description": "Sugars, or glycans, play a crucial role in biology\u2014from cell signaling and recognition to interactions with pathogens. Changes in glycosylation are al..."
-    },
-    {
-      "title": "Stable RNA elements open new possibilities for mRNA therapeutics",
-      "link": "https://phys.org/news/2026-08-stable-rna-elements-possibilities-mrna.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T22:50:04+05:30",
-      "time": "14 Aug, 10:50 PM",
-      "type": "news",
-      "description": "A research team led by Director Kim V. Narry at the Center for RNA Research within the Institute for Basic Science (IBS) has discovered compact viral ..."
-    },
-    {
-      "title": "Sediments off Brazil's northeast coast reveal sudden changes in heat transport in the Atlantic",
-      "link": "https://phys.org/news/2026-08-sediments-brazil-northeast-coast-reveal.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T22:30:04+05:30",
-      "time": "14 Aug, 10:30 PM",
-      "type": "news",
-      "description": "According to a new study led by researchers from Brazil and Germany, the main system that transports heat from one end of the Atlantic Ocean to the ot..."
-    },
-    {
       "title": "AI agents struggle to perform original scientific research",
       "link": "https://techxplore.com/news/2026-08-ai-agents-struggle-scientific.html",
       "source": "TechXplore",
@@ -334,33 +415,6 @@
       "description": "<p>Your weekly selection of robot videos includes a tiny plant-crawler, bartending and minifridge robot arms, and gecko-inspired robotic grippers</p>"
     },
     {
-      "title": "Quality vs. quantity: Why 'super-shedders' may not be the superspreaders of disease outbreaks",
-      "link": "https://phys.org/news/2026-08-quality-quantity-super-shedders-superspreaders.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T22:10:01+05:30",
-      "time": "14 Aug, 10:10 PM",
-      "type": "news",
-      "description": "A host that sheds an abundance of parasites might seem like an obvious disease-spreading threat. But new research suggests that shedding large volumes..."
-    },
-    {
-      "title": "Genetic analysis reveals new species of endangered baobab tree in Madagascar",
-      "link": "https://phys.org/news/2026-08-genetic-analysis-reveals-species-endangered.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T21:50:01+05:30",
-      "time": "14 Aug, 09:50 PM",
-      "type": "news",
-      "description": "Madison researchers recognize a new species of baobab tree, Adansonia bozy, unique to Madagascar, according to a study published in the journal Taxon...."
-    },
-    {
-      "title": "Long-lost convent rediscovered under a soccer field in Denmark",
-      "link": "https://phys.org/news/2026-08-lost-convent-rediscovered-soccer-field.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T21:30:03+05:30",
-      "time": "14 Aug, 09:30 PM",
-      "type": "news",
-      "description": "A medieval monastery complex, long believed to be lost, has now been identified using ground-penetrating radar (GPR) in Roskilde, Denmark. The investi..."
-    },
-    {
       "title": "A light-based scan could detect deadly bowel disease in preterm babies",
       "link": "https://www.sciencenews.org/article/light-scan-deadly-bowel-disease-babies",
       "source": "Sciencenews",
@@ -368,15 +422,6 @@
       "time": "14 Aug, 09:30 PM",
       "type": "news",
       "description": "Necrotizing enterocolitis strikes premature babies with almost no warning. A new approach aims to detect it early with a quick, low-risk scan."
-    },
-    {
-      "title": "US could exhaust domestic phosphorus within 40 years, but waste offers reserves",
-      "link": "https://phys.org/news/2026-08-exhaust-domestic-phosphorus-years-reserves.html",
-      "source": "Phys",
-      "sort_key": "2026-08-14T21:10:04+05:30",
-      "time": "14 Aug, 09:10 PM",
-      "type": "news",
-      "description": "The United States could exhaust its domestic phosphorus supply within 40 years. Europe, Latin America and Southeast Asia already depend on imports fro..."
     },
     {
       "title": "520-Million-Year-Old Fossil Reveals How Cephalopods Learned To Float",
@@ -782,99 +827,19 @@
       "time": "13 Aug, 06:30 PM",
       "type": "news",
       "description": "The development of traction batteries for electric vehicles is becoming increasingly complex. Electrical performance, thermal behavior and mechanical ..."
-    },
-    {
-      "title": "The Download: kids\u2019 thoughts on AI, and female clones of male mice",
-      "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-13T17:40:00+05:30",
-      "time": "13 Aug, 05:40 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "Tiny Fossil Overlooked for Decades Reveals a New Ice Age Species",
-      "link": "https://scitechdaily.com/tiny-fossil-overlooked-for-decades-reveals-a-new-ice-age-species/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-13T16:48:46+05:30",
-      "time": "13 Aug, 04:48 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/tiny-fossil-overlooked-for-decades-reveals-a-new-ice-age-species/\" rel=\"nofollow\" title=\"Tiny Fossil Overlooked for ..."
-    },
-    {
-      "title": "Augmental\u2019s Mouthpad Is a Touchpad for Your Tongue",
-      "link": "https://spectrum.ieee.org/augmental-mouthpad-assistive-tongue-interface",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-08-13T16:30:03+05:30",
-      "time": "13 Aug, 04:30 PM",
-      "type": "news",
-      "description": "<p>The \u201cuniversal\u201d device was designed with disabilities in mind</p>"
-    },
-    {
-      "title": "Recycling discarded solar panels could yield $1 trillion by 2060, analysis finds",
-      "link": "https://techxplore.com/news/2026-08-photovoltaic-billion-industry.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-13T16:30:01+05:30",
-      "time": "13 Aug, 04:30 PM",
-      "type": "news",
-      "description": "The world's rapid shift to solar power is creating a massive new waste problem, with up to 402 million tonnes (443 million tons) of discarded solar pa..."
-    },
-    {
-      "title": "Melting Sea Ice Could Be Changing the Clouds Above the Arctic",
-      "link": "https://scitechdaily.com/melting-sea-ice-could-be-changing-the-clouds-above-the-arctic/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-13T16:13:05+05:30",
-      "time": "13 Aug, 04:13 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/melting-sea-ice-could-be-changing-the-clouds-above-the-arctic/\" rel=\"nofollow\" title=\"Melting Sea Ice Could Be Chang..."
-    },
-    {
-      "title": "Ancient Neanderthal DNA May Give Some People More Muscle",
-      "link": "https://scitechdaily.com/ancient-neanderthal-dna-may-give-some-people-more-muscle/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-13T15:38:43+05:30",
-      "time": "13 Aug, 03:38 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/ancient-neanderthal-dna-may-give-some-people-more-muscle/\" rel=\"nofollow\" title=\"Ancient Neanderthal DNA May Give So..."
-    },
-    {
-      "title": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse",
-      "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-13T15:30:00+05:30",
-      "time": "13 Aug, 03:30 PM",
-      "type": "news",
-      "description": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping..."
-    },
-    {
-      "title": "How kids feel about AI, in their own words",
-      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-13T14:30:00+05:30",
-      "time": "13 Aug, 02:30 PM",
-      "type": "news",
-      "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to ch..."
-    },
-    {
-      "title": "Simple robot design exceeds human hand in some core motions",
-      "link": "https://techxplore.com/news/2026-08-simple-robot-exceeds-human-core.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-13T12:40:01+05:30",
-      "time": "13 Aug, 12:40 PM",
-      "type": "news",
-      "description": "The human hand is a dexterous and versatile machine. Scientists have conventionally tried to replicate these traits in robots by copying the biologica..."
-    },
-    {
-      "title": "These mammal ancestors birthed live young far earlier than thought",
-      "link": "https://www.sciencenews.org/article/mammal-ancestors-birthed-live-earlier",
-      "source": "Sciencenews",
-      "sort_key": "2026-08-13T09:30:00+05:30",
-      "time": "13 Aug, 09:30 AM",
-      "type": "news",
-      "description": "Growth rings on a fossil bone suggest at least one mammal ancestor gave birth to live young rather than laying eggs 236 million years ago."
     }
   ],
   "tweets": [
+    {
+      "title": "A three-parameter model predicts ferroelectric switching under complex, real chip voltages and stays accurate using a single set of material parameters. @umich @advmater https://techxplore.com/news/2026-08-bridges-ferroelectric-physics-circuit.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
+      "link": "https://nitter.net/TechXplore_com/status/2088597923315527810#m",
+      "source": "TechXplore",
+      "sort_key": "2026-08-15T17:35:23+05:30",
+      "time": "15 Aug, 05:35 PM",
+      "type": "tweets",
+      "content": "<p>A three-parameter model predicts ferroelectric switching under complex, real chip voltages and stays accurate using a single set of material parameters. <a href=\"https://nitter.net/UMich\" title=\"University of Michigan\">@umich</a> @advmater <a href=\"https://techxplore.com/news/2026-08-bridges-ferroelectric-physics-circuit.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-bridges-ferroelectric-physics-circuit.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2088597924301127680%2FL7MpkbGQ%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>New model bridges ferroelectric physics and circuit modeling</b>\n</a>\n<p>A new physics-based analytical model can accurately predict ferroelectric behavior under real-world, complex voltages, according to a study led by University of Michigan Engineering. The model...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-bridges-ferroelectric-physics-circuit.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
+      "author": "@TechXplore_com"
+    },
     {
       "title": "Real-time force mapping now fits inside a prosthetic socket: embroidered textiles detected both pressure and shear and stayed functional after more than 30 laundry cycles. @LifeAtPurdue @ScienceAdvances https://techxplore.com/news/2026-08-emitting-textile-sensors-optimize-prosthetic.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
       "link": "https://nitter.net/TechXplore_com/status/2088454597840916953#m",
@@ -984,16 +949,6 @@
       "type": "tweets",
       "content": "<p>Engineers developed a tool for designing habitats in space and other extreme environments to help crews not just survive but thrive. <a href=\"https://news.mit.edu/2026/how-space-habitat-design-supports-its-residents-mental-health-0812\">news.mit.edu/2026/how-space-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://news.mit.edu/2026/how-space-habitat-design-supports-its-residents-mental-health-0812\">\n<img src=\"https://nitter.net/pic/card_img%2F2087823978022735872%2F6Pygeqia%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>How to design a space habitat that supports its residents\u2019 mental health</b>\n</a>\n<p>The Human-Environment Connection and Interaction Atlas (HECIA) is a tool for designing habitats in space and other extreme environments, where crews can not just survive but thrive. Users can explore...</p>\n<small><a href=\"https://news.mit.edu/2026/how-space-habitat-design-supports-its-residents-mental-health-0812\">news.mit.edu</a></small>",
       "author": "@MIT"
-    },
-    {
-      "title": "A hair-thick cobalt-chromium oxide coating self-healed heat cracks after simulated engine use, while improving wear and friction under extreme temperatures. @Concordia https://techxplore.com/news/2026-08-coating-gas-turbines-reliable-longer.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2087880304979562912#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-13T18:03:50+05:30",
-      "time": "13 Aug, 06:03 PM",
-      "type": "tweets",
-      "content": "<p>A hair-thick cobalt-chromium oxide coating self-healed heat cracks after simulated engine use, while improving wear and friction under extreme temperatures. <a href=\"https://nitter.net/Concordia\" title=\"Concordia University\">@Concordia</a> <a href=\"https://techxplore.com/news/2026-08-coating-gas-turbines-reliable-longer.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-coating-gas-turbines-reliable-longer.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2087694662567960576%2Fcws3ntiH%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Self-repairing coating promises to make gas turbines more reliable and longer lasting</b>\n</a>\n<p>Gas turbine engines, like those powering passenger planes, operate under extreme conditions during everyday use. These engines regularly reach temperatures well over 800\u00b0C (1,470\u00b0F), which creates...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-coating-gas-turbines-reliable-longer.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
     }
   ],
   "youtube": [
@@ -1008,6 +963,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

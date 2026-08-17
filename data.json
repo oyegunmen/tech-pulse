@@ -1,6 +1,204 @@
 {
   "news": [
     {
+      "title": "Dark matter may be gravitationally lensing a likely source of cosmic neutrinos",
+      "link": "https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html",
+      "source": "Phys",
+      "sort_key": "2026-08-17T18:10:08+05:30",
+      "time": "17 Aug, 06:10 PM",
+      "type": "news",
+      "description": "Astronomers have discovered that the jet of a distant blazar has been gravitationally lensed by an unseen source of dark matter. Led by Silke Britzen ..."
+    },
+    {
+      "title": "Miami's largest tree canopies deliver most cooling, monitoring data suggests",
+      "link": "https://phys.org/news/2026-08-miami-largest-tree-canopies-cooling.html",
+      "source": "Phys",
+      "sort_key": "2026-08-17T18:10:04+05:30",
+      "time": "17 Aug, 06:10 PM",
+      "type": "news",
+      "description": "People rarely give much thought to the trees around them\u2014until there aren't any. Not when they're driving past them. Not when they're scrolling on a p..."
+    },
+    {
+      "title": "Hydrogen microgrids could help power remote communities\u2014but beware the hype",
+      "link": "https://techxplore.com/news/2026-08-hydrogen-microgrids-power-remote-communities.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-17T18:10:02+05:30",
+      "time": "17 Aug, 06:10 PM",
+      "type": "news",
+      "description": "In remote towns, what happens when the sun fails to shine, the wind barely blows and batteries begin to run low?"
+    },
+    {
+      "title": "Study shows university's advising model boosts international students",
+      "link": "https://phys.org/news/2026-08-university-boosts-international-students.html",
+      "source": "Phys",
+      "sort_key": "2026-08-17T17:50:03+05:30",
+      "time": "17 Aug, 05:50 PM",
+      "type": "news",
+      "description": "Ling LeBeau and Steve Schaffling spent five years building and refining a framework for supporting international students at Syracuse University, culm..."
+    },
+    {
+      "title": "The Download: dead robot friends and the \u201ccensorship-industrial complex\u201d",
+      "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-17T17:40:00+05:30",
+      "time": "17 Aug, 05:40 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "New model measures full economic value of accurate hurricane forecasts",
+      "link": "https://phys.org/news/2026-08-full-economic-accurate-hurricane.html",
+      "source": "Phys",
+      "sort_key": "2026-08-17T17:30:03+05:30",
+      "time": "17 Aug, 05:30 PM",
+      "type": "news",
+      "description": "When it comes to the cost of a bad forecast, researchers have gone beyond damaged buildings and vehicles to calculate the cost of injuries, evacuation..."
+    },
+    {
+      "title": "NASA\u2019s James Webb Telescope Captures a Dying Star Sculpting a Cosmic Lion",
+      "link": "https://scitechdaily.com/nasas-james-webb-telescope-captures-a-dying-star-sculpting-a-cosmic-lion/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-17T17:13:36+05:30",
+      "time": "17 Aug, 05:13 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/nasas-james-webb-telescope-captures-a-dying-star-sculpting-a-cosmic-lion/\" rel=\"nofollow\" title=\"NASA\u2019s James Webb T..."
+    },
+    {
+      "title": "Is bird flu infecting humans? How would we know?",
+      "link": "https://phys.org/news/2026-08-bird-flu-infecting-humans.html",
+      "source": "Phys",
+      "sort_key": "2026-08-17T17:10:03+05:30",
+      "time": "17 Aug, 05:10 PM",
+      "type": "news",
+      "description": "Bird flu is circulating among birds on the Australian mainland. So, with the confirmed number of detections growing, you may be wondering about the ri..."
+    },
+    {
+      "title": "The brightened night sky nobody actually wanted",
+      "link": "https://phys.org/news/2026-08-brightened-night-sky.html",
+      "source": "Phys",
+      "sort_key": "2026-08-17T16:50:09+05:30",
+      "time": "17 Aug, 04:50 PM",
+      "type": "news",
+      "description": "A new paper has put hard numbers on a plan that's been rattling around the astronomy community for a while now\u2014a California company called Reflect Orb..."
+    },
+    {
+      "title": "Amber fossil reveals firefly relative with unprecedented antennae",
+      "link": "https://phys.org/news/2026-08-amber-fossil-reveals-firefly-unprecedented.html",
+      "source": "Phys",
+      "sort_key": "2026-08-17T16:50:05+05:30",
+      "time": "17 Aug, 04:50 PM",
+      "type": "news",
+      "description": "Insects rely on a wide range of strategies to sense their surroundings and communicate with their peers. Fireflies (Lampyridae) and some related beetl..."
+    },
+    {
+      "title": "The decades\u2011old 'AI alignment problem' has finally become a reality: Solving it won't be easy",
+      "link": "https://techxplore.com/news/2026-08-decadesold-ai-alignment-problem-reality.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-17T16:50:01+05:30",
+      "time": "17 Aug, 04:50 PM",
+      "type": "news",
+      "description": "Human beings have long told versions of the same warning: Be careful what you wish for. In Greek mythology, King Midas got exactly what he asked for, ..."
+    },
+    {
+      "title": "A Star Near the Milky Way\u2019s Black Hole Is Losing Mass at an Astonishing Rate",
+      "link": "https://scitechdaily.com/a-star-near-the-milky-ways-black-hole-is-losing-mass-at-an-astonishing-rate/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-17T16:38:43+05:30",
+      "time": "17 Aug, 04:38 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/a-star-near-the-milky-ways-black-hole-is-losing-mass-at-an-astonishing-rate/\" rel=\"nofollow\" title=\"A Star Near the ..."
+    },
+    {
+      "title": "How weaving helped invent modern computing\u2014and is shaping its future",
+      "link": "https://techxplore.com/news/2026-08-modern-future.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-17T16:30:05+05:30",
+      "time": "17 Aug, 04:30 PM",
+      "type": "news",
+      "description": "Weaving is an ancient craft that is still practiced as a hobby by many people around the world. In recent years, it has found new life as more people ..."
+    },
+    {
+      "title": "Can dogs help teens cope with peer stress?",
+      "link": "https://phys.org/news/2026-08-dogs-teens-cope-peer-stress.html",
+      "source": "Phys",
+      "sort_key": "2026-08-17T16:30:01+05:30",
+      "time": "17 Aug, 04:30 PM",
+      "type": "news",
+      "description": "About one in 10 teenagers experiences social anxiety\u2014persistent and disruptive worries about being judged by classmates and other peers. In a new stud..."
+    },
+    {
+      "title": "NASA Just Found a Clever Way To Keep Voyager 2 Alive in Deep Space",
+      "link": "https://scitechdaily.com/nasa-just-found-a-clever-way-to-keep-voyager-2-alive-in-deep-space/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-17T16:03:38+05:30",
+      "time": "17 Aug, 04:03 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/nasa-just-found-a-clever-way-to-keep-voyager-2-alive-in-deep-space/\" rel=\"nofollow\" title=\"NASA Just Found a Clever ..."
+    },
+    {
+      "title": "How much hydrogen awaits us underground?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-17T14:30:00+05:30",
+      "time": "17 Aug, 02:30 PM",
+      "type": "news",
+      "description": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient r..."
+    },
+    {
+      "title": "What happens when a kid\u2019s robot best friend dies?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-17T14:30:00+05:30",
+      "time": "17 Aug, 02:30 PM",
+      "type": "news",
+      "description": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. Th..."
+    },
+    {
+      "title": "Scientists turn DNA into a memory device that uses 100x less power",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-08-17T13:36:45+05:30",
+      "time": "17 Aug, 01:36 PM",
+      "type": "news",
+      "description": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in th..."
+    },
+    {
+      "title": "The Nigerian fishing community being eaten up by the Atlantic",
+      "link": "https://phys.org/news/2026-08-nigerian-fishing-community-eaten-atlantic.html",
+      "source": "Phys",
+      "sort_key": "2026-08-17T13:10:01+05:30",
+      "time": "17 Aug, 01:10 PM",
+      "type": "news",
+      "description": "The beach shrinks every year in Ayetoro, in southern Nigeria, and what is left is peppered with the remains of homes swallowed by the ocean\u2014some years..."
+    },
+    {
+      "title": "Hawaii recovery efforts begin as Lala is downgraded, moves west",
+      "link": "https://phys.org/news/2026-08-hawaii-recovery-efforts-lala-downgraded.html",
+      "source": "Phys",
+      "sort_key": "2026-08-17T12:58:35+05:30",
+      "time": "17 Aug, 12:58 PM",
+      "type": "news",
+      "description": "Clean-up efforts were underway Sunday as Hurricane Lala, which was downgraded to a tropical storm, rolled past Hawaii's Big Island and dumped heavy ra..."
+    },
+    {
+      "title": "Scientists tracked kids for 8 years \u2014 the screen time result was unexpected",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-08-17T12:11:08+05:30",
+      "time": "17 Aug, 12:11 PM",
+      "type": "news",
+      "description": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging co..."
+    },
+    {
+      "title": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064801.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-08-17T07:58:23+05:30",
+      "time": "17 Aug, 07:58 AM",
+      "type": "news",
+      "description": "Scientists have discovered that tiny, sharply curved wrinkles in graphene can dramatically alter its electrical behavior, creating surprisingly strong..."
+    },
+    {
       "title": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests",
       "link": "https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html",
       "source": "Phys",
@@ -370,33 +568,6 @@
       "description": "<a href=\"https://scitechdaily.com/scientists-discover-a-245-million-year-old-reptile-with-its-organs-still-preserved/\" rel=\"nofollow\" title=\"Scientist..."
     },
     {
-      "title": "How healthier farm animals can cut greenhouse gas emissions",
-      "link": "https://phys.org/news/2026-08-healthier-farm-animals-greenhouse-gas.html",
-      "source": "Phys",
-      "sort_key": "2026-08-16T02:10:02+05:30",
-      "time": "16 Aug, 02:10 AM",
-      "type": "news",
-      "description": "When a dairy cow miscarries, a farmer loses far more than an unborn calf. Feed has been grown, land and water have been used, and greenhouse gases hav..."
-    },
-    {
-      "title": "Exploring the moon will require rovers that can think for themselves",
-      "link": "https://phys.org/news/2026-08-exploring-moon-require-rovers.html",
-      "source": "Phys",
-      "sort_key": "2026-08-15T23:30:01+05:30",
-      "time": "15 Aug, 11:30 PM",
-      "type": "news",
-      "description": "NASA is planning to send three small rovers to the moon with a single instruction: Work out among yourselves how to explore a patch of ground."
-    },
-    {
-      "title": "Topical clove oil for canine sarcoptic mange promises faster, plant-based treatment",
-      "link": "https://phys.org/news/2026-08-topical-clove-oil-canine-sarcoptic.html",
-      "source": "Phys",
-      "sort_key": "2026-08-15T23:10:01+05:30",
-      "time": "15 Aug, 11:10 PM",
-      "type": "news",
-      "description": "Canine sarcoptic mange (scabies) is a skin condition in which microscopic mites (Sarcoptes scabiei) infest dogs' skin. The condition is contagious and..."
-    },
-    {
       "title": "Scientists May Have Solved a Long-Standing Melanoma Treatment Mystery",
       "link": "https://scitechdaily.com/scientists-may-have-solved-a-long-standing-melanoma-treatment-mystery/",
       "source": "ScitechDaily",
@@ -404,15 +575,6 @@
       "time": "15 Aug, 10:18 PM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/scientists-may-have-solved-a-long-standing-melanoma-treatment-mystery/\" rel=\"nofollow\" title=\"Scientists May Have So..."
-    },
-    {
-      "title": "Early-universe plasma may have stopped dark photons from heating cosmos",
-      "link": "https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html",
-      "source": "Phys",
-      "sort_key": "2026-08-15T22:10:01+05:30",
-      "time": "15 Aug, 10:10 PM",
-      "type": "news",
-      "description": "A new paper published in Physical Review Letters reveals that a leading dark matter candidate\u2014the hypothetical \"dark photon\"\u2014would not have heated the..."
     },
     {
       "title": "Popular Fertility Drug May Raise Miscarriage Risk Without Improving Live Birth Odds",
@@ -433,24 +595,6 @@
       "description": "<a href=\"https://scitechdaily.com/this-flesh-eating-fly-is-back-in-the-u-s-scientists-are-tracking-where-it-could-strike-next/\" rel=\"nofollow\" title=\"..."
     },
     {
-      "title": "Neptune's tiny moons tell the story of Triton's destructive capture",
-      "link": "https://phys.org/news/2026-07-neptune-tiny-moons-story-triton.html",
-      "source": "Phys",
-      "sort_key": "2026-08-15T20:50:01+05:30",
-      "time": "15 Aug, 08:50 PM",
-      "type": "news",
-      "description": "Neptune's moon and ring system stand out among the giant planets because of the strange imbalance between its one very large moon and its many tiny mo..."
-    },
-    {
-      "title": "One-off campus programs fall short on preventing sexual violence, review finds",
-      "link": "https://phys.org/news/2026-08-campus-fall-short-sexual-violence.html",
-      "source": "Phys",
-      "sort_key": "2026-08-15T19:30:02+05:30",
-      "time": "15 Aug, 07:30 PM",
-      "type": "news",
-      "description": "A recent National Student Safety Survey found that one in six students attending Australian universities had been sexually harassed and one in 20 had ..."
-    },
-    {
       "title": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
       "link": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
       "source": "IEEE Spectrum",
@@ -458,153 +602,11 @@
       "time": "15 Aug, 06:30 PM",
       "type": "news",
       "description": "<p>Michigan researchers seek ways to make chips without rare earths and other problematic materials</p>"
-    },
-    {
-      "title": "Tungsten may suffer more radiation damage in fusion reactors than expected",
-      "link": "https://phys.org/news/2026-08-tungsten-fusion-reactors.html",
-      "source": "Phys",
-      "sort_key": "2026-08-15T18:10:01+05:30",
-      "time": "15 Aug, 06:10 PM",
-      "type": "news",
-      "description": "Fusion reactors, devices that generate energy by fusing light atomic nuclei at extremely high temperatures, could contribute to ongoing efforts aimed ..."
-    },
-    {
-      "title": "Scientists Survey Mount Ararat\u2019s Mysterious Glacier for the First Time",
-      "link": "https://scitechdaily.com/scientists-survey-mount-ararats-mysterious-glacier-for-the-first-time/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-15T18:01:02+05:30",
-      "time": "15 Aug, 06:01 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-survey-mount-ararats-mysterious-glacier-for-the-first-time/\" rel=\"nofollow\" title=\"Scientists Survey Moun..."
-    },
-    {
-      "title": "Nonrepeating photonic crystal may enable more tunable, reliable semiconductor lasers",
-      "link": "https://phys.org/news/2026-08-nonrepeating-photonic-crystal-enable-tunable.html",
-      "source": "Phys",
-      "sort_key": "2026-08-15T17:30:05+05:30",
-      "time": "15 Aug, 05:30 PM",
-      "type": "news",
-      "description": "Over the past two decades, photonic-crystal surface-emitting lasers (PCSELs) have shown promise as a type of advanced semiconductor laser useful in de..."
-    },
-    {
-      "title": "Minnesota iron ore could be key to sustainable and lower cost semiconductor",
-      "link": "https://phys.org/news/2026-08-minnesota-iron-ore-key-sustainable.html",
-      "source": "Phys",
-      "sort_key": "2026-08-15T17:30:01+05:30",
-      "time": "15 Aug, 05:30 PM",
-      "type": "news",
-      "description": "For the first time, researchers at the University of Minnesota Twin Cities have demonstrated that the low-purity iron ore prevalent in Minnesota can b..."
-    },
-    {
-      "title": "Scientists Turn One of the World\u2019s Hardest-To-Recycle Plastics Into Engine Oil",
-      "link": "https://scitechdaily.com/scientists-turn-one-of-the-worlds-hardest-to-recycle-plastics-into-engine-oil/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-15T17:26:12+05:30",
-      "time": "15 Aug, 05:26 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-turn-one-of-the-worlds-hardest-to-recycle-plastics-into-engine-oil/\" rel=\"nofollow\" title=\"Scientists Tur..."
-    },
-    {
-      "title": "Helmholtz resonance powers miniature boats and ultrasonic flying robots",
-      "link": "https://techxplore.com/news/2026-08-helmholtz-resonance-powers-miniature-boats.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-15T17:10:04+05:30",
-      "time": "15 Aug, 05:10 PM",
-      "type": "news",
-      "description": "When air is blown across the neck of a bottle, it doesn't just produce a pleasant tone: it also demonstrates a phenomenon called Helmholtz resonance. ..."
-    },
-    {
-      "title": "Four more belugas arrive at Chicago aquarium from shuttered Canadian theme park",
-      "link": "https://phys.org/news/2026-08-belugas-chicago-aquarium-shuttered-canadian.html",
-      "source": "Phys",
-      "sort_key": "2026-08-15T17:10:02+05:30",
-      "time": "15 Aug, 05:10 PM",
-      "type": "news",
-      "description": "Four more belugas have arrived at a Chicago aquarium as part of a plan to move Canada's last remaining captive whales from a shuttered theme park to a..."
-    },
-    {
-      "title": "Scientists Have Uncovered a Troubling New Pattern Hidden in America\u2019s Rivers",
-      "link": "https://scitechdaily.com/scientists-have-uncovered-a-troubling-new-pattern-hidden-in-americas-rivers/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-15T16:51:01+05:30",
-      "time": "15 Aug, 04:51 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-have-uncovered-a-troubling-new-pattern-hidden-in-americas-rivers/\" rel=\"nofollow\" title=\"Scientists Have ..."
-    },
-    {
-      "title": "Opinion: What does life after AI look like? Cory Doctorow's guide is an outdated map, lacking answers",
-      "link": "https://techxplore.com/news/2026-08-opinion-life-ai-cory-doctorow.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-15T15:10:01+05:30",
-      "time": "15 Aug, 03:10 PM",
-      "type": "news",
-      "description": "A \"centaur\" is a human helped by a machine: The person sets the direction, the machine supplies the horsepower, and together they are better than eith..."
     }
   ],
-  "tweets": [
-    {
-      "title": "The mashup of a black hole and an enormous star has never been seen before and could explain the mysterious little red dots often found in deep-space images. https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812",
-      "link": "https://nitter.net/MIT/status/2089010546594951549#m",
-      "source": "MIT",
-      "sort_key": "2026-08-16T20:55:00+05:30",
-      "time": "16 Aug, 08:55 PM",
-      "type": "tweets",
-      "content": "<p>The mashup of a black hole and an enormous star has never been seen before and could explain the mysterious little red dots often found in deep-space images. <a href=\"https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812\">news.mit.edu/2026/astronomer\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812\">\n<img src=\"https://nitter.net/pic/card_img%2F2087605781789052928%2FZ5XqTiDY%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Astronomers discover a brand-new type of astrophysical object: A black hole star</b>\n</a>\n<p>Astronomers have discovered a \u201cblack hole star,\u201d an extremely bright red spot in the early universe that appears to be a new type of astrophysical object. It resembles an enormous star, but its...</p>\n<small><a href=\"https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812\">news.mit.edu</a></small>",
-      "author": "@MIT"
-    },
-    {
-      "title": "Most participants could not spot or remove a malicious passkey without help, exposing a security gap for people facing intimate partner abuse. @cornell https://techxplore.com/news/2026-08-reveals-gaps-passkey-tools-abuse.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2088831570861769164#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-16T09:03:49+05:30",
-      "time": "16 Aug, 09:03 AM",
-      "type": "tweets",
-      "content": "<p>Most participants could not spot or remove a malicious passkey without help, exposing a security gap for people facing intimate partner abuse. <a href=\"https://nitter.net/Cornell\" title=\"Cornell University\">@cornell</a> <a href=\"https://techxplore.com/news/2026-08-reveals-gaps-passkey-tools-abuse.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-reveals-gaps-passkey-tools-abuse.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2088034327397560320%2Ff4cLk4Zx%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>New research reveals gaps in passkey security tools for abuse survivors</b>\n</a>\n<p>Passkeys are touted as safer than traditional passwords. But for people targeted by intimate partner abuse, they can often be more dangerous. Someone with access to their partner&apos;s computer and...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-reveals-gaps-passkey-tools-abuse.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "More than two orders of magnitude more pores appear at U-10Zr fuel\u2019s edge near the cladding, revealing 3D pathways that may move fission products while slowing heat transport. @MIT https://techxplore.com/news/2026-08-hidden-pore-networks-nuclear-fuel.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2088779233183096901#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-16T05:35:51+05:30",
-      "time": "16 Aug, 05:35 AM",
-      "type": "tweets",
-      "content": "<p>More than two orders of magnitude more pores appear at U-10Zr fuel\u2019s edge near the cladding, revealing 3D pathways that may move fission products while slowing heat transport. <a href=\"https://nitter.net/MIT\" title=\"Massachusetts Institute of Technology (MIT)\">@MIT</a> <a href=\"https://techxplore.com/news/2026-08-hidden-pore-networks-nuclear-fuel.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-hidden-pore-networks-nuclear-fuel.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2087938472640380929%2FU25l5-jS%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Hidden pore networks within nuclear fuel reveal new reactor design clues</b>\n</a>\n<p>The moment a nuclear reactor begins operation, a complex chain of events is initiated within the fuel: Heavy atoms split into fission products, knocking other atoms out of place and creating defects...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-hidden-pore-networks-nuclear-fuel.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "Since the 1950s, AI language has carried double meanings, using words like \u201cthinking\u201d and \u201clearning\u201d in precise technical ways that can also make machines seem more human than they are. @carnegiemellon https://techxplore.com/news/2026-08-ai-language.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2088710142271352875#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-16T01:01:18+05:30",
-      "time": "16 Aug, 01:01 AM",
-      "type": "tweets",
-      "content": "<p>Since the 1950s, AI language has carried double meanings, using words like \u201cthinking\u201d and \u201clearning\u201d in precise technical ways that can also make machines seem more human than they are. <a href=\"https://nitter.net/CarnegieMellon\" title=\"Carnegie Mellon University\">@carnegiemellon</a> <a href=\"https://techxplore.com/news/2026-08-ai-language.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-ai-language.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2087978589983756289%2F2hCv5lSA%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>From &apos;learning&apos; to &apos;thinking,&apos; AI language has long carried double meanings</b>\n</a>\n<p>Organizations can describe artificial intelligence using familiar words like &quot;thinking,&quot; &quot;writing&quot; and &quot;learning.&quot; But according to Carnegie Mellon University historian Christopher Phillips, those...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-ai-language.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "A 150-microgram flying device used hollow cavities to turn sound into upward thrust, while another spun tiny blades at up to 13,000 rpm for helicopter-like lift. @epfl_en @ScienceAdvances https://techxplore.com/news/2026-08-helmholtz-resonance-powers-miniature-boats.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2088649893044801882#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-15T21:01:54+05:30",
-      "time": "15 Aug, 09:01 PM",
-      "type": "tweets",
-      "content": "<p>A 150-microgram flying device used hollow cavities to turn sound into upward thrust, while another spun tiny blades at up to 13,000 rpm for helicopter-like lift. <a href=\"https://nitter.net/EPFL_en\" title=\"EPFL\">@epfl_en</a> <a href=\"https://nitter.net/ScienceAdvances\" title=\"Science Advances\">@ScienceAdvances</a> <a href=\"https://techxplore.com/news/2026-08-helmholtz-resonance-powers-miniature-boats.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-helmholtz-resonance-powers-miniature-boats.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2088592661016182785%2FQw6ccvEJ%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Helmholtz resonance powers miniature boats and ultrasonic flying robots</b>\n</a>\n<p>When air is blown across the neck of a bottle, it doesn&apos;t just produce a pleasant tone: it also demonstrates a phenomenon called Helmholtz resonance. This occurs when airflow passing across an...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-helmholtz-resonance-powers-miniature-boats.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "A three-parameter model predicts ferroelectric switching under complex, real chip voltages and stays accurate using a single set of material parameters. @umich @advmater https://techxplore.com/news/2026-08-bridges-ferroelectric-physics-circuit.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2088597923315527810#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-15T17:35:23+05:30",
-      "time": "15 Aug, 05:35 PM",
-      "type": "tweets",
-      "content": "<p>A three-parameter model predicts ferroelectric switching under complex, real chip voltages and stays accurate using a single set of material parameters. <a href=\"https://nitter.net/UMich\" title=\"University of Michigan\">@umich</a> @advmater <a href=\"https://techxplore.com/news/2026-08-bridges-ferroelectric-physics-circuit.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-bridges-ferroelectric-physics-circuit.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2088597924301127680%2FL7MpkbGQ%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>New model bridges ferroelectric physics and circuit modeling</b>\n</a>\n<p>A new physics-based analytical model can accurately predict ferroelectric behavior under real-world, complex voltages, according to a study led by University of Michigan Engineering. The model...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-bridges-ferroelectric-physics-circuit.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    }
-  ],
+  "tweets": [],
   "youtube": [],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

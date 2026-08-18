@@ -1,6 +1,276 @@
 {
   "news": [
     {
+      "title": "AI can help make complex IPO filings easier to analyze",
+      "link": "https://techxplore.com/news/2026-08-ai-complex-ipo-easier.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-18T18:10:05+05:30",
+      "time": "18 Aug, 06:10 PM",
+      "type": "news",
+      "description": "For investors trying to make sense of a company going public, one of the most important documents is often the most difficult to understand. Initial p..."
+    },
+    {
+      "title": "Aerial imagery maps hurricane wind damage and shows stronger building codes work",
+      "link": "https://phys.org/news/2026-08-aerial-imagery-hurricane-stronger-codes.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T18:10:03+05:30",
+      "time": "18 Aug, 06:10 PM",
+      "type": "news",
+      "description": "Massive storms like Hurricane Katrina in 2005, which caused more than $100 billion in damage, were once considered lifetime events. Increasingly, howe..."
+    },
+    {
+      "title": "Distinct neurons drive mice's social sounds and squeaks",
+      "link": "https://phys.org/news/2026-08-distinct-neurons-mice-social.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T18:10:01+05:30",
+      "time": "18 Aug, 06:10 PM",
+      "type": "news",
+      "description": "Mice use almost completely distinct sets of neurons for their two different types of vocalizations\u2014the squeaks they produce when in distress or fighti..."
+    },
+    {
+      "title": "Ruby-forming mineral found by Mars rover hints at violent impacts",
+      "link": "https://phys.org/news/2026-08-ruby-mineral-mars-rover-hints.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T18:00:01+05:30",
+      "time": "18 Aug, 06:00 PM",
+      "type": "news",
+      "description": "So far, most of the minerals found on Mars tell a story of lava poured out by ancient volcanoes, followed by long stretches in which water trickled th..."
+    },
+    {
+      "title": "Caregivers are active agents in their infants' learning, but interactions differ across cultures",
+      "link": "https://phys.org/news/2026-08-caregivers-agents-infants-interactions-differ.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T17:50:01+05:30",
+      "time": "18 Aug, 05:50 PM",
+      "type": "news",
+      "description": "A baby sits on the floor and reaches toward a red ball on the floor and grunts. The mother responds, \"Do you see the ball?\" She picks it up, holds it ..."
+    },
+    {
+      "title": "The Download: how people really use AI, and Flock\u2019s design choices",
+      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-18T17:40:00+05:30",
+      "time": "18 Aug, 05:40 PM",
+      "type": "news",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
+    },
+    {
+      "title": "Nuking an asteroid on short notice could save us",
+      "link": "https://phys.org/news/2026-08-nuking-asteroid-short.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T17:30:09+05:30",
+      "time": "18 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Readers of a certain age will remember a golden era of asteroid films, capped by two with very different endings. \"Deep Impact\" drove home the devasta..."
+    },
+    {
+      "title": "A new approach to building noise-resistant quantum sensors",
+      "link": "https://phys.org/news/2026-08-approach-noise-resistant-quantum-sensors.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T17:30:07+05:30",
+      "time": "18 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Quantum sensors, devices that collect measurements by exploiting quantum-mechanical phenomena, could potentially detect extremely weak magnetic, gravi..."
+    },
+    {
+      "title": "When 242 pipes stand between a county and its emergency room",
+      "link": "https://techxplore.com/news/2026-08-pipes-county-emergency-room.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-18T17:30:04+05:30",
+      "time": "18 Aug, 05:30 PM",
+      "type": "news",
+      "description": "People rarely think about culverts until they are gone. These plain pipes and boxes carry roads over streams and span less than 20 feet\u2014the federal cu..."
+    },
+    {
+      "title": "As water systems face cyberattacks, research points to solutions",
+      "link": "https://techxplore.com/news/2026-08-cyberattacks-solutions.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-18T17:24:47+05:30",
+      "time": "18 Aug, 05:24 PM",
+      "type": "news",
+      "description": "Recent cyberattacks on municipal water systems across the United States have renewed concerns about the cybersecurity of the operational technology th..."
+    },
+    {
+      "title": "Soot spikes from traffic and holiday bonfires emerge in Addis Ababa air record",
+      "link": "https://phys.org/news/2026-08-soot-spikes-traffic-holiday-bonfires.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T17:10:01+05:30",
+      "time": "18 Aug, 05:10 PM",
+      "type": "news",
+      "description": "An air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, ..."
+    },
+    {
+      "title": "School's back, stress doesn't have to be",
+      "link": "https://phys.org/news/2026-08-school-stress-doesnt.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T16:50:03+05:30",
+      "time": "18 Aug, 04:50 PM",
+      "type": "news",
+      "description": "Going back to school can be an exciting time for students from elementary school through college, whether it's finding the perfect outfit to wear on t..."
+    },
+    {
+      "title": "This Common Gut-Bacteria Compound May Be Linked to Alzheimer\u2019s Disease",
+      "link": "https://scitechdaily.com/this-common-gut-bacteria-compound-may-be-linked-to-alzheimers-disease/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-18T16:31:26+05:30",
+      "time": "18 Aug, 04:31 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/this-common-gut-bacteria-compound-may-be-linked-to-alzheimers-disease/\" rel=\"nofollow\" title=\"This Common Gut-Bacter..."
+    },
+    {
+      "title": "'Ecological engineers' an existential threat to wildlife of iconic wetland",
+      "link": "https://phys.org/news/2026-08-ecological-existential-threat-wildlife-iconic.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T16:30:01+05:30",
+      "time": "18 Aug, 04:30 PM",
+      "type": "news",
+      "description": "A study examining how feral water buffalo interact with landscapes has uncovered the pest's disastrous impacts on northern long-necked turtles in the ..."
+    },
+    {
+      "title": "Scientists Are Discovering Unexpected Benefits of GLP-1 Drugs",
+      "link": "https://scitechdaily.com/scientists-are-discovering-unexpected-benefits-of-glp-1-drugs/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-18T15:56:23+05:30",
+      "time": "18 Aug, 03:56 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/scientists-are-discovering-unexpected-benefits-of-glp-1-drugs/\" rel=\"nofollow\" title=\"Scientists Are Discovering Une..."
+    },
+    {
+      "title": "How body size and habitat shape the vocal repertoires of primates",
+      "link": "https://phys.org/news/2026-08-body-size-habitat-vocal-repertoires.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T15:50:01+05:30",
+      "time": "18 Aug, 03:50 PM",
+      "type": "news",
+      "description": "Biologists, zoologists and psychologists have been trying to trace the origins of human language for centuries. One well-known theory, known as the so..."
+    },
+    {
+      "title": "We still don\u2019t know how people are really using AI",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-18T15:36:43+05:30",
+      "time": "18 Aug, 03:36 PM",
+      "type": "news",
+      "description": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the d..."
+    },
+    {
+      "title": "This Common Type of Medication Is Linked to Slower Cognitive Decline",
+      "link": "https://scitechdaily.com/this-common-type-of-medication-is-linked-to-slower-cognitive-decline/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-18T15:21:41+05:30",
+      "time": "18 Aug, 03:21 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/this-common-type-of-medication-is-linked-to-slower-cognitive-decline/\" rel=\"nofollow\" title=\"This Common Type of Med..."
+    },
+    {
+      "title": "The role of the astronaut is in flux",
+      "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-18T14:30:00+05:30",
+      "time": "18 Aug, 02:30 PM",
+      "type": "news",
+      "description": "When the four astronauts on board NASA\u2019s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever v..."
+    },
+    {
+      "title": "AI\u2019s recursive self-improvement might not come so quickly after all",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "MIT Technology Review",
+      "sort_key": "2026-08-18T14:30:00+05:30",
+      "time": "18 Aug, 02:30 PM",
+      "type": "news",
+      "description": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code,..."
+    },
+    {
+      "title": "How tomato 'golden hour' research could help crops survive heat waves and drought",
+      "link": "https://phys.org/news/2026-08-tomato-golden-hour-crops-survive.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T14:20:05+05:30",
+      "time": "18 Aug, 02:20 PM",
+      "type": "news",
+      "description": "What if the secret to drought-resistant crops isn't how much water plants use, but when they use it? A new study identifies a daily window that could ..."
+    },
+    {
+      "title": "Whales spark joy in New York but face threats from boat traffic",
+      "link": "https://phys.org/news/2026-08-whales-joy-york-threats-boat.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T14:20:03+05:30",
+      "time": "18 Aug, 02:20 PM",
+      "type": "news",
+      "description": "\"WHALE AT ONE O'CLOCK!\" Eager cruise passengers zipping around New York's southern shores rush to the starboard bow: A humpback whale is up for air, a..."
+    },
+    {
+      "title": "Two largest U.S. reservoirs hit record lows amid Western drought",
+      "link": "https://phys.org/news/2026-08-largest-reservoirs-lows-western-drought.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T14:20:01+05:30",
+      "time": "18 Aug, 02:20 PM",
+      "type": "news",
+      "description": "The two largest reservoirs in the United States have fallen to record lows as a severe drought grips the country's West, according to data released ov..."
+    },
+    {
+      "title": "Make it rain: Indonesia chases clouds to stem El Ni\u00f1o fires",
+      "link": "https://phys.org/news/2026-08-indonesia-clouds-stem-el-nio.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T13:50:01+05:30",
+      "time": "18 Aug, 01:50 PM",
+      "type": "news",
+      "description": "Borneo in Indonesia, home to pristine rainforest and protected species, is burning. Meteorologist Safillah Anggie Wahyuni hopes a solution lies in the..."
+    },
+    {
+      "title": "Each degree of warming could add a month of intolerable heat for 1 billion people",
+      "link": "https://phys.org/news/2026-08-degree-month-intolerable-billion-people.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T13:46:44+05:30",
+      "time": "18 Aug, 01:46 PM",
+      "type": "news",
+      "description": "The threat that rising temperatures fueled by climate change pose to the health of older people has been dramatically underestimated, according to a U..."
+    },
+    {
+      "title": "OpenAI to lease massive new AI data center in US, backed by Nvidia",
+      "link": "https://techxplore.com/news/2026-08-openai-lease-massive-ai-center.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-18T13:37:40+05:30",
+      "time": "18 Aug, 01:37 PM",
+      "type": "news",
+      "description": "ChatGPT maker OpenAI will lease a massive new data center in the United States for 20 years, backed by a $105 billion financing commitment from Nvidia..."
+    },
+    {
+      "title": "A looming rock collapse threatens a Swiss village as thawing permafrost destabilizes the Alps",
+      "link": "https://phys.org/news/2026-08-looming-collapse-threatens-swiss-village.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T13:32:39+05:30",
+      "time": "18 Aug, 01:32 PM",
+      "type": "news",
+      "description": "An unstable mountain rock formation looming above the Swiss village of Kandersteg threatens a landslide that could rival the disaster that destroyed n..."
+    },
+    {
+      "title": "Scientists may have finally proved that \u201cempty\u201d space isn\u2019t really empty",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-08-18T11:38:04+05:30",
+      "time": "18 Aug, 11:38 AM",
+      "type": "news",
+      "description": "A magnetar\u2019s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty s..."
+    },
+    {
+      "title": "Einstein\u2019s biggest \u201cmistake\u201d came back \u2014 and changed cosmology forever",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
+      "source": "Science Daily",
+      "sort_key": "2026-08-18T11:28:07+05:30",
+      "time": "18 Aug, 11:28 AM",
+      "type": "news",
+      "description": "Einstein\u2019s abandoned cosmological constant made a spectacular comeback when astronomers discovered that the universe\u2019s expansion is accelerating. It n..."
+    },
+    {
+      "title": "Ancient Egyptian tomb shows how burial trends changed over hundreds of years",
+      "link": "https://phys.org/news/2026-08-ancient-egyptian-tomb-burial-trends.html",
+      "source": "Phys",
+      "sort_key": "2026-08-18T09:30:01+05:30",
+      "time": "18 Aug, 09:30 AM",
+      "type": "news",
+      "description": "The Theban Necropolis, opposite Luxor, consists of more than 400 tombs. In a new Frontiers in Environmental Archaeology study, researchers in Spain ex..."
+    },
+    {
       "title": "If your career feels chaotic, try this research-based 'workout routine'",
       "link": "https://phys.org/news/2026-08-career-chaotic-based-workout-routine.html",
       "source": "Phys",
@@ -154,42 +424,6 @@
       "description": "A current system in the Atlantic Ocean that shapes regional climates and distributes ocean nutrients also serves as a control knob to help regulate te..."
     },
     {
-      "title": "Researchers identify ways to reduce the lag between biodiversity data and action",
-      "link": "https://phys.org/news/2026-08-ways-lag-biodiversity-action.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T03:30:04+05:30",
-      "time": "18 Aug, 03:30 AM",
-      "type": "news",
-      "description": "Biodiversity is enormously diverse, unevenly observed and constantly in motion across space and time. This makes it far harder to monitor than many ot..."
-    },
-    {
-      "title": "Can computers learn what makes the most iconic jazz musicians stand out?",
-      "link": "https://phys.org/news/2026-08-iconic-jazz-musicians.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T03:30:01+05:30",
-      "time": "18 Aug, 03:30 AM",
-      "type": "news",
-      "description": "Machine learning models can identify jazz pianists from recordings and reveal the musical \"fingerprints\" that make individual performers recognizable,..."
-    },
-    {
-      "title": "Pesticides make Argentine ants go crazy, sending them roaming or clustering before workers die",
-      "link": "https://phys.org/news/2026-08-pesticides-argentine-ants-crazy-roaming.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T03:20:01+05:30",
-      "time": "18 Aug, 03:20 AM",
-      "type": "news",
-      "description": "Don't assume an uptick in ant activity after setting out pesticide traps means the treatment failed. New UC Riverside research shows their behavior ch..."
-    },
-    {
-      "title": "Labrador Sea a key player in providing oxygen for deep North Atlantic life",
-      "link": "https://phys.org/news/2026-08-labrador-sea-key-player-oxygen.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T03:10:03+05:30",
-      "time": "18 Aug, 03:10 AM",
-      "type": "news",
-      "description": "Researchers from Cornell University have pinpointed the source of oxygen that sustains deep-sea life in the North Atlantic Ocean: the churning waters ..."
-    },
-    {
       "title": "Engineers connect bacteria to create living transistors",
       "link": "https://techxplore.com/news/2026-08-bacteria-transistors.html",
       "source": "TechXplore",
@@ -199,15 +433,6 @@
       "description": "MIT researchers have engineered bacteria that can function as transistors, allowing the team to create living \"circuit boards\" that can be printed ont..."
     },
     {
-      "title": "Quantum light engine links atom-photon thermodynamics to classical physics",
-      "link": "https://phys.org/news/2026-08-quantum-links-atom-photon-thermodynamics.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T03:00:02+05:30",
-      "time": "18 Aug, 03:00 AM",
-      "type": "news",
-      "description": "What is heat, and what is useful work if a machine consists only of an atom and light particles? In modern quantum technologies, this kind of question..."
-    },
-    {
       "title": "When zombie credit cards attack\u2014a loophole that can reanimate expired cards",
       "link": "https://techxplore.com/news/2026-08-zombie-credit-cards-loophole-reanimate.html",
       "source": "TechXplore",
@@ -215,105 +440,6 @@
       "time": "18 Aug, 02:50 AM",
       "type": "news",
       "description": "A new security loophole discovered by researchers from the University of Massachusetts Amherst can bring some expired credit cards back to life. If st..."
-    },
-    {
-      "title": "How rugged gullies protect hidden rainforests in the Greater Blue Mountains",
-      "link": "https://phys.org/news/2026-08-rugged-gullies-hidden-rainforests-greater.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T02:50:03+05:30",
-      "time": "18 Aug, 02:50 AM",
-      "type": "news",
-      "description": "Researchers have uncovered rainforest communities previously hidden within the rugged gullies of the Greater Blue Mountains World Heritage Area that a..."
-    },
-    {
-      "title": "Butterflies on the move to higher ground as warming redraws Alpine habitats",
-      "link": "https://phys.org/news/2026-08-butterflies-higher-ground-redraws-alpine.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T02:50:01+05:30",
-      "time": "18 Aug, 02:50 AM",
-      "type": "news",
-      "description": "Climate change presents animals and plants with a fundamental challenge: What can they do when their established habitats become increasingly warm? Th..."
-    },
-    {
-      "title": "Brazil's vast coastline could help address food insecurity through sustainable seafood",
-      "link": "https://phys.org/news/2026-08-brazil-vast-coastline-food-insecurity.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T02:40:01+05:30",
-      "time": "18 Aug, 02:40 AM",
-      "type": "news",
-      "description": "New research into seafood consumption and production in Brazil highlights how one of the world's most populous countries could build healthier and mor..."
-    },
-    {
-      "title": "Observations since 1850 reveal regional climate fingerprints of human-induced warming",
-      "link": "https://phys.org/news/2026-08-reveal-regional-climate-fingerprints-human.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T02:30:05+05:30",
-      "time": "18 Aug, 02:30 AM",
-      "type": "news",
-      "description": "There is no question that the current global temperature increase is human-caused. Global warming has long since emerged as the dominant signal amid n..."
-    },
-    {
-      "title": "Engineered E. coli convert kimchi radish waste into biodegradable bioplastic",
-      "link": "https://phys.org/news/2026-08-coli-kimchi-radish-biodegradable-bioplastic.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T02:30:04+05:30",
-      "time": "18 Aug, 02:30 AM",
-      "type": "news",
-      "description": "Every year, thousands of tons of radish by-products generated during kimchi production are discarded despite containing valuable carbon and nutrient r..."
-    },
-    {
-      "title": "How plants selectively silence jumping genes while protecting essential ones",
-      "link": "https://phys.org/news/2026-08-silence-genes-essential.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T02:10:03+05:30",
-      "time": "18 Aug, 02:10 AM",
-      "type": "news",
-      "description": "Histone variants help establish DNA methylation at transposons (jumping genes) while preventing this epigenetic modification from spreading to essenti..."
-    },
-    {
-      "title": "From Google to ChatGPT, physics students increasingly seek answers through conversational AI",
-      "link": "https://phys.org/news/2026-08-google-chatgpt-physics-students-conversational.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T02:10:01+05:30",
-      "time": "18 Aug, 02:10 AM",
-      "type": "news",
-      "description": "Students around the world are increasingly turning to artificial intelligence tools such as ChatGPT to find answers to questions about physics, accord..."
-    },
-    {
-      "title": "Locust neurons detect PFAS at environmentally relevant levels, pointing to portable sensors",
-      "link": "https://phys.org/news/2026-08-locust-neurons-pfas-environmentally-relevant.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T02:00:02+05:30",
-      "time": "18 Aug, 02:00 AM",
-      "type": "news",
-      "description": "Researchers at Michigan State University have discovered that neurons in a locust's brain can distinguish among multiple PFAS compounds, including PFO..."
-    },
-    {
-      "title": "Despite appearing to recover, sunflowers retain drought damage",
-      "link": "https://phys.org/news/2026-08-recover-sunflowers-retain-drought.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T01:50:03+05:30",
-      "time": "18 Aug, 01:50 AM",
-      "type": "news",
-      "description": "Sunflowers are unable to fully recover from drought, new research has found, contradicting previous findings on the plant's ability to reverse drought..."
-    },
-    {
-      "title": "Dice design solves board gaming's most surprisingly complex problem\u2014who goes first?",
-      "link": "https://phys.org/news/2026-08-dice-board-gaming-complex-problem.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T01:50:01+05:30",
-      "time": "18 Aug, 01:50 AM",
-      "type": "news",
-      "description": "It took nearly 15 years, researchers around the world and enough computing power to search through a universe of possibilities to answer one question:..."
-    },
-    {
-      "title": "Last common ancestor of humans and chimpanzees could have been a vertical climber, no matter its feet",
-      "link": "https://phys.org/news/2026-08-common-ancestor-humans-chimpanzees-vertical.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T01:40:01+05:30",
-      "time": "18 Aug, 01:40 AM",
-      "type": "news",
-      "description": "New research suggests that no matter what we eventually determine the last common ancestor of humans and chimpanzees to be, we'll learn it was a prima..."
     },
     {
       "title": "AI framework reconstructs high-resolution fluorescence lifetime images from faster, lower-resolution scans",
@@ -332,15 +458,6 @@
       "time": "18 Aug, 01:34 AM",
       "type": "news",
       "description": "<a href=\"https://scitechdaily.com/new-imaging-technology-tracks-cancer-from-the-whole-body-to-single-cells/\" rel=\"nofollow\" title=\"New Imaging Technol..."
-    },
-    {
-      "title": "Three photons at once beat the standard photon test",
-      "link": "https://phys.org/news/2026-08-photons-standard-photon.html",
-      "source": "Phys",
-      "sort_key": "2026-08-18T01:30:05+05:30",
-      "time": "18 Aug, 01:30 AM",
-      "type": "news",
-      "description": "Physicists at the University of Twente have improved the standard test for the quality of individual particles of light. By letting three photons inte..."
     },
     {
       "title": "Four reasons why fully electric homes can be affordable and efficient",
@@ -755,94 +872,9 @@
       "time": "16 Aug, 06:30 PM",
       "type": "news",
       "description": "<p>Agentic AI has made CPUs the new performance bottleneck</p>"
-    },
-    {
-      "title": "Your Teeth May Reveal a Surprising Clue About Pancreatic Cancer Survival",
-      "link": "https://scitechdaily.com/your-teeth-may-reveal-a-surprising-clue-about-pancreatic-cancer-survival/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-16T17:54:55+05:30",
-      "time": "16 Aug, 05:54 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/your-teeth-may-reveal-a-surprising-clue-about-pancreatic-cancer-survival/\" rel=\"nofollow\" title=\"Your Teeth May Reve..."
-    },
-    {
-      "title": "Childhood Pesticide Exposure May Shift the Timing of Puberty",
-      "link": "https://scitechdaily.com/childhood-pesticide-exposure-may-shift-the-timing-of-puberty/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-16T17:29:55+05:30",
-      "time": "16 Aug, 05:29 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/childhood-pesticide-exposure-may-shift-the-timing-of-puberty/\" rel=\"nofollow\" title=\"Childhood Pesticide Exposure Ma..."
-    },
-    {
-      "title": "Coffee Drinkers Show Surprising Differences in Fat, Muscle, and Hormones",
-      "link": "https://scitechdaily.com/coffee-drinkers-show-surprising-differences-in-fat-muscle-and-hormones/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-16T16:19:00+05:30",
-      "time": "16 Aug, 04:19 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/coffee-drinkers-show-surprising-differences-in-fat-muscle-and-hormones/\" rel=\"nofollow\" title=\"Coffee Drinkers Show ..."
-    },
-    {
-      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-16T15:25:45+05:30",
-      "time": "16 Aug, 03:25 PM",
-      "type": "news",
-      "description": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter\u2019s most fundamental properties. RHIC collision data sug..."
-    },
-    {
-      "title": "A black hole shredded a \u201csuper sun\u201d \u2014 but something strange may have survived",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-16T09:16:46+05:30",
-      "time": "16 Aug, 09:16 AM",
-      "type": "news",
-      "description": "Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed. The e..."
     }
   ],
   "tweets": [
-    {
-      "title": "A 24-colony bacterial circuit added two inputs in a Petri dish, using living transistors and relays that route small-molecule signals across printed colonies. @MIT @nchembio https://techxplore.com/news/2026-08-bacteria-transistors.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2089548206497464368#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-18T08:31:29+05:30",
-      "time": "18 Aug, 08:31 AM",
-      "type": "tweets",
-      "content": "<p>A 24-colony bacterial circuit added two inputs in a Petri dish, using living transistors and relays that route small-molecule signals across printed colonies. <a href=\"https://nitter.net/MIT\" title=\"Massachusetts Institute of Technology (MIT)\">@MIT</a> <a href=\"https://nitter.net/nchembio\" title=\"Nature Chemical Biology\">@nchembio</a> <a href=\"https://techxplore.com/news/2026-08-bacteria-transistors.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-bacteria-transistors.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2089467422382444544%2FhU8UvOlA%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Engineers connect bacteria to create living transistors</b>\n</a>\n<p>MIT researchers have engineered bacteria that can function as transistors, allowing the team to create living &quot;circuit boards&quot; that can be printed onto a growth medium in a Petri dish.</p>\n<small><a href=\"https://techxplore.com/news/2026-08-bacteria-transistors.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "Expired credit cards can still be charged in some stores by rewriting the card\u2019s date during a tap-to-pay relay, while one key bank check may not catch it. @umassamherst https://techxplore.com/news/2026-08-zombie-credit-cards-loophole-reanimate.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2089488766364750302#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-18T04:35:17+05:30",
-      "time": "18 Aug, 04:35 AM",
-      "type": "tweets",
-      "content": "<p>Expired credit cards can still be charged in some stores by rewriting the card\u2019s date during a tap-to-pay relay, while one key bank check may not catch it. <a href=\"https://nitter.net/UMassAmherst\" title=\"UMass Amherst\">@umassamherst</a> <a href=\"https://techxplore.com/news/2026-08-zombie-credit-cards-loophole-reanimate.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-zombie-credit-cards-loophole-reanimate.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2089488769086812160%2Fw79cg8_8%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>When zombie credit cards attack\u2014a loophole that can reanimate expired cards</b>\n</a>\n<p>A new security loophole discovered by researchers from the University of Massachusetts Amherst can bring some expired credit cards back to life. If stolen, these &quot;zombie credit cards&quot; could leave...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-zombie-credit-cards-loophole-reanimate.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "95.24% accuracy with 90% fewer computing resources: a redesigned edge AI system identified written languages by pairing its algorithm with memristor-based hardware that uses chip variability in the encoding step. @umassamherst @NatureComms https://techxplore.com/news/2026-08-edge-ai-efficient-redesigning-algorithm.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2089427951213334597#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-18T00:33:37+05:30",
-      "time": "18 Aug, 12:33 AM",
-      "type": "tweets",
-      "content": "<p>95.24% accuracy with 90% fewer computing resources: a redesigned edge AI system identified written languages by pairing its algorithm with memristor-based hardware that uses chip variability in the encoding step. <a href=\"https://nitter.net/UMassAmherst\" title=\"UMass Amherst\">@umassamherst</a> <a href=\"https://nitter.net/NatureComms\" title=\"Nature Communications\">@NatureComms</a> <a href=\"https://techxplore.com/news/2026-08-edge-ai-efficient-redesigning-algorithm.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-edge-ai-efficient-redesigning-algorithm.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<b>Engineers make edge AI more efficient by redesigning both algorithm and hardware</b>\n</a>\n<p>Researchers in the Riccio College of Engineering at the University of Massachusetts Amherst have demonstrated that redesigning both hardware and algorithms can make AI applications on edge devices...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-edge-ai-efficient-redesigning-algorithm.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
-    {
-      "title": "As AI slips into team workflows, ownership of ideas gets harder to pin down, and one proposed workshop will test how credit and responsibility blur when people co-think with bots. @northeastern @arxiv @nature https://techxplore.com/news/2026-08-credit-ai-team-rethinking-idea.html?utm_source=twitter.com&utm_medium=social&utm_campaign=v2",
-      "link": "https://nitter.net/TechXplore_com/status/2089367267469312056#m",
-      "source": "TechXplore",
-      "sort_key": "2026-08-17T20:32:29+05:30",
-      "time": "17 Aug, 08:32 PM",
-      "type": "tweets",
-      "content": "<p>As AI slips into team workflows, ownership of ideas gets harder to pin down, and one proposed workshop will test how credit and responsibility blur when people co-think with bots. <a href=\"https://nitter.net/Northeastern\" title=\"Northeastern University\">@northeastern</a> <a href=\"https://nitter.net/arxiv\" title=\"arXiv.org\">@arxiv</a> <a href=\"https://nitter.net/Nature\" title=\"nature\">@nature</a> <a href=\"https://techxplore.com/news/2026-08-credit-ai-team-rethinking-idea.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com/news/2026-08-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://techxplore.com/news/2026-08-credit-ai-team-rethinking-idea.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">\n<img src=\"https://nitter.net/pic/card_img%2F2089357983293808640%2FuZfO5r4E%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Who gets credit when AI joins the team? Rethinking what it means to own an idea</b>\n</a>\n<p>A few months ago, AI made headlines for cracking a mathematical puzzle that had stumped experts for decades. Mathematician Paul Erd\u0151s posed the unit-distance conjecture, predicting how many pairs of...</p>\n<small><a href=\"https://techxplore.com/news/2026-08-credit-ai-team-rethinking-idea.html?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=v2\">techxplore.com</a></small>",
-      "author": "@TechXplore_com"
-    },
     {
       "title": "MIT researchers have discovered \u201cmoir\u00e9 crystals\u201d with two different competing atomic lattices, which together generate a moir\u00e9 superlattice that is mathematically equivalent to an emergent 4D \u201csuperspace\u201d lattice. https://news.mit.edu/2026/electrons-in-moire-crystals-explore-higher-dimensional-quantum-worlds-0403",
       "link": "https://nitter.net/MIT/status/2089237039673733537#m",
@@ -866,6 +898,15 @@
   ],
   "youtube": [
     {
+      "title": "Could identical twins commit the perfect crime?",
+      "link": "https://www.youtube.com/shorts/nHAFnH3xRl4",
+      "source": "Vertasium",
+      "sort_key": "2026-08-18T17:03:08+05:30",
+      "time": "18 Aug, 05:03 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
+    },
+    {
       "title": "Total Solar Eclipse From Space",
       "link": "https://www.youtube.com/watch?v=J1WoNuemKOg",
       "source": "Vertasium",
@@ -876,6 +917,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }

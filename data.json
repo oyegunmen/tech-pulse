@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "New Soil Test Could Improve Our Understanding of a Vital but Limited Nutrient",
+      "link": "https://scitechdaily.com/new-soil-test-could-improve-our-understanding-of-a-vital-but-limited-nutrient/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-22T17:44:34+05:30",
+      "time": "22 Aug, 05:44 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/new-soil-test-could-improve-our-understanding-of-a-vital-but-limited-nutrient/\" rel=\"nofollow\" title=\"New Soil Test ..."
+    },
+    {
+      "title": "Earth's magnetosphere might not protect us from superstorms after all",
+      "link": "https://phys.org/news/2026-08-earth-magnetosphere-superstorms.html",
+      "source": "Phys",
+      "sort_key": "2026-08-22T17:30:06+05:30",
+      "time": "22 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Science seems like a straightforward endeavor. You come up with a hypothesis, collect data to prove or disprove it, and analyze that data to see wheth..."
+    },
+    {
+      "title": "AI agents can build consensus on a scale humans can't",
+      "link": "https://techxplore.com/news/2026-08-ai-agents-consensus-scale-humans.html",
+      "source": "TechXplore",
+      "sort_key": "2026-08-22T17:30:04+05:30",
+      "time": "22 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Everyone is familiar with the situation: A larger group of people plans to visit a restaurant together, but it can take time and sometimes a great dea..."
+    },
+    {
+      "title": "A Manhattan-Sized Ice Island Just Broke Off Greenland",
+      "link": "https://scitechdaily.com/a-manhattan-sized-ice-island-just-broke-off-greenland/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-22T17:09:41+05:30",
+      "time": "22 Aug, 05:09 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/a-manhattan-sized-ice-island-just-broke-off-greenland/\" rel=\"nofollow\" title=\"A Manhattan-Sized Ice Island Just Brok..."
+    },
+    {
+      "title": "30 Years of Hurricane Data Reveal 4 Warning Signs Before Storms Strengthen",
+      "link": "https://scitechdaily.com/30-years-of-hurricane-data-reveal-4-warning-signs-before-storms-strengthen/",
+      "source": "ScitechDaily",
+      "sort_key": "2026-08-22T16:34:48+05:30",
+      "time": "22 Aug, 04:34 PM",
+      "type": "news",
+      "description": "<a href=\"https://scitechdaily.com/30-years-of-hurricane-data-reveal-4-warning-signs-before-storms-strengthen/\" rel=\"nofollow\" title=\"30 Years of Hurri..."
+    },
+    {
+      "title": "Mysteries of the commonplace",
+      "link": "https://www.sciencenews.org/article/ed-note-september-2026",
+      "source": "Sciencenews",
+      "sort_key": "2026-08-22T16:30:00+05:30",
+      "time": "22 Aug, 04:30 PM",
+      "type": "news",
+      "description": "Editor in Chief Nancy Shute reviews new research in static electricity and other science revelations in our September magazine issue."
+    },
+    {
       "title": "Bipartisan majorities in US favor banning glyphosate",
       "link": "https://phys.org/news/2026-08-bipartisan-majorities-favor-glyphosate.html",
       "source": "Phys",
@@ -404,15 +458,6 @@
       "time": "21 Aug, 09:50 PM",
       "type": "news",
       "description": "Researchers at the Advanced Science Research Center at the CUNY Graduate Center (CUNY ASRC) and Honeywell Aerospace have developed a new way to reduce..."
-    },
-    {
-      "title": "Young people who pass through youth justice die at six times the rate of their peers",
-      "link": "https://phys.org/news/2026-08-young-people-youth-justice-die.html",
-      "source": "Phys",
-      "sort_key": "2026-08-21T21:50:04+05:30",
-      "time": "21 Aug, 09:50 PM",
-      "type": "news",
-      "description": "Conversations about the youth justice system typically focus on crime and punishment. In Australia, this has fueled increasingly populist and punitive..."
     },
     {
       "title": "Genetic algorithms test cybersecurity defenses against adaptive malware",
@@ -854,132 +899,6 @@
       "time": "20 Aug, 07:10 PM",
       "type": "news",
       "description": "An AI model inspired by ants, bees and birds could be key to cracking down on blockchain-based money laundering, new research led by Charles Darwin Un..."
-    },
-    {
-      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-      "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-20T17:40:00+05:30",
-      "time": "20 Aug, 05:40 PM",
-      "type": "news",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ..."
-    },
-    {
-      "title": "AI helps turn citizen photos into water-level data",
-      "link": "https://techxplore.com/news/2026-08-ai-citizen-photos.html",
-      "source": "TechXplore",
-      "sort_key": "2026-08-20T17:30:05+05:30",
-      "time": "20 Aug, 05:30 PM",
-      "type": "news",
-      "description": "For the past 15 years, Christopher Lowry, Ph.D., has led CrowdHydrology, a University at Buffalo citizen-science project that relies on thousands of v..."
-    },
-    {
-      "title": "Canada Wants to Join the \u201cSovereign Launch\u201d Club",
-      "link": "https://spectrum.ieee.org/canadian-rockets",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-08-20T17:30:01+05:30",
-      "time": "20 Aug, 05:30 PM",
-      "type": "news",
-      "description": "<p>Launch demand, geopolitics push Canadian rocket companies forward</p>"
-    },
-    {
-      "title": "An unproven autism drug got a boost after a White House briefing",
-      "link": "https://www.sciencenews.org/article/kids-unproven-autism-drug-trump-brief",
-      "source": "Sciencenews",
-      "sort_key": "2026-08-20T17:30:00+05:30",
-      "time": "20 Aug, 05:30 PM",
-      "type": "news",
-      "description": "In fall of 2025, the Trump administration touted the drug leucovorin for autism therapy without new evidence. Dispensing of the drug to kids rose."
-    },
-    {
-      "title": "Why Does an Irregular Heartbeat Strike 40 Years Early in Some People?",
-      "link": "https://scitechdaily.com/why-does-an-irregular-heartbeat-strike-40-years-early-in-some-people/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-20T17:14:07+05:30",
-      "time": "20 Aug, 05:14 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/why-does-an-irregular-heartbeat-strike-40-years-early-in-some-people/\" rel=\"nofollow\" title=\"Why Does an Irregular H..."
-    },
-    {
-      "title": "Scientists Reveal How ADHD Could Fuel Creative Thinking",
-      "link": "https://scitechdaily.com/scientists-reveal-how-adhd-could-fuel-creative-thinking/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-20T16:39:58+05:30",
-      "time": "20 Aug, 04:39 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-reveal-how-adhd-could-fuel-creative-thinking/\" rel=\"nofollow\" title=\"Scientists Reveal How ADHD Could Fue..."
-    },
-    {
-      "title": "Brain Implant Uses Infrared Light to Send Neural Signals",
-      "link": "https://spectrum.ieee.org/ability-neurotech-bci-human-trial",
-      "source": "IEEE Spectrum",
-      "sort_key": "2026-08-20T16:30:02+05:30",
-      "time": "20 Aug, 04:30 PM",
-      "type": "news",
-      "description": "<p>Ability Neurotech\u2019s optical BCI will soon begin European clinical trial</p>"
-    },
-    {
-      "title": "Scientists Find a Surprising Diabetes-Fighting Compound in Turmeric",
-      "link": "https://scitechdaily.com/scientists-find-a-surprising-diabetes-fighting-compound-in-turmeric/",
-      "source": "ScitechDaily",
-      "sort_key": "2026-08-20T16:04:19+05:30",
-      "time": "20 Aug, 04:04 PM",
-      "type": "news",
-      "description": "<a href=\"https://scitechdaily.com/scientists-find-a-surprising-diabetes-fighting-compound-in-turmeric/\" rel=\"nofollow\" title=\"Scientists Find a Surpri..."
-    },
-    {
-      "title": "The next big thing in hydrogen could be underground",
-      "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-20T15:30:00+05:30",
-      "time": "20 Aug, 03:30 PM",
-      "type": "news",
-      "description": "There\u2019s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can b..."
-    },
-    {
-      "title": "Unlocking hidden revenue streams with market models",
-      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-20T15:17:22+05:30",
-      "time": "20 Aug, 03:17 PM",
-      "type": "news",
-      "description": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, wit..."
-    },
-    {
-      "title": "Support networks aim to help kids through the polycrisis",
-      "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-      "source": "MIT Technology Review",
-      "sort_key": "2026-08-20T14:30:00+05:30",
-      "time": "20 Aug, 02:30 PM",
-      "type": "news",
-      "description": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother\u2019s tiny town in the south of Th..."
-    },
-    {
-      "title": "Scientists crushed diamond beyond Neptune-like pressures\u2014and solved a 20-year mystery",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-20T14:25:15+05:30",
-      "time": "20 Aug, 02:25 PM",
-      "type": "news",
-      "description": "Extreme experiments have revealed how diamond behaves at crushing pressures beyond those inside Neptune and Uranus, resolving a decades-old conflict b..."
-    },
-    {
-      "title": "A SpaceX rocket smashed into the Moon \u2014 NASA just revealed the crater",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820002429.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-20T12:40:38+05:30",
-      "time": "20 Aug, 12:40 PM",
-      "type": "news",
-      "description": "A discarded SpaceX Falcon 9 stage crashed into the Moon on Aug. 5, leaving behind a newly formed crater about 60 feet wide. NASA\u2019s Lunar Reconnaissanc..."
-    },
-    {
-      "title": "This total solar eclipse looked strangely golden \u2014 here\u2019s why",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820002432.htm",
-      "source": "Science Daily",
-      "sort_key": "2026-08-20T12:29:00+05:30",
-      "time": "20 Aug, 12:29 PM",
-      "type": "news",
-      "description": "Spain\u2019s total solar eclipse delivered an unexpected sight: a corona glowing gold instead of its usual pearly white. Because the Sun was setting, its l..."
     }
   ],
   "tweets": [],
@@ -995,6 +914,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:14 AM IST"
+    "last_updated": "06:14 PM IST"
   }
 }
